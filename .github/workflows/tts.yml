@@ -64,7 +64,12 @@ jobs:
           else
             ARGS+=(--before "${{ github.event.before }}" --after "${{ github.sha }}")
           fi
-          [ "${{ inputs.force }}" = "true" ] && ARGS+=(--force)
+          # 必須用 if，不能寫成 `[ cond ] && ARGS+=(...)`：
+          # 在 set -e 底下，條件不成立時整個 AND-list 回傳非零，script 會直接中止。
+          # push 事件的 inputs.force 是空字串 → 每一次 push 都會在這行掛掉。
+          if [ "${{ inputs.force }}" = "true" ]; then
+            ARGS+=(--force)
+          fi
 
           python3 scripts/changed.py "${ARGS[@]}" > plan.json
           {
@@ -216,6 +221,9 @@ jobs:
             echo "沒有變化，不 commit"
           else
             git commit -m "chore: 更新朗讀稿與 manifest [skip ci]"
+            # 併發被 concurrency group 序列化了，但手動 dispatch 與 push 仍可能交錯，
+            # rebase 一次比讓整個 job 因為 non-fast-forward 掛掉便宜
+            git pull --rebase --autostash origin main
             git push
           fi
 
