@@ -12,3 +12,8 @@ build/preview.speech.txt
 __pycache__/
 *.pyc
 uv.lock
+
+# CI 的中間產物，不進版控
+plan.json
+synth.json
+site/
