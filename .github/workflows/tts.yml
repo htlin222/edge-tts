@@ -219,7 +219,11 @@ jobs:
             git push
           fi
 
+      # enablement:true 讓首次執行就自動把 repo 的 Pages 打開，
+      # 不必先進 Settings → Pages 手動點一次
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
