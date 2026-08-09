@@ -23,7 +23,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from tables import expand_tables  # noqa: E402
+from tables import expand_fences, expand_tables  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 BUILD = ROOT / "build"
@@ -134,7 +134,11 @@ def normalize_one(path: Path, rules: list[dict], show_diff: bool = False) -> dic
         sys.exit(f"{path} 第一行不是集號格式（收到: {episode!r}）")
 
     body = "\n".join(lines[2:])
+    # 圍欄要先處理：它裡面的箭頭與縮排若先被 lexicon 或 markdown 剝除動過，
+    # 就再也還原不出原本的流程結構了
+    body, fence_log = expand_fences(body)
     body, table_log = expand_tables(body)
+    table_log = fence_log + table_log
     body = strip_markdown(body)
     body, lex_log = apply_lexicon(body, rules, show_diff)
 

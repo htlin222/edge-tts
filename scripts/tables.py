@@ -127,6 +127,34 @@ def render_with_haiku(table_md: str, reason: str) -> str:
     return text
 
 
+# 圍欄程式碼區塊。在這份材料裡它裝的不是程式碼，而是 ASCII 流程圖
+# （114-086 的「臨床斷點定位演算法」）—— 箭頭、縮排、分支，全部是視覺結構。
+FENCE_RE = re.compile(r"^```[^\n]*\n(.*?)^```[ \t]*$", re.M | re.S)
+
+
+def expand_fences(md: str) -> tuple[str, list[str]]:
+    """把 ASCII 流程圖改寫成唸得出來的敘述。
+
+    這種東西沒有程式化的解法 —— 縮排層級、箭頭方向、Yes/No 分支之間的關係
+    是畫出來的，不是標記出來的。所以一律交給 haiku；沒有 API key 就明講「從略」，
+    而不是把一堆箭頭和縮排唸出來假裝有內容。
+    """
+    log: list[str] = []
+
+    def repl(m: re.Match) -> str:
+        block = m.group(0)
+        inner = m.group(1)
+        lines = len(inner.strip().splitlines())
+        text = render_with_haiku(block, f"ASCII 流程圖，{lines} 行，無法程式化展開")
+        if text:
+            log.append(f"流程圖({lines} 行) → haiku 改寫")
+            return text
+        log.append(f"⚠️ 流程圖({lines} 行) → 沒有 ANTHROPIC_API_KEY，內容從略")
+        return "此處原文有一段流程圖，內容不適合朗讀，請回到原文閱讀。"
+
+    return FENCE_RE.sub(repl, md), log
+
+
 def expand_tables(md: str) -> tuple[str, list[str]]:
     """把 md 裡所有表格換成朗讀句。回傳 (新文字, 這次做了什麼的紀錄)。"""
     log: list[str] = []

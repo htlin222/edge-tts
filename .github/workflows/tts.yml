@@ -5,7 +5,12 @@ name: TTS
 on:
   push:
     branches: [main]
-    paths: ['raw/**.txt']
+    # 也監看 lexicon 與腳本：改了發音規則，音檔本來就該重生。
+    # 不必擔心「改個註解就重跑 100 集」—— sha256 比對會發現朗讀稿其實沒變而全部略過。
+    paths:
+      - 'raw/**.txt'
+      - 'dict/**.yaml'
+      - 'scripts/**.py'
   workflow_dispatch:
     inputs:
       only:
