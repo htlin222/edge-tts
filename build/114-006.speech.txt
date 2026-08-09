@@ -1,0 +1,156 @@
+第一一四年，第六集。
+
+LDH 正常了，貧血卻沒好：治療把一種溶血換成了另一種。
+
+第五章：LDH 正常了，貧血卻沒好——治療把一種溶血換成了另一種。
+
+一、開場：先讀懂這組「矛盾」的數字。
+
+這組數字乍看矛盾，仔細讀卻字字珠璣。請把三個變化分開解讀，才能看出它們共同指向的診斷。
+
+LDH 1,291 變為 400 U L：下降了近 70%，清楚說明 ravulizumab 正在發揮作用——血管內溶血（intravascular hemolysis, IVH）已被有效壓制。LDH 主要在紅血球在血管腔內爆裂時釋出，它的大幅下降是 C5 抑制最直接的療效標記。
+
+Hgb 7.7 變為 8.9 g/dL：有改善，但遠遠不夠。對一個 71.65% clone 的 classic PNH 病人而言，理想的治療反應應該讓 Hgb 回到 10 g/dL 以上甚至正常範圍。8.9 g/dL 的「部分改善」，提示紅血球的破壞並沒有真正停止——只是換了一種方式繼續。
+
+Bilirubin 2.4 變為 3.5 mg/dL：這是整組數字裡最關鍵的矛盾。LDH 大幅下降，bilirubin 卻反而上升——這個組合有一個非常具體的診斷意義：extravascular hemolysis（EVH，血管外溶血）正在取代 IVH 成為主要破壞機轉。
+
+要理解這個矛盾，必須先把兩種溶血的生化指紋分開：
+
+IVH：紅血球在血管腔內被 MAC（C5b-9）直接打爆，接著細胞內容物直接釋入血漿，接著 LDH 大幅上升（LDH 來自紅血球細胞質）、游離血紅素上升、haptoglobin 被消耗殆盡
+EVH：紅血球「整顆被吞掉」——被肝脾的巨噬細胞通過 complement receptor（CR1、CR3）辨識 C3b/iC3b 並吞噬，接著血紅素在巨噬細胞內被降解為 bilirubin，接著 LDH 不太上升（細胞破壞在細胞外），但 bilirubin 顯著上升
+
+「LDH 反映的是在血管裡爆掉的紅血球；bilirubin 反映的是被吃掉的紅血球。」 這是本章最重要的一句話，也是讀懂整組矛盾數字的核心鑰匙。
+
+以下是補體級聯與兩種溶血機轉的示意圖，清楚呈現 C5 抑制如何在阻止 IVH 的同時，讓 C3 介導的 EVH 浮現：
+
+![](/img/img/c0326b3c-1ee8-4508-8380-2c57b1f08f90.jpg)
+Figure 1: Role of the Complement Alternative Pathway in Paroxysmal Nocturnal Hemoglobinuria (PNH) and Different Mechanisms of Hemolysis.
+
+二、(B) 的核心：C5 抑制劑如何「製造」了 EVH——一個醫源性的機轉轉換。
+
+這不是治療失敗，而是治療成功之後才顯現的第二層問題。理解它需要把因果鏈從源頭講起。
+
+機轉因果鏈（逐步展開）：
+
+PNH 紅血球缺 CD55（DAF），接著 C3 convertase（C3bBb）無法被抑制，接著替代路徑持續活化，接著 C3b 不斷沉積在 PNH 紅血球表面（opsonization）
+在「沒有治療」時：C3b 累積的速度雖然快，但在 C3b 量足以引發 phagocytosis 之前，紅血球通常已先被 MAC（C5b-9）打爆——因此 IVH 是主要破壞機轉，EVH 被「掩蓋」
+給了 C5 抑制劑之後：MAC 被擋住，接著紅血球「活得夠久」，接著 C3b 持續累積，接著最終累積到 CR1 CR3 辨識閾值，接著被肝脾巨噬細胞吞噬，接著 EVH 因此「浮現」
+
+Risitano 等人對 eculizumab 治療中的 PNH 紅血球進行系統性分析，發現所有使用 eculizumab 的病人，其 PNH 紅血球表面均可偵測到 C3 片段（主要是 C3d）的沉積——這不是偶發現象，而是 C5 抑制的必然結果。 C3b 在紅血球表面被 factor I（在 CR1 和 CFH 的輔助下）逐步降解為 iC3b，再進一步降解為 C3d——C3d 不再具有 C3 C5 convertase 的酶活性，但仍保留被巨噬細胞辨識的能力。
+
+臨床上，約 25 到 35% 在 eculizumab 治療下的 PNH 病人因持續 EVH 而維持輸血依賴，正是這個機轉所造成。
+
+這裡有一個至關重要的臨床陷阱，與第二章直接呼應：
+
+治療前（第二章）：DAT 陰性——因為沒有任何抗體，且 C3b 累積速度來不及超過 phagocytosis 閾值就被 MAC 破壞，無法在膜上穩定偵測
+C5 抑制治療後：DAT 常轉為「C3d 陽性、IgG 陰性」——這是完全可以預期的現象，代表 C3 片段在被保護的紅血球表面穩定沉積，不是新發生的 autoimmune hemolytic anemia（AIHA）
+
+這個改變極易在臨床上被誤判。看到「DAT 從陰性轉成陽性」就診斷 AIHA、給予類固醇，是錯誤的——第三章已詳述類固醇在 PNH 無效的機轉，而 DAT C3d 陽性在 C5 抑制治療中的出現，正是第二章「治療前 DAT 陰性」這個結果的後續篇章。連鎖題的設計，就是要讓讀者在第五題看到第二題留下的線索。
+
+(B) 為什麼是正確處置：
+
+確認 DAT C3d 陽性 = 確認 EVH 是殘餘貧血的主要機轉 = 提供了改換治療策略的病理生理依據。近端補體阻斷（阻斷 C3 本身、或 alternative pathway 的 factor B/factor D）從源頭阻止 C3b 的生成，才能真正解決 opsonization 的問題。
+
+EVH 的其他支持性線索： reticulocyte 持續偏高（骨髓仍在努力代償被吞噬掉的紅血球）；haptoglobin 可能從測不到逐漸回升（因為 IVH 減少，游離血紅素減少，haptoglobin 不再被大量消耗）；脾臟可能因大量吞噬活動而腫大。
+
+三、(A)(C) 為什麼錯——機轉上的根本謬誤。
+
+(A) 換成 eculizumab 並增加劑量：
+
+Eculizumab 與 ravulizumab 的靶點完全相同——都是結合 C5，阻斷 C5a 的釋放與 C5b-9（MAC）的形成。換藥只是「把同一個地方擋得方式不同」，增加劑量只是「把同一個地方擋得更緊」——但問題的根源在 C5 的上游，在 C3b 的持續沉積，在 alternative pathway 的不受控活化。C5 抑制劑對 C3 的上游活動完全無能為力，更換或加量對 EVH 的幫助接近於零。
+
+唯一合理的「加量」情境是 pharmacokinetic breakthrough：LDH 在下次給藥前（trough）再度上升，代表藥物谷濃度不足以維持完全的 C5 抑制。但本例 LDH 已從 1,091 降至 400 U L，雖然仍高於正常，但整體趨勢是下降的——不符合「藥物濃度不足、IVH 再度活化」的 PK breakthrough 樣貌，反而完全符合「IVH 被控制、但 EVH 浮現」的 C5 抑制典型副作用模式。
+
+(C) 檢查 CH50，若正常則繼續治療並尋找別的原因：
+
+這個選項的邏輯是「反的」，且需要把 CH50 的正確解讀講清楚。
+
+CH50（50% hemolytic complement）測量的是終端補體路徑（classical pathway，接著 terminal）的完整功能——當任何一個成分缺失或被抑制，CH50 就會下降。在有效的 C5 抑制下，CH50 應該被壓制到接近零（< 10% of normal）。
+
+Peffault de Latour 等人（2015）的研究系統性地測量了 22 名 PNH 病人在 eculizumab 治療期間的 CH50，發現：CH50「偵測不到（小於等於 10%）」與較低的 LDH 顯著相關（p = 0.002）；而可偵測的 CH50（> 10%）則與 bilirubin 升高和輸血需求相關（p < 0.0001）。 因此「CH50 正常」代表的是「C5 抑制不完全，IVH 仍在發生」——選項 (C) 說「CH50 正常就繼續治療並找別的原因」，是把正常與異常的臨床意義搞反了。
+
+以下圖表來自 COMMODORE 1 試驗，清楚顯示在有效的 C5 抑制下（crovalimab vs eculizumab），CH50 被持續壓制在定量下限以下的監測軌跡：
+
+![](/img/img/4166df57-df23-4764-878f-95168a863499.jpg)
+Figure 1: Role of the Complement Alternative Pathway in Paroxysmal Nocturnal Hemoglobinuria (PNH) and Different Mechanisms of Hemolysis.
+
+四、(D)(E) 的共同錯誤：「唯一的原因」這四個字。
+
+(D)(E) 兩個選項的核心錯誤不在於事實不對，而在於「絕對化」——用「唯一」把複雜的臨床現實過度簡化。這是一個方法學教訓，適用於所有多重病因並存的複雜病例。
+
+(D) 的問題——reticulocyte 低 ≠ 唯一原因是骨髓衰竭：
+
+Reticulocyte 低確實提示骨髓對溶血的代償不足，骨髓本身可能有問題；但「唯一原因是骨髓衰竭」的說法忽略了所有其他可能：
+
+重度缺鐵（本病例最重要的一點！）：本病例 ferritin 5 ng/mL——骨髓沒有足夠的鐵來合成血紅素，縱使感受到溶血的壓力，也無法製造足夠的紅血球。補鐵之後 reticulocyte 可能大幅回升，那時才能看出骨髓的「真實」代償能力
+其他抑制骨髓的因素：B12/葉酸缺乏（已排除）、parvovirus B19 感染（特別感染 BFU-E CFU-E 祖細胞）、腎性貧血（EPO 不足）、慢性發炎
+即使是骨髓衰竭，「唯一處置是 allo-HSCT」也是錯的——PNH 合併 aplastic anemia 可先嘗試 immunosuppressive therapy（IST），移植是在 IST 失敗或有合適捐者的特定情境下才優先考慮的選項
+
+(E) 的問題——reticulocyte 高 ≠ 唯一原因是 EVH：
+
+Reticulocyte 高確實支持溶血持續，也支持 EVH 的可能；但「唯一原因是 EVH」同樣過於絕對。Breakthrough hemolysis（PK 或 PD 型）也會使 LDH 再升且 reticulocyte 高；大量補鐵後骨髓開始大量生成（reticulocytosis）也可能造成 reticulocyte 升高而不伴隨明顯溶血；出血也會刺激 reticulocyte 上升。
+
+在一個已經有多重問題的病人身上（PNH + 重度缺鐵 + 可能的骨髓衰竭），任何說「唯一原因」的選項，幾乎都是錯的。
+
+五、PNH 病人在 C5 抑制劑治療下仍有貧血的完整鑑別。
+
+這是本章最有直接臨床使用價值的整理。這些原因可以，而且常常同時並存——本病例就是 EVH 與重度缺鐵的典型合併案例。
+
+原因
+
+關鍵鑑別線索
+
+首選處置方向
+
+References
+
+C3 介導的 EVH（本例）
+
+DAT C3d+、IgG−；bilirubin 高；reticulocyte 高；LDH 正常或略高；脾腫大
+
+換用或加上近端補體抑制劑
+
+Breakthrough hemolysis（PK 型）
+
+LDH 再升有時間規律（靠近給藥前）；CH50 可偵測；free drug 濃度低
+
+縮短給藥間隔或加量
+
+Breakthrough hemolysis（PD 型）
+
+有感染/手術/懷孕等誘因；LDH 急性上升；通常自限
+
+治療誘因；必要時補給一劑
+
+合併骨髓衰竭（AA MDS）
+
+Reticulocyte 低；其他血球線也低；骨髓顯示低細胞或 dysplasia
+
+IST 或（選擇性）allo-HSCT
+
+缺鐵（本病例同時存在！）
+
+Ferritin 低；補鐵後 Hgb 上升；MCV 可能下降；RDW 高
+
+補鐵（靜脈優於口服，因 hemoglobinuria 持續造成失鐵）
+
+其他（腎性貧血、出血、藥物、B12/葉酸）
+
+依病史與基礎數值判斷
+
+針對病因治療
+
+—
+
+六、逐項評析與臨床 Take-Home。
+
+(A) 換成 eculizumab 並加量：錯誤。靶點相同，加量對 EVH 無效；問題出在 C5 的上游，在 C3b 的沉積，換藥不能解決機轉上的缺口
+(B) 確認 DAT C3d 陽性後換成近端補體阻斷：正確答案。C3d 陽性確認 EVH 機轉；近端抑制劑從 C3/alternative pathway 源頭阻止 opsonization，是目前唯一能解決這個問題的策略。PEGASUS 試驗（pegcetacoplan vs eculizumab） 與 APPLY-PNH 試驗（iptacopan） 均顯示：在 C5 抑制下仍持續貧血的病人，換用近端抑制劑可使 Hgb 平均上升約 3 到 4 g/dL，輸血依賴顯著改善
+(C) CH50 正常則繼續治療並找其他原因：錯誤。CH50 正常代表 C5 抑制「不完全」，是需要加強治療的訊號，而非「繼續等待」的依據
+(D) Reticulocyte 低 = 唯一原因是骨髓衰竭，應計畫移植：錯誤。「唯一」過度絕對；首要排除的是重度缺鐵（ferritin 5！）；且骨髓衰竭的存在也不自動等於移植適應症
+(E) Reticulocyte 高 = 唯一原因是 EVH，近端阻斷是首選：部分正確，但絕對化錯誤。Reticulocyte 高支持溶血持續，但需先排除 breakthrough hemolysis 與其他原因；且本例「LDH 已大幅下降」這個事實，才是 EVH（而非 breakthrough IVH）的真正鑑別關鍵
+Pegcetacoplan was superior to eculizumab with respect to the change in hemoglobin level from baseline to week 16, with an adjusted mean difference of 3.84 g per deciliter (P<0.001). A total of 35 patients (85%) receiving pegcetacoplan as compared with 6 patients (15%) receiving eculizumab no longer required transfusions.
+
+臨床 Take-Home：當治療成功地擋住一個機轉，要準備好看見第二個機轉浮現——而它的名字，往往寫在那些「沒有跟著改善」的數字裡。LDH 代表被打爆的紅血球，bilirubin 代表被吃掉的紅血球；當前者正常化而後者卻上升，治療需要往上游移動。
+
+這位病人的評估已從確診推進到治療優化，但還有一個關鍵問題尚未完整回答：骨髓的狀態——這位 ferritin 只有 5、reticulocyte 代償不足的病人，究竟是「PNH alone」還是「PNH 疊加骨髓衰竭」？下一題將進入骨髓切片的結果，以及當 PNH 遇上 aplastic anemia 時，治療策略如何重新排序。

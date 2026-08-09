@@ -1,0 +1,146 @@
+第一一四年，第十五集。
+
+Auto control 是一個岔路口：決定接下來要找別人的抗原還…。
+
+有脈絡的綜論:Auto control 是一個岔路口：決定接下來要找別人的抗原還是自己的抗體
+
+以下是依照指定架構撰寫的綜論，所有臨床建議均有文獻支撐。
+
+Auto control 是一個岔路口——它決定接下來要找「別人的抗原」還是「自己的抗體」。
+
+一、先把 auto control 這個試驗本身定義清楚。
+
+在血庫工作流程中，auto control（自體對照）是一個被廣泛使用、卻也常被誤解的試驗。它的定義相當具體：將「病人自己的血清」與「病人自己的紅血球」混合，在與 crossmatch 相同的條件下（37°C 孵育、AHG 相）進行反應，觀察是否出現凝集或溶血。它的存在意義，是用來判斷病人血清中是否存在「對自己的抗原有反應」的物質，而不是對外來抗原的反應 。
+
+Auto control 最常被混淆的，是與 DAT（direct antiglobulin test，直接抗球蛋白試驗）畫上等號。 兩者雖然都與自體抗體有關，但方法學上有本質的不同：
+
+DAT 測的是「體內（in vivo）」已附著在紅血球上的免疫球蛋白或補體。 操作時，直接取病人的紅血球加上 anti-human globulin（AHG）試劑，不需要任何孵育步驟。陽性代表紅血球表面在體內就已經被 IgG 和／或 C3d 覆蓋 。
+Auto control 測的是「體外（in vitro）」血清中「游離的（free）」抗體。 操作時，要先把病人的血清與自己的紅血球共同孵育，模擬體外的抗原—抗體反應，才能得到結果 。
+
+兩者可以出現不一致的結果，這一點至關重要： 例如，當自體抗體效價低時，幾乎所有的抗體都已在體內附著於紅血球上，血清中幾乎沒有多餘的游離抗體——此時 DAT 陽性，但 auto control 可以是陰性。反之，某些早期或效價較高的情形，游離抗體量較多，兩者皆可陽性。
+
+那麼，為什麼在 crossmatch 不合時要「先做」auto control？ 答案是效率。Auto control 幾乎不增加額外的試劑成本（它只需要病人自己的血清與紅血球），卻能把後續工作完整地一分為二——走哪條路，完全取決於它的結果。這是一個「最便宜、最省時的分流試驗」。
+
+二、分岔口的兩條路。
+
+Auto control 陰性，接著問題出在「別人身上」。
+
+Auto control 陰性，代表病人的血清對自己的紅血球沒有反應。換句話說，血清中的抗體只攻擊「供血者的紅血球」，不攻擊自己的 — 這是典型的 alloantibody（同種抗體） 的行為模式 。
+
+此時的下一步邏輯清晰：抗體鑑定（antibody identification panel）：用一組已知抗原組成的 panel cells，系統性地找出是哪一個血型抗原（如 Kell、Duffy、Kidd、Rh 亞型等）被識別 。找到抗原特異性後，提供 antigen-negative 的血品：確保所輸血液缺乏該抗原，從而避免 hemolytic transfusion reaction。
+
+Auto control 陽性，接著問題出在「自己身上」（或至少牽涉到自己）。
+
+Auto control 陽性，代表病人的血清中存在「對自己的紅血球有反應」的物質。這條路要複雜得多，下一步包括 ：
+
+DAT（分別測 IgG 與 C3d）：確認紅血球體內已被覆蓋的免疫球蛋白種類，以縮小鑑別診斷的範圍。
+Elution（放散試驗）：把附著在紅血球上的抗體「剝下來」，再用 eluted 的抗體做抗原鑑定，確認它的特異性。
+Adsorption（吸收試驗）：用已知（或病人自己的）紅血球吸走自體抗體，再用「吸收後的血清」去做 alloantibody 的篩檢與鑑定——目的是「把自體抗體清乾淨，看底下有沒有藏著同種抗體」 。
+
+整個邏輯可以濃縮成一句話：「先問這個抗體『認不認得自己』——認得，就要先把它清乾淨才能看見底下的東西；不認得，就直接去找它認得的那個抗原。」
+
+三、Auto control 陽性「不等於」AIHA——鑑別診斷全覽。
+
+這是本篇最重要的一段。Auto control 陽性只是一個訊號，指向以下七種不同的可能，臨床必須逐一鑑別：
+
+第1點，Warm autoimmune hemolytic anemia（wAIHA，真正的自體抗體）
+
+DAT 呈 IgG 陽性（± C3d），放散後的抗體對 panel cells 呈 panreactive（所有細胞都反應，因為自體抗原幾乎普遍存在），且有明確的溶血證據（LDH 上升、haptoglobin 下降、非結合型 bilirubin 上升、網狀紅血球增多）。此時應確認有無繼發原因（如 SLE、淋巴瘤、藥物等）。
+
+第2點，⚠️ Delayed hemolytic transfusion reaction（DHTR）——最不該漏掉的
+
+這是 auto control 陽性時臨床急迫性最高、也最容易被誤判為 wAIHA 的情況，必須特別強調。
+
+機轉： 病人過去曾被致敏（透過輸血或懷孕），產生了針對某一血型抗原的同種抗體。隨時間推移，抗體效價下降至常規篩檢測不到的水準。當再次輸入含有該抗原的血液時，anamnestic（回憶性）免疫反應迅速啟動，抗體效價在輸血後 24 小時到 28 天內回升，覆蓋在循環中的供血者紅血球上，引發主要為 extravascular 的溶血 。
+
+關鍵的血清學陷阱： 做 auto control 時，那袋「已輸進去的供血者紅血球」此刻仍在病人的循環中，混雜在「病人自己的紅血球」裡面。當我們加入病人的血清（其中含有剛回升的同種抗體），這個抗體會結合到「循環中的供血者細胞」上，造成外觀上看起來像是「自體抗體陽性」的反應，DAT 也因此陽性 。
+
+鑑別線索 ：近 3 個月內有輸血史（最重要的問診）。DAT 呈 mixed-field（混合凝集場）：部分細胞凝集（供血者細胞被抗體覆蓋），部分不凝集（病人自己未被覆蓋的細胞），這是與 wAIHA 的關鍵形態區別。輸血後 Hb 沒有如預期上升，或反而下降。LDH 與 bilirubin 上升、haptoglobin 下降（溶血的間接佐證）。Elution 後鑑定出具有特異性的同種抗體（e.g., anti-Jka、anti-E、anti-c）。鐮刀型貧血（sickle cell disease）患者尤其高危，DHTR 可引發 hyperhemolysis（bystander hemolysis），此時再輸血可能讓情況嚴重惡化
+
+這正是為什麼「auto control 陽性時，第一句要問的是『你最近有沒有輸過血』」。一旦懷疑 DHTR，應立即通知輸血科，審慎評估是否繼續輸血，並儘快做 elution 鑑定 。
+
+第3點，Cold agglutinin（冷凝集素）
+
+在室溫（22°C）或 4°C 時反應強、37°C 時反應消失或大幅減弱。DAT 特徵性地呈現只有 C3d 陽性而 IgG 陰性——這是因為 IgM cold agglutinin 在體溫下已從紅血球解離，但它所激活的補體 C3d 仍留在細胞表面 。若 auto control 僅在室溫呈陽性，37°C 以上轉陰，需考慮此診斷，並確認是否存在 Mycoplasma pneumoniae 感染或淋巴增生性疾病。
+
+第4點，Drug-induced antibody（藥物誘發抗體）
+
+數類藥物已知可引發 DAT 陽性或溶血性貧血，機轉各異 ：Cefotetan、ceftriaxone（非特異性蛋白吸附機轉或 immune complex 機轉）。Piperacillin（藥物依賴性抗體）。Fludarabine（免疫抑制後繼發自體免疫）
+
+問診時需詢問用藥史，因為停藥後 DAT 陽性通常可逆轉。
+
+第5點，被動輸入的抗體（passively acquired antibody）
+
+這些「不是病人自己製造的」抗體，來源包括：IVIG、anti-D immunoglobulin（Rho-GAM）、antithymocyte globulin（ATG）、以及新鮮血漿製品 。特徵是 DAT 輕度陽性，無溶血證據，且有明確的近期使用史。
+
+第6點，Rouleaux（假凝集，偽陽性）
+
+見於多發性骨髓瘤、高球蛋白血症、或使用高分子量血漿代替品後。紅血球因血清蛋白濃度過高而「串疊」在一起，外觀類似凝集，但加入生理食鹽水（saline replacement test）後即可分散，與真性凝集相鑑別 。
+
+第7點，多凝集（polyagglutination）與嵌合體（chimerism）
+
+Polyagglutination：細菌酶作用暴露出紅血球隱藏抗原（如 T 抗原），幾乎所有正常血清（含有天然抗體）都會反應，造成廣泛的試驗異常。
+Chimerism（嵌合體）：發生於異基因骨髓移植或幹細胞移植後，病人血液中同時存在供者與受者的紅血球族群，可造成混合型 DAT 反應或 auto control 異常。
+
+四、為什麼 (A)(C)(D) 不是「先」做的。
+
+(A) 抗體鑑定（Antibody Identification）
+
+抗體鑑定是「auto control 陰性之後」才走的路。若在自體抗體存在的情況下貿然直接做 panel，自體抗體會對所有 panel cells 都反應（panreactive），結果無法判讀，也無法「rule in」或「rule out」任何同種抗體特異性 。做了也是白做，還可能誤導後續決策。
+
+(C) ABO typing
+
+需誠實說明這一點：ABO 不合在臨床上極為危險，且通常會造成 immediate-spin crossmatch 就不合，在常規血型判定階段就會被發現。 在任何 crossmatch 不合的情境下，重新核對 ABO RhD，以及排除檢體錯置（WBIT，wrong blood in tube），確實應該是第一步的「基本確認動作」——這屬於安全核查，不可省略。
+
+然而，(C) 作為「解釋不合原因的下一步檢驗」時，並非最有效率的選擇：如果 ABO typing 是正確的，它不能告訴你為什麼還是不合；反之，若有 ABO 的問題，它通常在更早的流程就已被察覺。Auto control 屬於「解釋不合原因的分流試驗」，而 ABO reconfirmation 屬於「安全核查流程」，兩者層次不同，不應混淆。
+
+(D) Rh typing
+
+Rh 抗體（anti-D、anti-C、anti-E 等）屬於 alloantibody，會在抗體鑑定的 panel 中被系統性地找出來。Rh typing 本身是對病人自身表現型的確認，而不能解釋「為何 crossmatch 不合」——它是抗原面的資訊，不是抗體面的分流工具，不適合作為「排查不合原因」的起點 。
+
+五、整合成一份實用工作流程。
+
+Step 1：重新核對檢體與病人身分
+
+排除 WBIT（wrong blood in tube）與檢體標示錯誤，並重驗 ABO RhD。這是任何血清學異常的安全底線，不可跳過。
+
+Step 2：Auto control
+
+判斷血清中是否存在「對自己的抗原有反應」的物質，是整個後續工作的分流關鍵 。
+
+Step 3：Auto control 陰性，接著抗體篩檢與鑑定 panel，接著找出同種抗體特異性，接著提供 antigen-negative 的相合血品。
+
+Step 4：Auto control 陽性，接著 DAT（IgG / C3d 分別測），接著立即詢問近期輸血史：
+
+有近期輸血（3 個月內），接著高度懷疑 DHTR，接著做 elution，鑑定放散下來的抗體特異性 ；審慎評估是否繼續輸血，尤其鐮刀型貧血患者更要謹慎，避免 hyperhemolysis。
+無近期輸血，接著考慮 wAIHA 或其他原因，接著做 adsorption：若近期無輸血，可直接做 autologous adsorption（用病人自己的紅血球吸走自體抗體）；若近期有輸血（因循環中尚有供血者紅血球，自體吸收會連同同種抗體一起吸走），則需改做 allogeneic adsorption（用已知表現型的異基因紅血球），接著用吸收後的血清再進行同種抗體篩檢，以確認底下有無 alloantibody 被自體抗體「遮蔽」 。
+
+Step 5：緊急情況下的原則
+
+若病人有生命危險而血清學無法及時釐清（例如重度 wAIHA 伴血流動力學不穩定），「least incompatible」的 ABO RhD 相合血品仍應輸注，不能讓病人因為配血試驗不合而失血致死 。輸注時應以緩慢速率開始、密切觀察反應；如時間允許，應先做 extended phenotyping 以降低 alloimmunization 風險 。
+
+實務提醒： 通知血庫「病人的輸血史（近 3 個月）、妊娠史、以及目前用藥清單」，往往比多做幾個試驗更快縮小鑑別範圍。輸血史是 DHTR 的核心線索，用藥史是 drug-induced antibody 的核心線索——這些資訊無法從任何血清學試驗中取得，只能靠問診 。
+
+六、逐項評析與 Clinical Take-Home。
+
+選項
+
+評析
+
+(A) 抗體鑑定
+
+auto control 陰性後才走的路；陽性時直接做會得到 panreactive 的無法判讀結果
+
+(B) Auto control ，正確
+
+最有效率的分流試驗，幾乎零成本，將後續工作一分為二，是正確答案
+
+(C) ABO typing
+
+重新確認 ABO 屬於安全核查（應做），但不是「解釋不合原因」的分流工具；ABO 問題通常更早被發現
+
+(D) Rh typing
+
+確認病人自身表現型，非抗體分流工具；Rh 相關 alloantibody 會在抗體鑑定 panel 中找出
+
+Clinical Take-Home：在血庫，最有效率的下一步往往不是「做更多檢查」，而是「先做一個能把問題一分為二的對照」。 Auto control 就是這樣的對照——它讓你在「追自己」與「追別人」之間，做出最快、成本最低的正確選擇。

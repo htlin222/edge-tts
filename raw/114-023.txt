@@ -1,0 +1,47 @@
+第一一四年 第二十三集
+有脈絡的綜論:同一台機器上的四個零件:為什麼壞掉的後果天差地遠
+
+Answer: (A) SF3B1
+
+開場：同一台機器上的四個零件
+
+SF3B1、SRSF2、U2AF1、ZRSR2 都是 spliceosome（剪接體）的組成零件，合計出現在約 50% 的 MDS。這四者共享三個罕見的分子特徵：幾乎永遠是雜合的錯義突變，且集中在極少數熱點（SF3B1 K700E；SRSF2 P95；U2AF1 S34F/Q157P），幾乎見不到 nonsense 或雙等位基因失活；彼此互斥，一個病人幾乎不會同時帶兩個；以及功能改變（change-of-function / neomorph）而非單純失去功能。這是因為剪接是細胞存活的必需功能，完全失去會致死，因此癌細胞必須保留一個正常的等位基因，僅讓突變蛋白「改寫」剪接的選擇性。
+
+既然四者壞在同一台機器上，為什麼 SF3B1 預後好、SRSF2 與 U2AF1 預後差？關鍵不在「哪個零件壞了」，而在「因此錯剪了哪些下游基因」。
+
+SF3B1：後果侷限在紅血球系
+
+SF3B1 是 U2 snRNP 的組成，負責辨識 intron 的 branch point。K700E 等突變造成 branch point 辨識偏移，轉而使用隱性的 3′ splice site（cryptic 3′ splice site），產生帶有 premature stop codon 的異常轉錄本，被 NMD（nonsense-mediated decay）降解。關鍵下游標靶包括 ABCB7（粒線體鐵—硫簇輸出蛋白，錯剪後表現下降，導致鐵在粒線體堆積、形成 ring sideroblast），以及 TMEM14C、PPOX（血基質合成路徑相關，同樣受影響、加劇鐵的無效堆積），還有 COASY、MAP3K7 等。
+
+SF3B1 錯剪的下游基因主要落在紅血球的鐵與血基質代謝，產生的是無效造血與貧血，而非增殖驅動或白血病轉化的訊號，因此病程長、中位存活可達 5–10 年以上、白血病轉化率低。
+
+![](/img/img/bd1e1ef6-90d9-4775-9088-7cb9b8db4a3c.jpg)
+Figure 2: Molecular Pathophysiology of Three Subtypes of MDS.
+
+但這個良好預後是有條件的。IPSS-M 分析顯示，SF3B1 突變整體與良好預後相關，但這個效應會被共突變模式調節：單獨出現、無不良共突變的 SF3B1α 型預後良好；併發 del(5q)、或併發 RUNX1、EZH2、ASXL1、SRSF2 等不良基因時，良好效應消失。因此「有 SF3B1 就是好預後」是危險的簡化。這群病人也是 luspatercept 的主要適應族群（相關診斷細節與 MDS-SF3B1 分類已於其他筆記詳述）。
+
+SRSF2：驅動疾病進展的相反機轉
+
+SRSF2 屬 SR 蛋白家族，結合 exonic splicing enhancer（ESE）。P95 熱點突變改變其序列偏好，從偏好 GGNG motif 轉為偏好 CCNG motif。關鍵下游標靶是 EZH2：錯剪造成納入一個「毒性外顯子（poison exon）」，觸發 NMD 降解，使 EZH2 表現下降，導致表觀遺傳失調，這是真正具有致白血病性的機轉。SRSF2 突變在 CMML 中盛行率約 40–50%，常與 IDH2、ASXL1、TET2 共突變，是 IPSS-M 中的不良權重因子，與較快進展至 AML 相關。SRSF2 也是 clonal hematopoiesis 中隨年齡累積常見的突變之一。
+
+U2AF1：錯剪出發炎訊號
+
+U2AF1 負責辨識 3′ splice site 的 AG 二核苷酸，兩個熱點 S34F（zinc finger 1）與 Q157P/R（zinc finger 2）影響的下游基因不同。最有臨床價值的一點是：S34F 造成 IRAK4 錯剪，產生保留 exon 4 的「長型異構物（IRAK4-Long）」，該異構物持續組裝 myddosome、活化 NF-κB 訊號，是 leukemic stem/progenitor cell 適存性的關鍵。這使 IRAK4 成為可標靶的弱點——IRAK4 抑制劑（emavusertib/CA-4948）已於 MDS/AML 進行臨床試驗，在剪接因子突變族群中呈現較高反應率，TakeAim Leukemia phase I/II 試驗中，13 位可評估之高風險 MDS/剪接因子突變病人中觀察到 4 例 mCR。U2AF1 常伴 del(20q)，屬預後不良、與較高 AML 轉化風險相關。ZRSR2 則負責次要剪接體（minor spliceosome）對 U12 型 intron 的辨識，位於 X 染色體，男性顯著居多。
+
+(D) RUNX1 與 (E) STAG2：屬於別的機器
+
+RUNX1 是 core binding factor 的轉錄因子，為造血分化主控開關之一，在 MDS 屬明確不良預後；且存在胚系 RUNX1 突變導致的 familial platelet disorder with predisposition to myeloid malignancy——年輕病人合併長期血小板低下與家族史時，須考慮胚系檢測。STAG2 是 cohesin complex 的成員，與姊妹染色分體黏合及染色質結構有關，在 MDS/AML 屬不良預後，常與 ASXL1、RUNX1 共突變。這兩者的共同點是都屬於快速進展、預後不良的一群，與題目要求的「長期慢性病程」正好相反。
+
+治療前景：合成致死
+
+剪接體突變細胞的剪接保真度已處在勉強可容忍的邊緣，若再給予剪接調節劑（splicing modulator）施加額外壓力，突變細胞可能先於正常細胞死亡，形成合成致死。代表藥物 H3B-8800（口服 SF3B 複合體調節劑）在 phase I 試驗中，84 位患者未觀察到符合 IWG 標準的完全或部分緩解，但 15% 患者達到 RBC transfusion-free interval >56 天，尤以 SF3B1 錯義突變且治療前 TMEM14C 異常轉錄本表現升高者反應較佳——整體而言臨床成效有限。另一條路是剪接異常產生新抗原與異常雙股 RNA，可能活化 interferon 反應，成為免疫治療潛在切入點；此外，剪接異常造成 R-loop 累積與 DNA 損傷，也被探討與 PARP 抑制劑之間的合成致死關係。
+
+選項評析與臨床要點
+
+- (A) SF3B1：錯剪局限於鐵/血基質代謝相關基因，導致無效紅血球生成而非增殖驅動，病程長、轉化率低——正確答案。
+- - SRSF2：錯剪 EZH2，導致表觀遺傳失調，驅動疾病進展，屬 IPSS-M 不良因子。
+- - U2AF1：錯剪 IRAK4，活化 NF-κB 發炎訊號，預後不良但具治療標靶意義。
+- - RUNX1：造血轉錄因子失能，快速進展、不良預後。
+- - STAG2：cohesin complex 功能異常，不良預後。
+
+在 MDS，決定病人能活多久的往往不是「哪一個基因壞了」，而是這個壞掉導致細胞讀錯了哪一份說明書。

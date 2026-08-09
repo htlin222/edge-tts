@@ -1,0 +1,31 @@
+第一一四年 第二十五集
+有脈絡的綜論:上了頭條的那一個,和真正最常見的那一個
+
+Chimeric antigen receptor（CAR）T細胞治療後，CRS/ICANS的分級與處置、CAR受體結構與costimulatory domain已於其他筆記詳述，本篇僅作連結，聚焦於次發性原發惡性腫瘤（secondary primary malignancy, SPM）議題。
+
+一、開場：本篇的核心張力 2023年11月，FDA針對CAR-T治療後T細胞惡性腫瘤（T-cell malignancy）發布安全性調查通報，並於2024年4月要求所有已核准的CD19與BCMA CAR-T產品加註「T細胞惡性腫瘤」黑框警告（boxed warning）。這則新聞佔據了頭條——但上了頭條、拿到黑框警告的T細胞淋巴瘤，其實極為罕見（估計約0.01–0.07%量級）；相對地，真正在「數量上」最常見的次發性惡性腫瘤，是骨髓性腫瘤（MDS/AML），文獻報告發生率可達5年內約2–10%，甚至部分族群於2年累積發生率即達4.5%。本篇要回答兩個問題：①為何MDS/AML最常見？②它到底是不是CAR-T造成的？
+
+二、為什麼MDS/AML是最常見的 一項納入539位接受CD19導向CAR-T治療的B細胞淋巴瘤病人的多中心回溯研究顯示，t-MN（therapy-related myeloid neoplasm）於2年時累積發生率為4.5%，其中t-MDS佔62%、t-AML佔38%，且多屬高細胞遺傳學風險，診斷後中位存活僅4.5個月。NGS分析發現85.7%的t-MN病例在CAR-T治療前就已帶有既存突變，最常見為TP53。
+
+這反映了病人族群的本質——接受CAR-T者幾乎都是重度預治療（heavily pretreated）病人，中位前線治療常達3–5線以上，暴露過alkylating agents（cyclophosphamide、melphalan、bendamustine）、platinum、topoisomerase II inhibitors、放射治療、autologous stem cell transplant，以及骨髓瘤族群常用的lenalidomide，這些都會促成治療相關的克隆性造血（therapy-related clonal hematopoiesis, CH）。一項針對213位接受BCMA CAR-T的骨髓瘤病人研究顯示，基線帶有TP53突變CH的病人中，67%後續發展為MDS，其TP53 clone的VAF可從CAR-T前中位3.4%擴增至診斷MDS時的44.0%；相對地，其他CH突變並未觀察到類似擴增（p>.99）。整體而言，該族群中9%發展為次發性骨髓疾病，5%為需治療之高風險MDS，中位發生時間為CAR-T後14.5個月。
+
+CAR-T流程本身亦有額外貢獻：淋巴球清除化療（lymphodepletion）常用fludarabine併cyclophosphamide，帶來額外基因毒性；CAR-T後常見的長期血球低下（prolonged cytopenia），本質上也反映骨髓儲備已受損。CD19與BCMA兩族群相比，骨髓瘤病人因長期lenalidomide與melphalan暴露，t-MN風險可能更高。此外，較高的ICANS分級、CD28共刺激域產品也與較高t-MN風險相關（趨勢性，p=0.09）。
+
+三、那到底是不是CAR-T造成的？ 支持「主要來自既往治療，而非CAR-T本身」的證據包括：t-MN的突變特徵（如TP53為主）符合既往alkylator暴露的經典型態；多數t-MN clone在CAR-T治療前的血液或骨髓檢體中即可被偵測到（僅VAF較低）。誠實而言，CAR-T更像是「揭露」了既有的風險，而非「創造」了新的風險——高強度免疫重建與治療壓力加速了既存高風險clone（尤其TP53突變）的擴張，但這仍需長期追蹤資料進一步釐清因果關係與時間動態。
+
+四、T細胞惡性腫瘤：真正可能與CAR-T有因果關係的罕見事件 截至2023年底，FDA已知22例CAR-T後T細胞惡性腫瘤案例，其中14例有足夠資料可分析，均於CAR-T後2年內發生，約半數在1年內發生。關鍵發現是：在少數案例中，CAR轉基因（transgene）可在惡性T細胞clone內被偵測到——截至目前有3例確認，這暗示了insertional mutagenesis（插入性突變）的可能機轉：lentiviral／gammaretroviral載體會隨機整合入宿主基因體，若整合位點鄰近原癌基因，理論上可能造成其活化。
+
+這在基因治療史上有重要的歷史對照：1990年代末至2000年代初的SCID-X1基因治療試驗使用gammaretroviral vector，因載體整合入LMO2基因附近而導致數名兒童發生T-ALL——這正是後來發展自我失活型（self-inactivating, SIN）LTR載體的直接動因。
+
+然而目前證據顯示風險真實但量級極小：部分案例中CAR整合位點並非明顯致癌基因（如cilta-cel案例中整合於PBX1，但同時合併既存TET2、JAK3突變，insertional oncogenesis角色仍不明確）；部分病人的T細胞clone在CAR-T之前即可低量偵測到，並帶有DNMT3A/TET2等克隆性造血相關突變。一篇Blood綜述指出，成熟T細胞對insertional oncogenesis的易感性本就低於幹細胞，且天然HIV感染後幾乎未見T細胞轉化，支持免疫失調與clonal hematopoiesis可能較insertional mutagenesis扮演更重要角色。臨床立場是：風險真實但極小，遠遠不足以抵銷CAR-T在復發/難治疾病上的存活效益，黑框警告的意義在於「監測」而非「勸阻」。
+
+五、其他SPM的排序 - 非黑色素瘤皮膚癌（basal cell／squamous cell carcinoma）：次多的一群，與長期免疫抑制及既往治療相關。 - 實體腫瘤（肺、攝護腺、大腸等）：多反映族群年齡與既往暴露。 - B細胞腫瘤：須特別注意，多數其實是原病復發而非新的原發癌；CD19陰性復發（antigen escape）是重要機轉，此類事件在定義上不應被歸類為次發性原發惡性腫瘤。 - T細胞惡性腫瘤：最罕見，如前述。
+
+六、臨床監測 CAR-T後若出現持續或新發的血球低下，不能一律歸因為治療後長期血球低下，必須進行骨髓檢查，含染色體核型與NGS，以排除t-MN。CAR-T後血球低下的鑑別診斷包括：CAR-T相關的延遲性血球低下、感染（CMV、parvovirus B19）、藥物、營養缺乏，以及t-MN。FDA建議長期追蹤CAR-T病人15年，並依年齡進行常規癌症篩檢及定期皮膚檢查。一個實務觀點是：既往治療線數既是CAR-T療效的預測因子，也是SPM風險的預測因子，這支持將CAR-T往前線移動可能同時改善療效並降低SPM風險——此為合理推論，仍待長期資料驗證。
+
+七、選項評析 - (A) MDS與AML：正確。系統性資料顯示發生率最高（5年內約2–10%，部分世代2年即達4.5%），且85.7%個案帶有CAR-T前既存突變（以TP53為主）。 - (B) T細胞淋巴瘤：拿到黑框警告但實際發生率極低（22例／逾27,000劑），非數量上最常見。 - (C) B細胞淋巴瘤：多為原病復發或antigen escape，非典型SPM。 - (D) 皮膚癌：確有發生，但排序低於骨髓性腫瘤。 - (E) 肺癌：屬一般實體腫瘤範疇，反映年齡與既往暴露，非CAR-T後最常見SPM。
+
+臨床要點：新療法的風險最容易被歸咎於它自己，但病人身上的傷痕，往往是前面十年留下的。
+
+![](/img/img/3677c2d0-905a-4f32-9327-3c799c63206b.jpg)
+Figure: Cumulative Incidence and Prediction Models for Post–Chimeric Antigen Receptor T-Cell Therapy (CART) Myeloid Neoplasm (MN)

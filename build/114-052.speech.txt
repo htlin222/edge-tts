@@ -1,0 +1,193 @@
+第一一四年，第五十二集。
+
+三個天然的煞車，各自壞掉的方式不一樣。
+
+三個天然的煞車，各自壞掉的方式不一樣。
+
+——從血栓體質考題出發的天然抗凝蛋白綜論。
+
+一、開場：凝血系統有三套內建的煞車。
+
+要理解血栓體質，必須先理解凝血系統不是一部「只有油門」的機器。正常止血的設計，是在製造血栓的同時，以三套獨立的抑制系統將反應限制在損傷局部：
+
+① Antithrombin（AT）：直接抑制已活化的絲胺酸蛋白酶，最重要的標靶是 thrombin（FIIa）與 FXa，其次是 FIXa、FXIa。這個機轉依賴肝素（內生性為血管壁上的 heparan sulfate）作為模板，使反應速率提升千倍以上——臨床上使用的肝素，其抗凝機轉全賴 AT 居間完成。
+
+② Protein C／Protein S 系統：活化後的 protein C（APC）以 protein S 為輔因子，切割並去活化 FVa 與 FVIIIa——鎖定的是凝血酶原酶複合體（prothrombinase）與 FX 活化複合體（tenase）的核心輔因子，釜底抽薪地阻斷 thrombin 的持續生成。
+
+③ Tissue factor pathway inhibitor（TFPI）：由內皮細胞分泌，在 TF FVIIa 啟動凝血後，迅速回頭抑制此複合體，限制外源性凝血路徑的持續激活。
+
+這三套煞車壞掉的方式不同，臨床表現也不同。而它們有一個共同點：常規凝血檢查（PT、aPTT）完全「照不到」任何一個——這正是本篇最核心的臨床觀念，也是五個選項共同指向的深層邏輯。
+
+二、本篇第一個核心：Protein C 路徑最優雅的設計。
+
+Thrombin 會啟動自己的煞車——這是整個凝血調控裡最漂亮的一個設計，值得深入理解。
+
+當局部 thrombin 濃度高到開始向鄰近正常內皮細胞擴散，thrombin 會與內皮細胞表面的 thrombomodulin 結合。這個結合不是單純的中和——它切換了 thrombin 的受質專一性：結合 thrombomodulin 的 thrombin「不再切割 fibrinogen」（停止製造血栓），改為高效率地活化 protein C。同時，內皮細胞表面另一個受體 EPCR（endothelial protein C receptor）將 protein C 捕捉並呈送給 thrombin-thrombomodulin 複合體，使此活化效率提升約 20 倍。
+
+活化後的 APC 從 EPCR 解離，與血中的 protein S（游離型） 結合形成複合體，接著切割 FVa（Arg306、Arg506 位點）與 FVIIIa，接著兩大凝血放大環路的輔因子同步失效，接著 thrombin 生成被大幅壓制。
+
+（關於 Factor V Leiden——PROC 基因的 Arg506Gln 突變使 FVa 的主要切割位點對 APC 產生抗性，造成 APC resistance，是歐裔人群中最常見的遺傳性血栓體質，詳見 Factor V Leiden 筆記。）
+
+Protein S 的獨特性質——C4BP 結合與「假性缺乏」（(E) 題的關鍵）
+
+血中的 protein S 並非全部有效：約 60% 與補體調節蛋白 C4b-binding protein（C4BP）結合，處於無活性狀態；只有約 40% 的「游離型（free protein S）」才具有輔因子活性。
+
+這個比例並非固定。C4BP 本身是一種急性期反應蛋白：感染、發炎、手術後，C4BP 濃度上升，接著更多 protein S 被結合，接著游離型 protein S 下降，接著出現「假性的 protein S 缺乏」，而 total protein S 可能仍在正常範圍。懷孕、口服雌激素、HIV、腎病症候群也有相似效應。這提醒我們：在急性期或上述情況下測到的 protein S 偏低，不能貿然診斷為遺傳性缺乏。
+
+三、(E) 的核心：Protein S 缺乏的三型分類與命名的誠實混亂。
+
+根據 total protein S、free protein S antigen，以及功能性活性的組合，protein S 缺乏分為三型：
+
+分型
+
+Total PS
+
+Free PS antigen
+
+PS 活性
+
+機轉
+
+Type I
+
+下降
+
+下降
+
+下降
+
+量的缺乏（合成下降）
+
+Type II（部分文獻稱 IIb）
+
+正常
+
+正常
+
+下降
+
+質的缺陷（功能異常蛋白）
+
+Type III（部分文獻稱 IIa）
+
+正常
+
+下降
+
+下降
+
+Free PS 下降（與 C4BP 結合增加）
+
+命名的混亂需要誠實說明：不同文獻對 Type II 與 Type III 的編號並不一致，舊版命名系統中的「IIa」對應的正是「現行 Type III」——即 total protein S 正常但 free protein S antigen 缺乏。選項 (E) 所述「type IIa：total protein S 正常，but free protein S antigen 缺乏」，其描述本身是正確的，只是以舊版命名呈現，對應的是「現行 Type III」。
+
+一個重要的實務發現：Type I 與 Type III 常出現在同一個家族、甚至同一個人的不同時間點（例如年輕時是 Type III，年老或停用雌激素後轉為 Type I）。這提示兩者可能是「同一個 PROS1 基因缺陷，因 C4BP 濃度受年齡與荷爾蒙影響而呈現不同表型」，而非真正獨立的兩個疾病實體。
+
+四、(B) 的核心：新生兒 purpura fulminans，以及它的「成人版」。
+
+Homozygous protein C deficiency 的臨床表現
+
+出生後數小時至數天內，嬰兒出現大片網狀紫斑（purpura fulminans），迅速進展為皮膚全層壞死；可合併中樞神經系統與眼部的子宮內血栓（prenatal thrombosis），以及 DIC 樣表現。此因體內完全缺乏 APC 活性，微小靜脈內持續發生血栓，消耗性凝血病隨之而來。
+
+處置：緊急給予 protein C concentrate（若可取得）或 FFP，短期橋接後接續長期抗凝；部分嚴重個案最終需要肝臟移植（因 protein C 由肝臟合成，基因治療目前仍在研究中）。值得注意：homozygous protein S deficiency 也有相同的新生兒 purpura fulminans 表現，機轉相似。
+
+成人版的同一個機轉——Warfarin-induced skin necrosis（最重要的臨床連結）
+
+Warfarin 透過拮抗維生素 K，使所有維生素 K 依賴的蛋白質（FII、FVII、FIX、FX，以及 protein C 與 protein S）的合成受阻。然而，各蛋白的半衰期差異巨大：
+
+Protein C：約 8 小時（最短，與 FVII 相近）
+FVII：約 6 小時
+FIX：約 24 小時
+FX：約 36 小時
+Prothrombin（FII）：約 60 小時（最長）
+
+因此，開始 warfarin 的頭幾天，「煞車（protein C）」的濃度比「油門（FII、FX）」先大幅下降，接著出現暫時性的高凝狀態（prothrombotic window）。在 protein C 本就缺乏的個體，這個視窗期風險極高，接著皮膚微小靜脈（尤其乳房、大腿、臀部等脂肪組織豐富區）發生血栓與壞死。
+
+這正是「開始 warfarin 時必須以肝素橋接」的根本理由——讓 AT 依賴的直接抗凝在這幾天提供保護，直到 FII 等促凝因子也充分被 warfarin 壓制。
+
+五、(D) 的核心：正常的凝血檢查不代表沒有血栓體質。
+
+為什麼 PT 與 aPTT「照不到」這些缺乏？
+
+PT 測的是外源性凝血路徑（TF FVII，接著 FX，接著 FII，接著 fibrin），aPTT 測的是內源性路徑（FXIIa，接著 FXIa，接著 FIXa，接著 FXa，接著 FII，接著 fibrin）。這兩個試驗問的是「促凝因子還在不在」——試管裡加入促凝觸發物後，血漿能不能凝固。
+
+AT、protein C、protein S 是「抑制系統」，它們在試驗終點反應（纖維蛋白形成）之前早已被飽和或繞過，接著完全不影響 PT/aPTT 的結果。
+
+一個漂亮的對照：
+
+Lupus anticoagulant（LA）：病人一直在長血栓（體內促凝），但 aPTT 卻延長（試管內的磷脂結合假象）——體內與試管的結果完全相反。
+Protein C S AT 缺乏：病人一直在長血栓，而 PT/aPTT 完全正常——煞車壞了，但促凝因子測起來沒事。
+
+兩者都在提醒同一件事：「常規凝血檢查不是用來評估血栓風險的工具」（關於 LA 的完整機轉，詳見 antiphospholipid syndrome 筆記）。
+
+六、最實用的一段：血栓體質檢驗的「什麼時候不能驗」。
+
+這是臨床上最常犯錯的地方，以下為清單：
+
+⚠️ 急性血栓期間：不要驗——AT、PC、PS 因消耗全部假性偏低，無法判讀是遺傳性缺乏還是急性期變化。
+⚠️ Warfarin 使用中：不要驗 protein C 與 protein S——兩者皆為維生素 K 依賴的蛋白，warfarin 下 true level 無法評估。
+⚠️ 肝素使用中：不要驗 antithrombin——肝素本身消耗 AT（與 AT 形成 1:1 複合體後失活），可導致假性偏低。
+⚠️ DOAC 使用中：干擾以凝血終點為基礎的功能性試驗（clot-based assay），導致 APC resistance 假陰性、protein C S 活性假性偏高。
+懷孕、口服雌激素、急性發炎（C4BP 上升）、HIV、肝病（合成減少）、腎病症候群（protein S 尿中流失）：皆會影響 protein S，造成假性缺乏。
+
+實務建議：停止抗凝至少 2 週（warfarin 需 3 到 4 週） 後再驗，且任何單次異常結果須在不同時間點重複確認，方可診斷遺傳性缺乏。
+
+一個更根本的誠實問題：「驗了會改變處置嗎？」
+
+現代對抗凝療程長短的決定，主要依據「這次血栓事件是誘發性還是非誘發性」以及「出血風險」，而非血栓體質的檢驗結果。大型族群研究也顯示，除 PROS1 完全功能喪失型突變外，多數 protein S 蛋白水平偏低的個案無法靠基因確認，且臨床意義有限。無症狀個體的常規篩檢不被建議；家族篩檢的價值主要在於提醒高風險情況（如手術、懷孕、口服避孕藥）下的預防策略。
+
+七、(A) 為什麼錯——PNH 血栓的真實樣貌。
+
+選項 (A) 有兩個錯誤，而且兩個都是方向性的錯誤：
+
+錯誤一：發生率遠高於 15%。補體抑制劑問世前，約 29 到 44% 的 PNH 病人會發生血栓事件，是此病最主要的死亡原因。一項來自美國四個中心的大型真實世界研究（267 名 PNH 患者，2043 patient-years）顯示，整體血栓發生率為 21%，而在未接受補體抑制治療的個案中，2 年累積血栓發生率高達 18.3%。
+
+錯誤二：腦靜脈竇血栓「並不罕見」。Cerebral venous thrombosis（CVT）在 PNH 患者中約佔 2 到 8%，在法國的系列病例研究（Meppiel 等人，n=15）中，最常受累的部位是 superior sagittal sinus（20/32 個事件），其次是 cortical vein（19/32）與 lateral sinus（14/32）。CVT 在部分患者中甚至是 PNH 的首發表現，「很少發生大腦血栓」的說法明確錯誤。
+
+PNH 好發血栓部位（由高至低）：肝靜脈（Budd-Chiari syndrome）、腸繫膜靜脈、門靜脈、脾靜脈、腦靜脈竇、皮膚靜脈，以及（少見）動脈系統（心肌梗塞、腦動脈）。
+
+機轉一句連結：PNH 的血栓由 GPI-anchor 缺失（CD55 CD59 喪失）導致補體介導的血小板活化、游離血紅素消耗 NO、微粒促凝以及纖溶異常共同造成——詳見 PNH 補體病生理筆記；補體抑制劑（eculizumab 等）可將血栓風險大幅降低，2 年累積血栓發生率從 18.3% 降至 3.9%。
+
+以下圖表呈現不同 PNH 亞群的血栓分佈與時間線，可清楚看到靜脈血栓的多部位分佈（包含腦靜脈）：
+
+![](/img/img/24ed8ca5-5f02-4cac-a2d4-429f03f5212c.jpg)
+Figure 4: Thrombotic events in patients with PNH high Type II and low Type II neutrophils, adapted from (A) Pie charts illustrating the type of thrombotic events in patients with high Type II (upper pies) and low Type II (lower pies) with a major clone above 50% (left pies) and a clone between 1% and 50% (right pies). (B) Anatomic site of origin of all thrombotic events. (C) Longitudinal follow‐up and anticomplement therapy in patients with PNH low Type II and high Type II neutrophils experiencing thrombotic events (patients are shown by decreasing total PNH clone sizes); y, years. [Color figure can be viewed at wileyonlinelibrary.com]
+
+八、逐項評析與臨床 Take-home。
+
+選項
+
+正誤
+
+關鍵點
+
+(A) PNH 血栓約 15%，很少發生大腦血栓
+
+❌ 錯（本題答案）
+
+真實發生率 29 到 44%；CVT 佔 2 到 8%，為第二常見部位
+
+(B) Homozygous PC deficiency，接著新生兒 purpura fulminans
+
+✅ 正確
+
+出生後數日內皮膚壞死＋DIC，需 PC concentrate 或 FFP 緊急處置
+
+(C) PC 缺乏以靜脈血栓為主，多在 40 歲前發病
+
+✅ 正確
+
+靜脈為主，但動脈血栓亦有報告；雜合子常在 40 歲前首次發病
+
+(D) PS 缺乏者，PT 及 aPTT 正常
+
+✅ 正確
+
+抑制系統不參與這兩個試驗的終點反應
+
+(E) PS 缺乏 type IIa：total 正常但 free PS 缺乏
+
+✅ 正確（命名為舊系統）
+
+對應現行 Type III；C4BP 結合增加，free PS 選擇性下降
+
+臨床 Take-home：當一個年輕人在奇怪的地方長血栓——腹腔靜脈、腦靜脈竇、或反覆不明血栓——而所有常規凝血檢查都「正常」，那份「正常」本身，就是最重要的線索：它不代表安全，它代表你需要去看那三套煞車是不是其中一個已經悄悄壞掉了。

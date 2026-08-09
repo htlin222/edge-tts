@@ -1,0 +1,44 @@
+第一一四年 第七十集
+有脈絡的綜論:學會找不見了的東西
+
+# Hairy Cell Leukemia：一個由「缺席」定義的疾病
+
+大多數淋巴增生性疾病的診斷指紋是「多」——某種細胞在血液或骨髓中異常增生。HCL 卻反其道而行：它最具特徵性的三個發現，全部是「少」或「沒有」。學會辨識這種「缺席的訊號」，正是快速鎖定 HCL、並預期其致命併發症的關鍵。
+
+主軸一：由缺席構成的診斷三聯徵
+
+第一個缺席是 monocytopenia。這不是偶發現象，而是 HCL 幾乎恆定的特徵——文獻描述其「見於幾乎所有病例」，且在自動血球分析儀上單核球數目可能被低估或誤報，需仔細判讀周邊血抹片。這使 monocytopenia 成為 HCL 與其他脾腫大相關淋巴增生性疾病（如 splenic marginal zone lymphoma）鑑別的最有用線索之一，因為後者通常不會出現這種選擇性單核球缺失。
+
+第二個缺席是能抽出骨髓。HCL 細胞分泌因子誘導瀰漫性 reticulin fibrosis（grade 2–3），使 bone marrow aspiration 常常「dry tap」——抽不出液態骨髓。因此診斷必須依賴 trephine biopsy，組織切片可見增生或正常細胞量的骨髓被具有豐富淡染細胞質的異型淋巴樣細胞浸潤，細胞間因細胞質豐厚而彼此分隔，形成經典的「fried egg appearance」。
+
+第三個缺席是周邊淋巴結腫大。與大多數低惡性度 B 細胞淋巴瘤相反，HCL 典型表現為巨脾（80–85% 病患有脾腫大）合併全血球減少，但淋巴結侵犯罕見，通常僅見於復發或疾病進展的病人，且此時反而可能與淋巴瘤混淆。
+
+這三者可以串成一句話：在 HCL，要學會的不是「找到什麼」，而是「找不到什麼」——monocyte 不見了、骨髓抽不出來、淋巴結沒腫大。
+
+主軸二：monocytopenia 不只是被擠掉
+
+若僅以「骨髓被腫瘤細胞取代」解釋 monocytopenia，無法完全說明其選擇性與恆定性。HCL 細胞被認為透過分泌抑制性細胞激素（如 TGF-β）干擾單核球生成與分化，並伴隨 classical monocyte subset 的選擇性缺失，這是較主動的免疫抑制機轉，而非單純空間競爭。臨床意義在於：治療達到緩解後，monocyte 數目回升可作為反應的間接指標之一。
+
+主軸三：這個缺席會殺人
+
+Monocyte／macrophage 是對抗胞內病原的第一線防禦。因此 HCL 患者的感染型態與一般嗜中性球低下患者截然不同——不是尋常的 gram-negative 菌血症，而是一群具高度特異性的伺機性病原體：atypical mycobacteria（尤其 M. kansasii）、Legionella、Listeria monocytogenes、Pneumocystis jirovecii、Cryptococcus、Histoplasma、Toxoplasma、Nocardia。一項系統性回顧納入 48 名 HCL 合併 mycobacterial infection 的病人，發現非結核分枝桿菌占 69%（其中 M. kansasii 55%、M. avium complex 30%），播散性感染占 71%，整體死亡率高達 40%，肺部侵犯者死亡率更達 79%。另有病例報告顯示 disseminated MAC lymphadenitis 可先於 HCL 診斷出現，凸顯不明原因非結核分枝桿菌感染時應主動篩檢潛在血液惡性病。舊有的胸部影像學系列也早已注意到 HCL 病人肺部肉芽腫性感染（含非典型分枝桿菌）的高盛行率。
+
+疾病本身造成的 neutropenia 與 monocytopenia 之上，purine analogue（cladribine、pentostatin）治療會再疊加長期 CD4⁺ T 淋巴球低下，此免疫缺損可持續數月至數年，使約 20–30% 的病患在病程中經歷伺機性感染。在此期間，臨床上通常會考慮 PJP prophylaxis 以及 HSV/VZV prophylaxis，直到 CD4 計數恢復；具體起訖時間需依中心方案與病人 CD4 動態調整。
+
+若病人在治療前正處於活動性感染中，先以 purine analogue 治療將使骨髓毒性與 T 細胞抑制進一步惡化感染控制，因此臨床上常先積極處理感染、待病情穩定後再啟動化療；對於高度感染風險或已有嚴重感染的病人，BRAF inhibitor（vemurafenib、dabrafenib）作為非骨髓毒性的橋接治療是被明確提出的替代策略。
+
+主軸四：「近乎正常餘命」的精確含意
+
+Cladribine 單藥治療的反應率接近 100%，10 年存活率約 70%；早期系列報告 complete response 率可達約 95%。但約半數病患於 5–10 年內復發，HCL 因此被定位為「可反覆治療、長期共存」而非「一次治癒」的疾病——這正是「近乎正常餘命」一詞的精確意涵：存活曲線接近一般族群，但代價是需要多線治療。
+
+復發後的策略包括：再次使用 purine analogue（單用或合併 rituximab）、moxetumomab pasudotox（二次復發後的 anti-CD22 免疫毒素）、BRAF inhibitor（vemurafenib 或 dabrafenib）合併 rituximab／obinutuzumab（療效佳且為 chemotherapy-free）、以及 BTK inhibitor（如 ibrutinib）在復發族群中的探索性角色。同步給予 CDA/rituximab 相較於序貫給藥，MRD 陰性 CR 率可達 97% 對 24%（p < 0.0001），10 年 event-free survival 率達 95%。
+
+長期存活者需留意第二原發惡性腫瘤風險；此議題在文獻中被提及與疾病本身的免疫失調及 purine analogue 的長期免疫抑制／基因毒性效應兩者皆有關聯，但何者貢獻比例更大目前尚無定論，屬於仍在持續追蹤的長期安全性議題。
+
+主軸五：逐項解析選項
+
+- 正確。BRAF V600E 是至少 95% 病例的致病突變，並形塑包括特殊細胞形態在內的關鍵疾病特徵。
+- 正確。自 purine analogue 問世後，HCL 病患的餘命已幾乎等同一般族群，但如上所述這是「可反覆治療」下的近乎正常，而非單次治癒後的正常。
+- 正確。BRAF V600E 突變／蛋白檢測，加上 HCL 特異性免疫表型標記（包括 annexin A1），可用於鑑別 HCL variant／SBLPN、splenic marginal zone lymphoma 等模仿疾病，這些疾病的臨床處置策略不同。Annexin A1 的獨特之處在於它是目前最專一的 HCL 標記，但實務判讀有一項重要陷阱：myeloid 細胞本身即表現 annexin A1，因此在已接受過治療（骨髓再生、髓系細胞比例上升）或檢體有髓系細胞污染時，annexin A1 染色不可單獨作為判讀依據，否則易造成偽陽性誤判。
+- 正確。Cladribine 或 pentostatin 為主的骨髓毒性化療，單用或合併 rituximab，是目前 HCL 高度有效的標準治療。
+- 錯誤，且方向相反。HCL 初診時的特徵是 monocytopenia（單核球減少），而非 monocytosis。文獻明確指出「monocytopenia is seen in almost all cases」，這是 HCL 診斷上最恆定、最具鑑別價值的血球異常之一。選項 (E) 將方向完全顛倒，因此是本題唯一錯誤敘述。

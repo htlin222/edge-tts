@@ -1,0 +1,100 @@
+第一一四年 第二十一集
+有脈絡的綜論:一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMC…
+
+有脈絡的綜論:一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMCD-NOS
+
+# 一個縮寫裡藏著兩個幾乎相反的疾病：iMCD-TAFRO 與 iMCD-NOS
+
+## 一、先畫清楚 Castleman disease 的分類地圖
+
+所有混淆幾乎都源於分類層次沒釐清。第一層依侵犯範圍分為unicentric Castleman disease (UCD)（單一淋巴結區域腫大）與multicentric Castleman disease (MCD)（多處淋巴結區域腫大）。
+
+第二層，MCD 依病因分三類： - HHV-8-associated MCD：常見於 HIV 感染或其他免疫低下族群，由 uncontrolled HHV-8 感染驅動，約占 MCD 的一半 - POEMS-associated MCD：由 plasma cell neoplasm 過度分泌細胞激素所驅動 - idiopathic MCD (iMCD)：HHV-8 陰性，且排除其他可解釋病因後的診斷
+
+第三層，iMCD 再依臨床表現分為兩至三個亞型：iMCD-TAFRO、iMCD-idiopathic plasmacytic lymphadenopathy (IPL)，以及不符合前兩者標準的iMCD-NOS (not otherwise specified)。組織病理上則有三種型態：hyaline vascular（HV，多見於 UCD）、plasmacytic（PC）、mixed。
+
+## 二、核心：iMCD-TAFRO 與 iMCD-NOS 的鏡像對照
+
+iMCD-TAFRO 的縮寫代表： - T = Thrombocytopenia（血小板「低下」） - A = Anasarca（全身性水腫、腹水、肋膜積水） - F = Fever 與/或骨髓的 reticulin Fibrosis - R = Renal dysfunction（腎功能異常） - O = Organomegaly（肝脾腫大）
+
+驗證性國際定義研究納入 54 例病例後確立：iMCD-TAFRO 是iMCD 的猛爆性（aggressive）亞型，常伴 hyper-vascularized 淋巴結，血小板 cut-off 訂在 ≤100×10³/μl。日本一項比較研究的實測數字更具體：TAFRO 組治療前血小板中位數僅 3.8×10³/μL，遠低於 iMCD-NOS/IPL 組的 35.5×10³/μL；IgG 則是 TAFRO 組 1431 mg/dL 明顯低於對照組的 4725 mg/dL。免疫球蛋白多為正常或偏低、淋巴結腫大往往較不明顯（small volume lymphadenopathy）而容易被漏診，骨髓則呈現巨核細胞增生伴 reticulin 纖維化。
+
+iMCD-NOS（及重疊的 IPL）則相反：血小板增多（thrombocytosis）、顯著的多株性高丙種球蛋白血症、明顯淋巴結腫大、病程相對慢性/惰性，較符合典型「IL-6 驅動」表現。
+
+特徵
+
+iMCD-TAFRO
+
+iMCD-NOS
+
+血小板
+
+低下（thrombocytopenia）
+
+增多（thrombocytosis）
+
+免疫球蛋白
+
+正常或偏低
+
+顯著高丙種球蛋白血症
+
+淋巴結腫大
+
+常不明顯，易漏診
+
+明顯
+
+病程
+
+猛爆性、常需 ICU
+
+相對緩和
+
+對抗 IL-6 治療反應
+
+較差，常需高劑量類固醇 ± cyclosporine/sirolimus
+
+較好
+
+參考文獻
+
+兩個亞型在「血小板」與「免疫球蛋白」這兩項上剛好呈相反方向——這正是選項 (D) 把 thrombocytosis 誤植到 TAFRO 的核心錯誤所在。
+
+## 三、(A)(B) 核心：HHV-8 的病毒 IL-6 是「繞過守門員」的分子
+
+正常人類 IL-6 訊號需要兩個受體元件：IL-6 先結合 IL-6Rα (gp80)，形成的複合體再與 gp130 結合才能啟動下游訊號。HHV-8 編碼的 viral IL-6 (vIL-6) 則不同——分子層面研究顯示，vIL-6 可不經 gp80 而直接結合並活化 gp130，啟動 JAK-STAT3 訊號。這使 vIL-6 幾乎能刺激體內所有表現 gp130 的細胞，而不受 gp80 表現量限制。
+
+臨床後果是：針對 IL-6 受體的 tocilizumab 在 HHV-8 相關 MCD 效果可能受限，因為 vIL-6 根本繞過該受體發揮作用。因此 HHV-8-MCD 的治療走完全不同的路線：第一線是 rituximab，清除套膜區（mantle zone）中攜帶病毒的 CD20⁺ plasmablast 病毒儲庫，法國 ANRS 117 CastlemaB 試驗顯示 22/24 例於第 60 天達持續緩解，77% 於第 365 天仍維持緩解；另一系列 21 例中 67% 達 PR，2 年 OS 達 95%。合併 HIV 者須同時給予 ART；病情嚴重或伴 Kaposi sarcoma 者需加 etoposide 或 liposomal doxorubicin（NCCN 亦建議 HHV-8 陽性者合併 ganciclovir/valganciclovir）。
+
+值得補充的鑑別點：HHV-8-MCD 病人罹患 Kaposi sarcoma 與 primary effusion lymphoma 的風險較高，且 rituximab 治療合併 KS 時可能使 KS 惡化，需與 liposomal doxorubicin 併用。
+
+## 四、(C) 核心：iMCD 是排除性診斷
+
+CDCN 2017 國際共識診斷準則要求：兩項 major criteria（①特徵性淋巴結組織病理；②至少兩處淋巴結腫大），加上 11 項 minor criteria 中至少 2 項（其中至少 1 項須為實驗室異常），並排除可能造成類似表現的感染性、惡性、自體免疫疾病。Minor criteria 涵蓋 CRP/ESR 升高、貧血、血小板低下或增多、低白蛋白血症、腎功能異常或蛋白尿、多株性高丙種球蛋白血症、體質性症狀、肝脾腫大、積液/水腫、cherry hemangiomatosis 或紫色丘疹、lymphocytic interstitial pneumonitis。
+
+必須排除的疾病包括： - 感染：HHV-8、HIV、EBV、結核 - 自體免疫：SLE、rheumatoid arthritis、adult-onset Still disease、IgG4-related disease - 惡性：lymphoma（尤其 Hodgkin lymphoma 與 angioimmunoblastic T-cell lymphoma）、POEMS syndrome、multiple myeloma、濾泡樹突細胞肉瘤
+
+實務關鍵：「Castleman-like」的淋巴結組織學變化可出現在上述任一疾病中，因此病理報告寫出 Castleman disease 不等於診斷成立，必須結合臨床表現、實驗室數值與完整排除流程。
+
+## 五、(E) 核心：siltuximab 何以是第一線
+
+Siltuximab 是抗 IL-6 的嵌合型單株抗體，直接中和 IL-6 本身（而非受體），是唯一獲美國 FDA 核准（2014）用於 iMCD 的藥物，限用於 HHV-8 陰性、HIV 陰性者。關鍵的第二期隨機雙盲安慰劑對照試驗（NCT01024036）納入 79 例 iMCD 患者，siltuximab 組確認的持久反應率為 34% vs. 安慰劑組 0%。後續 post hoc 分析顯示，siltuximab 顯著延長無惡化存活（PFS 中位數安慰劑組 14.5 個月，siltuximab 組未達）。國際指引因此建議 siltuximab 作為 iMCD 所有亞型的第一線治療。日本核准的 tocilizumab（抗 IL-6 受體）可作為替代選項，NCCN 亦將其列為 siltuximab 短缺時的合理替代。
+
+分層治療策略：非重症 iMCD 可用 siltuximab ± 類固醇；重症 iMCD（尤其 TAFRO）則需 siltuximab 併用高劑量類固醇，無效時考慮 cyclosporine 或 sirolimus。
+
+一段極具故事性的科學進展：Fajgenbaum 醫師本人罹患 iMCD-TAFRO，多次瀕臨死亡並對 IL-6 阻斷治療無效；其團隊研究發現這類難治病人存在 PI3K/Akt/mTOR 路徑活化，以 sirolimus 治療後三例患者皆獲得持久緩解（66、19、19 個月），隨後的組織與血清蛋白質體學研究進一步證實 iMCD 淋巴結中 mTOR 活化程度增加，也促成了 sirolimus 於難治性 iMCD 的前瞻性試驗（NCT03933904）。
+
+## 六、逐項評析
+
+- (A) 正確：HHV-8 感染是 MCD（尤其 HHV-8-associated MCD）的致病驅動因子之一。
+- (B) 正確：HHV-8 在淋巴結套膜區的 plasmablast 中進行 lytic 複製，並轉錄出 vIL-6。
+- (C) 正確：iMCD 診斷準則明確要求排除潛在自體免疫疾病與惡性淋巴增生性腫瘤。
+- (D) 錯誤（且錯了三處）：
+
+- 「indolent」錯——iMCD-TAFRO 是猛爆性（aggressive/fulminant）亞型，常需 ICU 照護、死亡率高
+- 「thrombocytosis」錯——TAFRO 的 T 是 Thrombocytopenia（血小板低下）；血小板增多反而是 iMCD-NOS 的特徵
+- 「hepatic dysfunction」錯——TAFRO 的 R 是 Renal dysfunction（腎功能異常），並非肝功能
+- (E) 正確：siltuximab 是 iMCD 所有亞型建議的第一線治療。
+
+臨床 take-home：當一個縮寫被記錯一個字母，臨床上就會期待一個完全相反的血球數字——把 TAFRO 的 thrombocytopenia 記成 thrombocytosis，等於把一個瀕死的猛爆性重症病人誤判成惰性的高球蛋白血症病人，直接影響治療強度與監測方向。

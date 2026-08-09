@@ -1,0 +1,231 @@
+第一一四年 第六十七集
+有脈絡的綜論:濾得掉細胞，濾不掉已經發生的發炎
+
+以下是一篇以「非溶血性發熱輸血反應」為核心的深度臨床綜論，主軸環繞機轉典範轉移、介入時機、premedication 的證據困境，以及應對邏輯。
+
+## 前言：一個「最常見」反應背後藏著的認知陷阱
+
+在輸血醫學的教科書裡，febrile nonhemolytic transfusion reaction（FNHTR）長期被列為「最常見的輸血不良反應」。然而這個排行榜位置，本身就充滿爭議——它的取得，部分來自定義的寬鬆，部分來自其他反應（尤其是輕微過敏/蕁麻疹）的漏報。更重要的是，在這個看似「人畜無害」的反應背後，藏著一條被醫界花了數十年才理清的機轉敘事線，以及一個被隨機試驗拆穿、卻至今仍在臨床廣泛施行的「無效預防習慣」。
+
+本篇不處理所有輸血反應的鑑別診斷，而是聚焦在 FNHTR 本身——它的機轉、機轉如何決定介入的時機（而非只是方式）、premedication 的證據困境，以及第一線處置的思維邏輯。
+
+## 主軸一：一個典範轉移——從「受血者的抗體」到「血袋自己在發炎」
+
+### 早年模型：抗體攻擊白血球
+
+FNHTR 的第一代解釋模型，是免疫學直覺的自然延伸：受血者體內存在 anti-HLA 或 anti-leukocyte 抗體（後者涵蓋 anti-HNA、anti-granulocyte 等），當輸入含有捐血者白血球的血品時，這些抗體與白血球抗原結合，觸發免疫反應，釋放 pyrogenic mediators，進而引發發燒、寒顫。
+
+這個模型有幾個臨床觀察的支撐： - 多次輸血者（red cell transfusion recipients with multiple exposures）與多次懷孕婦女（multiparous women），因對外來 HLA 抗原有較多接觸機會，FNHTR 發生率確實較高。 - 早期研究顯示，若將同一受血者的血清與捐血者白血球混合，可在體外偵測到相符的 leukoagglutinins 或 HLA antibodies。
+
+這個「受血者有抗體 → 攻擊捐血者白血球 → 發燒」的框架，在邏輯上無懈可擊，也因此主導了相當長一段時間的臨床思維——包括「去除白血球可預防 FNHTR」這個結論，在當時也是從「清除抗原靶標」的角度來理解的。
+
+### 典範轉移：血袋本身就在「發炎」
+
+問題在於，這個模型無法解釋一個反覆被觀察到的現象：即使用白血球已大量減少的血品（如 bedside leukoreduction filter 過濾後的血品），FNHTR 仍然發生，而且在血小板輸注中尤為明顯。
+
+1990 年代起，一系列研究開始揭示第二條機轉——儲存期間的 cytokine 累積。殘留在血品中的白血球（即使數量不多），在儲存過程中仍持續釋放大量促炎性細胞激素，包括： - IL-1β（強力的 endogenous pyrogen） - IL-6（急性期反應的核心誘導者） - IL-8（CXC chemokine，具有 pyrogenic 活性） - TNF-α（多效炎症細胞激素）
+
+這些 cytokines 溶解在血漿中，隨輸血一起進入受血者體內，無需受血者體內有任何抗體，即可直接作用於下視丘，誘發發燒反應。受血者是被動接受一包「已提前完成發炎反應」的液體。
+
+台灣一項重要的臨床研究（Chang et al., Oncotarget 2018）直接測量了 pre-storage leukocyte-reduced（pre-LR）與 post-storage leukocyte-reduced（post-LR）血品中的 cytokine 濃度，發現： - Post-LR 的紅血球中，IL-1β、IL-8、RANTES 在儲存期間顯著升高 - Post-LR 的血小板（apheresis platelets）中，IL-1β、IL-6、IL-8 在儲存期間顯著升高 - Pre-LR 血品的 cytokine 累積程度則明顯較低，且對應的 FNHTR 發生率也確實降低
+
+### 紅血球 vs. 血小板：一個關鍵的儲存溫度差異
+
+這兩條機轉的相對重要性，在不同血品間有所不同，核心差異在於儲存溫度：
+
+血品
+
+儲存溫度
+
+Cytokine 累積速率
+
+主導機轉
+
+Red blood cells（RBCs）
+
+1–6°C（冷藏）
+
+相對較慢
+
+兩條機轉並存；抗體機轉較重要
+
+Apheresis platelets
+
+20–24°C（室溫，需搖晃）
+
+顯著較快
+
+Cytokine 機轉更主導
+
+血小板在室溫儲存，白血球代謝活性高，cytokine 釋放速率遠高於冷藏的紅血球。這也解釋了為何血小板輸注的 FNHTR 發生率，在未行 pre-storage leukoreduction 的時代顯著高於紅血球輸注。同時，這也為 FNHTR 的預防策略，提供了最關鍵的機轉邏輯。
+
+## 主軸二：機轉決定了介入的「時機」，而不只是介入的「方式」
+
+### Leukoreduction：共識背後的細節分歧
+
+去白血球（leukoreduction）能降低 FNHTR，這在輸血醫學中幾乎是教科書級的共識（Lancet 2016，grade 1A）。但「去白血球」這個標籤底下，其實包含了截然不同的兩種時機，而這個時機的差別，正是理解 FNHTR 機轉典範轉移的最佳試金石。
+
+### Pre-storage vs. Bedside（Post-storage）Leukoreduction
+
+Bedside filtration（床邊過濾）：在輸血當下，血品通過白血球過濾器進入受血者體內。這個方法確實能移除大多數殘留白血球（白血球本身），因此能阻斷「抗體攻擊白血球」這條機轉。
+
+然而，它無法移除白血球在儲存期間已釋放到血漿中的 cytokines。那些 IL-1β、IL-6、IL-8、TNF-α 已溶解在液相中，分子太小，根本無法被白血球過濾器截留。床邊過濾濾得掉細胞，卻濾不掉「已完成的炎症訊號」。
+
+Pre-storage leukoreduction（儲存前去白血球）：在採血後、血品入庫儲存之前，即完成白血球去除。這個時機的關鍵在於：在 cytokine 尚未大量累積之前，先清除產生 cytokine 的來源（白血球）。後續儲存期間，血漿中的 cytokine 濃度便能維持在低水平，輸入受血者的整包血漿，實質上更為「乾淨」。
+
+Chang et al.（2018）的臨床數據直接驗證了這個邏輯：pre-LR 血品不僅 cytokine 濃度較低，FNHTR 的實際發生率也顯著低於 post-LR 血品——而且這個差異在血小板輸注中更為明顯，與理論預測完全一致。
+
+### 標準與政策
+
+Pre-storage leukoreduction 的白血球殘留標準，各地略有差異： - 美國（AABB 標準）：每單位殘留白血球 < 5 × 10⁶ - 歐洲標準（更嚴格）：每單位殘留白血球 < 1 × 10⁶
+
+實施 universal leukoreduction 政策（全面性對所有血品進行 pre-storage leukoreduction）的國家和地區，已記錄到 FNHTR 發生率的顯著下降。在血小板輸注方面，加上 platelet additive solution（PAS）的使用，可進一步將反應率從約 0.5% 降至 0.17%（Lancet 2016，grade 1B）。
+
+### Leukoreduction 同時帶來的其他效益
+
+Pre-storage leukoreduction 的效益遠不止於 FNHTR：
+
+- 降低 HLA alloimmunization：減少受血者對捐血者 HLA 抗原的免疫致敏，進而降低血小板輸注無效（platelet refractoriness）的風險——這對需要長期輸注血小板的血液腫瘤患者，具有實質的長遠意義。
+- CMV 傳播風險降低（"CMV-safe" 等效）：CMV 潛伏於白血球中，去白血球後，血品的 CMV 傳播風險大幅下降，在許多指引中，leukoreduced 血品被認為等效於「CMV 陰性血品」，可用於免疫缺乏的高風險受血者。
+
+### Leukoreduction「做不到」的事
+
+必須強調一點，以避免認知混淆：leukoreduction 無法取代輻射照射（irradiation）來預防 transfusion-associated graft-versus-host disease（TA-GVHD）。TA-GVHD 的機轉是輸入的捐血者 T 淋巴球存活並攻擊受血者組織，去白血球雖能大量減少白血球數量，但殘留的少量功能性 T 細胞在免疫極度低下的宿主體內仍可能引發 TA-GVHD。輻射照射能使 T 細胞 DNA 無法複製，是預防 TA-GVHD 的不可或缺手段，兩者功能不可互換。
+
+## 主軸三：一個做了數十年、卻被隨機試驗證明無效的習慣——Premedication
+
+### 直覺上「合理」的預防邏輯
+
+「輸血前先給 acetaminophen（退燒止痛）和 diphenhydramine（抗組織胺）」，在許多醫院是根深蒂固的常規，尤其針對有輸血反應史或高風險患者。這個做法直覺上無比合理：
+
+- Acetaminophen → 阻斷 prostaglandin 合成 → 預防發燒
+- Diphenhydramine → 阻斷 H₁ receptor → 預防過敏/蕁麻疹
+
+然而，直覺合理的東西，在隨機對照試驗（randomized controlled trial, RCT）面前，往往需要重新接受審視。
+
+### 關鍵試驗證據
+
+Kennedy et al.（Transfusion, 2008）是目前最常引用的 RCT 之一。這項前瞻性、隨機、雙盲、安慰劑對照試驗，納入 315 名血液腫瘤科（leukemia、BMT）患者，所有血品均使用白血球過濾器（bedside leukofilter）。結果顯示：acetaminophen + diphenhydramine 預投藥組與安慰劑組相比，整體輸血反應發生率無顯著差異。
+
+Ning et al.（Transfusion, 2019）進行的系統性回顧與 meta-analysis，彙整了三項符合納入標準的 RCT（共 517 名患者、4444 次輸血），結果如下： - 整體非溶血性輸血反應：RR 0.92（95% CI 0.63–1.35）→ 無統計顯著性 - FNHTR 特異性：RR 0.54（95% CI 0.26–1.1）→ 趨勢有限，信賴區間跨越 1 - 輕微過敏反應：RR 1.37（95% CI 0.81–2.31）→ 無效益，甚至有微升趨勢
+
+結論一致且明確：routine premedication 對預防非溶血性輸血反應無效。
+
+Cochrane 系統性回顧（Martí-Carvajal et al., 2010）的結論同樣支持此立場。AABB（美國血液銀行學會）在相關指引中，明確不建議對一般患者常規使用 premedication（grade 1A）（Lancet 2016）。
+
+### 無效之外，還有潛在的「傷害」
+
+更值得關注的，不只是無效，而是 premedication 可能帶來積極的臨床傷害：
+
+Acetaminophen 遮蔽發燒，而發燒是最重要的警訊之一。
+
+FNHTR 固然以發燒表現，但以下兩種更危險、甚至致命的輸血反應，同樣以發燒為最早期、有時甚至是唯一的表現：
+
+- Septic transfusion reaction（敗血性輸血反應）：血品受細菌污染，輸入受血者後引發全身性炎症反應，可迅速演變為敗血性休克。血小板因室溫（20–24°C）儲存，是所有血品中最容易滋生細菌的品項（常見菌如 Staphylococcus epidermidis、Staphylococcus aureus、Klebsiella pneumoniae 等），敗血性輸血反應的致死率可達 25% 以上。若在輸血前給予 acetaminophen，將使體溫升高的訊號被壓制，延誤辨識與停止輸血的時機。
+- Acute hemolytic transfusion reaction（急性溶血性輸血反應, AHTR）：通常由 ABO 不相容輸血引起，發燒往往是最早出現的症狀之一，其後才出現腰痛、血尿、低血壓等溶血徵象。Acetaminophen 若已事先投予，可能讓醫療人員錯失最寶貴的「停手視窗」。
+
+Diphenhydramine 的鎮靜作用，可能遮蔽早期預警徵象。
+
+Diphenhydramine 具有明顯的中樞神經鎮靜效果，可能： - 掩蓋患者對呼吸困難、胸悶（TRALI 或嚴重過敏反應的早期症狀）的主觀察覺與表達 - 影響患者意識狀態的評估，使輸血護理人員難以判斷意識改變是藥物效果還是病情惡化
+
+一項來自 Vanderbilt 大學的回顧性研究（Christensen et al., Transfusion, 2019）分析了 948 名急性骨髓性白血病（AML）患者於 9 年間的 19,820 次輸血，發現：30% 的輸血前投予了口服 diphenhydramine，39% 投予了口服 acetaminophen，而且隨時間呈上升趨勢——即便在 RCT 已反覆顯示無效的情況下，premedication 的使用率不降反升。
+
+這是一個典型的「知識-行為落差（knowledge-practice gap）」案例：證據早已清楚，但臨床慣性極難動搖，因為「做了沒壞處」的假設仍深植人心——而實際上，潛在的遮蔽效應是真實存在的臨床風險。
+
+## 主軸四：發生當下該怎麼做——「發燒必須先當成壞事」
+
+### 操作型定義與排除性診斷的臨床意義
+
+FNHTR 的操作型定義（Cochrane 2015；Lancet 2016）： > 輸血中或輸血後 4 小時內，體溫上升 ≥ 1°C，且達到 ≥ 38°C，並排除其他原因（如原有感染、藥物熱等）所致的發燒。
+
+FNHTR 是一個排除性診斷（diagnosis of exclusion）。這四個字的臨床意義是：在確認是 FNHTR 之前，你必須先系統性地排除所有更危險的可能性。這個排除過程是有檢查清單的，不是「感覺不像嚴重問題」就能跳過的。
+
+### 第一步：永遠是「先停，再查」
+
+任何輸血中或輸血後 4 小時內出現體溫升高 ≥ 1°C 達 ≥ 38°C，標準處置流程如下：
+
+- 立即停止輸血，保留靜脈通路（以生理食鹽水維持）
+- 重新核對病人身分與血袋標籤（排除 ABO 不相容錯誤）
+- 回報血庫，並保留血袋與輸血管路
+- 評估生命徵象：血壓、呼吸、心跳、SpO₂
+- 抽血進行基本實驗室評估：direct antiglobulin test（DAT）、plasma hemoglobin（檢視有無溶血）、blood culture（受血者與血袋殘液）
+- 排除：急性溶血反應、敗血性輸血反應、TRALI、嚴重過敏反應
+
+只有在上述評估均為陰性、且無其他原因可解釋發燒的情況下，才能回溯性地診斷 FNHTR。
+
+### 「大概只是 FNHTR」是一個危險的推論
+
+臨床上最常見的錯誤，是在輸血中見到輕微發燒、認為「這種患者（如長期接受化療的血液病患）常有 FNHTR，不要緊」，然後在未停血、未評估的情況下繼續輸注。
+
+這個決策邏輯的危險性在於：FNHTR 與 septic transfusion reaction 的早期表現幾乎完全重疊（發燒、寒顫）。而敗血性輸血反應一旦進展，可在數十分鐘內演變為 septic shock。在血小板輸注中，這個風險尤其高——血小板室溫儲存、保存期長，是細菌污染的高危血品。
+
+停血是「低成本、高安全」的保護動作；繼續輸血而未排除危險診斷，才是高風險的決定。
+
+## 主軸五：114 年血液專科考題——五個子敘述的逐項評析
+
+本考題為複選組合題，詢問關於 FNHTR 之正確敘述，官方答案為 (C) = (1)+(2)+(3)+(5)，亦即唯有 (4) 錯誤。以下逐項評析。
+
+### (1) FNHTR 為最常見的輸血反應
+
+評析：大體正確，但需理解背後的流行病學複雜性。
+
+多數輸血醫學文獻（包括 Goel et al., Blood 2019；Bansal et al., Current Opinion in Immunology 2025）均將 FNHTR 列為最常見的非感染性輸血不良反應，發生率約為每輸血 episode 1%（依定義與報告系統，每單位輸血可達 1–3%）。
+
+然而這個排名並非毫無爭議： - 輕微過敏/蕁麻疹反應（minor allergic/urticarial reactions）在部分統計中發生率達 1–2%，與 FNHTR 不相上下，甚至超過 FNHTR（Cochrane 2015）。 - 差異主要源自定義的嚴格程度與報告完整性：許多輕微蕁麻疹未被正式上報；反之，任何發燒在輸血後 4 小時內均可能被歸入 FNHTR，造成高估。 - 在 universal leukoreduction 政策實施後，FNHTR 發生率已顯著下降，使得過敏反應在相對排名上可能更突出。
+
+結論：在台灣考試脈絡與教科書框架下，(1) 視為正確陳述是合理的，但臨床上應理解此排名的定義依賴性。
+
+### (2) 早年認為可能由 HLA 抗體、白血球抗體所引起
+
+評析：完全正確，且是重要的歷史機轉認識。
+
+如主軸一所述，anti-HLA 與 anti-leukocyte 抗體（anti-HNA 等）與受血者的 alloimmunization 史直接相關，曾是 FNHTR 機轉的主流解釋。此條陳述準確描述了早年的科學認識，無爭議。
+
+### (3) 可由血袋中的 cytokines 引起
+
+評析：完全正確，且是現代機轉理解的核心。
+
+儲存期間白血球釋放的 IL-1β、IL-6、IL-8、TNF-α 等可溶性細胞激素，隨血漿輸入受血者後直接誘發發燒，無需受血者有任何抗體。這是現代 FNHTR 機轉解釋的第二支柱，也是 pre-storage leukoreduction 優於 bedside filtration 的理論基礎，由多項體外研究與臨床比較研究所證實（Chang et al., 2018；Delaney et al., Lancet 2016）。
+
+### (4) 輸血前給予 acetaminophen 可減少反應之發生
+
+評析：錯誤。此為本題唯一錯誤選項，亦是考題的核心考點。
+
+如主軸三所詳述，多項 RCT 與系統性回顧均顯示 premedication 無效：
+
+- Kennedy et al.（2008）：315 名血液腫瘤患者，雙盲 RCT，整體反應率無顯著差異
+- Ning et al.（2019）：meta-analysis，RR 0.92（95% CI 0.63–1.35），無統計顯著性
+- Cochrane review（Martí-Carvajal et al., 2010）：結論一致支持無效
+
+AABB 與 Lancet（2016）明確建議：不應對一般患者常規使用 premedication（grade 1A）。
+
+更關鍵的問題是：即使忽略無效性，acetaminophen 對發燒的遮蔽作用，可能延誤辨識 septic transfusion reaction 與 AHTR 這兩個潛在致命反應的時機。這讓「無效」的問題，升級成為潛在的「有害」。
+
+此項「直覺上合理、實際上無效且有潛在危害」的特質，正是考題設計者將此選項置入的用意——也是最值得臨床醫師深刻反思的地方。
+
+### (5) 去白血球法也可減少發生
+
+評析：正確，但需區分時機以理解其完整意涵。
+
+Pre-storage leukoreduction 確實能顯著降低 FNHTR 的發生率，這在多項研究與系統性回顧中均有強力支持（Cochrane 2015；Lancet 2016，grade 1A）。此選項的陳述是正確的。
+
+考題此處的細節陷阱在於：若理解停留在「去白血球 → 降低 FNHTR」這個層次，容易對 bedside filtration 產生過度信心。深層理解應包含：pre-storage leukoreduction 之所以優於 bedside filtration，正是因為它能同時阻斷「抗體-白血球」與「cytokine 累積」兩條機轉，而後者在床邊過濾無法達成。
+
+## 結語：一個「小反應」教會我們的大道理
+
+FNHTR 在輸血反應的嚴重性排行中，確實不是最頂端的那個。但它的教學價值，遠超過它的臨床危險性：
+
+- 它示範了機轉典範如何被修正——從純粹的免疫學觀點，到理解儲存生物學的重要性。
+- 它示範了介入時機的重要性——同樣是「去白血球」，pre-storage 與 bedside 的效果判若雲泥，原因在於機轉的理解深度不同。
+- 它示範了臨床直覺與隨機試驗可以多麼對立——premedication 的故事，是 evidence-based medicine 對 eminence-based medicine 的一次重要勝利，只是勝利的訊息在臨床前線傳遞得太慢。
+- 它示範了「排除性診斷」的臨床責任——「大概只是 FNHTR」，是一個需要用完整的排除流程來「賺取」的結論，不是一個可以憑感覺直接跳到的答案。
+
+每一次面對輸血中的發燒，第一個反應應該是：先停，再查，然後才能給。
+
+本文綜合了以下關鍵文獻的核心證據：
+
+機轉部分：Chang et al.（Oncotarget, 2018）的 pre-LR vs. post-LR 比較研究，直接證實了 pre-storage leukoreduction 的優越性與 cytokine 累積在 FNHTR 中的作用 ；Delaney et al.（Lancet, 2016）提供了 FNHTR 機轉、定義、以及各項介入措施的 grade 1A 推薦框架 ；Cochrane 系統性回顧（Simancas-Racines et al., 2015）彙整了 leukoreduction 在預防各類輸血不良反應中的證據 。
+
+Premedication 部分：Kennedy et al.（Transfusion, 2008）的雙盲 RCT 是最常引用的核心試驗 ；Ning et al.（Transfusion, 2019）的 meta-analysis 是目前最全面的 pooled estimate，RR 0.92，CI 跨越 1，結論明確無效 ；Cochrane review（Martí-Carvajal et al., 2010）同樣支持此結論 ；Christensen et al.（Transfusion, 2019）則從衛生經濟學與知識-行為落差的角度，揭示了無效 premedication 仍被廣泛使用的現況 。
+
+重要臨床注意點： - Premedication 的問題不僅是「無效」，而是 acetaminophen 遮蔽發燒訊號，可能延誤辨識 septic transfusion reaction（血小板污染率最高）與 acute hemolytic transfusion reaction 的時機 - Leukoreduction 不能取代輻射照射預防 TA-GVHD，兩者機轉完全不同 - Universal leukoreduction 的附加效益（CMV-safe、降低 HLA alloimmunization）對長期輸血依賴的血液腫瘤患者，具有重要的長遠臨床意義

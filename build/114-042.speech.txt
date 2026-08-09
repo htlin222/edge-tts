@@ -1,0 +1,83 @@
+第一一四年，第四十二集。
+
+為什麼有一種 mantle cell lymphoma,從來不去淋…。
+
+有脈絡的綜論：為什麼有一種 mantle cell lymphoma,從來不去淋巴結
+
+![](/img/img/8a841694-5254-4659-b7b2-956afc8e7094.jpg)
+Figure 1: FIG Understanding of the pathogenesis of mantle cell lymphoma (MCL) in 2022. Possible cell of origin for MCL is likely a B1a cell. Two major clinical presentations: common conventional MCL (90% of patients) with a generally aggressive clinical course and characterized by SOX‐11‐positive MCL cells and an unmutated immunoglobulin heavy chain variable region (IGHV), and an indolent clinical presentation of MCL (10% of patients), generally presenting as nonnodal leukemic‐phase MCL that is SOX‐11‐negative ( CCND1 and TLR2 mutations are frequent) and exhibits a germinal center reaction with somatic hypermutation of IGHV. Acquisition of other aberrant molecular changes such as TP53 , NSD2 , SMARCA4 , UBR5 , NOTCH2 , and CDKN2A deletions can further transform MCL into an aggressive blastoid or pleomorphic type of MCL (transformation in MCL). The presence of MCL clones in the inner mantle zone without disrupting the nodal architecture is considered in situ mantle cell neoplasia (ISMCN). Recently, DNA methylation patterns have further divided MCL into cluster 1 (common and aggressive) and cluster 2 (uncommon, indolent, and mutated IGHV). In the future, a combined clinico‐pathologic‐genomic approach will likely define subtypes of MCL. Major aberrations in the pathogenesis of MCL are summarized in the figure. Clinically, identifying the histology type; Ki‐67%; SOX‐11 status; karyotype; and somatic mutations in TP53 , ATM , CCND1 , NSD2 , NOTCH1 , NOTCH2 , SMARCA4 , and CDKN2A carry prognostic significance. (Adopted with permission from Reference 36 ) Abbreviations: IGHV (immunoglobulin heavy chain variable region) , SOX‐11 [sex‐determining region Y (SRY) (SRY‐related high mobility group‐box) protein] , PAX‐5 (paired box‐5) transcription factor , PDGF‐A (platelet derived growth factor‐A) , FAK kinase (focal adhesion kinase) , EpiCMIT score (epigenetically determined cumulative mitoses) , NSD2 (nuclear receptor binding SET domain protein 2) , KMT2D (lysine methyltransferase 2D) , SMARCA4 SWI complex (SWItch/sucrose nonfermentable) ATP dependent chromatin remodeling complex , OXPHOS (oxidative phosphorylation) pathway , BIRC3 (baculoviral IAP repeat containing 3) , TRAF2 (TNF receptor associated factor 2) , UBR5 (ubiquitin protein ligase E3 component N‐recognin 5) , HNRNPH (heterogeneous nuclear ribonucleoprotein H)
+
+一、開場：MCL 最大的迷思
+
+t 11 14 易位/cyclin D1 幾乎是 MCL 的「診斷代名詞」，但這個易位本身「不足以」決定病人的臨床行為——因為健康人的周邊血中也能偵測到帶 t 11 14 易位的 B 細胞克隆，卻終生不發病。真正把 MCL 分成截然不同兩條臨床路徑的，是SOX11 的表現狀態與這顆腫瘤細胞是否曾經走過生發中心（germinal center）。這與 CLL 用 IGHV 突變狀態去問「這顆細胞的來歷」是同一種思路，只是 MCL 多了 SOX11 這把更關鍵的鑰匙。
+
+二、兩種 MCL 的發育路徑對照
+
+Conventional / nodal MCL（80 到 90%）：SOX11 陽性、IGHV 未突變或極少突變，接著源自「未經生發中心」的 naive B 細胞；臨床表現為淋巴結腫大、腸胃道 lymphomatous polyposis、常有 B 症狀，病程侵襲性。
+Leukemic non-nodal MCL（nnMCL，10 到 20%）：SOX11 陰性、IGHV 已突變，接著源自曾「經歷生發中心」的 B 細胞；臨床以周邊血淋巴球增多、骨髓與脾臟侵犯為主，不去淋巴結，病程惰性。
+
+機轉上，SOX11 是一個神經發育性轉錄因子，正常 B 細胞不表現，卻在 MCL 中被異常活化。它一方面抑制 PAX5 下游、阻斷經 PRDM1 BLIMP1 介導的終末分化，使細胞停留在未分化狀態；更關鍵的是，SOX11 直接上調 CXCR4 與 FAK（PTK2）的表現，活化下游 PI3K AKT 與 ERK1/2 路徑，驅動腫瘤細胞遷移、跨內皮細胞轉移、與基質細胞黏附，並增加黏附介導的藥物抗性（CAM-DR）；體內模型顯示，抑制 FAK 或 CXCR4 可顯著減少 SOX11 陽性細胞向骨髓的歸巢與浸潤。SOX11 同時促進血管新生（PDGFA）並增強 BCR 訊號。核心洞見是：SOX11 陰性的細胞缺少了「去淋巴結、去骨髓外歸巢」的導航系統，因此傾向留在血液、骨髓與脾臟，形成非淋巴結型的惰性表現。臨床上，SOX11 免疫染色在 cyclin D1 陰性、帶 CCND2 CCND3 重排的罕見 MCL 中仍呈陽性，是這類病例重要的診斷輔助標記。
+
+三、(A) 的評析：惰性 MCL 可以觀察，但不能不追蹤
+
+約 10 到 20% 的 MCL 屬於 leukemic non-nodal 亞型，臨床上可安全地延後治療（watchful waiting），適合觀察的條件包括：無症狀、低腫瘤負荷、非 blastoid/pleomorphic 型態、低 Ki-67、無 TP53 異常。但惰性不等於永遠惰性：nnMCL 一旦後續獲得 TP53 突變或 17p 缺失，會轉為侵襲性病程，因此觀察必須配合密切追蹤而非放任不管。
+
+值得指出，本題題幹將此病人描述為「IGHV 未突變」，這與真正定義 leukemic non-nodal（惰性）MCL 的公認分子特徵——SOX11 陰性合併 IGHV「已突變（mutated/hypermutated）」——並不一致。真正判斷此亞型的關鍵標記是 SOX11 陰性，而非 IGHV 狀態；即便題幹的 IGHV 描述有誤，病人骨髓為主、無淋巴結腫大、無 B 症狀、SOX11 陰性的整體臨床-分子組合，仍高度提示 leukemic non-nodal（惰性）MCL，故 (A) 的結論——惰性亞型、可考慮觀察——依然成立。
+
+四、(B) 的評析：分子演化的時序邏輯
+
+t 11 14 易位是起始事件，發生於骨髓 pre-B 細胞階段 VDJ 重組時的錯誤，導致 cyclin D1 過度表現、G1-S 檢查點失調。但如前述，單靠此易位不足以致癌，需要協同事件。ATM（11q22-23）失活被認為是相對「早期」的協同事件，造成 DNA 損傷反應缺陷與基因體不穩定，有趣的是，近期功能基因體學顯示 ATM 突變反而與較好的 rituximab 化療反應相關，屬於中等風險組。相對地，TP53（17p）缺失/突變、CDKN2A/p16（9p21）缺失、以及 NOTCH1 NOTCH2 突變、MYC 重排，多屬於較晚期發生、與 blastoid/pleomorphic 轉化及侵襲性病程相關的事件。TP53 異常在多個世代研究中皆是 MCL 最強的不良預後因子，這群病人對傳統化學免疫治療及自體移植反應差，應優先考慮 BTK 抑制劑、臨床試驗或細胞治療。
+
+五、(C)(D) 的確認與最新進展
+
+(C) MCL Younger 試驗證實，年輕、體能良好病人在 R-CHOP R-DHAP 交替誘導後接受自體移植，較單純 R-CHOP 誘導顯著延長 time to treatment failure（5 年 65% vs 40%），長期追蹤（10.6 年）更首次顯示 OS 獲益，高劑量 cytarabine 已成為此族群第一線治療的關鍵成分。
+
+(D) LyMa 試驗顯示，自體移植後 rituximab 維持治療顯著改善 PFS 與 OS，且無論 PET 陽性或陰性、低或高風險病人皆有獲益；不可移植的老年病人中，R-CHOP 誘導後 rituximab 維持同樣改善 OS。然而在 bendamustine+rituximab 誘導之後，rituximab 維持的效益（MAINTAIN 試驗）未達統計顯著，故其角色仍有爭議——(D) 的敘述正確。
+
+⚠️ 最新進展 TRIANGLE 試驗：在年輕可移植病人的第一線治療中加入 ibrutinib，結果顯示「化療＋ibrutinib（不做自體移植）」的 failure-free survival 與 overall survival「不劣於、甚至優於」含自體移植的傳統方案，而加入自體移植並未再帶來額外效益，且毒性更高；僅在高風險亞群（如高 p53 表現）可能仍保有移植的角色，但樣本數不足以確立。這正在動搖「年輕病人一律做自體移植」的既有標準。復發後的治療全景則涵蓋 BTK 抑制劑（ibrutinib、acalabrutinib、zanubrutinib、pirtobrutinib）、venetoclax、lenalidomide、brexucabtagene autoleucel（brexu-cel）CAR-T 以及 bispecific antibody 等。
+
+六、(E) 的完整更正
+
+ZUMA-2 試驗收案的正是「高風險」族群——要求病人先前已使用過 BTK 抑制劑並失敗，且納入了 TP53 突變、blastoid/pleomorphic 型態、高 Ki-67 的病人，在此人群中 brexu-cel 仍達到 93% ORR、67% CR。真實世界的美國 Lymphoma CAR T Consortium 資料進一步顯示，79% 接受治療的病人本不符合 ZUMA-2 的嚴格入選條件，其中高風險 simplified MIPI、高 Ki-67、TP53 異常、複雜核型、blastoid/pleomorphic 變異型等因子雖與較短 PFS 相關，但這些病人仍能從 brexu-cel 獲得反應，ORR 達 90%。近期 ZUMA-2 cohort 3（BTKi-naive 高風險族群）亦顯示 91% ORR、73% CR。換言之，brexu-cel 的核准與臨床價值恰恰在於它是這群不良預後標記病人的重要選項，而非將其排除在外。其毒性（CRS 與 ICANS）發生率與其他 CD19 CAR-T 相近，需在具經驗中心密切監測。
+
+七、選項逐一評析
+
+選項
+
+判定
+
+關鍵理由
+
+參考
+
+(A)
+
+大致正確
+
+臨床＋SOX11陰性組合提示惰性 nnMCL，可考慮觀察；但題幹 IGHV 描述與標準定義不符
+
+(B)
+
+正確
+
+ATM 缺失為早期事件；TP53、CDKN2A 缺失為晚期、侵襲性標記
+
+(C)
+
+正確
+
+MCL Younger 試驗確立高劑量 cytarabine 於年輕適合移植病人第一線治療的地位
+
+(D)
+
+正確
+
+LyMa 試驗確立移植後與不可移植者 rituximab 維持的 PFS OS 獲益；BR 後效益未定（MAINTAIN）
+
+(E)
+
+最不準確
+
+ZUMA-2 正是收錄 BTKi 失敗、TP53 突變、blastoid、高 Ki-67 等高風險病人；brexu-cel 並未排除不良預後標記者
+
+臨床要點：同一個染色體易位、同一個病名，但一顆腫瘤細胞有沒有「去淋巴結的地址」（SOX11 陽性與否），決定了病人是要立刻啟動治療，還是可以先觀察與追蹤。

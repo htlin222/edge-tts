@@ -68,12 +68,16 @@ def render_programmatic(header: list[str], rows: list[list[str]]) -> str:
     return "\n".join(out)
 
 
-def render_with_haiku(table_md: str, reason: str) -> str:
-    """把複雜表格交給 haiku 改寫；結果進快取。"""
+def render_with_haiku(table_md: str, reason: str) -> tuple[str | None, str]:
+    """把複雜表格交給 haiku 改寫；結果進快取。
+
+    回傳 (改寫後的文字, 來源)。來源要如實區分「快取」與「這次真的呼叫了 haiku」——
+    否則 log 會宣稱每次都重新改寫過，而實際上快取才是常態。
+    """
     key = hashlib.sha256(table_md.encode("utf-8")).hexdigest()[:16]
     cached = CACHE / f"{key}.md"
     if cached.exists():
-        return cached.read_text(encoding="utf-8").strip()
+        return cached.read_text(encoding="utf-8").strip(), f"快取 {key}"
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
@@ -82,7 +86,7 @@ def render_with_haiku(table_md: str, reason: str) -> str:
             "退回程式化展開（會比較難聽）",
             file=sys.stderr,
         )
-        return None  # 讓呼叫端 fallback
+        return None, "無 API key"  # 讓呼叫端 fallback
 
     prompt = (
         "把下面這張 markdown 表格改寫成適合「用耳朵聽」的中文散文。\n\n"
@@ -114,7 +118,7 @@ def render_with_haiku(table_md: str, reason: str) -> str:
         data = json.load(resp)
     text = "".join(b.get("text", "") for b in data.get("content", [])).strip()
     if not text:
-        return None
+        return None, "haiku 回空字串"
 
     CACHE.mkdir(parents=True, exist_ok=True)
     cached.write_text(
@@ -124,7 +128,7 @@ def render_with_haiku(table_md: str, reason: str) -> str:
         f"{text}\n",
         encoding="utf-8",
     )
-    return text
+    return text, f"haiku 新改寫 {key}"
 
 
 # 圍欄程式碼區塊。在這份材料裡它裝的不是程式碼，而是 ASCII 流程圖
@@ -145,9 +149,9 @@ def expand_fences(md: str) -> tuple[str, list[str]]:
         block = m.group(0)
         inner = m.group(1)
         lines = len(inner.strip().splitlines())
-        text = render_with_haiku(block, f"ASCII 流程圖，{lines} 行，無法程式化展開")
+        text, src = render_with_haiku(block, f"ASCII 流程圖，{lines} 行，無法程式化展開")
         if text:
-            log.append(f"流程圖({lines} 行) → haiku 改寫")
+            log.append(f"流程圖({lines} 行) → {src}")
             return text
         log.append(f"⚠️ 流程圖({lines} 行) → 沒有 ANTHROPIC_API_KEY，內容從略")
         return "此處原文有一段流程圖，內容不適合朗讀，請回到原文閱讀。"
@@ -166,11 +170,11 @@ def expand_tables(md: str) -> tuple[str, list[str]]:
         rows = [split_row(ln) for ln in lines[2:]]
         reason = looks_complex(header, rows)
         if reason:
-            text = render_with_haiku(block, reason)
+            text, src = render_with_haiku(block, reason)
             if text:
-                log.append(f"表格({len(header)}欄×{len(rows)}列) → haiku 改寫（{reason}）")
+                log.append(f"表格({len(header)}欄×{len(rows)}列) → {src}（{reason}）")
                 return text
-            log.append(f"表格({len(header)}欄×{len(rows)}列) → 程式化展開（haiku 不可用）")
+            log.append(f"表格({len(header)}欄×{len(rows)}列) → 程式化展開（{src}）")
         else:
             log.append(f"表格({len(header)}欄×{len(rows)}列) → 程式化展開")
         return render_programmatic(header, rows)

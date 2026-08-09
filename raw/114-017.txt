@@ -1,0 +1,91 @@
+第一一四年 第十七集
+有脈絡的綜論:當基因幫不上忙的時候:MPN 是形態學仍然主權在握的那個反例
+
+核心答案：(C) 錯誤——這段描述的骨髓形態其實是 prePMF 的診斷特徵，被誤植在 ET 的名下。真正的 ET 骨髓應是巨核細胞大而成熟、核呈鹿角狀分葉，且沒有顯著的異型性、顆粒球增生或紅血球生成減少。
+
+一、當基因幫不上忙的時候
+
+近年血液腫瘤分類的大方向，是用分子遺傳學逐步取代傳統形態學判讀——MDS 已用 SF3B1 突變取代環狀鐵芽球計數，TP53 的 allelic state（單一 vs 雙重打擊）也取代了單純的骨髓母細胞比例判讀。但 Philadelphia-negative MPN，尤其是 ET 與 prePMF 之間，是這個趨勢明顯的反例。兩者共用完全相同的一組驅動突變——JAK2 V617F（約六成）、CALR（約二成）、MPL（約 3%），比例相近，且兩者的血小板數、初診時的臨床表現往往高度重疊。沒有任何一項分子檢驗能把兩者分開——能分開它們的，只有骨髓切片的形態學判讀。這正是本篇的核心命題：在 MPN 這個領域，病理科醫師的顯微鏡仍是最終仲裁者，而這件事有非常實際的預後後果。
+
+二、三者的骨髓形態對照
+
+疾病
+
+骨髓細胞量
+
+巨核細胞形態
+
+顆粒球/紅血球系
+
+Reticulin fibrosis
+
+參考
+
+真正的 ET
+
+大致符合年齡（normocellular 或僅輕度增加）
+
+體積大、成熟，核過度分葉（hyperlobulated/staghorn/鹿角狀），散在或鬆散叢聚，無明顯異型
+
+無顯著顆粒球增生、紅血球生成不減少
+
+≤ grade 1（多為 grade 0）
+
+prePMF
+
+年齡校正後增加
+
+有異型：緻密叢聚（dense clustering）、成熟異常，核呈雲朵狀/球狀且深染（bulbous, cloud-like, hyperchromatic）
+
+顆粒球增生、紅血球生成常減少
+
+grade 0–1（即「pre-fibrotic」之意）
+
+PV
+
+年齡校正後 hypercellularity，panmyelosis（三系增生）
+
+大小不一但成熟（pleomorphic and mature）
+
+紅血球系、顆粒球系、巨核細胞系均顯著增生
+
+通常不作為診斷主要依據
+
+實務記憶口訣：ET 的巨核細胞「大而成熟、鹿角核」；prePMF 的巨核細胞「擠成一團、雲朵核、不成熟」；PV 的巨核細胞「大小不一但成熟」。
+
+三、(A) 的核心：這個區分「值多少」
+
+這不是學術上的文字遊戲。一項納入 ET 與 prePMF 病人的大型國際研究顯示，兩組的 10 年整體存活率分別為 89%（ET）與 76%（prePMF），10 年白血病轉化率分別為 0.7% 與 5.8%（相差約 8 倍），10 年纖維化進展率分別為 0.8% 與 12.3%（相差超過 15 倍）。另一項以 2016 年 WHO 標準重新分類 404 例病人的義大利研究（Rumi et al., Oncotarget）也一致顯示，prePMF 病人的白血球數更高、血紅素更低、LDH 更高、更常有脾腫大，整體存活顯著較短，白血病轉化亦有較高趨勢。一個被誤診為 ET 的 prePMF 病人，會被套用良性期待的追蹤策略，但其真實風險其實更接近另一種疾病。
+
+臨床上，這也意味著風險分層工具不能混用：真正的 ET 應使用 IPSET-thrombosis / revised IPSET 評估血栓風險；而 prePMF 一旦確立診斷，應改用 myelofibrosis 專用的預後工具（如 MIPSS70 / MIPSS70+ v2.0，或含細胞遺傳學與 HMR 突變的 GIPSS）進行分層。用錯工具會低估風險，並可能延誤造血幹細胞移植評估的時機。
+
+四、(B) 的核心：prePMF 的 minor criteria
+
+依 WHO 5th / ICC，prePMF（與 overt PMF）的診斷需符合全部 3 項 major criteria，並至少 1 項 minor criterion，且需在連續兩次檢測中確認：
+
+- 貧血（非其他共病可解釋）
+- 白血球增多 ≥ 11 × 10⁹/L
+- 可觸及的脾腫大（overt PMF 版本明訂需經臨床觸診和/或影像確認）
+- LDH 高於機構參考值上限
+- （僅 overt PMF 額外加上）leukoerythroblastosis
+
+這些看似瑣碎的項目，正是把一個「外觀像 ET」的病人推向 prePMF 診斷的關鍵，一旦診斷改變，預後估計與後續治療策略（監測頻率、移植評估時機）也隨之改變。實務上需留意：「可觸及的脾腫大」與「僅影像上發現的脾腫大」在 minor criteria 定義上並不等同；LDH 判讀需先排除溶血或其他非骨髓疾病造成的上升。
+
+五、(E) 的核心：嗜酸性球相關腫瘤的基因決定藥物
+
+- PDGFRA 重排（最常見為 FIP1L1::PDGFRA，源自 4q12 隱蔽缺失）：對 imatinib 極度敏感，起始劑量可低至 100 mg/day，多數病人在 1 個月內達完全血液學緩解、數月內達分子緩解。
+- PDGFRB 重排（最常見為 ETV6::PDGFRB）：同樣對 imatinib 有反應，長期追蹤（中位 10.2 年）顯示反應率 96%、10 年整體存活率 90%。
+
+最容易考的對比——對 imatinib「無效」的族群： - FGFR1 重排（8p11 骨髓增生綜合症）：imatinib 無效，預後差，常快速轉為 AML 或 T-lymphoblastic lymphoma，目前可用標靶為 pemigatinib（FGFR inhibitor）。 - PCM1::JAK2 / JAK2 重排：imatinib 無效，ruxolitinib 可能有反應但多屬暫時性。 - FLT3 重排（如 ETV6::FLT3）：可考慮 FLT3 inhibitor。
+
+臨床行動：任何原因不明的持續嗜酸性球增多，都必須先排除這些融合基因——因其中一群僅需低劑量 imatinib 即可長期分子緩解，另一群則需完全不同的治療策略。值得注意的是，FIP1L1::PDGFRA 在常規核型分析下常看不到（因其為 4q12 隱蔽缺失），需依賴 FISH（CHIC2 deletion probe）或 RT-PCR 才能偵測——這再次呼應「工具決定可見性」的主題，只是此處是分子工具，而非形態學工具。
+
+六、逐項評析
+
+- - 正確：ET 與 prePMF 的鑑別必須依賴骨髓形態，且具明確預後意義。
+- - 正確：prePMF 的 minor criteria（貧血、白血球增多、脾腫大、LDH 升高）需明確定義，因其直接影響診斷與預後判斷。
+- - 錯誤——這段「megakaryocytic proliferation with atypia and clustering、無 grade ≥1 reticulin fibrosis、年齡校正後骨髓細胞量增加、granulocytic proliferation、erythropoiesis 減少」的描述，是 prePMF 的 major criterion，而非 ET 的表現。真正的 ET 應是巨核細胞大而成熟、鹿角核、無異型、骨髓細胞量大致符合年齡。
+- - 正確：PV 的 panmyelosis 及 pleomorphic、mature 巨核細胞為典型描述。
+- - 正確：FIP1L1-PDGFRA 與 ETV6-PDGFRB 均對 imatinib 高度敏感。
+
+臨床要點：當所有的分子檢驗都給出相同答案時，決定病人命運的可能只是一張切片上的巨核細胞長什麼樣子。

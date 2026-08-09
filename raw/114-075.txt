@@ -1,0 +1,71 @@
+第一一四年 第七十五集
+有脈絡的綜論:魔鬼藏在一個字母裡
+
+CD20、CD19、CD79a/b、4-1BB、CD28——這些名字看起來只差一個字母或一個數字，但每一個差異都對應到完全不同的分子生物學機轉，並直接決定了藥物的藥理身份、臨床行為與副作用譜。這篇聚焦在分子細節如何轉譯為臨床後果，不重複治療地圖或CRS/ICANS分級。
+
+主軸一：內化與否，決定了CD20打bispecific、CD19打ADC的分工
+
+CD20是non-internalizing抗原——抗體結合後穩定停留在細胞表面，不會被胞吞帶入細胞內。這個特性正是CD20成為T-cell engager（bispecific antibody）與補體/ADCC依賴型單株抗體理想靶點的原因：無論是bispecific antibody要把T細胞拉到腫瘤細胞旁邊、還是rituximab/obinutuzumab要靠Fc效應細胞持續辨識標靶，抗原都必須「留在表面」才能反覆被利用。Glofitamab、epcoritamab、mosunetuzumab、rituximab、obinutuzumab皆以CD20為靶。
+
+Glofitamab採用獨特的2:1（CD20×CD20×CD3）構型——兩個CD20結合臂搭配一個CD3結合臂，這種雙價對單價的不對稱設計提高了對CD20的親和力與腫瘤細胞結合的穩定性，理論上能加強T細胞與腫瘤細胞間immunological synapse的形成，同時仍維持單一CD3臂以限制過度T細胞活化。
+
+相對地，CD19內化效率良好，抗體結合後會被帶入細胞內、送入溶酶體。這正是antibody-drug conjugate（ADC）所需要的性質——ADC必須靠內化與溶酶體降解才能釋放連接子上的毒素分子。Loncastuximab tesirine即是CD19-ADC，攜帶PBD（pyrrolobenzodiazepine）dimer毒素，其單藥療效已於LOTIS-2試驗中證實。
+
+但CD19同時也是CAR-T與tafasitamab（Fc-engineered anti-CD19單株抗體）的靶點，這看似矛盾——CAR-T和tafasitamab並不需要抗原長時間留在表面嗎？關鍵在於CAR-T的辨識與殺傷機轉本質不同：CAR的胞外辨識域一旦與抗原接觸即觸發胞內訊號串聯與immunological synapse形成，細胞毒殺是接觸依賴（contact-dependent）且瞬時完成，不依賴Fc受體效應細胞的持續辨識，因此對抗原內化的耐受度遠高於裸抗體。Tafasitamab則透過Fc片段工程強化ADCC/ADCP，其療效機轉與內化速率的關係也不像bispecific那樣敏感。
+
+CD19與CD20在B細胞分化上的表現範圍不同：CD19在pro-B期即已表現，且持續存在至plasma cell階段才消失；CD20則在pro-B期尚未表現，於plasma cell階段已經消失。這個差異直接影響治療後的免疫重建——CD20導向治療（如rituximab）保留了plasma cell族群，因此已存在的體液免疫（既有抗體）較不受影響；而CD19導向治療（尤其CAR-T）連plasma cell前驅族群也可能被清除，加上長期B細胞發育阻斷，臨床上與較顯著、較持久的低丙種球蛋白血症風險相關。
+
+主軸二：CD79a與CD79b——BCR的兩隻手，藥打的是b
+
+CD79a（Igα）與CD79b（Igβ）組成B-cell receptor訊號傳遞的異二聚體，兩者胞內域都含ITAM（immunoreceptor tyrosine-based activation motif），共同負責BCR活化後的下游訊號傳遞。Polatuzumab vedotin打的是CD79b，不是CD79a——選擇CD79b的理由在於其胞外區構型更利於單株抗體結合、且結合後具備良好的內化效率，適合作為ADC遞送MMAE（monomethyl auristatin E）微管蛋白抑制劑的載體。
+
+GO29365試驗中，transplant-ineligible的R/R DLBCL患者，pola-BR相較於BR，IRC評估CR率為40.0% vs 17.5%（p=0.026），中位PFS 9.5個月 vs 3.7個月（HR 0.36），中位OS 12.4個月 vs 4.7個月（HR 0.42，95% CI 0.24–0.75，p=0.002）。後續更新分析持續顯示存活效益（OS HR 0.42，95% CI 0.24–0.72）。Polatuzumab已進一步移至一線治療：POLARIX試驗中，pola-R-CHP相較R-CHOP顯著改善PFS（2年PFS 76.7% vs 70.2%，HR 0.73），但當時分析OS並無顯著差異，作者認為與追蹤時間較短、後線有效救援治療可及有關。
+
+![](/img/img/87f0c121-ea0a-4064-b1ce-9763ad41f9bd.jpg)
+Figure 2: Kaplan–Meier Estimates of Efficacy End Points.
+
+值得特別澄清的是，CD79B突變（好發於MCD/C5分子亞型DLBCL，常與MYD88 L265P共存，驅動chronic active BCR signaling）是腫瘤生物學層面的體突變事件，與「以CD79b作為藥物遞送靶點」是完全不同的兩件事——前者是疾病分型與訊號通路異常，後者是抗原表現本身被利用作ADC的載體，CD79b作為藥物靶點並不要求腫瘤帶有CD79B突變。
+
+主軸三：共刺激域決定CAR-T的「性格」
+
+CAR的共刺激域是決定體內動力學與毒性譜的核心結構元件。
+
+CD28共刺激域（axicabtagene ciloleucel/axi-cel、brexucabtagene autoleucel/brexu-cel）：訊號強而快，驅動體內快速擴增、峰值高、起效快；代謝上偏向糖解（glycolysis），T細胞分化偏向effector phenotype。代價是CRS與ICANS的發生率與嚴重度較高，且CAR-T持久性相對較短。
+
+4-1BB（CD137）共刺激域（tisagenlecleucel/tisa-cel、lisocabtagene maraleucel/liso-cel）：訊號較緩和但持續時間長，驅動擴增較慢但存續更久；代謝上促進粒線體生合成與氧化磷酸化（oxidative phosphorylation），分化偏向central memory T cell表型，毒性顯著較低。
+
+明確而言：tisa-cel使用的是4-1BB共刺激域，而非CD28——這正是本題選項(2)的錯誤核心。這個結構差異轉譯為臨床上可觀察的行為差異：CD28建構的CAR-T往往在輸注後數天內即出現CRS高峰，需要更早介入tocilizumab或類固醇；4-1BB建構的CAR-T起效與毒性高峰相對延後、程度較輕，臨床監測窗口與介入時機也隨之不同。
+
+主軸四：BELINDA為何失敗——一個尚未完全解開的謎
+
+三個DLBCL二線CAR-T試驗結果分歧：ZUMA-7（axi-cel）達到主要終點，EFS顯著優於standard of care（CR率65% vs 32%），後續分析亦顯示OS效益；TRANSFORM（liso-cel）同樣達到主要終點，EFS顯著優於SOC；但BELINDA（tisa-cel）未達主要終點——中位EFS兩組皆為3.0個月（HR 1.07，95% CI 0.82–1.40，p=0.61），CR率28.4% vs 27.5%。
+
+可能的解釋包括多重試驗設計差異：三試驗對「事件」的定義與評估時間點不同——stable disease被判定為事件的時間點在TRANSFORM為第9週、BELINDA為第12週、ZUMA-7則晚至第21週；BELINDA的對照組允許在判定事件前接受第二線挽救治療，可能延後了對照組事件發生時間，人為拉近兩組差距。此外，tisa-cel的製造時間（vein-to-vein time）明顯較長（BELINDA中位leukapheresis到輸注時間52天），而二線族群多為疾病快速進展、亟需治療的患者，較慢的4-1BB CAR-T擴增動力學與較長的製造等待時間，可能在這個「時間敏感」的族群中成為相對劣勢，BELINDA輸注前已有25.9%患者於第6週即出現疾病惡化。
+
+這個案例最重要的啟示是：不能把同類藥物（同為CD19 CAR-T）的試驗結果互相外推——分子構造（共刺激域）、試驗設計（終點定義、是否允許橋接治療與後線介入）、以及製造流程時間，三者共同決定了臨床試驗的成敗，而非僅僅是「這是不是CAR-T」這麼簡單的分類。
+
+主軸五：STARGLO——CD20×CD3 bispecific首次在DLBCL顯示OS效益
+
+STARGLO試驗在ASCT-ineligible的R/R DLBCL患者中比較glofitamab+GemOx（Glofit-GemOx）vs R-GemOx。主要分析（中位追蹤11.3個月）顯示Glofit-GemOx顯著改善OS（中位OS未達 vs 9.0個月，HR 0.59，95% CI 0.40–0.89，p=0.011）。3年追蹤更新顯示中位OS 25.5個月 vs 12.5個月（HR 0.60），CR率58.5% vs 25.3%，效益在二線族群及早期治療失敗患者中尤其顯著。這是CD20×CD3 bispecific antibody首次在DLBCL隨機對照試驗中證實總存活效益。
+
+該試驗族群以亞洲、澳洲中心為主（62個中心分布於13國），監管討論上曾出現對族群地理分布是否足以外推至其他地區（如美國）人群的疑慮。Step-up dosing（逐步遞增劑量而非首劑即給予目標劑量）與obinutuzumab pretreatment的作用原理是先降低循環中B細胞負荷與腫瘤負荷，減少T細胞engagement啟動瞬間釋放的細胞激素量，藉此降低CRS發生率與嚴重度。
+
+主軸六：抗原序列使用的實務問題
+
+使用過CD19導向治療（CAR-T、tafasitamab、loncastuximab）後，腫瘤細胞的CD19抗原可能因免疫篩選壓力而流失或下調（antigen loss/downregulation），這是CD19導向CAR-T治療失敗後復發的重要機轉之一，也讓後續再使用另一個CD19導向藥物的療效存在理論上的疑慮，現有證據多來自回顧性小樣本，尚無高品質前瞻性資料明確界定療效下降的幅度。
+
+反之，CD20導向治療後轉用CD19導向治療（或反向）在邏輯上具有合理性，因為兩個抗原表現彼此獨立、免疫篩選壓力不完全重疊，臨床上這也是bispecific（CD20）與CAR-T/ADC（CD19）之間序列使用的理論基礎。
+
+重新切片確認抗原表現在下列情境較有價值：CD19導向治療後疾病進展、擬再次使用CD19導向藥物之前；或病理表現與影像學/臨床病程不吻合、懷疑immune escape時。並非所有換線治療前都需要常規重新切片。
+
+主軸七：逐項評析
+
+本題官方答案為(B) = 1+2+5，三項錯誤描述如下：
+
+- (1) 錯在抗原：glofitamab是CD3×CD20 bispecific antibody，並非CD3×CD19。但敘述後半段「STARGLO顯示OS效益」是正確的。
+- (2) 錯在共刺激域：tisa-cel採用的是4-1BB共刺激域，並非CD28（CD28是axi-cel/brexu-cel的共刺激域）。
+- (5) 錯在靶點的一個字母：polatuzumab vedotin是CD79b導向ADC，並非CD79a。但敘述後半段「GO29365中pola-BR的CR率高於BR」是正確的（40.0% vs 17.5%）。
+- (3) tafasitamab於L-MIND試驗中與lenalidomide併用顯示臨床效益，敘述正確。
+- (4) loncastuximab tesirine為CD19導向ADC，於LOTIS-2試驗中顯示單藥療效，敘述正確。
+
+本題設計精神在於：三個錯誤都僅差一個字母（CD19/CD20、CD79a/CD79b）或一個共刺激分子名稱（CD28/4-1BB），但每一個差異都指向截然不同的分子身份與完全不同的藥理行為——這正是「魔鬼藏在細節裡」在血液腫瘤藥理學中最具代表性的體現。

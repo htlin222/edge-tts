@@ -1,0 +1,59 @@
+第一一四年 第十四集
+有脈絡的綜論:當分類的依據從看得見的染色體走向看不見的表現譜
+
+Figure 1呈現B-ALL依基因表現譜（t-SNE）分群的全貌，可作為本文開場的視覺輔助。
+
+![](/img/img/3704618d-cb5f-42b4-8a61-a0b6ab969010.jpg)
+Figure 1: Main subtypes of B‐ and T‐ALL. (A) Gene expression profiles of B‐ALL based on whole transcriptome sequencing showing tSNE plot of 2004 cases ( Source: Adapted from Kimura et al. (2022). Blood . 139 (24): 3519–3531. ) by using the top 1000 most variable genes on the basis of median absolute deviation with a perplexity score of 30. Each dot represents a sample. Major ALL subtypes are highlighted in different colors. (B) T‐cell differentiation and T‐ALL subtyping describing the differentiation stages of each T‐ALL subtype according to the specific genetic alterations leading to aberrant expression of rearranged or mutated genes. Prevalence and prognosis of each subtype are shown. Subtypes are colored according to corresponding normal T‐cell differentiation stage: early T‐cell precursor (ETP, red and orange), early stages of cortical thymocytes maturation or double positive (DP)/immature single‐positive (ISP, green), and late stages of cortical thymocytes maturation or double positive (DP, blue). Abbreviations: T‐ALL: T‐cell acute lymphoblastic leukemia; T/M MPAL: T/myeloid mixed phenotype acute leukemia; −R: rearranged.
+
+一、開場：一場分類學的世代交替
+
+傳統的 ALL 分類建立在「核型（karyotype）」之上——能被顯微鏡與 FISH 看見的易位與染色體數目異常，如 t(12;21)、t(9;22)、高二倍體。但這樣的分類長期留下一大群「B-other」——核型正常或無特異性改變的病人，在兒童 B-ALL 中曾佔約 25–30%。全轉錄體定序（RNA sequencing）的引入徹底改變了這個局面：這些病人依「基因表現譜（gene expression profile）」可以被清楚分成數個各具特徵與預後的亞型。
+
+ICC 2022 因此新增或正式承認了一系列由表現譜定義的 B-ALL 亞型，包括 DUX4-r、MEF2D-r、ZNF384-r、NUTM1-r、PAX5alt、PAX5 p.P80R、MYC-r、BCR::ABL1-like、ETV6::RUNX1-like、IGH::IL3 等。整合轉錄體與傳統細胞遺傳學方法後，可將 B-ALL 的可分類率提升至約 95%。核心洞見是：「B-other」從來不是一個獨立疾病，而是一個「當時看不見」的集合——當觀察工具從染色體核型走向表現譜，疾病的地圖也隨之重畫。
+
+二、DUX4-r：表現譜時代的最佳範例
+
+DUX4 位於 4q35 與 10q26 的 D4Z4 巨衛星重複序列中，這段序列高度重複，在標準核型與 FISH 上幾乎看不見，屬於典型的「隱蔽（cryptic）」重排。典型機轉是 DUX4 插入 IGH locus，造成 DUX4 異位表現，進而結合並活化 ERG 內部的隱性啟動子，產生一個具顯性負性作用的截短型 ERG 蛋白，抑制野生型 ERG 的轉錄活性。
+
+臨床上，DUX4-r 佔兒童 B-ALL 約 5–10%，在 AYA 族群比例更高；預後極佳，5 年整體存活率可達約 97.8%，5 年復發風險僅約 8.9%。值得特別強調的是：即使誘導後 day-33 MRD 較慢轉陰、prednisolone/vincristine 反應較差，最終結果仍然優異——這代表 DUX4-r 病人不應僅憑早期 MRD 而被過度升階治療。此亞型常伴隨局部 ERG 缺失，免疫表型上 CD371（CLL-1）可作為代理標記，且即使合併 IKZF1 缺失（約 40% 病例），也不影響其良好預後。
+
+一個具有實務意義的現象是：DUX4-r ALL 在誘導治療期間可出現早期免疫表型轉換（lineage switch / monocytic transition）——blast 可能由 CD19⁺ 轉為表現單核系標記，這會使 flow cytometry MRD 被誤判為陰性，或誤診為混合表型急性白血病。伴隨此轉換（MS）的病例，event-free survival 較無轉換者差。若不了解此現象，臨床上可能因誤判 MRD 或誤診而過度升階治療（甚至考慮移植）——但實際上多數 DUX4-r 病人並不需要。
+
+三、(D) 為何錯：ETV6::RUNX1 的良好預後
+
+t(12;21)(p13.2;q22.1) 即 ETV6::RUNX1（舊稱 TEL-AML1），是兒童 B-ALL 中最常見的融合基因，約佔 20–25%，屬細胞遺傳學上隱蔽（cryptic）的易位，需靠 FISH 或 RT-PCR 才能偵測——這正呼應「工具決定可見性」的主軸。多數研究顯示 ETV6::RUNX1 是獨立的良好預後因子，多數協作組因此對此亞群降低治療強度，唯有持續 MRD 陽性者例外。此融合常在子宮內即已發生，屬於白血病前期狀態，復發常較晚（late relapse），復發後仍相對可救。在成人中相對少見，呼應年齡與生物學的關聯。
+
+ICC 另新設 ETV6::RUNX1-like 亞型：表現譜與 ETV6::RUNX1 相似但缺乏該融合基因，免疫表型上 CD27 陽性、CD44 低到陰性，常伴 ETV6 與 IKZF1 病灶及 ARPP21 缺失；此亞型頻率約 3%，預後仍待釐清。
+
+四、(E) 的核心：MEF2D-r 為何預後差
+
+MEF2D-r 佔 B-ALL 約 4–5%，好發於較大兒童與 AYA。最常見融合夥伴為 BCL9，其他包括 HNRNPUL1、CSF1R、DAZAP1、SS18、FOXJ2 等。免疫表型上具獨特性：CD10 陰性或弱表現、CD38 強陽性，與典型 common-B 型不同。臨床上預後不良，OS 與 EFS 均顯著低於陰性族群，且常伴隨多系別侵犯（multilineage involvement）、髓外浸潤及對傳統化療反應差。
+
+機轉上，MEF2D 融合蛋白會增強其轉錄活性，強力上調 HDAC9 表現，此發現直接指向 histone deacetylase inhibitor 作為潛在治療標的。臨床前研究顯示 panobinostat 與雙標靶 PI3K/HDAC 抑制劑 CUDC-907 對 MEF2D 融合驅動的 BCP-ALL 具選擇性殺傷力，小規模臨床觀察也顯示將 chidamide（HDAC 抑制劑）納入移植前置方案可能有助於清除 MEF2D 陽性殘留病灶。惟這些仍屬早期研究階段，尚無成熟的前瞻性驗證。
+
+五、(A) 的核心：MYC 重排 B-ALL 與 Burkitt 的鑑別
+
+這個鑑別困難之處在於，兩者都可帶有 MYC 重排，且部分 B-ALL 病例的形態與 Burkitt 相似。
+
+關鍵鑑別點： - 免疫球蛋白基因體細胞高突變（SHM）：Burkitt/高惡度 B 細胞淋巴瘤源自生發中心（germinal center）後 B 細胞，IGHV 帶有 SHM 證據；而 B-ALL with MYC-r（即 IG-MYC-r ALL）源自前生發中心的前驅 B 細胞，IGHV 未突變，且 V(D)J 斷點多屬前驅細胞型態——這正是 (A) 選項的依據。 - 免疫表型：B-ALL 通常 TdT 陽性、CD34 常陽性、surface Ig 常陰性；Burkitt 則 TdT 陰性、CD34 陰性、surface Ig（膜表面 IgM）陽性且輕鏈限制，CD10 與 BCL6 陽性、BCL2 陰性、Ki-67 接近 100%。
+
+> Tumor cells display the immunophenotype of a mature germinal-center B cell; typically express strong membrane IgM with light-chain restriction; are positive for CD19, CD20, CD79A, PAX5, CD10, and BCL6; and are usually negative for CD5, BCL2, and TdT.
+
+臨床後果攸關重大：IG-MYC-r B-ALL 屬高風險族群，3 年 EFS 僅約 47%、OS 約 60%，治療應依現行 MRD 導向的 B-ALL 方案處理；而 Burkitt 則採短程高強度方案 ± rituximab，不需長期維持治療。分類錯誤將導致治療策略的根本錯置。
+
+六、(C) 的核心：BCR::ABL1 的兩個生物學亞群
+
+BCR::ABL1 陽性 ALL 可分為兩個生物學上不同的亞群： - 典型（lymphoid-restricted）型：BCR::ABL1 僅存在於 B 淋巴系，MRD 監測時 BCR::ABL1 PCR 訊號能忠實反映白血病負荷，MRD 具顯著預後意義。 - CML-like（multilineage involvement）型：BCR::ABL1 也存在於髓系及其他系別，代表 clone 起源於更早期的幹/祖細胞；緩解後仍可測得 BCR::ABL1，但訊號可能來自已分化的正常血球而非殘存白血病，故此族群中 BCR::ABL1 MRD 不具預後意義。
+
+GRAAPH-2014 試驗顯示，多系別型 Ph+ ALL 佔約 43%，儘管 BCR::ABL1 反應較差，其 DFS 與典型型相近；反而是 IG/TR-based MRD（而非 BCR::ABL1）能可靠預測預後，並可據此界定高風險族群以決定是否需異體移植。因此，在懷疑 multilineage 型時，單獨依賴 BCR::ABL1 PCR 可能高估殘存病灶，須以 IG/TR NGS 或 flow MRD 交叉驗證。此外，CML-like 型病人更常在首次緩解期死亡而非復發，其生物學更接近 CML lymphoid blast crisis。
+
+七、逐項評析
+
+- - 正確：MYC-r B-ALL 具未突變 IGHV，Burkitt/高惡度 B 細胞淋巴瘤有 SHM 證據。
+- - 正確：DUX4-r 在兒童相對常見（5–10%），預後極佳。
+- - 正確：BCR::ABL1-positive ALL 分為 lymphoid-restricted 與 multilineage 兩亞群。
+- - 錯誤（本題答案）：t(12;21) 即 ETV6::RUNX1，是最良好的預後亞型之一，並非不良預後。
+- - 正確：MEF2D-r 為不良預後亞型。
+
+Take-home：分類的每一次細分，都不只是換一個名字——它會改變對「這個病人需要多強的治療」的判斷。

@@ -1,0 +1,144 @@
+第一一四年，第二十七集。
+
+急性期救回了病人，但 iTTP 真正的長尾在後面。
+
+以下這篇綜論以 2025 年 8 月 JAMA 刊載的 iTTP 系統性回顧為核心，輔以 HERCULES 試驗 、NeST 研究 ，以及 ADAMTS13 引導之 preemptive rituximab 的世代研究撰寫而成。(E) 選項的兩處數字錯誤均已在文中明確指出。
+
+一、開場：死亡率的翻轉，以及它所揭露的新問題。
+
+在血漿置換（therapeutic plasma exchange, PEX）問世之前，TTP 的急性期死亡率高達約 90%——大多數病人在確診後數天內即因多器官微血管血栓而死亡。PEX 的引入將死亡率壓低至約 10 到 20%；此後，加入皮質類固醇（corticosteroids）、rituximab，再加上 caplacizumab，當代三聯／四聯療法的 30 天存活率已超過 90%，急性期死亡率降至 10% 以下 。
+
+這是一場了不起的勝利——但正因為病人活下來了，我們才看見了三個過去因存活時間太短而看不到的問題：
+
+① 高比例的長期復發，且可於數月至十餘年後發生
+② 緩解期持續存在的「隱形」器官傷害，尤其是無症狀腦梗塞（silent cerebral infarcts, SCI）與認知功能下降
+③ 即使在臨床緩解中，長期死亡率仍高於一般族群
+
+這三個問題，正是本篇綜論的核心。
+
+二、選項 (E) 的第一個錯誤：復發率遠高於 16%。
+
+選項 (E) 聲稱「16% 的病人至少會復發一次」。這個數字反映的是特定定義下（臨床緩解後 30 天以上）的短期追蹤結果，並不代表 iTTP 的真實長期復發風險 。
+
+長期世代研究顯示，約 30 到 50% 的 iTTP 病人在整個病程中至少復發一次，多數研究的數據落在 40% 上下，且復發可發生於第一次發作後數個月乃至十餘年之後。這個差距不是統計噪音，而是因為「追蹤時間越長，復發越多」的基本流行病學現實。
+
+為什麼 iTTP 會復發？ 原因在於它的本質：iTTP 是一種自體免疫疾病，其致病機轉是抗 ADAMTS13 的 IgG 自體抗體。PEX 的作用是移除循環中的抗體，並補充功能正常的 ADAMTS13；rituximab 消耗 CD20+ B 細胞，減少新抗體的產生。然而，這些治療均無法清除已分化的長壽命漿細胞（long-lived plasma cells）或骨髓中的記憶 B 細胞。一旦免疫抑制效果消退、B 細胞重建，產製自體抗體的能力便可能死灰復燃。因此，「治好一次發作」與「治好這個病」是兩件截然不同的事。
+
+復發的危險因子包括：
+
+緩解時 ADAMTS13 活性持續嚴重低下（小於等於 10 到 20%）
+緩解時 anti-ADAMTS13 IgG 持續陽性且數值偏高
+非裔族群（Black individuals，iTTP 發生率本即為非裔的 7 倍 ）
+年輕發病
+
+下圖（來自 Schieppati 等人的多中心世代研究）顯示：緩解時 ADAMTS13 活性小於等於 20% 合併高抗體效價者，累積復發率可達 67%；兩者均正常者則僅約 20% 。
+
+![](/img/img/1337dd97-ecb0-4286-ab92-ba21f79a9478.jpg)
+Figure 3: Cox regression analysis. Cumulative incidence of relapse in patients with ADAMTS‐13 activity 小於等於 20% plus anti‐ADAMTS‐13 IgG 大於等於 15 U/mL upon remission (green line), compared to patients with ADAMTS‐13 activity>20% plus anti‐ADAMTS‐13 IgG <15U/mL upon remission (blue line with bars) [Color figure can be viewed at wileyonlinelibrary.com ]
+
+三、選項 (E) 的第二個錯誤：preemptive rituximab 的 ADAMTS13 門檻不是「< 30%」。
+
+這是本篇最重要的一段，因為門檻的選擇直接影響到多少病人會接受不必要的 B 細胞耗竭治療。
+
+關鍵的生物學觀察是：在臨床復發（血小板驟降、MAHA 症狀重現）之前數週至數月，ADAMTS13 活性會先出現「生化復發（biochemical relapse）」——即活性再度降至嚴重低下的範圍。這個生化領先窗，為臨床醫師提供了一個「在血栓形成之前主動介入」的機會，即所謂的 preemptive rituximab 策略。
+
+正確的門檻與依據如下：
+
+ISTH 指引（2020）建議：對緩解期中 ADAMTS13 活性低下的病人，給予 preemptive rituximab（conditional recommendation）
+多數專家採用的門檻為 ADAMTS13 活性小於等於 10%；部分中心放寬至小於等於 20%
+一項納入 2 個世代研究（163 名病人）的 meta-analysis 顯示：在 ADAMTS13 活性 < 10% 的緩解期病人中，給予 rituximab 者的臨床復發率大幅低於未給予者（17/122 vs. 24/41；OR 0.09，95% CI 0.04 到 0.24）
+在英國的研究中，96% 的「生化復發」病人接受 preemptive rituximab 後，ADAMTS13 活性於中位 21 天內回升至大於等於 20%
+
+為什麼「< 30%」是錯的？ ADAMTS13 活性在 20 到 60% 之間的緩解期病人相當普遍，且其中多數並不會復發。若以 30% 作為啟動 rituximab 的門檻，將導致大量不必要的 B 細胞耗竭，引發感染風險上升（包括 hepatitis B 再活化）、低免疫球蛋白血症（hypogammaglobulinemia）、以及疫苗反應下降等副作用——而這些病人原本可能根本不需要治療。
+
+監測的實務建議：臨床緩解後，建議每 3 個月定期追蹤 ADAMTS13 活性；使用 caplacizumab 的病人，應在停藥前確認 ADAMTS13 已回升，以避免停藥後的「反彈性復發（rebound relapse）」。
+
+四、選項 (C) 的核心：Caplacizumab 是「橋」，不是「藥」。
+
+機轉：Caplacizumab 是一種 nanobody（單域抗體），以高親和力結合 von Willebrand factor（VWF）的 A1 domain，阻斷 VWF 與血小板 GPIbalpha （glycoprotein Ib-IX-V complex）的交互作用，從而立即抑制微血管血栓的形成 。
+
+然而，最重要的概念是：caplacizumab 完全沒有處理自體抗體的產製，也沒有修復 ADAMTS13 的缺乏。它只是在下游把「血栓形成」這個有害的結果暫時擋住，替 PEX 移除抗體、替 rituximab 消耗 B 細胞爭取時間。這個「橋」的角色，決定了它的停藥時機不應由固定天數決定，而應由 ADAMTS13 活性是否已回升來決定——否則在 ADAMTS13 尚未回復、自體抗體仍高的情況下停藥，將直接導致臨床復發。
+
+HERCULES 試驗（2019 年，NEJM） 是 caplacizumab 最重要的臨床證據 ：
+
+145 名 TTP 病人隨機分配至 caplacizumab 或安慰劑，合併 PEX 治療
+血小板正常化的中位時間：2.69 天（caplacizumab）vs. 2.88 天（安慰劑）；P = 0.01
+TTP 相關死亡、復發或血栓栓塞的複合終點：12% vs. 49%（降低 74%；P < 0.001）
+試驗期間 TTP 復發率：12% vs. 38%（降低 67%；P < 0.001）
+難治性 TTP（refractory TTP）：caplacizumab 組無人發生 vs. 安慰劑組 3 人
+PEX 天數與住院天數均顯著縮短
+
+此外，納入 HERCULES 與 TITAN 兩個試驗（220 名病人）的 meta-analysis 確認：caplacizumab 縮短血小板回復時間（平均差 0.7 天）、降低疾病惡化（exacerbation）與難治性疾病的風險；死亡率的下降（0.9% vs. 4.5%）雖具臨床意義，但因樣本數有限，信賴區間跨越 1（RD −4%，95% CI −8% to 1%），尚未達統計顯著 。
+
+下圖為 HERCULES 試驗中血小板正常化時間的 Kaplan-Meier 曲線：
+
+![](/img/img/36fa0cfa-89fe-4185-bba3-16d4a86779a4.jpg)
+Figure 1: Time to Confirmed Normalization of the Platelet Count in the Intention-to-Treat Population.
+
+副作用：最常見的是黏膜出血（mucocutaneous bleeding）——鼻出血、牙齦出血、月經量增多——在 HERCULES 試驗中發生率為 65%（vs. 安慰劑組 48%）。這是可預期的，因為 VWF-GPIb 軸不僅參與病理性血栓，也是正常初級止血（primary hemostasis）的核心。
+
+目前的爭議：caplacizumab 是否改善死亡率，仍需更大型研究確認；其高昂的成本也使部分中心採取「選擇性使用」策略，僅用於高危族群（如神經學症狀嚴重、心肌受損、難治性病例）。
+
+五、選項 (A) 的延伸：破除「五聯症」的迷思。
+
+⚠️ 最重要的觀念：教科書上的「五聯症（pentad）」——發燒、神經學症狀、腎損傷、微血管病性溶血性貧血（MAHA）、血小板低下——同時出現的比例不到 10%。等到五聯齊全才考慮 TTP，病人已極度危險，延誤治療的代價往往是生命。
+
+實際上最常見的表現是神經學症狀（頭痛、意識混亂、局部神經學徵象；比例 39 到 80%，且可以是一過性的、反覆出現的）與腹痛（35 到 39%，源於腸繫膜微血管缺血），加上出血點與紫斑。
+
+⚠️ 最容易被忽略、卻是主要死因的器官：心臟。 心肌微血管血栓可造成 troponin 上升、心律不整、猝死。所有疑似 iTTP 的病人都應立即檢驗 troponin 並做心電圖，troponin 上升本身也是預後不良的獨立危險因子 。
+
+六、收尾：緩解不等於康復——iTTP 存活者的長尾。
+
+iTTP 存活者並非「恢復正常」，而是帶著一身的後遺症繼續生活：
+
+認知功能障礙與 Silent Cerebral Infarction（SCI）：在 NeST 前瞻性研究中（42 名 iTTP 緩解期病人），50% 在腦部 MRI 上可見 SCI（無對應明顯神經學症狀的梗塞灶）；有 SCI 者的認知功能障礙發生率為 66.7%，顯著高於無 SCI 者（27.7%；P = 0.026） 。更重要的是，後續追蹤顯示 SCI 在臨床緩解期中仍持續進展（28 個月內 28.6% 的病人出現新發或惡化的 SCI），且 SCI 進展者的認知功能無法改善；更高的 SCI 負擔預測更高的中風風險（HR 1.36；P = 0.043） 。這些「沉默」的梗塞，其實一點都不沉默。
+
+其他長期問題包括：
+
+憂鬱症與生活品質顯著下降
+高血壓、中風、心血管疾病的發生率高於一般族群
+整體死亡率仍高於年齡配對的對照族群
+
+本篇的主軸至此收束：iTTP 不應被視為一次急性事件，而應被當成一個需要終身追蹤的慢性自體免疫疾病。急性期之後的工作——監測 ADAMTS13、適時給予 preemptive rituximab、定期追蹤認知功能與心血管風險——才是真正照顧這群病人的核心。
+
+七、逐項評析。
+
+選項
+
+正誤
+
+評析
+
+(A)
+
+正確
+
+神經學症狀（39 到 80%）與腹痛（35 到 39%）確為最常見表現；但需補充心臟受損的重要性
+
+(B)
+
+正確
+
+PLASMIC score（含 platelet < 30 × 10⁹/L、creatinine < 2.0 mg/dL 等）可在 ADAMTS13 結果回報前協助啟動經驗性治療
+
+(C)
+
+正確
+
+Caplacizumab 縮短血小板正常化時間、降低早期復發風險，但增加黏膜出血
+
+(D)
+
+正確
+
+PEX + 類固醇 + rituximab 的 30 天存活率確實 > 90%（約 93%）
+
+(E)
+
+錯誤（兩處）
+
+① 復發率：「16%」嚴重低估——長期追蹤顯示約 30 到 50%（多數落在 40% 上下）的 iTTP 病人至少復發一次，復發可發生於數月至十餘年之後 。② ADAMTS13 門檻：「< 30%」錯誤——多數專家與 ISTH 指引採用小於等於 10%（部分中心放寬至小於等於 20%）作為啟動 preemptive rituximab 的門檻；以 30% 為門檻會造成大量不必要的 B 細胞耗竭
+
+臨床 take-home：當急性期死亡率不再是主要問題的時候，問題就變成了——「活下來的人，過著什麼樣的生活」？
+
+這篇綜論所有臨床陳述均有文獻支撐。特別值得注意的是，2025 年 8 月發表於 JAMA 的 iTTP 系統性回顧本身即是選項 (E) 原始數字的出處；其中「16%」係基於特定的緩解定義與追蹤期，而長期世代資料（包含 ADAMTS13 雙重陰性分層的研究 ）一致顯示真實復發率遠更高。preemptive rituximab 門檻方面，ISTH 的 conditional recommendation 與支持小於等於 10% 閾值的 meta-analysis 均明確反對以 30% 作為介入點。SCI 與認知功能障礙的數據來自 NeST 前瞻性研究的基線分析及 12 個月追蹤報告 （後者發表於 2025 年 8 月）。

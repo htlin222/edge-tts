@@ -1,0 +1,87 @@
+第一一四年，第五十八集。
+
+一個檢驗方法的缺陷，如何在一個族群裡製造出一整批假的病人。
+
+以下是以「一個檢驗方法的缺陷，如何在一個族群裡製造出一整批假的病人」為主軸的綜論。
+
+一、Ristocetin：一個被下架的抗生素，以及它的「不自然」
+
+Ristocetin 最初是 1950 年代開發的醣肽類抗生素，因為在臨床使用中導致血小板低下與血小板凝集而被撤出市場。血液科學家在這個「副作用」中看見了工具的可能性：既然它能讓血小板凝集，也許可以用來偵測促成這種凝集所需的 von Willebrand factor（VWF）是否足夠、功能是否正常。這個觀察在 1971 年被 Howard 與 Firkin 正式發表，VWF ristocetin cofactor activity assay（VWF:RCo）自此成為 VWD 診斷的核心工具長達半個世紀。
+
+但這裡藏著一個根本性的問題，也是本篇的主軸：ristocetin 誘導 VWF 與血小板 GPIbalpha 結合的機制，根本不是生理性的。
+
+在正常止血中，VWF 之所以能在受損血管處捕捉血小板，靠的是「剪應力（shear stress）」對 VWF A1 domain 所產生的構型改變——A1 domain 在靜態下是被蓋住的，只有在高剪切力環境中才展開，暴露出 GPIbalpha 的結合位 。Ristocetin 的機制完全不同：它是一種帶強正電的分子，透過結合在 VWF A1 domain 兩側的 flanking region（包含 Cys1237–Pro1251 與 Glu1463–Asp1472 附近），以中和 VWF 與 GPIb 介面的負電荷來人為地促成兩者的結合 。這是一種靜電學把戲，不是血流力學。
+
+這個區別至關重要，因為它意味著：任何位於 ristocetin 結合位附近、能影響電荷中和效率的變異，都會讓 VWF:RCo 給出錯誤的答案——即便那個變異對真實的生理性 VWF–GPIb 交互作用毫無影響。一個使用非生理性觸發物的檢驗，必然會對「影響觸發物結合、卻不影響真實功能」的變異產生系統性誤判。
+
+二、D1472H 的故事：一個良性多型性製造出一整批假病人
+
+VWF 第 1472 位的 Aspartate，接著 Histidine 替換（p.D1472H，c.4414G>C），位於 exon 28 所編碼的 A1 domain 末端，恰恰就在 ristocetin 的其中一個結合位（Glu1463–Asp1472）的最末端 。它不是致病突變，而是一個常見的良性多型性（benign polymorphism）：帶有它的人既沒有出血傾向，collagen 結合活性也完全正常 。
+
+但它的族群盛行率差異極大：在非裔族群中約 60 到 63%（部分 gnomAD 資料顯示約 50.7%）；在高加索族群中僅約 10 到 20%（各研究約 6 到 17%） 。
+
+它的作用機轉已被闡明：p.D1472H 的組胺酸取代了天門冬胺酸，改變了這個位點的電荷特性，降低了 ristocetin 與 VWF A1 domain 的結合效率，使 ristocetin 誘導的 VWF–GPIbalpha 結合減少 。結果就是 VWF:RCo 的讀值假性偏低——而 VWF antigen（VWF:Ag）不受任何影響，因為 VWF:Ag 只測 VWF 蛋白質的量，與 ristocetin 無關。
+
+這條錯誤鏈條如下：VWF:RCo 假性偏低，接著 VWF:RCo / VWF:Ag 比值跌破 0.7，接著被誤判為 type 2M（或 type 1）VWD。一個沒有任何出血問題的非裔健康人，因為攜帶了一個在其族群中超過半數人都有的多型性，就被貼上了罕見出血疾病的診斷標籤。對 VWD 的分型與後續臨床處置，本篇不另行展開，在其他章節有完整說明。
+
+這件事的最重要意義，在於健康公平（health equity）：VWF:RCo 的這個缺陷會系統性地在非裔族群中製造大量偽陽性診斷，導致不必要的疾病標籤、術前限制、以及非必要的血漿製品或去氨加壓素使用。它不是個別醫師的失誤，而是一個在設計上就對某個族群不公平的檢驗方法所造成的結構性問題 。
+
+另一個具有相同效應的多型性是 P1467S：同樣位於 A1 domain 的 ristocetin 結合區域，同樣在非裔族群中盛行率較高，同樣會使 VWF:RCo 假性偏低而不影響真實功能 。
+
+三、三代「血小板結合」檢驗的演進
+
+理解了 VWF:RCo 的根本缺陷，就能理解為何後續的檢驗演進都朝著「擺脫 ristocetin」或至少「降低對 ristocetin 的依賴」的方向走。
+
+① VWF:RCo（經典法，第一代）
+
+原理是將 ristocetin 加入含有固定血小板的受試血漿中，測量血小板凝集程度，以光學濁度法（turbidimetric method）讀取。這個設計帶來四個層次的缺陷：受 D1472H、P1467S 等多型性影響，接著偽性偏低（如前所述）。精確度差：批次間變異係數（CV）常達 20 到 30%，部分研究甚至更高，這在診斷閾值附近會製造巨大的灰色地帶。偵測下限高（約 10 到 20 IU/dL）：低於這個範圍的值無法可靠區分，導致 type 3 與極嚴重 type 1 之間難以鑑別。操作繁瑣、難以自動化，且 ristocetin 本身存在批次差異與供應穩定性問題
+
+② VWF:GPIbR（第二代，ristocetin-triggered GPIb binding）
+
+以重組的 GPIb 片段取代固定血小板，coating 在乳膠微粒（latex beads）或發光底物上，再加入 ristocetin 觸發結合、以免疫學方法定量。精確度明顯優於 VWF:RCo，且可在自動化分析儀上運行，已大幅取代傳統的手工 VWF:RCo。
+
+但是，VWF:GPIbR 仍然使用 ristocetin。這意味著理論上它仍可能受到 D1472H 的影響。然而，2025 年 Seidizadeh 等人的研究帶來了一個重要的新資訊：商業版 VWF:GPIbR LIA 實際上並未受 p.D1472H 的影響（兩組的 VWF:GPIbR VWF:Ag 比值在 D1472H 攜帶者與非攜帶者之間無統計差異），原因推測與 LIA 試劑中 ristocetin 濃度的設定、以及重組 GPIb 片段的固相化方式有關 。這個發現值得重視，但目前資料仍相對有限，且並非所有 VWF:GPIbR 平台都有相同的驗證資料。臨床上若選用 VWF:GPIbR，應確認所用的商業平台已有針對 D1472H 的驗證資料，而不能僅憑「使用 ristocetin」就一概視為與 VWF:RCo 等同。
+
+③ VWF:GPIbM（目前的首選，第三代）
+
+VWF:GPIbM 的核心創新在於：使用帶有功能增益突變 G233V M239V 的重組 GPIb 片段。這兩個突變使 GPIb 的構型固定在「高親和力狀態」，能夠自發地、不需要 ristocetin 的輔助，就直接結合 VWF 的 A1 domain 。
+
+由於完全繞過了 ristocetin 的電荷中和機制，D1472H 對 VWF 與 ristocetin 結合位的影響，在 VWF:GPIbM 中完全不相關——D1472H 攜帶者的 VWF:GPIbM VWF:Ag 比值與非攜帶者無顯著差異，且兩組均在 0.7 以上的正常範圍 。此外，VWF:GPIbM 的精確度優於 VWF:RCo，偵測下限較低，且可自動化。
+
+以下為這項 2025 年研究的核心比較結果：
+
+![](/img/img/19f74201-04a2-4d5c-adc0-95e4602aa876.jpg)
+Figure 1: Comparison of VWF activity/VWF:Ag ratio in the presence or absence of p.D1472H. The effect of p.D1472H on four platelet‐dependent VWF activity assays was evaluated: (A) VWF:RCo, (B) VWF:GPIbR LIA, (C) VWF:GPIbR CLIA, and (D) VWF:GPIbM LIA. The median values are shown at the top of the graph. The horizontal dashed line represents VWF activity/VWF:Ag ratio cutoff (i.e., 0.70). Statistical significance is represented as follows: ns, not significant; : p 小於等於 0.001; *: p 小於等於 0.0001. The three homozygous cases are highlighted in red. VWF:Ag, von Willebrand factor antigen; VWF:RCo, von Willebrand factor Ristocetin cofactor; VWF:GPIbR, ristocetin‐triggered GPIb binding; VWF:GPIbM, VWF glycoprotein‐IbM; LIA, latex immunoassay; CLIA, chemiluminescence immunoassay.
+
+④ VWF:Ab（單株抗體法）
+
+以能辨識 VWF A1 domain 上「GPIb 結合功能表位」的單株抗體，直接進行免疫定量。不使用 ristocetin，因此不受任何 ristocetin 結合位變異的影響。但它的根本侷限在於：它偵測的是「抗原決定位（epitope）是否存在」，而非「功能是否完整」。若某個 type 2M 變異使 GPIb 結合能力下降，但保留了抗體辨識的表位，VWF:Ab 可能無法捕捉到這個功能異常。
+
+四、指引的轉向
+
+ASH ISTH NHF WFH 2021 年 VWD 診斷指引明確建議：優先使用新一代的血小板結合活性檢驗（如 VWF:GPIbM）取代傳統 VWF:RCo，理由正是後者的精確度差、以及對 D1472H 等多型性的敏感性所帶來的診斷不可靠性 。
+
+現代診斷閾值的共識（簡列）：VWF < 30 IU/dL 可診斷 VWD；VWF 30 到 50 IU/dL 合併出血症狀定義為「low VWF」；活性/抗原比值 < 0.7 提示質的缺陷（type 2）。
+
+一個關鍵的實務提醒：若 VWF:RCo 比值偏低，但患者完全沒有出血病史、家族史也無陽性，第一步不是直接下 type 2M 的診斷，而應換用不同原理的檢驗（如 VWF:GPIbM）重驗，同時考慮基因檢測排除 D1472H 等良性多型性 。
+
+五、收尾：這是一個反覆出現的模式
+
+「每一個檢驗方法都內建了某些假設；當假設不成立時，它就會說謊。」VWF:RCo 的故事不是特例，而是這個模式在血液檢驗領域的一個典型展現：
+
+冷凝集素造成 MCHC 假性升高：血球分析儀假設紅血球不會在室溫凝集，算出錯誤的 MCV 和 MCHC。
+DOAC 造成 lupus anticoagulant 偽陽性：試驗假設凝血時間延長是因為抗磷脂抗體，卻沒考慮直接凝血酶抑制劑的干擾。
+快速免疫分析在 VITT 偽陰性：試劑假設抗體辨識的是 PF4-heparin 複合體上的特定表位，但 VITT 抗體的結合模式與普通 HIT 不完全相同。
+骨掃描在骨髓瘤偽陰性：骨掃描假設骨轉移會伴隨造骨活性，而骨髓瘤主要是溶骨性病灶，缺乏骨重建反應。
+
+通則是：當檢驗結果與臨床圖像衝突時，第一個該懷疑的不是病人，而是那個檢驗所依賴的假設。
+
+六、逐項評析五個選項
+
+(A) VWF:Ab：不使用 ristocetin，以單株抗體直接辨識 GPIb 結合表位。D1472H 不在抗體辨識位點，不受影響。非答案。
+(B) VWF:RCo，來自正確答案：使用 ristocetin ＋ 固定血小板。D1472H 位於 ristocetin 結合位的末端，直接削弱 ristocetin 的促結合效率，造成 VWF:RCo 假性偏低，是最經典、文獻最充分、臨床影響最大的元凶 。
+(C) VWF:GPIbM：使用 G233V M239V 功能增益型重組 GPIb，完全不需要 ristocetin。D1472H 對 ristocetin 結合的影響，在此檢驗中不相關。不受影響，非答案。
+(D) VWF:GPIbR：使用 ristocetin ＋ 重組 GPIb，理論上仍可能受 D1472H 影響，此為殘餘疑慮。然而，2025 年的實驗室驗證資料顯示，至少商業版 VWF:GPIbR LIA 實際上未觀察到 D1472H 的顯著干擾效應 ，可能與試劑設計的細節有關。目前的證據不足以將 VWF:GPIbR 列為確定受影響的選項，而 VWF:RCo 才是有壓倒性文獻支持的答案。本題中 (D) 不是最佳答案，但臨床上其是否完全豁免於 D1472H 的影響，仍應留意平台特異性的驗證資料。
+(E) 以上皆非：(B) 確有影響，故此選項錯誤。
+
+臨床 take-home：我們用一個被下架的抗生素來診斷一個出血疾病——而它在某些族群身上，會告訴我們錯誤的答案。

@@ -1,0 +1,59 @@
+第一一四年，第一集。
+
+測量的時間點，決定了它在測哪一種抗藥性。
+
+一、開場：一個被忽略的邏輯——「第幾天」不是隨意選的。
+
+(C) 的錯誤不在於它說錯了現象，而在於它把兩個不同時間點對應的抗藥性機轉「對調」了。在傳統 BFM-type induction 中，最初的 7 天是 "prednisone prophase"——只給 prednisone（加上一次 intrathecal methotrexate），細胞毒性化療藥物根本還沒開始或才剛開始。因此，第 7 到 8 天所測到的 blast 反應，在藥理學上只可能反映類固醇的效果，而不是化療的效果。
+
+BFM 的經典定義非常明確：第 8 天周邊血 blast <1,000/μL 定義為 prednisone good responder (PGR)；大於等於 1,000/μL 為 prednisone poor responder (PPR)——PPR 是一個歷史上極具份量的不良預後因子。近年多中心資料也顯示，雖然 PR 在 MRD 時代已非獨立預後因子，但PPR 仍與高風險臨床特徵及較差的 day 15/33 MRD 高度相關，本質上是 MRD 的一個「早期替代訊號」。成人資料同樣支持這個邏輯：day +8 未達早期反應合併 favorable response to steroids 的缺失，是 induction failure 的顯著預測因子。
+
+而要評估「對整套多藥化療的抗性」，必須等到細胞毒性藥物都已給予、且有足夠時間作用——也就是第 21 天之後（或 end of induction）。一個時間點的預後意義，取決於那個時間點之前病人到底吃了什麼藥——這正是 (C) 把「第 7 天」與「chemotherapy resistance」綁在一起時所犯的根本錯誤。
+
+補充機轉層面：淋巴芽細胞對 glucocorticoid 誘導的凋亡（經 glucocorticoid receptor，接著 BIM 等 BH3-only 蛋白活化）本來就高度敏感。對類固醇不敏感，往往代表凋亡路徑本身已有缺陷（如 TP53 異常、BCL2 家族失衡、NR3C1 缺失），而這種內在缺陷常對其他細胞毒性藥物也造成交叉抗性——這也是為何 prednisone response 雖然測的是「類固醇」，卻能預示整體治療反應。
+
+二、反應評估的完整時間軸。
+
+Day 8（周邊血），接著 prednisone response：PGR PPR，如上所述。
+Day 15（骨髓），接著早期化療反應：COG 及 BFM 系統常用，<5% blast (M1) 與較佳預後相關。
+Day 21 之後仍有 blast，接著 cytotoxic chemotherapy resistance——這才是(B) 的真正依據。
+Day 28 到 35（end of induction, EOI），接著形態學 CR 與 EOI MRD：現代核心終點已由形態學轉向 MRD。
+(A) 的依據：多數成人 ALL 研究以約 4 週（一個 induction 週期）內未達 CR 定義為 induction failure，是成人 ALL 最強的不良預後因子之一；部分研究則以「一個療程結束」作為判定點，未必完全統一於 4 週。
+
+這整條時間軸正被 MRD 逐步取代，因為 MRD 的解析度比形態學高出 3 到 4 個數量級（multiparameter flow cytometry 敏感度約 10⁻⁴；NGS-based clonoSEQ 可達 10⁻⁶，但需診斷時檢體建立 clone），遠優於形態學的 5% 閾值。日本前瞻性研究即證實，postinduction MRD 陰性者三年 DFS 約 73%，MRD 陽性者僅約 41%，凸顯 MRD 早於形態學就能區分預後。
+
+![](/img/img/5a0cb21d-5e7a-4be0-a1c1-451b51094b13.jpg)
+Figure 2: Impact of postinduction minimal residual disease (MRD) status on overall survival (OS) and disease‐free survival (DFS). Three‐year DFS was 73% (95%CI 44‐89) in MRD‐negative patients after induction chemotherapy A (n = 15) and 41% (95%CI 26‐60) in MRD‐positive patients (n = 30) ( P = 0.018)
+
+Ph+ ALL 則有其獨特工具——RQ-PCR for BCR ABL1，這也是 (D) 特別強調此方法的原因，將於下段展開。
+
+三、(D) 的核心：Ph+ ALL 的分子反應深度。
+
+BCR ABL1 是腫瘤專一的分子標記，RQ-PCR 可達極高敏感度，且不需仰賴免疫表型的專業判讀，因此成為 Ph+ ALL 監測 MRD 的主流方法。
+
+但有一個重要技術陷阱：約有相當比例的成人 Ph+ ALL 存在 BCR ABL1 的「multilineage involvement」——融合基因同時存在於骨髓中已分化的髓系細胞。GRAAPH-2014 研究發現，43% 的病人有殘存 BCR ABL1 陽性但非 ALL 的細胞，此時 PCR 訊號可能高估真正的白血病負荷；相較之下，IG TR MRD 才是真正獨立預測 DFS 的指標，而 BCR ABL1 反應本身未能預測結果。NGS 與 RT-PCR 的配對研究也顯示，約三分之一病人在兩種方法間出現不一致，PCR 值系統性地高於 NGS 值。臨床上應同時以 flow MRD 或 IG TR NGS 交叉驗證，而非單獨依賴 BCR ABL1 PCR。
+
+所引用的 MDACC 資料具體且重要：hyper-CVAD 併用 ponatinib 或 dasatinib，於 3 個月達到 complete molecular response (CMR) 者，5 年 PFS 約 68%、OS 約 72%，其中ponatinib 組達成 3 個月 CMR 比例最高（74% vs dasatinib 52% vs imatinib 32%），且是多變量分析中唯一顯著預防疾病進展與死亡的獨立因子。「3 個月的分子反應深度」已成為決定是否在 CR1 移植的關鍵依據——該研究更指出，一旦達成 3 個月 CMR，allo-HSCT 並未再額外改善 PFS OS。
+
+當代趨勢進一步走向 chemo-free 方案（ponatinib + blinatumomab，如 MDACC 及 GIMEMA D-ALBA 方案），使部分病人可避免傳統化療甚至移植。PhALLCON 試驗（ponatinib vs imatinib 併低強度化療）證實：EOI 的 MRD 陰性 CR 率 ponatinib 組 34.4% vs imatinib 組 16.7%（相對風險 2.06，P=.002），深度分子反應（MR4.5）亦顯著較高。
+
+![](/img/img/06aefd10-dee3-4827-87ca-bda9c862e00b.jpg)
+Figure 2: Impact of postinduction minimal residual disease (MRD) status on overall survival (OS) and disease‐free survival (DFS). Three‐year DFS was 73% (95%CI 44‐89) in MRD‐negative patients after induction chemotherapy A (n = 15) and 41% (95%CI 26‐60) in MRD‐positive patients (n = 30) ( P = 0.018)
+
+四、(E) 簡短處理，並收束成當代原則。
+
+(E)：E1910 試驗顯示，即使已達 MRD 陰性緩解的成人 BCP-ALL（Ph-negative），在 consolidation 中加入 blinatumomab 仍可顯著改善 overall survival，細節詳見另篇。
+
+(D)(E) 合起來反映一個當代原則：「MRD 陰性」不再是治療的終點，而是決定下一步治療的分岔點——。MRD 陽性，接著升階治療（blinatumomab、inotuzumab、allo-HSCT）。MRD 陰性，接著仍可能從免疫治療進一步獲益（如 E1910），但部分族群可能因此避免移植（如 GRAAPH-2014 標準風險組即使不做 allo-HSCT 預後仍佳）
+
+這與本篇主軸首尾呼應：從「第幾天還有沒有 blast」到「10⁻⁶ 解析度的 MRD」，血液腫瘤學始終在做同一件事——用「治療反應」取代「起始特徵」來預測未來，而每一次解析度的提升，都讓舊的預後分野讓位給更精確的分子監測。
+
+五、逐項評析。
+
+(A) 正確：多數成人 ALL 研究以約 4 週未達 CR 視為 induction failure，是強烈不良預後因子。
+(B) 正確：Day 21 之後仍有 blast 才是 cytotoxic chemotherapy resistance 的真正定義依據。
+(C) 錯誤（本題核心）：第 7 天測的是 prednisone prophase 期間的反應，只能反映 corticosteroid resistance，而非 chemotherapy resistance；後者要等到第 21 天之後才成立。
+(D) 正確：RQ-PCR 監測 BCR ABL1 於治療中、治療後、移植後皆有預後意義；MDACC 資料顯示 3 個月 CMR 者 RFS PFS 表現優異，惟需注意 multilineage involvement 可能造成 BCR ABL1 訊號與真實腫瘤負荷不一致。
+(E) 正確：E1910 顯示 MRD 陰性者加入 blinatumomab 仍可改善 OS。
+
+臨床要點：判讀任何「早期反應」預後因子時，務必先確認該時間點之前病人實際暴露了哪些藥物，才能正確歸因是類固醇抗性、化療抗性，還是分子層級的殘存疾病；Ph+ ALL 的 MRD 監測則需警覺 BCR ABL1 的 multilineage 陷阱，必要時以 IG TR 或 flow MRD 交叉驗證。

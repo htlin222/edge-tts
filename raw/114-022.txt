@@ -1,0 +1,199 @@
+第一一四年 第二十二集
+有脈絡的綜論:TMA 是共同終點不是診斷:真正的問題永遠是上游是誰推的
+
+以下是一篇以「TMA 是共同終點，不是診斷」為主軸的綜論，供專科考試複習與臨床推理之用。
+
+![](/img/img/d92f40e9-26d0-4a88-81b8-6d039695ccba.jpg)
+Figure 1: Illustration of the pathogenesis of TTP, typical HUS and atypical HUS
+
+TMA 是一個共同終點，不是一個診斷——真正的問題永遠是「上游是誰推的」
+
+一篇以血液腫瘤科專科考試題目為起點的 TMA 病生理綜論
+
+一、開場：先把「共同終點」這個概念立起來
+
+Thrombotic microangiopathy（TMA）是由一組異質性疾病所共享的臨床–病理表型，而非單一診斷。其病理三聯為：① Microangiopathic hemolytic anemia（MAHA，以 schistocyte 為標誌）② 消耗性血小板低下（consumptive thrombocytopenia）③ 缺血性器官傷害。
+
+這三項特徵只描述了一個事實：「微血管腔內出現了血栓，紅血球被機械性剪切碎裂，血小板被消耗」——它完全沒有告訴你「為什麼會這樣」。正如 NEJM 2014 年的 TMA 綜論所強調，不同病因雖然共享相同的下游病理，卻有著截然不同的上游致病機轉，且「治療策略必須針對上游病因，而非下游表現」。
+
+因此，TMA 的臨床工作不是「診斷 TMA」，而是「找出上游的推手」——因為： - TTP → 血漿置換（plasma exchange, PEX）＋ caplacizumab；若延誤，死亡率可達 90% - aHUS → eculizumab / ravulizumab；若延誤，腎臟不可逆損傷 - 惡性高血壓性 TMA → 控制血壓；eculizumab 在此無效且極昂貴 - HELLP → 終止妊娠 - 藥物性 → 停藥
+
+每一條路徑，治療「完全不同」。
+
+二、本篇核心：把所有 TMA 的上游整理成「三條路」
+
+路徑一：VWF 軸失控（血小板端）
+
+核心是 ADAMTS13 deficiency。ADAMTS13 是裁剪 ultra-large VWF multimer（ULVWF）的金屬蛋白酶；一旦其活性 < 10%，ULVWF 在血管剪應力下無法被切斷，形成富含血小板的微血栓，阻塞小血管。
+
+- 免疫型 TTP（iTTP）：anti-ADAMTS13 IgG（自體抗體）清除或抑制 ADAMTS13，佔 TTP 的絕大多數
+- 先天型 TTP（Upshaw-Schulman syndrome）：ADAMTS13 基因雙等位基因突變，常於兒童期或妊娠誘發，罕見
+- 器官侵犯偏向：中樞神經系統（意識改變、局部神經症狀），因腦部微血管富含 VWF 結合位點
+
+關於 TTP 的診斷流程（PLASMIC score 運用）、caplacizumab 用法、schistocyte 標準判讀（ICSH ≥ 1% 作為閾值），本篇不重複展開，請參見相關筆記。此處提醒一個量化界線：ADAMTS13 活性 < 10% 才定義為 TTP；10–50% 屬中度缺乏，需結合臨床判斷。在 ADAMTS13 結果回報前，PLASMIC score 可協助預測「重度缺乏（< 10%）」的機率，指引是否立即開始血漿置換。
+
+路徑二：補體替代途徑失控（內皮端）
+
+Atypical HUS（aHUS）的核心病生理是補體替代途徑（alternative pathway, AP）的失控活化，使得 C5b-9（membrane attack complex, MAC）沉積於腎臟小血管內皮，造成內皮損傷、血栓形成，臨床上以腎臟受損為最主要表現。
+
+已知的分子異常包括： - 喪失功能型突變（loss-of-function）：CFH、CFI、MCP（CD46）——調控蛋白功能缺失，補體無法被抑制 - 獲得功能型突變（gain-of-function）：C3、CFB——補體被過度活化 - THBD（thrombomodulin）突變：影響 Factor I 的協同調控 - Anti-CFH 抗體：後天性，類似免疫型 TTP 的邏輯 - 重要實務提醒：約 40–60% 的 aHUS 患者才能找到已知的基因或抗體異常；「基因檢查陰性」絕對不能排除 aHUS。aHUS 本質上仍是「臨床診斷」——排除 TTP（ADAMTS13 活性 < 10%）與 STEC-HUS（糞便 PCR / 血清 O157 抗體）後的診斷。
+
+補充另一條獨立機轉：STEC-HUS（志賀毒素相關 HUS）。Shiga toxin 結合腎臟近端小管及腎絲球內皮細胞表面的 Gb3（globotriaosylceramide）受體，直接引發內皮毒性，與補體途徑不同。治療為支持性；在 STEC-HUS 使用抗生素反而可能增加毒素釋放而加重病情，此為重要的臨床「不可為」。
+
+以下是 aHUS 補體失調的病理機轉示意：
+
+![](/img/img/95c4f2cd-190b-4d9c-b341-37a321e84643.jpg)
+Figure 2: Pathogenesis of complement‐mediated atypical haemolytic uraemic syndrome (aHUS). Complement is activated by the classical (CP) lectin (LP) and alternative (AP) pathways. The AP is a positive amplification loop. C3b interacts with factor B, which is then cleaved by factor D to form the C3 convertase C3bBb. Unchecked this leads to activation of the terminal complement pathway with generation of the membrane attack complex (MAC, C5b‐9) and the anaphylatoxin C5a. Complement regulators including factor H (FH), factor I (FI) and CD46 protect the glomerular endothelium from collateral damage from the AP. In complement‐mediated aHUS, activating mutations in C3 and CFB, loss‐of‐function mutations in CFH, CFI and CD46, and autoantibodies to FH, result in over‐activation of the AP. C5a induces tissue factor (TF) expression endothelial cells and increases tissue plasminogen activator inhibitor −1 in mast cells and basophils. C5a also promotes endothelial cell retraction, exposing underlying basement membrane. Sublytic membrane attack complex (MAC) also induces TF expression and increases adhesion molecule expression on the endothelium (VWF). Downstream effects of sublytic MAC on endothelium additionally include secretion of multimers of endothelial VWF and release of heparan sulphate proteoglycans from endothelial glycocalyx. Complement activation on platelets increases activation markers (CD40L; CD62P) with resulting in activation of the platelets with subsequent release of pro‐thrombogenic TF‐expressing platelet micro‐particles. Haem release from intravascular haemolysis stimulates TF upregulation and Neutrophil extra cellular traps (NETs) formation. NETs released by damaged or activated neutrophils and red cell degradation products have been shown to contribute to thrombus formation. Together these mechanisms lead to immune cell and platelet activation and endothelial cell damage and swelling, with consequent thrombus formation, platelet consumption, vascular occlusion mechanical haemolysis. Eculizumab & ravulizumab binds to C5 to prevent activation of the terminal pathway inhibiting the generation of the effector molecules that cause TMA. Modified from the National Renal Complement Therapeutics Centre 2020/2021 annual report ( http://www.atypicalhus.co.uk/ )
+
+路徑三：內皮的直接傷害（最龐雜、也最常見的一群）
+
+這條路徑涵蓋了臨床上最多的「繼發性 TMA」，病因極為多元： - 代謝性：Cobalamin C deficiency（cblC，見第五節詳述） - 機械/剪應力性：惡性高血壓（見第三節詳述） - 胎盤源性：Preeclampsia / HELLP（見第四節詳述） - 藥物性：Gemcitabine、mitomycin C、quinine、calcineurin inhibitors（tacrolimus、cyclosporine）、VEGF 抑制劑（bevacizumab）、interferon - 移植相關：TA-TMA（transplant-associated TMA）——造血幹細胞移植後，conditioning regimen 毒性、GVHD、calcineurin inhibitor、感染等多重因素疊加傷害內皮 - 感染與系統性疾病：HIV、CMV、嚴重敗血症、惡性腫瘤、SLE、硬皮症腎臟危象（scleroderma renal crisis）、catastrophic antiphospholipid syndrome（CAPS）
+
+三、(C) 為什麼錯——惡性高血壓的 TMA 機轉深析（本題關鍵）
+
+選項 (C) 宣稱「惡性高血壓是因為慢性腎傷害而非全身組織傷害造成 TMA」——這在機轉方向上完全反了。
+
+正確的機轉方向是「壓力 → 內皮 → 器官」，而非「腎臟慢性損傷 → TMA」：
+
+- 血壓極度升高（通常收縮壓 > 200 mmHg、舒張壓 > 120–130 mmHg）超過小動脈自動調節的上限
+- → 小動脈承受超過耐受範圍的剪應力（shear stress）與壁張力
+- → 內皮細胞受損、血管通透性增加
+- → 血漿成分（包括纖維蛋白原）滲入血管壁 → fibrinoid necrosis（類纖維蛋白壞死）；同時伴隨 onion-skin 樣的內膜增生（hyperplastic arteriolosclerosis）
+- → 內皮下基質暴露，血小板黏附活化，微血栓形成
+- → 紅血球被微血管內血栓剪切 → MAHA + schistocyte
+
+「全身性」是這個機轉最重要的關鍵字。 惡性高血壓同時傷害： - 腎臟：惡性腎硬化（malignant nephrosclerosis）、腎絲球內皮受損、急性腎損傷 - 腦：Hypertensive encephalopathy、PRES（posterior reversible encephalopathy syndrome） - 視網膜：Grade III（出血、棉絨斑）/ Grade IV（papilledema）視網膜病變 - 心臟：急性左心衰竭、冠狀動脈痙攣
+
+一份涵蓋 1,781 名惡性高血壓患者的系統性回顧顯示，腎臟 TMA 的組織學盛行率接近 95%，血液學 TMA 盛行率約 73%，充分說明這是一個「腎臟被牽連其中」而非「腎臟是始作俑者」的系統性病程。
+
+雞生蛋問題：腎臟同時是「受害者」也是「放大者」
+
+腎臟缺血 → renin 大量釋放 → angiotensin II 升高 → 血壓進一步上升 → 內皮損傷加劇。這是一個自我強化的惡性循環（vicious cycle）。但這個「renin-angiotensin 放大迴路」是加速器，不是起因。
+
+⚠️ 本篇最有臨床價值的一點：誤診的代價極高
+
+- 惡性高血壓性 TMA 的治療是「控制血壓」本身。積極降壓後，血液學異常（溶血、血小板低下）常在數天至數週內自行緩解，器官功能亦隨之恢復。
+- 若誤診為 aHUS 而給予 eculizumab：不但耗費極昂貴的藥費，且根本無法改善血壓本身造成的持續損傷。
+- 反之，若把真正的 aHUS 誤認為高血壓性 TMA 而延誤補體阻斷：可能造成不可逆的腎衰竭，且 aHUS 在 TMA 緩解後仍極易復發。
+
+鑑別的臨床線索： - 支持「惡性高血壓為主因」：極高血壓（常 > 200/130 mmHg）、Grade III–IV 視網膜病變、左心室肥厚（提示長期高血壓病史）、「積極降壓後 TMA 數週內緩解」本身就是最強的診斷工具 - 支持「aHUS 為主因（高血壓是 TMA 的結果）」：血壓相對較低但 TMA 症狀顯著、有家族史或個人既往發作史、補體基因或 anti-CFH 抗體陽性、降壓後血液學無改善 - 一個來自西班牙的大型惡性高血壓世代研究顯示，在所有合併 TMA 的惡性高血壓患者中，高達 60% 其實是 aHUS，而「原發性高血壓」本身造成的 TMA 僅佔約 2–5%——這個數字顛覆直覺，也說明了這個鑑別的重要性。
+
+四、(B) 的誠實評析：HELLP 的因果方向
+
+選項 (B) 說「HELLP 是因為懷孕的肝傷害導致 TMA」——這個敘述的因果方向是反的：肝傷害是 TMA 的結果，不是原因。
+
+真正的上游是胎盤： 1. 胎盤缺血（abnormal placentation / defective trophoblast invasion） 2. → 釋放 soluble fms-like tyrosine kinase-1（sFlt-1） 與 soluble endoglin（sEng）——抗血管新生因子 3. → sFlt-1 結合並中和循環中的 VEGF 與 PlGF（placental growth factor） 4. → 全身性內皮功能障礙——VEGF 信號對內皮的存活與一氧化氮生成至關重要 5. → 肝竇內皮受損 → 肝竇纖維蛋白沉積 → 肝細胞缺血壞死 → 肝酵素上升（AST/ALT↑）、右上腹疼痛
+
+肝傷害（H in HELLP）是 TMA 的「器官表現」，與腦的高血壓症狀（Elevated liver enzymes 之前先有 Hemolysis）、腎臟損傷共同構成 HELLP 的系統性樣貌。
+
+臨床要點： - 唯一根本的治療是「終止妊娠（delivery）」；類固醇可短暫穩定血液學，但不能阻止進展 - 產後 48–72 小時仍持續惡化者，須高度懷疑產後 aHUS（postpartum aHUS）——此時 sFlt-1/VEGF 失衡應已因胎盤娩出而改善；若 TMA 持續，補體突變應列入考量，eculizumab 在此有明確角色
+
+為什麼本題仍選 (C)，而非 (B)：(B) 的敘述雖因果不夠精確（把「結果」說成「原因」），但臨床上確實可以理解為一種「HELLP 有肝傷害故選它」的粗略描述，且「HELLP 造成 TMA」這個方向性本身沒有錯；相對地，(C) 對於惡性高血壓的機轉描述在根本方向上是錯誤的（把「全身性」縮小成「慢性腎傷害」），且「慢性」這個字更是誤導——惡性高血壓 TMA 是急性的全身性血管內皮災難。因此 (C) 是最明確的錯誤答案。
+
+五、(A)(D)(E) 的確認與延伸
+
+(A) Cobalamin C deficiency（cblC，MMACHC 基因突變）
+
+MMACHC 基因突變導致 cobalamin 在細胞內代謝停滯——既不能轉換為 methylcobalamin（提供 methionine synthase 所需的輔因子），也不能轉換為 adenosylcobalamin（提供 methylmalonyl-CoA mutase 所需的輔因子）。結果是同時出現： - 高同半胱胺酸血症（hyperhomocysteinemia）——同半胱胺酸對內皮細胞具有直接毒性，引發氧化壓力、NO 消耗、促凝狀態 - 甲基丙二酸尿症（methylmalonic aciduria）
+
+⚠️ 最關鍵的陷阱：血清總 B12 濃度可以完全正常。 因為問題在「細胞內代謝」，而非「吸收」。臨床上若見到新生兒或嬰幼兒的 TMA，或成人的「找不到原因」的 TMA 合併中樞神經症狀，必須測定血漿 homocysteine、尿液 methylmalonic acid，以及 MMACHC 基因定序。
+
+⚠️ 這是一個「可治療」的 TMA： - Hydroxocobalamin（注射劑型，非口服 cyanocobalamin）——細胞內代謝障礙的繞道治療 - Betaine——提供替代的甲基供體，降低 homocysteine - Folate——輔助一碳代謝
+
+成人晚發型 cblC 存在且極易被誤診為 aHUS，延誤診斷的代價是不可逆的神經損傷與腎損傷。
+
+(D) Atypical HUS
+
+已如路徑二所述。此處補充基因型與預後的關係，具有重要的臨床實務意義： - MCP（CD46）突變者預後相對較好：MCP 是膜結合蛋白，腎移植後供腎帶有正常的 MCP，可在新腎上重建調控功能，腎移植後復發率較低 - CFH 突變者預後最差：CFH 為循環蛋白，腎移植後患者仍攜帶自身產生的異常 CFH，移植後復發率極高（60–80%），肝腎聯合移植或長期 eculizumab 才能預防
+
+治療：Eculizumab（抗 C5 單抗，每 2 週給藥）或 ravulizumab（長效型，每 8 週給藥）。使用前必須完成腦膜炎雙球菌疫苗接種（Neisseria meningitidis A/C/W/Y 及 B 型），若情況緊急，至少給予預防性抗生素（penicillin V 或 amoxicillin）直到完成接種。
+
+(E) TTP
+
+選項 (E) 描述正確：自體免疫（anti-ADAMTS13 IgG）造成 ADAMTS13 deficiency，ULVWF 無法被切割，富含血小板的微血栓形成。補充一個量化關鍵界線：ADAMTS13 活性 < 10% 定義 TTP。在結果回報前，PLASMIC score（血小板計數、溶血指標、無活動性癌症、無 SLE/HCT、MCV 正常、INR < 1.5、肌酐 < 2.0 mg/dL 等七項）可評估「重度 ADAMTS13 缺乏」的預測機率，分數 ≥ 6 分時陽性預測值高，可指引臨床立即啟動 PEX。
+
+六、收尾：「上游 → 治療」對照表
+
+TMA 類型
+
+上游機轉
+
+第一線治療
+
+備註
+
+TTP（ADAMTS13 < 10%）
+
+Anti-ADAMTS13 IgG → ULVWF 堆積
+
+PEX ＋ caplacizumab ＋ 類固醇 ± rituximab
+
+每日 PEX 至緩解；詳見 TTP 筆記
+
+aHUS（補體失控）
+
+CFH/CFI/MCP/C3/CFB 突變或 anti-CFH
+
+Eculizumab 或 ravulizumab
+
+先接種腦膜炎疫苗；腎移植依基因型決策
+
+STEC-HUS（志賀毒素）
+
+Shiga toxin → 腎臟 Gb3 受體
+
+支持性治療（透析、補液）
+
+避免抗生素（增加毒素釋放）
+
+惡性高血壓性 TMA
+
+壓力 → 內皮 → 全身性 fibrinoid necrosis
+
+積極降壓（靜脈 labetalol / nicardipine）
+
+降壓後數天至數週 TMA 自行緩解
+
+HELLP / Preeclampsia
+
+sFlt-1 / sEng → 全身內皮功能障礙
+
+終止妊娠
+
+產後持續惡化者懷疑產後 aHUS
+
+Cobalamin C（cblC）
+
+MMACHC 突變 → Hcy 升高 → 內皮毒性
+
+Hydroxocobalamin（注射）＋ betaine ＋ folate
+
+血清 B12 可正常；測 Hcy 與尿 MMA
+
+藥物性 TMA
+
+藥物直接內皮毒性（gemcitabine、VEGF 抑制劑等）
+
+停藥
+
+嚴重者可考慮支持性血漿置換
+
+TA-TMA（移植相關）
+
+CNI 毒性＋缺血再灌流＋補體活化
+
+減量或停用 calcineurin inhibitor ± 補體阻斷
+
+補體基因篩查有助分層
+
+七、逐項評析五個選項
+
+- (A) 正確。Cobalamin C deficiency 透過高同半胱胺酸血症造成內皮毒性，機轉路徑清晰且可治療，是「代謝性 TMA」的教科書範例。
+- (B) 部分正確，因果方向不精確。HELLP 確實與 TMA 並存，但「肝傷害」是 TMA 的器官表現（結果），真正的上游是胎盤源性抗血管新生因子（sFlt-1、sEng）所致的全身性內皮功能障礙。該選項把「結果」敘述成「原因」，在因果上有所偏差，但選項本身錯誤的程度不及 (C) 清晰。
+- (C) 不正確——本題答案。惡性高血壓是「全身性、急性」的小動脈剪應力傷害，同時累及腎、腦、視網膜、心臟；它不是「慢性腎傷害」的結果。腎臟是受害器官之一，也是放大迴路的參與者，但絕非 TMA 的起因。
+- (D) 正確。aHUS 的補體替代途徑失控（CFH、CFI、MCP、C3、CFB、THBD 突變或 anti-CFH 抗體）機轉描述正確。需補充：約 40–60% 患者才能找到分子異常，陰性不排除診斷。
+- (E) 正確。TTP 是自體免疫（anti-ADAMTS13 IgG）造成 ADAMTS13 缺乏（< 10%），ULVWF 積聚，富含血小板的微血栓形成，描述準確。
+
+臨床 Take-home Message
+
+看到 schistocyte，只完成了一半的工作——另一半是問「這個內皮，是被誰弄壞的」：是 VWF 軸失控？是補體逃逸？還是血壓、胎盤、藥物、代謝？找到推手，才能對症下藥；找不到推手，每一分鐘的延誤都可能是器官功能的永久損失。

@@ -1,0 +1,50 @@
+第一一四年，第四十七集。
+
+拉鋸戰的兩端：植入失敗 vs GVHD,而在再生不良性貧血天平方向…。
+
+有脈絡的綜論：拉鋸戰的兩端：植入失敗 vs GVHD,而在再生不良性貧血天平方向相反
+
+一場拉鋸戰的兩端：植入失敗 vs GVHD——而在再生不良性貧血，天平的方向和白血病相反。
+
+一、開場：SAA 移植與惡性疾病移植的根本差異
+
+在惡性血液疾病的異體移植中，適度的 GVHD 往往伴隨「graft-versus-leukemia (GVL)」效應——GVHD 是有代價、也有回報的。但在 severe aplastic anemia (SAA)，沒有「graft-versus-aplasia」這回事：骨髓裡沒有惡性細胞需要被免疫系統清除，GVHD 在此純粹是毒性，沒有任何治療上的回報。與此對應，惡性疾病移植最擔心的是「復發」，而SAA 移植最擔心的是「原發性植入失敗 (primary graft failure)」。因此，SAA 移植前處置的最佳化目標非常單純：用最低的代價換取最穩定的植入——任何多加的一分強度，都必須換回明確可見的好處。
+
+二、為什麼 SAA 的植入失敗率特別高
+
+核心原因是輸血致敏 (alloimmunization)。SAA 病人在確診到移植之間往往已接受大量紅血球與血小板輸注，產生抗 HLA 抗體及被致敏的宿主 T NK 細胞，形成強烈的「host-versus-graft」排斥反應。研究顯示 SAA 病人的 RBC alloimmunization 發生率（14.1%）明顯高於一般住院族群（1 到 3%），且 HLA alloimmunization 在現代白血球減除技術下雖已較歷史世代下降，仍高達 80%。
+
+第二個原因是沒有腫瘤負荷：SAA 傳統上採用較低強度前處置，但強度不足正是植入失敗的主要來源。第三，部分難治型 SAA 已存在免疫介導的骨髓微環境損傷與克隆演化，進一步削弱植入能力。
+
+實務上，SAA 病人的輸血應leukoreduced 且照射，並避免使用家屬捐贈的血品——因為這可能對未來潛在的單倍體捐者產生特異性致敏，此點常被忽略卻極為關鍵。移植前應常規檢測donor-specific anti-HLA antibodies (DSA)，陽性者需接受減敏處置。
+
+三、PTCy 為什麼讓單倍體移植變得可行
+
+Post-transplant cyclophosphamide (PTCy) 於移植後第 +3、+4 天給予高劑量 cyclophosphamide，此時被異體抗原活化、正快速增殖的 alloreactive T 細胞對烷化劑最敏感，因而被優先清除。相對地，regulatory T cells (Treg) 高度表現 aldehyde dehydrogenase (ALDH)，能將 cyclophosphamide 的活性代謝物解毒而得以存留，甚至在 GVHD 患者中觀察到 Treg 恢復更快；造血幹細胞同樣高表現 ALDH，故不受影響。結果是：致病性的異體反應 T 細胞被清除，Treg 與幹細胞被保留——這個優雅的選擇性機轉，是「幾乎每個病人都能找到捐者」得以實現的關鍵基礎。
+
+四、(B) 為什麼是答案：thiotepa/melphalan 強化的邏輯
+
+策略分工非常清楚：「GVHD 那一端」已由 PTCy 處理妥當，因此可以安全地把前處置強度往上加，專門去解決「植入失敗」這一端。Thiotepa 是強效烷化劑，具有優異的淋巴組織與骨髓微環境穿透力（並可穿越血腦障壁），免疫抑制與清髓能力強，相對於 TBI，其長期毒性（次發性惡性腫瘤、內分泌與生長影響）較為可接受。
+
+印度 Pediatric Severe Aplastic Anemia Consortium 的多中心研究納入 79 位重度輸血致敏、67% 曾治療失敗的高危 SAA 病人，接受 Flu-Cy-ATG TBI ± thiotepa/melphalan (TT Mel) 為前處置，PTCy 為主的 GVHD 預防；整體原發性植入失敗率為 16.43%，在接受 TT Mel 強化的病人中更低，急性與慢性 GVHD 發生率分別為 26.4%、18.9%，OS EFS 在 TT Mel 組別亦較佳。另一項中國前瞻性 phase II 研究採用 FABT (Flu-ATG-Busulfan-Thiotepa) 併低劑量 ATG 及 PTCy，36 例病人無一例發生原發性植入失敗，2 年 cGVHD 僅 11.1%（皆為輕度皮膚型），2 年 OS 與 GRFS 皆達 91.7%，進一步支持「以 thiotepa 強化清除，同時靠 PTCy 壓制 GVHD」的分工邏輯。整體效果即為：更深的宿主免疫清除，接著原發性植入失敗下降；GVHD 因 PTCy 機轉未同步上升。
+
+五、逐一解析其他選項
+
+(A) Flu/Cy/ATG + TBI 200 cGy：這是 Johns Hopkins (Baltimore) 發展的經典 PTCy 方案，本身有效且被廣泛使用。但在 phase 2 試驗中，接受 200 cGy 的前 7 位病人有 3 位發生植入失敗，改為 400 cGy 後 20 位連續病人皆無植入失敗、OS 達 100%。可見 (A) 並非「錯誤」，只是在難治型、重度致敏的情境下強度不足，並非最佳選擇。
+(D) Cy 200 mg/kg + ATG 單用：此為 HLA 相合手足移植的經典方案，用於單倍體移植時強度明顯不足，植入失敗率高。
+(C) FCR：Fludarabine-cyclophosphamide-rituximab 是 CLL 的化療方案，rituximab 針對 CD20，在 SAA 移植前處置中沒有角色（除非用於 DSA 減敏或 PTLD 治療）。
+(E) TBI 600 cGy：SAA 是良性疾病，病人可望長期存活數十年，中高劑量 TBI 帶來的次發性惡性腫瘤、白內障、內分泌與生育功能損害不可接受，屬於不必要的過度治療。
+
+六、把 SAA 整體治療決策放進全局
+
+年輕（一般 < 40 到 50 歲）且有 HLA 相合手足者，通常直接接受移植；無相合手足者則接受免疫抑制治療 (IST)：horse ATG + cyclosporine，並依 RACE 試驗證據加入 eltrombopag——3 個月完全反應率由 10% 提升至 22%（OR 3.2, 95% CI 1.3 到 7.8），6 個月整體反應率由 41% 提升至 68%，且未增加毒性。IST 失敗（難治型）者需轉向替代捐者移植：MUD、單倍體或臍帶血。
+
+難治型 SAA 存在時間壓力：克隆演化——PNH clone 擴張及進展為 MDS AML（典型為 monosomy 7）——是不宜無限期等待的理由。本例病人 45 歲，正處於「移植與 IST 之間」的灰色地帶，加上已被歸類為難治型，需個別化決策。
+
+七、誠實的但書
+
+前處置方案之間的比較缺乏大型隨機對照試驗，多為單一中心或區域性世代研究，樣本數有限，且各中心做法差異很大（TBI 200 vs 400 cGy、ATG 種類與劑量、thiotepa 使用與否）。因此 (B) 反映的是目前針對難治型病人的一個合理且有資料支持的策略，而非已確立的普世標準。
+
+八、臨床 take-home
+
+在良性疾病的移植裡，任何「多做的一分強度」都必須換回明確的好處——因為這些病人要帶著代價活很久很久。

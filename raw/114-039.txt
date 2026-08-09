@@ -1,0 +1,97 @@
+第一一四年 第三十九集
+有脈絡的綜論:當一個為不能化療的人設計的藥,開始挑戰化療本身
+
+![](/img/img/476f7559-a7fa-4dc1-a7de-c7615f6ddc59.jpg)
+Figure 5: Clinical outcomes with myelodysplasia related cytogenetics (MRC) and myelodysplasia related mutations (MRM) in patients with genomic secondary AML (GS‐AML) treated with venetoclax‐based regimens. Kaplan Meier curves were constructed and stratified on whether patients had MRC alone (blue), MRM alone (yellow), or both MRM and MRC (green). (A) RFS and (B) OS in patients receiving LIT+ venetoclax. (C) RFS and (D) OS in patients receiving IC+ venetoclax. [Color figure can be viewed at wileyonlinelibrary.com ]
+
+一、開場：一個「為不能化療的人設計的藥」，為什麼敢去挑戰化療本身
+
+Venetoclax 加上 hypomethylating agent（HMA）最初的定位非常明確——它是為「不適合強效誘導化療」的高齡、體能不佳病人所設計的減量方案，這一點在 VIALE-A/VIALE-C 已奠定基礎（此處僅一句話帶過，因已於另篇筆記完整討論）。但這篇發表於 Blood 2025 的隨機試驗（NCT05177731），把 venetoclax＋decitabine（VEN-DEC）直接拿去對比「7+3」（idarubicin＋cytarabine，IA-12），而且受試者是年輕（18–59 歲）、身體狀況足以承受強效化療的新診斷 AML 病人。
+
+這個設計把問題徹底翻轉了：原本的問題是「弱一點的方案，能不能勉強替代化療、讓不能打化療的人也有機會緩解」；現在的問題變成「這個較溫和的方案，是不是在能打化療的人身上，本來就已經夠好」。這與 Hodgkin lymphoma S1826 試驗所提出的問句形狀相同——在一個化療本身已能治癒相當比例病人的疾病裡，新方案的價值判準不再是「療效是否更高」，而是「療效相當、但代價是否更小」。
+
+二、試驗設計與關鍵結果
+
+此為單中心（蘇州）、開放標籤的2b 期隨機試驗，納入 188 名 18–59 歲、適合強效化療的新診斷 AML 病人，以 1:1 隨機分派至 VEN-DEC 或 IA-12（idarubicin＋cytarabine，即「7+3」變體），主要終點為誘導後的 composite complete remission（CRc）率，達 CRc 者後續皆接受 high-dose cytarabine 鞏固治療。
+
+- 緩解率與 MRD：ITT 族群中，CRc 率 VEN-DEC 89%（84/94）vs IA-12 79%（74/94），達到非劣效標準（P=0.0021）；MRD 陰性率分別為 80% 與 76%，兩組相近——(A) 正確。
+- 一年 EFS/PFS：中位追蹤 12.1 個月，兩組 overall survival 與 progression-free survival 相近——(E) 正確。
+- 感染：VEN-DEC 組 grade ≥3 感染明顯較低（32% vs 67%），另一篇評論性文獻亦引用類似區間（約 27–32% vs 約 67%）——(C) 敘述「感染發生率相近」為錯誤，此為本題答案。
+- 治療相關 SAE：VEN-DEC 顯著較低——(D) 正確。
+- 另外，VEN-DEC 組嚴重血小板低下持續時間較短（中位 13 天 vs 19 天，P<0.001）。
+
+感染差異如此懸殊並非統計上的偶然，而有明確機轉基礎：7+3 造成深且長的嗜中性球低下（常持續 3–4 週），而 VEN-DEC 的骨髓抑制程度較淺、恢復較快，且療程天數可依骨髓評估與 MRD 動態調整，不必固定套用強效化療的骨髓「清空-重建」模式。換言之，兩者的毒性差異來自完全不同的細胞殺傷邏輯：化療是廣泛殺傷所有增殖中的骨髓細胞，venetoclax-based 方案則相對選擇性地標靶白血病細胞的 BCL-2 依賴性存活訊號，對正常造血的破壞較輕。此外，VEN-DEC 組在血小板恢復、住院天數等面向也顯示出較溫和的臨床病程。
+
+三、(B) 的核心：越差的預後族群，venetoclax 反而越有優勢？
+
+該試驗最引人深思的發現，是 VEN-DEC 在 ELN-2022 adverse-risk 族群（CRc 91% vs 42%）與帶有 epigenetic/剪接體突變者（91% vs 67%）中，CRc 率顯著優於化療；但在 RUNX1::RUNX1T1 融合基因的 core-binding factor AML 中卻反而較差（44% vs 88%）。
+
+這個看似矛盾的結果，其實有清楚的分子邏輯。ELN adverse-risk 族群中很大一部分屬於「secondary-type AML」——帶有 SRSF2、SF3B1、U2AF1、ZRSR2、ASXL1、EZH2、BCOR、STAG2 等「MDS 型」突變。這類白血病幹細胞往往處於相對靜止（quiescent）的細胞週期狀態，而傳統化療主要殺傷正在增殖的細胞，因此這類疾病對化療本身具有內生性抗性。但另一方面，這些細胞往往高度依賴 BCL-2 存活訊號，因此對 venetoclax 特別敏感。近期針對 genomically secondary AML 的分析也顯示，帶有 myelodysplasia-related mutations（而非單純細胞遺傳學異常）的病人，在接受 venetoclax 為基礎治療時，其存活曲線可接近典型 de novo AML，遠優於同時合併細胞遺傳學異常者（見上圖）。核心洞見在於：「化療敏感性」與「venetoclax 敏感性」的分子圖譜，並不互相重疊。
+
+但誠實地說，venetoclax 並非全能。已知明確與 venetoclax 反應不佳相關的分子標記包括： - TP53 突變：對化療與 venetoclax 皆反應不佳，且常伴隨 biallelic 失活或不良預後。 - FLT3-ITD：與原發性及後天抗藥性相關，功能性研究顯示 FLT3-ITD 的獲得可對 venetoclax 與細胞毒性化療產生交叉抗性。 - RAS 路徑突變（NRAS、KRAS、PTPN11）：近期 Nature 研究闡明，RAS 突變的白血病幹細胞會改變 BCL-2 家族基因表現譜，使其對 venetoclax 產生內生抗性，並驅動單核球分化的復發表型。 - 單核球（monocytic）分化表型：這類細胞往往轉而依賴 MCL-1 或 BCL-xL，而非 BCL-2，因此對單純 BCL-2 抑制劑反應較弱。
+
+這意味著未來的臨床問題已不再是「哪一個方案整體比較好」，而是「這位病人的分子亞型，該走哪一條路」——U2AF1 等剪接體突變作為 venetoclax 敏感性標記的分子意義，已於另篇筆記詳述，此處僅作連結。
+
+四、誠實的但書
+
+一年 EFS 相近，但 AML 的「治癒」是以年為單位評估的——關鍵終點應是長期 overall survival 與復發率，目前中位追蹤僅 12.1 個月，仍需更長期資料驗證。
+
+一個尚未回答的關鍵問題是：VEN-DEC 誘導後的病人，若接續異體移植，其移植後結果是否與化療誘導後相同？ 對年輕 AML 而言，誘導治療往往只是通往 allo-HSCT 的橋樑，移植前的清髓程度、微小殘留病灶狀態，是否會因誘導方式不同而影響移植結果，該試驗尚未充分回答。
+
+此外須留意外部效度限制：此為單一中心（中國蘇州）的 2b 期試驗，樣本數 188 人，隨機化雖採 1:1，但追蹤時間仍短，尚待多中心、更大規模、更長追蹤的驗證。實務操作上亦有難點：venetoclax 與 azole 類抗黴菌藥物存在顯著 CYP3A4 交互作用，需大幅減量，且誘導期須注意腫瘤溶解症候群的預防與劑量爬升，此處僅作提示，細節已於他處討論。
+
+五、更大的脈絡
+
+AML 治療正經歷一種典範轉移：從「以最大耐受劑量無差別殺傷增殖中細胞」，逐漸走向「依分子依賴性選擇標靶」。與此並行的嘗試包括：將 venetoclax 直接加入 7+3（如 CLIA-VEN 方案，顯示更高 CR/MRD 陰性率而未增加毒性）、依 MRD 動態決定療程長短的策略，以及結合 FLT3 或 IDH 抑制劑的三藥組合。整體而言，目前 7+3 仍是適合強效化療之年輕病人的標準治療，但此試驗為「在特定分子亞群（尤其 adverse-risk、剪接體/表觀遺傳突變）中改用 VEN-DEC」提供了有力的證據基礎。
+
+六、選項逐一評析
+
+選項
+
+敘述
+
+判定
+
+依據
+
+(A)
+
+MRD 陰性率、達首次緩解時間、整體緩解率無顯著差異
+
+正確
+
+CRc 89% vs 79%（非劣效達標）；MRD 陰性 80% vs 76%
+
+(B)
+
+adverse-risk 及 U2AF1 突變族群，VEN-DEC 之 CRc 顯著高於化療
+
+正確
+
+adverse-risk 91% vs 42%；epigenetic 突變 91% vs 67%
+
+(C)
+
+兩組整體感染發生率相近
+
+錯誤（答案）
+
+VEN-DEC 顯著較低（32% vs 67% grade ≥3 感染）
+
+(D)
+
+治療相關 SAE，VEN-DEC 顯著低於化療
+
+正確
+
+安全性數據支持
+
+(E)
+
+一年 EFS 兩組相近
+
+正確
+
+中位追蹤 12.1 個月，PFS/OS 相近
+
+臨床 take-home：當兩個方案的療效打成平手時，勝負就由「病人在治療期間過得如何」來決定——而在特定分子亞群（尤其是化療抗性但 BCL-2 依賴的 secondary-type AML）中，VEN-DEC 甚至可能在療效上也占上風。

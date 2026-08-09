@@ -1,0 +1,192 @@
+第一一四年，第十八集。
+
+攔截點越往上游：療效與感染風險的形狀就一起改變。
+
+以下為一篇針對本題的藥理學導向綜論，以「攔截點越往上游，療效與風險的形狀就一起改變」為主軸，逐層展開。
+
+一、開場：「攔截位置」是理解所有選擇的鑰匙。
+
+PNH 的紅血球因缺少 CD55（抑制 C3 convertase）與 CD59（抑制 membrane attack complex, MAC）而對補體毫無防護——這是本篇的起點，病生理細節已詳述於他處，此處不再重複。
+
+補體級聯可從兩個不同深度進行干預：下游的 C5（terminal pathway） 與上游的 C3 / Factor B / Factor D（proximal pathway）。選在哪個位置攔截，會同時決定三件事：
+
+能擋掉哪一種溶血：下游只能阻止血管內溶血（intravascular hemolysis, IVH），無法阻止血管外溶血（extravascular hemolysis, EVH）；上游兩者皆能阻止。
+會失去哪一部分免疫防禦：下游只失去 MAC，上游還額外失去 C3b 的調理作用（opsonization），意味著對莢膜菌的廣泛防禦都受損。
+停藥或漏打時會發生什麼：上游抑制下，PNH clone 的紅血球大量累積，一旦藥效中斷可能引發「災難性的突破性溶血」。
+
+這三條線索，貫穿整篇綜論。
+
+二、第一代：C5 抑制劑，以及它「解決了一半問題」的故事。
+
+Eculizumab（Soliris，2007 年核准，靶點：C5） 是補體抑制治療史上的奠基者。這支人源化單株抗體以靜脈注射方式給藥（每 2 週一次），透過結合 C5、阻止其裂解為 C5a 與 C5b，從而無法形成 MAC，有效阻斷血管內溶血 。
+
+臨床成果是顯著的。 TRIUMPH 試驗（eculizumab vs. 安慰劑，輸血依賴病人）與 SHEPHERD 試驗（輕症病人）分別確立了 eculizumab 在減少輸血需求、降低 LDH、改善疲勞與生活品質、以及大幅減少血栓事件方面的療效 。長期存活數據顯示，接受治療的 PNH 病人存活期可接近一般族群——這是 PNH 治療史的分水嶺 。
+
+Ravulizumab（Ultomiris，2018 年核准，靶點：C5） 由 eculizumab 改造而來，攻擊完全相同的 C5 表位，但其半衰期延長機轉具有重要的分子工程意義：在 Fc 區與 CDR（complementarity-determining region）引入特定胺基酸置換，使抗體在內體（endosome）酸性 pH 環境下對 FcRn（neonatal Fc receptor）的結合大幅增強，並在中性 pH 下釋放——抗體進入溶酶體降解的量減少，循環再利用（recycling）的量增加，最終半衰期延長約 4 倍，給藥間隔從 eculizumab 的每 2 週延長為每 8 週 。ALXN1210（即 ravulizumab）的 Phase 3 試驗（ALXN1210-PNH-301 及 302）顯示，其療效非劣效於 eculizumab，同時改善了用藥便利性 。Ravulizumab 是一次藥物工程的勝利，而非機轉的突破。
+
+「解決了一半問題」：C5 抑制劑留下的那一半。
+
+C5 被擋住了，但 C3 convertase 仍在運作。在所有接受 C5 抑制劑治療的 PNH 病人中，PNH 紅血球表面持續累積 C3b，形成 opsonization 標記；這些被標記的紅血球被脾臟與肝臟的巨噬細胞吞噬，導致血管外溶血（EVH）。結果是：約 20 到 30% 的病人仍需輸血，更多病人雖然 LDH 已正常（IVH 受控），但 Hb 遲遲上不來 。
+
+這個現象本身是一個「治療創造出來的新表型」：在 eculizumab 出現之前，PNH 病人因 IVH 的傷害在早期便死亡或嚴重殘病，根本活不到出現顯著 EVH 的階段。C5 抑制劑救活了病人，才讓 EVH 成為主角 。
+
+Breakthrough hemolysis（突破性溶血）。
+
+在感染、手術、懷孕等補體活化增強時（pharmacodynamic breakthrough），或給藥間隔末期藥物濃度下降時（pharmacokinetic breakthrough），C5 抑制劑可能無法完全壓住補體的活化，產生急性溶血發作 。尤其 eculizumab 每 2 週給藥一次，在週期末期濃度谷值時風險最高；ravulizumab 因半衰期延長，這種情況相對較少，但感染誘發的 PD breakthrough 仍可發生 。
+
+一個對東亞族群特別重要的藥物基因體學要點。
+
+Nishimura 等人的日本研究（發表於 NEJM 2014 年）揭示了 C5 基因的 p.Arg885His（c.2654G，接著 A）多型性 。在日本健康族群中此變異的盛行率約 3.5%，在日本 PNH 病人中約 3.2%；帶有此變異的病人，eculizumab 完全無效——因為突變改變了 C5 上的藥物結合表位，變異型 C5 既保有溶血活性，又無法被 eculizumab 結合 。此外，類似的 p.Arg885Cys 變異也在一名具有亞裔血統的阿根廷病人中被發現 。
+Nonmutant and mutant C5 both caused hemolysis in vitro, but only nonmutant C5 bound to and was blocked by eculizumab.
+
+由於 crovalimab 結合的是 C5 上的不同表位，對 p.Arg885His 族群仍有效——這是「藥物基因體學決定療效」的血液腫瘤學經典案例，對台灣及東亞臨床醫師尤具實務意義 。
+
+三、第二代：往上游走的 Proximal Inhibitors。
+
+Pegcetacoplan（Empaveli，2021 年核准，靶點：C3）。
+
+Pegcetacoplan 是 PEG 化的 compstatin 衍生胜肽，直接結合 C3，阻斷其與 C3 convertase 的交互作用，使 C3b 無法沉積在紅血球表面——因此同時阻斷 IVH（因無 C5b-9 形成）與 EVH（因無 C3b opsonization）。給藥方式為皮下輸注（subcutaneous infusion），每週兩次。
+
+PEGASUS 試驗（Phase III，直接對比 eculizumab）收納了在 eculizumab 治療下仍有 Hb < 10.5 g/dL 的成人 PNH 病人。主要終點（第 16 週 Hb 變化量）中，pegcetacoplan 組的調整後最小平方均數差為 +3.84 g/dL（p < 0.001），85% 的病人免於輸血（vs. eculizumab 組 15%） 。
+Pegcetacoplan was superior to eculizumab in improving hemoglobin and clinical and hematologic outcomes in patients with PNH by providing broad hemolysis control, including control of intravascular and extravascular hemolysis.
+
+值得注意的是，pegcetacoplan 組的 LDH 非劣效性未達統計顯著——這反映出 C3 抑制對 IVH 的管控方式與 C5 抑制不同，部分 LDH 的控制可能仍依賴特定機轉，但臨床意義尚無定論 。
+
+Iptacopan（Fabhalta，2023 年核准，靶點：Factor B）。
+
+Iptacopan 是口服 Factor B 小分子抑制劑（每日兩次 200 mg），第一個口服「單藥」治療 PNH 的藥物 。Factor B 是替代途徑（alternative pathway）C3 convertase 的核心元件，被阻斷後即中斷替代途徑的 C3 活化，同時避免 IVH 與 EVH 。
+
+APPLY-PNH 試驗（Phase III）收納了先前接受 anti-C5 治療、但仍有殘餘貧血的病人：82% 的 iptacopan 治療病人 Hb 上升大於等於 2 g/dL（vs. 對照組 2%），69% 達到 Hb 大於等於 12 g/dL（對照組 0%） 。
+
+APPOINT-PNH 試驗（補體抑制劑治療初始病人）亦顯示 Hb 大幅提升、多數病人脫離輸血 。
+
+特別值得強調的是：iptacopan 只抑制替代途徑，對典型途徑（classical pathway）與凝集素途徑（lectin pathway）的活化沒有直接影響，理論上保留了部分感染防禦功能，但其臨床意義仍需長期追蹤 。
+
+其他核准藥物（本題未列入，但應知悉）。
+
+Danicopan（Voydeya，2024 年核准） 是口服 Factor D 抑制劑，核准的定位是「add-on 加在 C5 抑制劑上」以處理殘餘 EVH，並非單藥使用 。Crovalimab（Piasky，2024 年核准） 則是另一支 C5 抑制劑，以皮下注射方式自行給藥，結合 C5 的表位與 eculizumab/ravulizumab 不同，因此對 p.Arg885His 族群仍有效 。
+
+本題正確答案為「四種皆已核准」（eculizumab、ravulizumab、pegcetacoplan、iptacopan），但實際 FDA 核准的 PNH 用補體抑制劑清單更長，包含 danicopan 與 crovalimab 至少共六種 。
+
+四、感染風險的「形狀」隨攔截點改變。
+
+攔截位置
+
+喪失的免疫功能
+
+主要感染風險
+
+必要的預防措施
+
+參考
+
+C5（下游）
+
+失去 MAC
+
+奈瑟菌（Neisseria）感染風險增加約 1,000 到 2,000 倍；尤其腦膜炎雙球菌（N. meningitidis）
+
+用藥前大於等於 2 週接種 meningococcal ACWY + MenB 兩種疫苗；美國有 REMS 管制；部分中心給予預防性抗生素
+
+C3 / Factor B / Factor D（上游）
+
+失去 MAC + C3b opsonization
+
+除腦膜炎雙球菌外，對「所有莢膜細菌」防禦均下降，包含肺炎鏈球菌（S. pneumoniae）與 b 型嗜血桿菌（Hib）
+
+除腦膜炎雙球菌疫苗外，還須接種肺炎鏈球菌疫苗（PCV20 PPSV23）與 Hib 疫苗
+
+⚠️ 近端抑制劑獨有的嚴重風險：災難性突破性溶血
+
+在近端抑制下，PNH 紅血球不再被補體破壞，PNH clone 的紅血球大量累積於循環中。一旦漏藥、停藥或藥效不足，這一大群完全無防護的紅血球會「同時」暴露於補體活化——可能引發大規模、快速的溶血危機 。這與 C5 抑制劑下的 breakthrough hemolysis 在量級上截然不同。這正是為什麼近端抑制劑「不可自行停藥」，且在藥物轉換時需安排重疊給藥期（overlapping period）。Notaro 與 Luzzatto 在 NEJM 的討論文章中已清楚指出，proximal 與 terminal 抑制下的 breakthrough hemolysis 風險在機轉與嚴重程度上均有根本差異 。
+
+五、收尾：把整個治療演進講成一條清楚的線。
+
+PNH 治療的歷史是一段「攔截點不斷上移」的故事：
+
+1980 年代以前：只有支持性治療（輸血、抗凝）與異體骨髓移植，中位存活約 10 到 22 年。
+2007 Eculizumab：擋住 C5，阻斷 IVH，血栓事件與死亡率大幅下降，存活期接近正常，但留下 EVH 與持續性貧血的問題。
+2018 Ravulizumab：同樣的 C5 機轉，透過 FcRn recycling 將給藥間隔延長為 8 週，是藥物工程的里程碑，而非機轉的突破 。
+2021 起，Pegcetacoplan / Iptacopan / Danicopan（add-on）：往上游走，C3b opsonization 被阻斷，EVH 一併被解決，Hb 終於能夠正常化 。
+
+尚未解決的問題。
+
+補體抑制劑對骨髓衰竭（bone marrow failure）的成分完全無效。 PNH 常與再生障礙性貧血（aplastic anemia）並存；若病人的貧血主要來自造血幹細胞受損而非溶血，即使選用最強的近端抑制劑，Hb 也無法提升。異體造血幹細胞移植仍是唯一能根治的方式，但適應症限於合併嚴重骨髓衰竭、且有合適捐者的病人 。
+
+此外，所有目前核准的藥物均屬終身用藥——eculizumab 與 ravulizumab 的年費用曾是全球最昂貴藥物之列，pegcetacoplan 與 iptacopan 亦相當高昂。可及性與健保給付問題，在台灣與許多國家仍是重大的臨床現實 。
+
+六、逐項評析：四種已核准藥物。
+
+藥物
+
+核准年份
+
+靶點
+
+給藥方式
+
+解決的溶血類型
+
+關鍵試驗
+
+臨床備注
+
+參考
+
+Eculizumab（Soliris）
+
+2007
+
+C5
+
+靜脈注射，每 2 週
+
+IVH
+
+TRIUMPH、SHEPHERD
+
+奠基藥物；p.Arg885His 族群完全無效；Neisseria 感染風險極高
+
+Ravulizumab（Ultomiris）
+
+2018
+
+C5
+
+靜脈注射，每 8 週
+
+IVH
+
+ALXN1210-301/302
+
+FcRn recycling 機轉延長半衰期；與 eculizumab 同樣對 R885H 無效
+
+Pegcetacoplan（Empaveli）
+
+2021
+
+C3
+
+皮下輸注，每週 2 次
+
+IVH + EVH
+
+PEGASUS、PRINCE
+
+需輸注裝置；停藥風險高；需接種肺炎鏈球菌 + Hib 疫苗
+
+Iptacopan（Fabhalta）
+
+2023
+
+Factor B
+
+口服，每日 2 次
+
+IVH + EVH（替代途徑）
+
+APPLY-PNH、APPOINT-PNH
+
+唯一口服單藥；只阻斷替代途徑；停藥風險高
+
+臨床 Take-Home：選擇補體抑制劑，本質上是在選擇「你願意讓病人失去哪一段免疫防禦」——攔截點越高，溶血控制越全面，但感染風險的形狀也越寬廣，而停藥的代價也越沉重。

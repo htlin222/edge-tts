@@ -183,7 +183,8 @@ def main() -> None:
         results.append(r)
         if not args.json:
             mins = r["est_seconds"] // 60
-            tbl = f" · {len(r['tables'])} 張表格" if r["tables"] else ""
+            # 這個計數包含表格與 ASCII 流程圖，所以不能叫「表格」
+            tbl = f" · {len(r['tables'])} 個結構區塊" if r["tables"] else ""
             print(f"✅ {r['qid']}  {r['chars']} 字 ≈ {mins} 分{tbl}  → {r['speech_path']}")
             for t in r["tables"]:
                 print(f"     · {t}")

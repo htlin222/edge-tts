@@ -1,0 +1,157 @@
+第一一四年，第六十五集。
+
+一個沒有確診檢驗的診斷：靠的是排除、時機與治療反應。
+
+以下這篇綜論以「診斷困境與治療決策」為軸心，針對上述考題逐層展開。
+
+一個沒有確診檢驗的診斷——aHUS 靠的是排除、時機與治療反應。
+
+一、開場：這個疾病最難的地方。
+
+非典型溶血尿毒症候群（atypical hemolytic uremic syndrome, aHUS）的核心難題，不在於治療——我們已有 FDA 核可的 complement C5 抑制劑——而在於診斷。因為 aHUS 沒有任何一個檢驗可以「確診」它，它是一個排除性的、臨床的診斷，這個本質決定了臨床醫師必須在不確定的情況下做出是否給藥的決定 。
+
+理解這個診斷結構，需要釐清每一個「相關檢驗」真正在做什麼：
+
+ADAMTS13 活性是用來「排除 TTP（thrombotic thrombocytopenic purpura）」的：當 ADAMTS13 活性 < 10%，診斷指向 TTP，不支持 aHUS；但正常的 ADAMTS13 並不能「確診 aHUS」。
+糞便 STEC 培養與志賀毒素（Shiga toxin） 是用來「排除 STEC-HUS」的：陰性結果移除了典型 HUS 的可能，但同樣不確診 aHUS。
+補體基因檢測是迄今最直指病因的工具，但其檢出率僅 40 到 60%，意即有將近一半的 aHUS 病人找不到任何已知的 complement 基因變異 。基因陰性，不能排除 aHUS。
+補體濃度（C3、C4、factor B 等） 敏感性與特異性均不足：C3 下降僅見於約半數病人，而 C4 正常（Alternative pathway 活化不消耗 C4），數值正常時無法排除診斷，數值異常時也同見於其他補體活化疾病 。
+
+由此立起本篇主軸：aHUS 的診斷是「在沒有金標準的前提下，透過逐步排除其他 TMA，並結合臨床情境、基因資料與治療反應，所做出的整合性判斷」（TMA 的整體鑑別診斷在前一篇筆記已完整展開，此處不重複）。這個結構造就了 aHUS 最大的臨床挑戰：你必須在「還沒有確定」的時候，就決定是否開始補體阻斷治療。
+
+二、選項 (D) 為什麼錯——腎切片的三個問題。
+
+選項 (D) 宣稱「腎臟切片通常是診斷所必需的，除非病人有嚴重的血小板低下」——這句話在邏輯上有三層根本性的錯誤。
+
+問題一：腎切片「不特異」
+
+腎切片在 aHUS 所見，是「thrombotic microangiopathy（TMA）」的組織學表現：小動脈及微血管管腔內血栓形成、內皮細胞腫脹、紅血球碎片沉積在管壁，甚至 onion-skin 樣的血管壁增厚。然而，TTP、惡性高血壓（malignant hypertension）、硬皮症腎危象（scleroderma renal crisis）、抗磷脂症候群（antiphospholipid syndrome）、藥物性 TMA，在切片下的組織學面貌幾乎完全相同 。切片所提供的資訊是「這是一個 TMA」，而不是「這是 aHUS」——這正是 TMA 整體鑑別診斷框架在病理層次上的集中體現。換言之，腎切片能排除非 TMA 的腎臟疾病（如急性腎小球腎炎），但在 TMA 的亞型鑑別中，它貢獻甚微。
+
+問題二：腎切片「危險」
+
+aHUS 病人常同時具備三項升高出血風險的因素：嚴重血小板低下（thrombocytopenia）、尿毒所致的血小板功能異常（uremic platelet dysfunction）、以及高血壓。在這樣的基礎上執行腎切片，出血及腎周血腫的風險顯著高於常規腎切片情境。因此，在急性 aHUS 中，腎切片的安全性本身就受到嚴重質疑。
+
+問題三：腎切片「延誤治療」
+
+在 aHUS，每一天未受控的 TMA 持續消耗腎元（nephron loss）：血栓形成、缺血、纖維化的「時間效應」是真實且不可逆的。目前的臨床共識是以 24 到 48 小時內啟動補體阻斷（complement blockade） 為目標，而等待切片安排、執行、判讀，往往需要數天以上的時間 。
+
+最重要的邏輯顛倒——(D) 的措辭根本說反了
+
+選項 (D) 寫道「除非病人有嚴重的血小板低下」才不需要切片——但嚴重血小板低下本來就是腎切片的禁忌症（contraindication），而不是「得以省略切片的特殊情況」。邏輯恰恰相反：正是因為這些病人本來就「不適合」做切片，所以診斷 aHUS 從一開始就必須依賴臨床整合，而非病理確認。
+
+腎切片真正有價值的三個情境，是：①臨床表現不典型，難以判斷是否為 TMA；②完整排除性檢查後診斷仍不明確；③腎移植前評估腎臟慢性損傷程度，以輔助移植規劃。在這三個情境之外，腎切片在急性 aHUS 的診斷上，既不特異，也不安全，更不應成為啟動治療的前提。
+
+三、選項 (A) 與 (C)——把診斷的實驗室定義寫精確。
+
+aHUS 的「三聯症（triad）」是 microangiopathic hemolytic anemia（MAHA）、thrombocytopenia、與 end-organ damage（最常見為 acute kidney injury, AKI）。
+
+MAHA 的判定要素：
+
+周邊血液抹片（peripheral blood smear）可見 schistocyte（裂片紅血球）——這是機械性血管內溶血的形態學證據，是診斷的必要條件之一
+血紅素（Hb）常 < 10 g/dL
+乳酸脫氫酶（LDH）> 正常上限的 1.5 倍，反映紅血球溶解與組織缺血
+haptoglobin 測不到（undetectable），因 free hemoglobin 快速飽和 haptoglobin 結合位
+
+一個「必須陰性」的關鍵檢驗：DAT（direct antiglobulin test，直接抗球蛋白試驗）
+
+DAT 必須為陰性，用以排除 autoimmune hemolytic anemia（AIHA）——後者也可以呈現溶血性貧血，但機制不同，treatment decision 完全不同（DAT 陽性的鑑別在前一篇筆記已完整處理，此處不重複展開）。
+
+一個誠實的但書：血小板低下並非 aHUS 的必要條件
+
+並非所有 aHUS 病人在初診時均有血小板低下；部分病人的血小板在正常範圍內，尤其在疾病早期或局部腎臟受累為主時 。「血小板正常」不能排除 aHUS，這是一個臨床上容易疏漏的陷阱，也是選項 (A) 中「血小板 < 150 × 10⁹/L」這一門檻需要理解其來自定義而非排除標準的原因。
+
+四、選項 (B)——腎外表現改變了什麼。
+
+aHUS 以腎臟為主要受侵犯器官，但約 20% 的病人有腎外 TMA 表現 ，依常見度排序如下：
+
+中樞神經系統（CNS）：最常見的腎外侵犯，包括癲癇（seizure）、缺血性中風（ischemic stroke）、意識改變（altered consciousness）、以及 PRES（posterior reversible encephalopathy syndrome）——後者尤其在高血壓合併 TMA 時應高度警覺
+心臟：心肌梗塞（myocardial infarction）、心肌病變（cardiomyopathy）
+腸胃道、肺、皮膚，以及肢端缺血（acral ischemia）
+
+腎外表現的臨床意涵遠不只是「症狀的延伸」。腎外侵犯代表系統性 TMA 已超越腎臟範圍——這預示著較差的預後，且是「更應立即啟動補體阻斷治療」的理由，而不是觀察等待的情境。中樞神經受累尤其需要警惕：在 aHUS 的診斷尚未確立前，若病人出現神經症狀，必須同步考慮 TTP（ADAMTS13 < 10%），以避免延誤針對性治療。
+
+五、選項 (E)——基因與抗體，以及它們如何改變「移植」決策。
+
+常見的 complement 基因變異及大致比例 ：
+
+CFH（complement factor H）：最常見，約佔全部已知變異的 20 到 30%
+MCP CD46：約 10 到 15%，是膜結合蛋白（membrane-bound），僅在表面表現，不分泌至循環中
+CFI（complement factor I）：約 5 到 10%
+C3：約 5 到 10%
+CFB（complement factor B）：約 1 到 4%，gain-of-function 變異
+THBD（thrombomodulin）：罕見，約 3 到 5%
+
+整體而言，仍有約 40 到 60% 的病人找不到任何已知 complement 路徑變異，凸顯目前基因診斷的侷限性 。
+
+抗 factor H 自體抗體（anti-FH autoantibody, FHAA）——一個特別值得深入介紹的亞型：
+
+約佔所有 aHUS 的 10%，好發於兒童及青少年
+抗體結合於 factor H 的 C 端（C-terminus），干擾 factor H 與細胞表面 C3b 的結合，導致 alternative pathway 失控活化
+幾乎所有 FHAA 陽性病人均合併 CFHR1 CFHR3 的同型合子缺失（homozygous deletion）：此基因區段的缺失導致 CFHR1 CFHR3 蛋白不存在，而 CFHR1 正常情況下有「競爭性抑制」自體抗體生成的功能，缺失後使免疫耐受性下降，抗體大量產生
+這是 aHUS 中少數「血漿置換（plasma exchange, PE）＋免疫抑制（如 rituximab）」有明確治療角色的亞型：血漿置換可快速清除已循環的自體抗體，rituximab 則針對 B 細胞以長期壓制抗體生成；抗體效價（titer）可作為治療反應的監測指標，效價下降即支持減量或停藥
+
+基因型如何決定腎移植後的復發風險——本段最有臨床價值的部分：
+
+這是理解 aHUS 中「換腎能解決什麼、不能解決什麼」的核心 ：
+
+MCP（CD46）：因為是膜結合蛋白，且在腎臟內皮細胞高度表現，移植進來的健康腎臟自帶功能正常的 MCP——新腎臟本身提供了所缺的局部補體調節蛋白。因此 MCP 變異者，移植後復發率僅約 20%，是所有變異型中預後最佳的。
+CFH、CFI、C3、CFB：這些都是肝臟合成並分泌至血液循環的蛋白。換腎並不能更換「製造這些蛋白的器官」，因此病人術後仍然帶著同樣功能異常的循環 complement 蛋白。CFH、C3、CFB 變異者，移植後復發率高達 50 到 100%；CFI 變異者約 45 到 85% 。
+因應策略：
+
+CFH、C3、CFB 高風險變異者，目前指引建議預防性使用 eculizumab 或 ravulizumab，自移植前或移植時即開始，並維持至足夠時間
+部分高風險病人在過去曾考慮「肝腎合併移植（combined liver-kidney transplantation）」——以健康肝臟取代原本製造異常蛋白的器官，從根本糾正問題；但此術式的手術風險高，現有 eculizumab 後，其適應症已大幅縮窄
+
+六、治療與一個重要的未解問題。
+
+第一線：eculizumab / ravulizumab，且應「經驗性立即開始」
+
+兩者均為 anti-C5 monoclonal antibody，阻斷 terminal complement activation，獲 FDA 核可用於 aHUS 。關鍵原則：不應等待基因結果才開始治療。aHUS 是臨床診斷，而基因報告往往需要數週。在臨床上高度懷疑 aHUS 時，應在排除 TTP（ADAMTS13）、排除 STEC-HUS 後，於 24 到 48 小時內啟動補體阻斷 。
+
+Ravulizumab 相較 eculizumab 的主要優勢在於輸注頻率：eculizumab 每兩週一次，ravulizumab 每八週一次（成人），減少就醫負擔，在腎移植後管理中尤其具有實務價值 。
+
+實務難題：腦膜炎雙球菌（Neisseria meningitidis）疫苗的時間差
+
+Anti-C5 治療使終端補體路徑受抑，大幅增加莢膜菌（尤其是腦膜炎雙球菌）感染風險。指引要求用藥前接種 meningococcal vaccine（四價 ACWY 加上 MenB），但疫苗至少需要兩週才能誘發保護性免疫。臨床上，aHUS 不能等兩週——因此標準做法是：同時接種疫苗，並立即給予預防性抗生素（通常為 penicillin 或 amoxicillin），持續至疫苗保護建立為止 。
+
+血漿置換（plasma exchange, PE）的現代定位
+
+自 eculizumab 核可以來，PE 在 aHUS 的地位已從第一線退居第二線。唯一仍有明確角色的情境，是「抗 factor H 抗體」型 aHUS：PE 在此可快速移除致病自體抗體，並補充外源性 factor H，通常與 rituximab 合用 。對基因型 aHUS 而言，PE 無法從根本阻斷 complement activation，僅有有限的橋接作用。
+
+最重要的未解問題：要治療多久？
+
+aHUS 的補體阻斷治療是否應「終身」進行，至今無定論 。現有資料顯示：
+
+在選定病人中停藥後，復發率約 20 到 30%，且 CFH 變異者的復發風險最高
+目前的共識是：在「腎功能已恢復至穩定、無已知高風險基因變異（如 CFH、C3、CFB）、且能維持密切監測（定期查 LDH、血小板、腎功能）」的選定病人，可「在密切監測下嘗試停藥」，但任何復發跡象應立即重啟治療
+
+新一代藥物的現況
+
+Crovalimab（Piasky）：另一個 anti-C5 抗體，已獲 FDA 核可用於 PNH；在 aHUS 的 phase III 試驗正在進行中
+近端補體抑制劑（proximal complement inhibitors）：包括針對 factor B、factor D、C3 的藥物（如 iptacopan），目前尚未核可用於 aHUS，但 phase III 試驗正在招募，代表未來或可針對 alternative pathway 的更上游環節進行阻斷，理論上可提供更完整的保護
+
+七、收尾：基因是體質，誘因才是扳機。
+
+aHUS 的 complement 基因變異，本身不足以觸發疾病——在大多數情況下，需要一個「誘因」將其點燃：常見者包括感染（呼吸道、泌尿道）、懷孕（尤其是產後）、外科手術、器官移植、藥物（如 VEGF 抑制劑、鈣調磷酸酶抑制劑）、以及自體免疫疾病的急性發作 。
+
+這解釋了一個臨床現象：帶有相同 CFH 或 CFI 變異的家族成員，可能終身從未發病——他們從未遭遇足夠強度的「第二次打擊」。遺傳諮詢因此必須伴隨「誘因識別與預防」的衛教：何種情況下應主動回診進行 complement 活化相關的血液監測 。
+
+如下圖所示，aHUS 的遺傳負擔與環境誘因之間存在「劑量-效應」關係——攜帶越多 complement 風險因素（致病性變異加上 risk haplotype），在越小的環境誘因下即可發病，甚至在沒有明顯誘因的情況下達到完全外顯（full penetrance）。
+
+![](/img/img/178a95a1-1552-4741-aa20-0cd59966139a.jpg)
+Figure 7: The genetic load of genetic risk factors determines penetrance of aHUS. aHUS is a complex disease, with additive genetic risk factors conferring predisposition to aHUS and environmental risk factors triggering disease development. Data support an inverse correlation between the genetic load of risk factors and the intensity of environmental triggers required for disease development. A, Kaplan–Meier estimations of the aHUS penetrance for different loads of genetic risk factors. B, aHUS penetrance at age 35 years and maximum aHUS penetrance in relatives of probands carrying 1 or 2 pathogenic variants and contribution of the CFH‐H3 and MCP ggaac risk haplotypes. Reproduced from 144 with permission
+
+這個「兩次打擊」的結構（體質 × 誘因 = 發病），與抗磷脂症候群中 catastrophic APS（CAPS）的發病邏輯幾乎如出一轍——背景的凝血高危體質加上一個急性觸發事件，決定了臨床上是否會有災難性的多器官血栓事件。
+
+八、逐項評析五個選項。
+
+(A) 正確 aHUS 的三聯症定義（MAHA、thrombocytopenia < 150 × 10⁹/L、end-organ damage）是臨床共識，以 AKI 為最常見的器官損害表現 。
+
+(B) 正確腎外侵犯見於約 20% 的病人，CNS 侵犯最常見，心臟次之，並預示較差的預後 。腎外侵犯是積極啟動 complement 阻斷的額外理由。
+
+(C) 正確 MAHA 的實驗室判定要素（schistocyte、Hb < 10 g/dL、LDH > 1.5 倍正常上限、haptoglobin 測不到）均符合 aHUS 診斷標準，但需注意 DAT 必須為陰性以排除自體免疫性溶血 。
+
+(D) 錯誤——本題正確答案腎切片在 aHUS 診斷中「既不特異、也帶有危險，且會延誤治療」。選項 (D) 說「嚴重血小板低下才可以不做切片」，邏輯顛倒——嚴重血小板低下本是切片的禁忌，且 aHUS 的診斷從根本上就不依賴切片 。
+
+(E) 正確約 40 到 60% 的病人有 complement 基因變異；抗 factor H 自體抗體約佔 10%，好發兒童，常合併 CFHR1 CFHR3 同型合子缺失 。
+
+臨床 take-home：在 aHUS，你永遠是在證據不足的情況下做決定——而等待證據的代價，是用腎元來支付的。

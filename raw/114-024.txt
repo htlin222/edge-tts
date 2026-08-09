@@ -1,0 +1,104 @@
+第一一四年 第二十四集
+有脈絡的綜論:激酶抑制劑的構型政治學:你抓的是活著的酶,還是睡著的酶
+
+激酶抑制劑的「構型政治學」：你抓的是活著的酶，還是睡著的酶
+
+酪胺酸激酶（tyrosine kinase）並非固定形狀的分子開關，而是在「活化型」與「非活化型」之間動態切換的結構。決定這個切換的關鍵樞紐，是 activation loop 起始處的 DFG motif（Asp-Phe-Gly）。當 loop 呈現 DFG-in（活化型） 時，天門冬胺酸（Asp）朝向 ATP 結合位、協調 Mg²⁺離子，使激酶能催化磷酸轉移；當 loop 翻轉為 DFG-out（非活化型） 時，苯丙胺酸（Phe）翻入 ATP 口袋，同時在其旁邊讓出一個原本不存在的疏水口袋（allosteric back pocket）。
+
+這個構型差異正是型別分類的物理基礎：Type I 抑制劑結合的是 DFG-in 的 ATP 口袋——它抓的是「正在工作的酶」；Type II 抑制劑同時佔據 ATP 口袋與那個「只有 DFG-out 才會出現」的鄰接疏水口袋——它抓的是「休息中的酶」，並把它鎖死在休息狀態。這裡藏著本篇最重要的邏輯：Type II 有一個隱性前提——這個激酶必須「能夠」進入 DFG-out 構型。一旦某個突變讓 activation loop 被結構性鎖在活化狀態，type II 藥物要抓的那個「休息中的形狀」就從此消失，藥效自然歸零。
+
+(B) 為什麼錯：FLT3 的兩種突變，命中兩種不同的構型
+
+FLT3 突變有兩種、位置與後果截然不同。FLT3-ITD 發生在 juxtamembrane domain（近膜區），破壞其自我抑制功能，使受體持續二聚化、持續活化，約佔新診斷 AML 的 25%，且高 allelic ratio 者預後不良。FLT3-TKD 最常見為 activation loop 上的 D835 點突變，約佔 7–10%，其效應是直接把 activation loop 結構性穩定在活化構型。
+
+因果鏈由此展開：D835 位於 activation loop → 該 loop 無法翻轉成 DFG-out → type II 抑制劑（quizartinib、sorafenib）找不到它要結合的疏水口袋 → 抗藥；反之，type I 抑制劑本來就結合活化型構型，D835 突變不影響其結合位，仍然有效。因此正確的敘述應為：type I 對 FLT3-ITD 與 FLT3-TKD 皆有效；type II 只對 FLT3-ITD 有效、對 TKD 無效——選項 (B) 把這個關係完全講反了。
+
+臨床上這不只是理論。在 quizartinib、sorafenib 等 type II 抑制劑治療期間，新出現的 D835/TKD 突變是最典型的標的內抗藥（on-target resistance）機轉，此時應換用 type I 的 gilteritinib；而 F691L 這個 gatekeeper 突變會同時破壞兩類藥物的結合，造成廣泛抗藥。近年也發現如 N701K 這類新興突變可造成 gilteritinib（type I）抗藥卻恢復對 quizartinib（type II）的敏感性，呈現「TKI 敏感度互換」，再度印證構型—藥物對應的精確性。
+
+值得一提的是，這正與 imatinib 對 KIT D816V 無效是同一條原理——imatinib 是 type II 抑制劑，而 D816V 同樣位於 activation loop，兩個看似無關的臨床事實，其實共用同一套結構生物學邏輯：藥物認得的是形狀，不是基因名稱。
+
+(C)(D) 世代與型別是兩條獨立的分類軸
+
+FLT3 抑制劑常依「世代」分類：第一代（多激酶抑制劑）——midostaurin、sorafenib、lestaurtinib、sunitinib、tandutinib——對 FLT3 專一性低，同時抑制 KIT、PDGFR、VEGFR 等，脫靶毒性較多；第二代（FLT3 專一）——gilteritinib、quizartinib、crenolanib——效價更高、專一性更好，脫靶副作用較少。但「世代」與「type」是兩個獨立的分類軸，不應混為一談：
+
+藥物
+
+世代
+
+Type
+
+對 ITD
+
+對 TKD (D835)
+
+Midostaurin
+
+第一代
+
+Type I
+
+有效
+
+有效
+
+Sorafenib
+
+第一代
+
+Type II
+
+有效
+
+無效
+
+Gilteritinib
+
+第二代
+
+Type I
+
+有效
+
+有效
+
+Crenolanib
+
+第二代
+
+Type I
+
+有效
+
+有效
+
+Quizartinib
+
+第二代
+
+Type II
+
+有效
+
+無效
+
+Midostaurin 是第一個獲核准用於新診斷、帶 FLT3-ITD 或 TKD 突變成人 AML 的標靶藥物（2017）。RATIFY 試驗（CALGB 10603）中，midostaurin 併用 7+3 誘導與 HiDAC 鞏固，相較安慰劑組顯著降低死亡風險（HR 0.78），死亡風險降低 22%。後續分析也顯示 midostaurin 降低復發累積發生率（CIR HR 0.71）。
+
+其他關鍵試驗進一步定位各藥角色：ADMIRAL 試驗中，gilteritinib 用於復發/難治 FLT3 突變 AML，中位 OS 顯著優於 salvage 化療（9.3 個月 vs 5.6 個月，HR 0.64，P<0.001），完全緩解（含部分血液恢復）比率也更高（34.0% vs 15.3%）。QuANTUM-First 試驗中，quizartinib 併化療用於新診斷 FLT3-ITD 陽性 AML，中位 OS 為 31.9 個月，優於安慰劑組的 15.1 個月（HR 0.78，p=0.032）；值得注意的是，QuANTUM 系列僅收納 ITD 陽性病人，這正好呼應 type II 抑制劑對 TKD 無效的結構限制，並非臨床設計的巧合。
+
+(A) 確認：口服 azacitidine 維持治療並非注射劑型的口服版
+
+QUAZAR AML-001 試驗確立了 CC-486（口服 azacitidine，Onureg）在化療後達第一次緩解、但不適合移植的年長 AML 病人中，作為維持治療顯著延長中位 OS 與 RFS 的地位。需特別澄清一個常見誤解：CC-486 與注射型 azacitidine 不可互換——兩者藥物動力學、劑量與給藥天數完全不同，CC-486 是每 28 天週期給藥 14 天，其定位是「維持治療」而非誘導或緩解治療。適用族群為 ≥55 歲、化療後達 CR/CRi 且不適合接受移植者；主要副作用為腸胃道症狀（噁心、嘔吐、腹瀉）與嗜中性球低下，其中腸胃道症狀是導致停藥的主因，預防性止吐可改善耐受性。
+
+(E) 確認：venetoclax 組合的定位
+
+VIALE-A（venetoclax 併 azacitidine）與 VIALE-C（venetoclax 併低劑量 Ara-C）分別確立了 venetoclax 併用去甲基化藥物或低劑量化療，在 ≥75 歲或因共病不適合強效化療的新診斷 AML 病人中的角色，VIALE-A 顯示 venetoclax-azacitidine 組合較單用 azacitidine 顯著延長中位 OS。實務上須注意腫瘤溶解症候群（TLS）的預防與劑量爬升（ramp-up），以及與 azole 類抗黴菌藥（CYP3A4 抑制劑）併用時 venetoclax 須大幅減量。台灣確有對應此適應症的核准，因此 (E) 的敘述正確。
+
+逐項評析與結論
+
+- - 正確：CC-486 維持治療延長 OS/RFS，副作用與適用族群描述皆符合證據。
+- (B) 錯誤——本題答案：type I 與 type II 的特性完全講反；正確應為「type I 對 ITD 與 TKD 皆有效，type II 只對 ITD 有效」。
+- - 正確：quizartinib、crenolanib、gilteritinib 屬第二代、對 FLT3 更專一、脫靶副作用較少。
+- - 正確：midostaurin 是第一個核准用於新診斷 FLT3-ITD/TKD AML 的標靶藥物，RATIFY 試驗支持其地位。
+- - 正確：venetoclax 併 LDAC 用於 ≥75 歲或不適合強效化療的新診斷 AML 在台灣確有對應核准；某些線上詳解誤標本題答案為 (E) 並不正確。
+
+臨床要點：選擇 FLT3 抑制劑之前，先問這個突變把酶鎖在哪一個形狀——藥物認得的從來不是「基因名稱」，而是「形狀」。TKD 陽性或以 TKD 為主要復發克隆的病人，應優先選擇 type I 藥物（midostaurin、gilteritinib、crenolanib）；ITD 為主的病人則 type I、type II 皆可考慮，需依世代、專一性與臨床試驗證據做最終選擇。

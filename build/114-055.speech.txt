@@ -1,0 +1,222 @@
+第一一四年，第五十五集。
+
+為什麼一個有五十多個抗原的系統，我們卻只驗其中一個。
+
+為什麼一個有五十多個抗原的系統，我們卻只驗其中一個？。
+
+——Rh 血型系統的基因結構、免疫原性階序與台灣的在地現實。
+
+一、開場：先把基因結構講清楚，本篇的一切都從這裡展開
+
+Rh 血型系統的底層架構，是位於第 1 號染色體短臂（1p36）上兩個高度同源、緊鄰排列的基因：RHD 與 RHCE。兩者各由 10 個 exon 編碼，產物是結構相似的跨膜蛋白，但免疫學表現截然不同。
+
+RHD 負責編碼 D 抗原——一個完整的蛋白質產物；RhD 陰性的定義，在高加索族群中，多數情況是整個 RHD 基因的缺失（deletion），因此根本沒有對應的蛋白質產生。
+RHCE 則以「組合方式」同時編碼 C/c 與 E/e 四種抗原，形成四種可能的單倍型：Ce、ce、cE、CE。這四種組合決定了一個人的 C、c、E、e 表現型。
+
+這裡有一個最常被誤解的重點，必須在此澄清：「d 抗原不存在」。許多初學者誤以為 RhD 陰性代表帶有「d 抗原」，如同 ABO 系統有 A 與 B 之分。事實上，RhD 陰性代表的是「RhD 蛋白完全缺失或極度低量」，根本沒有對應的「d 蛋白」或「d 抗原」作為對偶物存在。在書寫上用小寫「d」只是一個慣例符號，代表「缺少 D」，而非另一個抗原 。
+
+Rh 系統目前已被 ISBT 收錄超過 50 個抗原，但臨床輸血的常規 Rh 定型只驗一個——D。這個選擇不是「偷懶」，而是有著明確免疫學依據的風險優先決策。本篇的核心問題正是：這個選擇背後的理由是什麼？以及在台灣，這個選擇還需要加上什麼額外的考量？
+
+二、(A) 為什麼錯——「只驗 D」的免疫學依據（本文第一核心）
+
+選項 (A) 主張常規 Rh 定型「篩檢全部五個具臨床意義的抗原——D、C、E、c、e」，這是不正確的。常規輸血前檢查的組合是：ABO + RhD + 抗體篩檢（antibody screen），而非五個 Rh 抗原全驗。
+
+理由在於 D 抗原的免疫原性（immunogenicity）遠超過其他所有紅血球抗原：
+
+D 陰性個體接受約 200 mL 的 D 陽性紅血球後，約有 80% 會產生 anti-D——這是所有紅血球抗原中最高的致敏率 。
+相較之下：K（Kell）約 5 到 10%、c 約 2%、E 約 2%、Fya 約 1% 。
+
+從公共衛生角度換算：若每 100 位 D 陰性患者被誤輸 D 陽性血，將有高達 80 位產生 anti-D，其中一部分會在後續輸血時發生溶血反應，另一部分若為育齡女性，則未來的胎兒將面臨胎兒與新生兒溶血症（hemolytic disease of the fetus and newborn, HDFN）的風險。以 Kell 的 5 到 10% 相比，D 抗原的「投資報酬率」——即「驗一個抗原能預防多少風險」——遠高於其他抗原 。
+
+因此，常規輸血前檢驗的標準組合 = ABO + RhD + 抗體篩檢，而不是五抗原全驗。(A) 的錯誤恰在於將「應驗」誤述為「常規已驗」。
+
+什麼時候才需要延伸表現型（extended phenotyping）？
+
+值得強調的是，(A) 並非主張一個「完全錯誤的概念」，而是將「特定情境下的進階做法」誤植為「常規」。事實上，以下族群確實需要進行包含 C、c、E、e、K 在內的延伸 Rh/Kell 表現型 ：
+
+長期依賴輸血者（如地中海貧血、鐮刀型貧血症），因反覆暴露而同種抗體（alloantibody）風險累積；
+已產生同種抗體者，需排除其他共存抗體；
+育齡女性，以避免致敏後影響未來妊娠。
+
+更進一步，在某些國家，針對鐮刀型貧血（sickle cell disease, SCD）患者，對 C、E、K 的「預防性配合（prophylactic matching）」已是標準做法。一篇 2024 年系統性回顧與 meta-analysis 顯示，在 ABO+D 基礎上加入 cEK 配合，可使同種致敏率從 6.2% 降至 1.9%（OR 0.37，95% CI 0.20 到 0.69），效果顯著 。所以，(A) 的錯誤不在「不該驗」，而在「常規並不驗」——這是一個精準的陷阱，也是本題的考核核心。
+
+三、台灣的特殊性——DEL 表現型（本文第二核心，最有在地價值）
+
+族群分子背景的根本差異：東亞 ≠ 高加索
+
+在高加索族群，RhD 陰性幾乎等同於 RHD 基因的完全缺失（complete gene deletion）——血清學陰性，分子層面也確實沒有功能性 RHD 基因。然而，東亞族群的情況截然不同 ：
+
+東亞的 RhD 陰性者，多數並非 RHD 基因缺失，而是帶有 RHD-CE-D 融合基因，或帶有特定的點突變對偶基因，其中最具代表性的是 RHD1227A（正式命名：RHD*DEL1，即 RHD:c.1227G>A）。
+這個突變造成剪接（splicing）異常，最終導致紅血球膜上的 D 抗原量極少，但並非完全為零 。
+
+DEL 表現型：驗不出來，但不代表沒有
+
+DEL（D-elution）表現型是指：這些個體的紅血球上確實存在極微量的 D 抗原，少到常規血清學方法（包括間接抗人球蛋白試驗，IAT）無法偵測，必須以吸附放散法（adsorption-elution）才能證實 。
+
+關鍵數字：在東亞族群中被血清學判定為 RhD 陰性的人，有相當高比例其實是 DEL。以漢人族群為例，中國大陸的資料顯示，漢族 RhD 陰性者中 DEL 的比例平均約 23.3%，部分研究顯示某些東亞族群可達 10 到 30% 。台灣漢人族群的分子背景與中國大陸漢族高度相似，此比例估計相近。
+
+兩個重大的臨床意涵，方向相反
+
+面向
+
+DEL 捐血者
+
+DEL 受血者（被判為 RhD 陰性）
+
+核心問題
+
+其血液中含有微量 D 抗原
+
+自身有極微量 D 抗原表現
+
+臨床意義
+
+應視為 D 陽性——血液若給真正 D 陰性的受血者，「可能」使其致敏
+
+暴露於 D 陽性血液後，一般不會產生 anti-D——因為自身已有微量 D 蛋白，對 D 抗原具有免疫耐受（tolerance）
+
+實務處置
+
+登錄為 D 陽性捐血者
+
+可安全接受 D 陽性血液，不需與稀有 D 陰性血液競爭
+
+對台灣的實務價值
+
+台灣 RhD 陰性的盛行率極低（詳見下段），RhD 陰性血源長期稀缺。若能透過分子檢測（RHD 基因型）辨識出 DEL 個體，可達到雙重效益：
+
+讓 DEL 患者不必佔用珍貴的 D 陰性血源——他們接受 D 陽性血是安全的 ；
+將 DEL 捐血者標記為 D 陽性，避免其血液流入 D 陰性受血者手中，防止潛在致敏 。
+
+2025 年的最新研究亦建議，對東亞及東南亞族群中所有血清學弱 D 或部分 D 個體，常規進行 Asian-type DEL（RHD*DEL1）的基因型檢測，以便將這些人正確地以 D 陽性身份管理 。
+
+四、(C) 的確認——族群差異的完整對照
+
+選項 (C) 指台灣 RhD 陰性者約佔人口 0.5%，這個數字在文獻範圍內是正確的，台灣／漢人族群的報告值為 0.3 到 0.5% 。以下為完整的族群對照：
+
+族群
+
+RhD 陰性盛行率
+
+分子機制特徵
+
+台灣／漢人
+
+約 0.3 到 0.5%
+
+多為 RHD-CE-D 融合或 RHD1227A，DEL 約佔陰性者 23% 以上
+
+高加索族群
+
+約 15%
+
+多為 RHD 基因完全缺失
+
+非裔族群
+
+約 5 到 8%
+
+多為 RHD pseudogene（RHDψ）或融合基因
+
+巴斯克人
+
+可高達約 30%
+
+RHD 完全缺失頻率全球最高
+
+台灣的實務後果顯而易見：RhD 陰性血極度稀缺，每 200 到 300 位捐血者才能找到 1 位 D 陰性捐血者。因此必須建立全國性稀有血型捐血者登錄系統，且 RhD 陰性患者的擇期手術需在術前提早備血，緊急手術時備血更是高度挑戰。
+
+五、(D) 的核心——anti-D 的臨床後果與 RhIG 預防
+
+Anti-D 是 IgG，這一點決定了它的臨床危險性
+
+anti-D 產生後以 IgG 的形式存在，IgG 可通過胎盤，進而攻擊胎兒紅血球，導致胎兒與新生兒溶血症（HDFN）——曾是嬰兒死亡的重要原因，自 RhIG 問世後才大幅下降 。
+
+RhIG（anti-D immunoglobulin）預防的標準做法
+
+根據 ACOG 實踐指引 ，RhD 陰性孕婦應接受以下預防：
+
+懷孕 28 週：給予一劑 300 µg（標準劑量）RhIG；
+分娩後：若新生兒確認為 D 陽性，需於 72 小時內再給一劑 300 µg；
+所有「致敏事件（sensitizing events）」後，均應補打 RhIG，包括：
+
+自然流產、人工流產
+羊膜穿刺（amniocentesis）、絨毛膜取樣（chorionic villus sampling, CVS）
+腹部外傷、子宮外孕（ectopic pregnancy）手術
+外轉術（external cephalic version, ECV）
+任何可能引發胎母輸血（fetomaternal hemorrhage, FMH）的情況。
+
+劑量如何決定——Kleihauer-Betke 試驗的角色
+
+標準劑量的 300 µg RhIG 可保護對應約 15 mL D 陽性紅血球（或 30 mL 全血）的暴露量。若懷疑有大量胎母輸血（如嚴重腹部外傷或分娩後出血量大），則需以 Kleihauer-Betke（KB）試驗或流式細胞儀（flow cytometry）量化 FMH 的體積，據此追加 RhIG 劑量——每 15 mL 胎兒紅血球計算需補充一劑 300 µg 。
+
+一個常造成困惑的臨床陷阱
+
+接受過 RhIG 的孕婦，其抗體篩檢（antibody screen）可能呈現弱陽性 anti-D——這是被動輸入的抗體（passive anti-D），而非真正致敏後自行產生的。若臨床上難以區分，需結合抗體效價、接受 RhIG 的時間點及臨床病史綜合判斷；相關的 DAT（direct antiglobulin test）與 auto control 的分流邏輯，已在另一份筆記中詳細說明。
+
+六、Weak D 與 Partial D 的區別——血庫的經典難題
+
+Weak D（弱 D）：數量問題，結構完整
+
+Weak D 個體的 D 蛋白胺基酸序列完整，只是因為跨膜區域突變影響了蛋白質的正確嵌入，導致紅血球膜表面的 D 抗原數量（copy number）較少，以標準血清學方法（直接凝集）可能呈陰性，但以間接抗人球蛋白試驗（IAT）可呈弱陽性 。
+
+關鍵臨床意義：多數 weak D 型別（尤其是 weak D type 1、2、3）不會產生 anti-D，因為 D 抗原的抗原決定位（epitopes）完整，免疫系統不會對自身蛋白產生排斥 。
+
+Partial D（部分 D）：結構問題，缺少部分 epitope
+
+Partial D 個體的 D 蛋白是基因重組（gene conversion）的結果——部分 exon 來自 RHD，部分來自 RHCE，形成嵌合蛋白（chimeric protein）。這些人缺少 D 蛋白上某些特定的抗原決定位，因此當暴露於正常 D 陽性血液時，會針對自己缺少的那一部分 epitope 產生 anti-D 。
+
+![](/img/img/21ca4aa5-a442-4271-82cf-b75df5037bb1.jpg)
+Figure 3: Gene conversion events between RHCE and RHD produce chimeric Rh proteins and new low prevalence antigens or loss of high prevalence antigens (shown on right side). Dark gray ( RHD ) and light gray ( RHCE ) boxes represent the 10 exons that encode Rh proteins. Gene conversion events involve amino acid changes (vertical bars) or whole exons (filled boxes). Replacement of portions of RHD by RHCE (upper set of panels), with or without additional point mutations, causes many of the partial D phenotypes with the highest risk of anti‐D formation and hemolytic complications, some of which are shown here. Two alleles with altered CE antigen expression (third panel) which may interfere with D antigen typing in the absence of normal D are shown here. Replacement of portions of RHCE by RHD (last panel) causes altered RhCE expression. Some of the RHCE alleles with the highest risk of antibody formation and hemolytic complications are shown here. Many more conversion events or point mutations not shown here can alter antigen expression with a risk of antibody formation.
+
+作為受血者或捐血者，處置策略完全相反——這是黃金法則
+
+作為「捐血者」，接著一律視為 D 陽性：無論是 weak D 或 partial D，其血液中均存在 D 抗原（或部分 D 抗原），若輸給真正 D 陰性的受血者，均可能致敏。
+作為「受血者」，接著一律視為 D 陰性：寧可低估、給予 D 陰性血液，以免致敏患者——除非已以 RHD 基因型確認為 weak D type 1、2 或 3，此時可安全視為 D 陽性並接受 D 陽性血液，同時無需 RhIG。
+
+美國目前的建議：對血清學呈 weak D 的孕婦進行 RHD 基因型檢測，以判斷是否為 weak D type 1/2/3。確認者可以 D 陽性身份管理，避免不必要的 RhIG 使用（節省費用）與稀有 D 陰性血源的浪費 。在一項包含 73 位產科患者的研究中，RHD 基因型改變了 43% 病人的處置策略，同時節省了 98 單位 D 陰性紅血球 。
+
+七、(B) 的確認——Rh 僅次於 ABO 的理由（簡明扼要）
+
+Rh 系統在臨床重要性上排名第二，理由是雙重的 ：
+
+① 免疫原性極高：D 抗原的 80% 致敏率在所有紅血球抗原中無出其右；
+② anti-D 是 IgG：可通過胎盤造成 HDFN，也可引起遲發性溶血輸血反應（delayed hemolytic transfusion reaction, DHTR）。
+
+以此對照 ABO 系統：ABO 抗體是「天然存在」的 IgM，無需事先致敏，可直接造成立即性血管內溶血（immediate intravascular hemolysis）——急性期後果嚴重，但正因如此，ABO 配型早已根深柢固，幾乎不可能被忽略。Rh 系統的危險，在於它需要「第一次致敏」才會發作，而第一次往往無症狀，等到第二次才爆發遲發性血管外溶血或嚴重 HDFN——這種延遲性讓它的危險更難被察覺，也因此更需要系統性的預防機制。
+
+八、四個選項的逐項評析與臨床 Take-home
+
+選項
+
+正確或錯誤
+
+核心理由
+
+(A) 常規 Rh 定型篩檢全部五個抗原
+
+錯誤（此題答案）
+
+常規只驗 D；C、c、E、e 是延伸表現型，適用於特定高風險族群，而非標準常規
+
+(B) Rh 是第二重要的血型系統
+
+正確
+
+anti-D 免疫原性最強、anti-D 為 IgG 可致 HDFN 與遲發性溶血
+
+(C) 台灣 RhD 陰性約 0.5%
+
+正確
+
+漢人族群 0.3 到 0.5%，遠低於高加索族群的 15%
+
+(D) anti-D 可引發溶血反應
+
+正確
+
+anti-D（IgG）可致 HDFN 與遲發性溶血；RhIG 是有效預防手段
+
+臨床 Take-home
+
+血庫的每一個「常規」背後，都是一次成本與風險的算計——而在台灣，那個算計還多了一個變數：這個「D 陰性」，是真的陰性嗎？ 在高加索族群，D 陰性幾乎等同於基因缺失；但在台灣漢人族群，每四位「D 陰性」就可能有一位其實是 DEL——他們既不需要稀有的 D 陰性血，也不應該被誤以為是「真正的 D 陰性」。在稀有血源嚴重匱乏的現實下，分子診斷不是奢侈品，而是讓資源精準分配的必要工具。

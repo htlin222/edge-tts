@@ -1,0 +1,177 @@
+第一一四年 第六十四集
+有脈絡的綜論:兩種完全相反的思路:一個模仿失去的東西,一個拆掉還在的煞車
+
+以下綜論以考題結構為骨架，從「為什麼需要非因子治療」出發，逐步鋪陳兩種截然不同的治療哲學，並逐一拆解五個敘述的對錯。
+
+一、先把問題講清楚：傳統因子補充的四道牆
+
+血友病 A 與 B 分別源於 FVIII 與 FIX 的缺乏，幾十年來的標準照護是「缺什麼、補什麼」——定期靜脈注射缺失的凝血因子。這個策略有效，但有四道難以迴避的限制。
+
+第一，給藥負擔極重。FVIII 的血漿半衰期約 12 小時，標準預防性治療需每週靜脈注射 2–3 次；兒童血管細、且反覆穿刺困難，常需植入中央靜脈通道裝置，帶來感染與血栓風險。第二，抑制劑（inhibitor）的產生——這是傳統治療最棘手的併發症。約 30% 的重度血友病 A 病人會因免疫系統將外源 FVIII 視為異物而產生中和性同種抗體，一旦出現抑制劑，補充的 FVIII 即遭中和，療效急劇下降，臨床管理難度倍增 。第三，成本高昂，尤其是重組因子製劑，對醫療資源有限的地區而言幾近不可及。第四，即便規律補充，谷值濃度（trough level）仍難以維持穩定，病人常在下次注射前跌入低保護的「窗口期」，此時關節出血風險最高。
+
+這四道限制共同催生了「非因子治療（non-factor therapy）」。它們不補充缺失的凝血因子，而是採取兩種截然不同的哲學：一種是模仿失去的那個蛋白；另一種是拆掉還在運作的煞車。
+
+二、哲學一：模仿失去的那個蛋白——Emicizumab
+
+設計的精妙之處
+
+Emicizumab（Hemlibra）是一個雙特異性人源化單株抗體（bispecific humanized monoclonal antibody），一隻手臂結合 FIXa，另一隻手臂結合 FX，將兩者拉到彼此的反應距離之內，執行 FVIIIa 作為「輔因子」的核心工作——促進 FX 的活化，讓凝血瀑布得以繼續 。它並非把 FVIII 的蛋白質結構複製出來，而是用完全不同的分子骨架，達到相同的功能目標。
+
+最關鍵的結構洞見：它在結構上與 FVIII 毫無相似之處
+
+正因如此，抗 FVIII 的抑制劑無法辨識、也無法中和 emicizumab。這不是巧合，而是藥物設計的核心優勢：抑制劑的表位（epitope）是針對 FVIII 蛋白質的特定結構域，而 emicizumab 根本就不是 FVIII，中和它的免疫武器對它毫無效果 。這正是 emicizumab 能用於有抑制劑的血友病 A 病人的根本原因。
+
+為什麼選項 (4) 是錯的？
+
+這裡是本題最關鍵的概念陷阱。Emicizumab 的一隻手臂必須抓住 FIXa，另一隻才能把 FX 拉近、完成活化。血友病 B 缺的正是 FIX——病人沒有 FIX，自然也不會有 FIXa，emicizumab 的那隻手臂「無物可抓」，整個橋接機制失去著力點 。因此，emicizumab 只能用於血友病 A，不適用於血友病 B。FDA 的核准適應症亦明確限定為先天性 FVIII 缺乏（血友病 A），有無抑制劑均可使用 。
+
+療效數據
+
+HAVEN 系列四個第三期試驗（HAVEN 1–4）涵蓋有抑制劑與無抑制劑的成人、青少年及兒童病人，長期追蹤資料顯示：皮下注射 emicizumab 預防性治療的模型推算年化出血率（annualized bleed rate, ABR）為 1.4（95% CI，1.1–1.7），且隨治療時間延長持續下降，至第 121–144 週時平均 ABR 降至 0.7；該時段 82.4% 的病人無任何需要處置的出血事件 。
+
+HAVEN 3 試驗（無抑制劑病人）的直接對照更說明問題：與未接受預防性治療的對照組相比，emicizumab 每週一次組與每兩週一次組分別使年化出血率下降 96% 與 97%（p<0.001），逾半數病人在整段研究期間零出血 。給藥方式為皮下注射，每 1、2 或 4 週一次，大幅減輕靜脈通路的負擔 。
+
+以下為 HAVEN 1 試驗（有抑制劑病人）各類出血事件年化率的比較：
+
+![](/img/img/41038227-64e6-4bd1-b895-49aaf7395337.jpg)
+Figure 1: Annualized Bleeding Rate in Trial Groups A, B, and C.
+
+實務上必須知道的實驗室干擾
+
+Emicizumab 在體內持續橋接 FIXa 與 FX，對凝血功能的整體影響反映在：它會大幅縮短 activated partial thromboplastin time（aPTT）。這帶來一個實務上極為重要的問題：所有以 aPTT 為基礎的凝血功能評估都會因此失效，包括：
+
+- One-stage FVIII assay（用於監測 FVIII 活性）：會高估 FVIII 濃度
+- Bethesda 抑制劑檢驗（Nijmegen-Bethesda assay）：aPTT 縮短導致抑制劑力價無法準確量化
+
+正確的替代方案是改用含牛源試劑的 chromogenic FVIII assay。原理在於：emicizumab 雖能橋接人類的 FIXa 與 FX，卻無法辨識牛源的 FIXa/FX；以牛源基質進行的 chromogenic assay，其訊號來源不受 emicizumab 干擾，因此能準確反映真實的 FVIII 活性 。這一點在臨床上尤其重要——用錯了檢驗方法，可能誤判抑制劑力價或 FVIII 補充的效果。
+
+三、本篇第二個核心：選項 (2) 的 aPCC 交互作用——為什麼會出人命
+
+HAVEN 1 的觀察
+
+HAVEN 1 試驗招募的是有抑制劑的血友病 A 病人。研究過程中，共有 5 名病人出現嚴重不良事件：3 例血栓性微血管病變（thrombotic microangiopathy, TMA）與 2 例血栓事件，這 5 人「全部」都在使用 aPCC（FEIBA，anti-inhibitor coagulant complex injection）處理突破性出血 。其中 1 名 TMA 病人合併致命性直腸出血。
+
+劑量閾值
+
+臨床觀察顯示，風險在 aPCC 用量超過 100 U/kg/day、且持續超過 24 小時時顯著上升 。這個閾值已被製造商和相關指引所強調，是實務中必須銘記的安全邊界。
+
+機轉
+
+機轉並不複雜，但組合起來卻極危險：Emicizumab 在體內持續提供「類 FVIIIa」的輔因子活性；而 aPCC 本身的成分包括FIXa、FX、凝血酶原（FII）及其活化形式。兩者疊加，意味著 FIXa 與 FX 被 emicizumab 橋接的同時，aPCC 又額外注入大量促凝底物，造成不受控制的大量凝血酶（thrombin）生成，遠超生理止血所需，最終引發微血管內血栓或系統性血栓事件 。
+
+臨床行動
+
+- 使用 emicizumab 的病人若發生突破性出血，應優先選用 recombinant activated FVII（rFVIIa，NovoSeven），而非 aPCC。
+- 若臨床情境下非用 aPCC 不可，應嚴格限制劑量、縮短療程，並密切監測 TMA 的早期徵象（如血紅素下降、血小板減少、LDH 上升、破碎紅血球）。
+
+四、哲學二：不補充缺的，改拆掉還在的煞車——Rebalancing Agents
+
+這個概念的優雅之處
+
+生理性止血是「促凝」與「抗凝」之間的動態平衡。血友病病人的問題是「促凝端」少了一塊（FVIII 或 FIX），所以出血。Rebalancing agents 的邏輯翻轉：既然無法把促凝那一端拉高，那就把抗凝那一端壓低——平衡點一樣可以被拉回可止血的範圍 。
+
+這個思路有一個傳統因子治療做不到的優勢：天然抗凝蛋白（antithrombin、TFPI 等）的功能與 FVIII/FIX 的存在無關，因此這類治療血友病 A 與 B 皆可使用，有無抑制劑亦皆適用 。
+
+逐一介紹
+
+Fitusiran（Qfitlia）：針對 antithrombin 的 siRNA
+
+Fitusiran 是一個小干擾 RNA（siRNA），靶向抑制肝臟中 antithrombin（AT）的合成。AT 是凝血酶與 FXa 的主要天然抑制劑；降低 AT 水平，即減少對這兩個關鍵酶的抑制，讓凝血酶能更有效地生成 。
+
+給藥方式為皮下注射，每月一次，是目前注射頻率最低的非因子治療選項之一。ATLAS 系列試驗顯示，fitusiran 預防性治療使中位數年化出血率降至 0（對照組因子治療為 6.5），效果顯著 。
+
+適應症涵蓋血友病 A 與 B，有無抑制劑均可，這是 rebalancing agents 相對 emicizumab 的重要區別 。
+
+安全性方面，fitusiran 上市後曾因血栓事件（包括門靜脈血栓、腦靜脈竇血栓）而被迫暫停試驗並修改給藥方案，現採「以 AT 濃度為導向」的劑量調整，目標 AT 維持在基線的約 15–35% 。此外，肝功能異常與膽囊事件（膽囊炎、膽石症）亦有報告，需定期監測。
+
+Concizumab（Alhemo）：抗 TFPI 的單株抗體
+
+Concizumab 是抑制 tissue factor pathway inhibitor（TFPI）Kunitz-2 結構域的單株抗體。TFPI 正常情況下會抑制 TF/FVIIa 複合體，限制凝血啟動；阻斷 TFPI 後，TF/FVIIa 複合體得以持續作用，FXa 與凝血酶的生成增加 。給藥方式為皮下注射，每日一次。
+
+FDA 於 2025 年核准 concizumab 用於有抑制劑的血友病 A 與 B 病人（12 歲以上）。Explorer7 第三期試驗顯示，與未治療組相比，concizumab 使自發性與外傷性出血的年化出血率下降 86%，中位數 ABR 為 0（對照組 9.8），63.6% 的病人無任何需要治療的出血事件 。
+
+Marstacimab（Hympavzi）：另一個抗 TFPI 抗體
+
+Marstacimab 同樣靶向 TFPI 的 Kunitz-2 結構域，機轉與 concizumab 類似，但其 FDA 核准適應症為無抑制劑的血友病 A 與 B 病人（12 歲以上）。
+
+發展中的其他標的
+
+Rebalancing agents 的概念尚在持續延伸。SerpinPC 靶向 activated protein C（APC），阻斷蛋白 C 路徑對凝血因子 Va 與 VIIIa 的降解；VGA039 則靶向蛋白 C 的輔因子 protein S 。這些藥物的臨床試驗正在進行中，代表著在「煞車系統」的不同層面都有可能切入。
+
+因此，選項 (3) 正確：fitusiran 靶向 antithrombin，concizumab 靶向 TFPI，皆屬「針對天然抗凝蛋白」的 rebalancing agents 。
+
+五、選項 (5) 為什麼錯——這類藥最優雅的反轉
+
+這是本題最容易被直覺誤導的陷阱。「非因子治療最常見的不良反應是出血」——乍看合理，但邏輯上根本站不住腳。
+
+這些藥的存在目的就是減少出血；它們透過模仿促凝機制或壓制抗凝機制，使凝血天秤向止血傾斜。出血是這類藥物要解決的問題，而非它們造成的結果，出血不可能是它們最常見的不良反應。
+
+實際的不良反應如下 ：
+
+- Emicizumab：最常見的不良反應是注射部位反應（redness、induration、pruritus），發生率在 HAVEN 3 等試驗中位居首位，但多為輕度、不需停藥。
+- Fitusiran 與 concizumab：同樣有注射部位反應；而其「特徵性」、亦是最需要關注的風險是血栓事件（包括深部靜脈血栓、肺栓塞、甚至動脈血栓）。
+
+這個反轉揭示了一個深層邏輯：當你「拆掉煞車」來止血時，代價自然是「可能停不下來」。這類藥的風險光譜與傳統因子補充「方向相反」——傳統治療最怕出血（不夠止血），rebalancing agents 最怕血栓（止血過了頭）。這也是為什麼每一個 rebalancing agent 的臨床試驗都有嚴格的血栓監控與劑量調整方案。
+
+六、收尾：非因子治療的位置，以及另一條路
+
+誠實的限制：非因子治療提供的是「止血的地板」，而非「正常的止血功能」
+
+Non-factor therapy 在預防日常出血方面成效卓著，但必須清楚認識它的上限：這些治療將凝血系統維持在一個「勉強夠用」的基礎狀態。面對重大手術、嚴重外傷或急性大出血，這個「地板」往往不夠高，仍然需要因子補充（FVIII 或 FIX 替換治療、或 bypassing agents）作為輔助 。此外，因 emicizumab 對 aPTT 基礎檢驗的干擾，圍手術期的凝血功能監測需要仰賴 chromogenic assay，這在資源有限的環境中也是挑戰。
+
+基因治療：另一條正在改變一切的路
+
+同步發展的是基因治療——一次給藥，讓肝細胞自行合成缺失的凝血因子：
+
+- 血友病 A：Valoctocogene roxaparvovec（Roctavian，AAV5 載體傳遞 B-domain deleted FVIII）
+- 血友病 B：Etranacogene dezaparvovec（Hemgenix，AAV5 傳遞 FIX-Padua 變異體）；fidanacogene elaparvovec（Beqvez）
+
+但基因治療目前仍有現實限制：FVIII 表現量隨時間下降（數年後可能需要回到預防性治療）；肝毒性（ALT 升高，需皮質類固醇管理）；無法重複給藥（預先存在的 AAV 中和抗體或治療後抗體形成）；以及極高的費用，使全球可及性嚴重受限。
+
+實務提醒：血友病 B 抑制劑的特殊性
+
+血友病 B 的抑制劑雖較罕見（約 3–5%），但其臨床面貌與血友病 A 大不相同：常伴隨嚴重過敏反應甚至過敏性休克（anaphylaxis），以及腎病症候群（nephrotic syndrome）。這是因為 FIX 替換治療誘發的免疫複合體沉積所致。因此，血友病 B 抑制劑的處置策略與血友病 A 根本不同——免疫耐受誘導（immune tolerance induction）在血友病 B 的成功率也遠低於血友病 A，且存在更高的安全顧慮。
+
+七、逐項評析與 Take-Home
+
+敘述
+
+對/錯
+
+理由
+
+(1) Emicizumab 為雙特異性抗體，橋接 FIXa 與 FX 以模擬 FVIII 功能
+
+✅ 正確
+
+核心機轉描述準確
+
+(2) Emicizumab 與 aPCC 併用曾有 TMA 報告
+
+✅ 正確
+
+HAVEN 1 中 3 例 TMA、2 例血栓，全與 aPCC 相關
+
+(3) Fitusiran 針對 antithrombin，concizumab 針對 TFPI
+
+✅ 正確
+
+Rebalancing agents 的標準機轉描述
+
+(4) Emicizumab 可用於血友病 A「與」血友病 B
+
+❌ 錯誤
+
+血友病 B 缺 FIX，FIXa 不存在，emicizumab 的橋接機制無法運作；FDA 適應症僅限血友病 A
+
+(5) 非因子治療最常見的不良反應是「出血」
+
+❌ 錯誤
+
+最常見不良反應為注射部位反應；特徵性風險為血栓，而非出血
+
+選項對照：(1)(2)(3) 皆正確 → 正確答案為 (C)。
+
+> The most frequent adverse event was low-grade injection-site reaction. There were no thrombotic or thrombotic microangiopathy events, development of antidrug antibodies, or new development of factor VIII inhibitors.
+
+臨床 Take-Home：當你不能把缺掉的東西補回來時，還有第二條路——把還在的那個煞車鬆開；但別忘了，鬆開煞車的車子，也可能停不下來。

@@ -1,0 +1,135 @@
+第一一四年，第六十六集。
+
+一個會隨時間、壓力與年齡移動的診斷。
+
+以下這篇綜論以「VWF 是一個不斷移動的標的」為主軸，整合 2021 ASH ISTH NHF WFH 指引、VWF 自然史與各型 VWD 的鑑別邏輯，並誠實評析本題 (C) 與 (D) 兩個選項的瑕疵。
+
+一、開場：VWF 不是一個固定的數值。
+
+VWD 的診斷本質上是一個「移動標的問題」（moving target problem）——VWF 濃度在同一個人身上，可以因為抽血當天的狀態而差異超過 50%，因此任何單一次的數值，無論高或低，都不足以下結論。
+
+會讓 VWF 顯著上升的因素包括：急性發炎與感染（VWF 是典型的急性期反應蛋白）。運動與壓力（包括抽血時的焦慮與緊張）。手術與外傷。懷孕（第三孕期可上升至基礎值的 2 到 3 倍）。雌激素（口服避孕藥、荷爾蒙補充療法）。年齡增長
+
+由此直接推論：VWD 的診斷必須在「基礎狀態」下重複驗證，至少兩次，且應在不同時間點。這不是指引的選項，而是診斷的前提 。
+
+二、三個讓數值移動的重要因素。
+
+① 年齡：最容易被忽視的趨勢性變化
+
+VWF 隨年齡穩定上升，大致每年增加約 1 到 2 IU/dL 。這個現象具有深遠的臨床意義，正是選項 (E) 的機轉基礎：兒童期被診斷為 VWD 或 low VWF 的患者，多達約三分之一在成年後 VWF 濃度會跨越診斷閾值而「正常化」 。
+
+一項追蹤超過二十年的研究顯示，「low VWF」族群的正常化比例又高於典型 type 1 VWD，且基礎 VWF:RCo 越接近閾值者，正常化機率越高 。
+
+然而這裡有一個重要的臨床難題：數值正常化「不等於」止血功能完全恢復。這些人在手術、生產或重大外傷時是否仍需預防性處置，目前指引建議「重新評估」而非直接移除診斷 ——出血病史的權重往往高於那個時間點的數值。
+
+② ABO 血型：最常被忽略的生理干擾
+
+O 型血者的 VWF 濃度比非 O 型者低約 25 到 35% 。機轉在於：ABO(H) 抗原表現在 VWF 的 N-醣鏈與 O-醣鏈上，直接影響 VWF 被 ADAMTS13 切割與清除的速率——血型 A 抗原對 ADAMTS13 切割具有最強的保護效果，血型 O 則清除最快 。
+
+臨床後果相當重要：許多被診斷為 type 1 VWD 的 O 型患者，其實只是 VWF 正態分布的低端，而非真正的單基因出血性疾病。這正是 2021 指引將 30 到 50 IU/dL 的族群重新命名為「low VWF」而非疾病的核心理由之一 ——「low VWF」更像是一個出血風險因子，而不是一個可以明確定義的遺傳疾病。
+
+③ 急性期反應：最危險的假陰性來源
+
+VWF 與 FVIII 在發炎、手術或外傷期間可以大幅上升——在急性狀態下驗到的「正常」數值，可能完全掩蓋潛在的 VWD。這也正是選項 (D) 的核心問題所在（詳見第四節）。
+
+三、(B) 的核心：2021 指引的診斷閾值與觀念改變。
+
+2021 ASH ISTH NHF WFH 聯合指引的閾值定義 ：
+
+VWF:Ag 或 VWF 活性 < 30 IU/dL，接著可診斷 VWD（量的缺乏）
+30 到 50 IU/dL 且伴有出血表現，接著稱為「low VWF」（新命名），而非 type 1 VWD
+
+這個改名背後有實質意義：這一族群「多數找不到 VWF 基因的致病性變異（pathogenic variant）」，其出血傾向與 VWF 濃度的相關性較弱，且 ABO 血型、年齡、荷爾蒙狀態等因素對其影響遠大於對典型 type 1 VWD 的影響。
+
+另一個重要的指引建議：不應對所有人廣泛篩檢 VWF，而應先以經過驗證的出血評估工具（如 ISTH-BAT）篩選誰真正需要接受實驗室檢驗。這讓選項 (B) 的表述——VWF:Ag 或活性 < 30 IU/dL 可診斷 VWD——在閾值本身是正確的 ，但務須在正確的臨床脈絡下使用。
+
+四、(C) 的核心：VWF:CB 真正的用途，以及這道題的瑕疵。
+
+VWF:CB 測的是什麼？
+
+VWF:CB（collagen binding assay）測量的是 VWF 與膠原蛋白的結合能力。這種結合「高度依賴高分子量多聚體（high molecular weight multimers, HMWM）」——因為 HMWM 才是與膠原蛋白結合的主要功能形式 。
+
+逐型分析，才能看清 VWF:CB 的定位 ：
+
+Type 2A：因 VWF 合成缺陷或被 ADAMTS13 過度切割，HMWM「流失」，接著 VWF:CB 低，CB Ag 比值下降
+Type 2B：因 VWF 與血小板 GPIb 自發性異常結合後被清除，HMWM「同樣流失」，接著 CB Ag 比值「通常也」下降
+Type 2M：多聚體「結構正常」，HMWM 存在，接著 VWF:CB「正常」，但血小板結合活性（GPIbM）低
+
+以下圖表呈現了各型 VWD 在標準 VWF 功能試驗中的模式，清楚顯示 type 2A 與 2B 的 CB Ag 比值均下降，而 type 2M-GPIb 的 CB Ag 則維持正常：
+
+![](/img/img/09166681-93b2-4703-afde-7c2a9a2eaf22.jpg)
+Figure 1: Baseline characteristics of standard VWF phenotypic tests on patients with specific ‘VWD’ types shown as box and whiskers plots (median with 10th and 90th percentiles). Y‐axis in each figure shows VWF level in U/dL on left y‐axis and assay ratio data on right y‐axis. X‐axis in each figure identifies the VWF tests of VWF:Ag (‘Ag’), VWF:CB (‘CB’), VWF:GPIbB (i.e. VWF GPIb binding, representing both VWF:RCo and VWF:GPIbR assays according to historical context for testing) (for left y‐axis) and ratio data for CB Ag and GPIbB Ag (right y‐axis). (A) data for ‘type 1 low VWF’ group (n = 898), with broken horizontal lines at 50U/dL VWF and ratio 0.6 (general normal cut‐off values). (B) data for type 1 VWD group (n = 210), with broken horizontal lines at 30U/dL VWF and ratio 0.6. (C) data for ‘type 2A VWD’ group (n = 246), with broken horizontal line at ratio 0.6. (D) data for ‘type 2B VWD’ group (n = 210), with broken horizontal lines at 30U/dL VWF and ratio 0.6. (E) data for ‘type 2M‐GPIb VWD’ group (n = 98). (F) data for ‘type 2M‐CB VWD’ group (n = 10) [Colour figure can be viewed at wileyonlinelibrary.com ]
+
+VWF:CB 真正的診斷價值在於：它是把「type 2M」從「type 2A/2B」分出來的關鍵工具——而不是用來區分 2A 與 2B 。在 VWF:CB VWF:Ag 比值正常、但 GPIbM Ag 比值下降時，幾乎可確定是 type 2M 而非 2A 或 2B。
+
+誠實評析選項 (C)：
+
+寫道「在 type 2A 與 2B，VWF:CB 降低，且其與 VWF:Ag 的比值下降」——這在 type 2A 成立，在 type 2B 也「通常」成立，因為兩者都流失 HMWM，差異只在機轉不同。官方判 (C) 為錯，可能是針對「type 2B 的 CB Ag 也下降」這一點認為有誤，但現有文獻（包括大型患者資料庫）顯示 type 2B 的 CB Ag 比值確實多在 0.6 以下 。判 (C) 為錯，理由並不充分。
+
+同樣有問題的選項 (D)：
+
+稱「VWF 活性 > 100 IU/mL 對排除 VWD 有極高陰性預測值，通常不需重測」——這裡忽略了 VWF 是急性期反應蛋白的本質：單次高值完全可能只是反映當天的發炎狀態、運動、壓力或雌激素作用，而 2021 指引並未背書「單次 > 100 IU/mL 即不需重測」的立場 。對有明確出血病史的患者，單次高值仍不足以排除診斷。
+
+這道題是一道設計瑕疵題：(C) 大致成立，(D) 同樣有問題。真正理解 VWF 生理學的臨床醫師，必須對兩個立場都有所了解。
+
+五、完整的 VWD 分型演算法。
+
+關於 VWF:RCo 的 ristocetin 依賴特性、D1472H 多型性對族群診斷的偏誤、以及從第一代到第三代血小板結合活性測定方法的演進，請參閱另篇筆記。以下著重分型流程本身：
+
+第一步：基礎三項。VWF:Ag（抗原）。VWF 活性（現行建議 VWF:GPIbM 或 VWF:GPIbR）。FVIII:C
+
+第二步：活性 / 抗原比值。大於等於 0.7，接著量的缺陷，接著 type 1（部分缺乏）或 type 3（全缺）。< 0.7，接著質的缺陷，接著 type 2
+
+第三步（若為 type 2）的鑑別：VWF:CB / VWF:Ag 比值。低（< 0.6），接著 HMWM 流失，接著 type 2A 或 2B。正常（大於等於 0.6），接著 HMWM 存在，接著 type 2M。低劑量 RIPA（ristocetin 0.5 到 0.6 mg/mL）。增強，接著血小板對 VWF 的敏感性異常升高，接著 type 2B（或 platelet-type VWD，見下）。FVIII:C / VWF:Ag 比值明顯下降，但血小板功能正常 -，接著 type 2N
+
+第四步：多聚體分析（multimer analysis）確認多聚體分析是分型的「金標準」——type 2A 與 2B 均缺乏 HMWM，type 2M 多聚體分布正常，type 2N 多聚體正常。
+
+Type 2N 的特別重要性
+
+Type 2N VWD 的臨床表現幾乎與輕中度血友病 A 相同：FVIII:C 低、aPTT 延長、出血傾向 。然而兩者有根本差異：
+
+Type 2N 是「體染色體隱性遺傳（autosomal recessive）」，接著女性同樣會發病——這是與血友病 A（X-linked）最重要的鑑別點
+治療的差異同樣關鍵：type 2N 給予外源性 FVIII，FVIII 因缺乏功能性 VWF 的保護而迅速被清除，療效極短暫；正確治療是補充含 VWF 的製劑
+誤診為血友病 A 將導致：錯誤的遺傳諮詢（X-linked vs. autosomal）與錯誤的治療（單純補 FVIII 無效）
+
+確診工具：VWF:FVIIIB（VWF 對 FVIII 的結合力測定）或 VWF 基因 FVIII 結合區域的定序 。
+
+Type 2B 與 Platelet-type VWD 的鑑別
+
+兩者都表現為低劑量 RIPA 增強、血小板偏低（thrombocytopenia）、HMWM 流失——臨床上幾乎無法靠表現型區分。
+
+Type 2B：缺陷在 VWF 基因（GPIb 結合域的 gain-of-function 突變）
+Platelet-type VWD：缺陷在血小板的 GPIb 受體（GP1BA 基因）
+鑑別方法：「混合試驗」（患者血小板＋正常 VWF，或正常血小板＋患者 VWF）；或直接基因檢測（VWF vs. GP1BA）
+治療差異極為重要：type 2B 的 DDAVP（desmopressin）可能加重血小板低下（因釋放更多異常 VWF 導致更多血小板被清除）；血小板輸注在 type 2B 通常無效，應以含 VWF 的濃縮製劑為主
+
+六、把「移動的標的」落實成可操作的臨床規則。
+
+檢驗時機：應避開急性發炎、感染、手術後 4 到 6 週內、懷孕期間，以及正在使用口服避孕藥或荷爾蒙補充的時期。
+
+重複驗證：異常結果應至少在不同時間點重複一次，正常結果若與出血病史不符，亦應重驗 。
+
+檢體前處理：VWF（尤其 HMWM 分析）對前處理極度敏感——。避免冷藏（低溫會使 HMWM 沉澱，造成假性多聚體缺失）。避免延遲離心（應在採血後 1 小時內完成）。避免反覆凍融（每次凍融都可能破壞多聚體結構）
+
+判讀時務必納入 ABO 血型：O 型者 VWF 較低屬於生理正常範圍的低端，不應直接套用相同的診斷切點 。
+
+最重要的臨床守則：當實驗室結果與出血病史不符時，應相信病史，並重驗——因為出血的記憶不受急性期反應蛋白的影響，但 VWF 的數值會。
+
+七、五個選項逐項評析。
+
+(A) 正確 — 2021 ASH ISTH NHF WFH 指引明確建議改用不依賴 ristocetin 的新一代血小板結合活性測定（VWF:GPIbM、VWF:GPIbR），以排除 ristocetin 依賴性與 D1472H 多型性帶來的族群偏誤 。
+
+(B) 基本正確 — VWF:Ag 或活性 < 30 IU/dL 確實是 2021 指引的 VWD 診斷閾值 ；但必須是在基礎狀態下的重複測定，而非任一次的單一結果。
+
+(C) 官方答案，但存在瑕疵 — (C) 稱 type 2A 與 2B 的 VWF:CB VWF:Ag 比值均下降。就現有文獻而言，type 2A 和 type 2B 都流失 HMWM（機轉雖然不同），兩者的 CB Ag 比值通常都在 0.6 以下 。官方判其為錯，理由不夠充分——VWF:CB 的真正診斷定位在於「把 type 2M 從 type 2A/2B 中分出來」，而不是用來區分 2A 與 2B。
+
+(D) 同樣有問題 — VWF 是急性期反應蛋白，單次 > 100 IU/mL 的高值完全可能反映的是當天的發炎、壓力或雌激素狀態，而非患者的真實基礎值。2021 指引並未背書「單次高值即不需重測」的立場 。對有出血病史的患者，單次正常或高值不足以排除 VWD。
+
+(E) 正確 — 如前所述，兒童期診斷為 VWD 或 low VWF 者，多達約三分之一在成年後 VWF 濃度可跨過診斷閾值，機轉為年齡相關的 VWF 穩定上升 。但這不等同於出血風險消失，臨床重新評估仍為必要。
+
+以下圖表清楚呈現了 type 1 VWD 與 low VWF 患者隨時間「正常化」的比例分布，以及基礎 VWF:RCo 值與正常化機率的關係：
+
+![](/img/img/59e71667-aaae-4cbc-8be7-ca07fa7d107a.jpg)
+Figure 2: A, Stacked columns showing percentages of complete, possible, partial and no normalization in the total, VWD, and Low VWF cohorts. Also shown are the percentages of patients achievin CN in each of five quintiles of initial VWF:RCo levels at time of diagnosis (B), and in each age group at time of diagnosis (C)
+
+臨床 Take-home：當一個指標會因為病人今天緊不緊張而改變時，用它「一次」下的診斷，就只值一次的份量——VWD 的診斷，從來都不是一個數字說了算，而是一段病史、多次測定、與正確時機的共同結論。

@@ -1,0 +1,190 @@
+第一一四年 第七十二集
+有脈絡的綜論:顯微鏡下看到的不是敵人，是你自己的軍隊
+
+# 顯微鏡下的自己：Infectious Mononucleosis 症狀病理生理學深度解析
+
+## 開場：一個顛覆直覺的觀察
+
+1920 年，Sprunt 與 Evans 描述了 infectious mononucleosis（IM）患者周邊血液中那些形態怪異、被稱作「atypical lymphocytes」或「Downey cells」的細胞，並直覺地認為它們「看起來像是被感染了」。這個描述在教科書中流傳了一個世紀，卻同時埋下了一個根深蒂固的誤解。
+
+真相遠比這更令人驚嘆：你在那張血液抹片上看到的，幾乎不是被 Epstein-Barr virus（EBV）感染的 B 細胞——你看到的，是你自己的免疫軍隊，正在全力作戰。IM 的發燒、咽喉痛、淋巴結腫大、肝脾腫大，幾乎都不是病毒直接摧毀組織的結果，而是免疫系統對病毒發動的反擊所產生的「附帶損傷」。這個觀念，是理解 IM 全部臨床現象的鑰匙。
+
+## 主軸一：那些「非典型淋巴球」的真實身份——你的 CTL 大軍，不是被感染的敵人
+
+急性 IM 發病高峰期，周邊血液中可見大量形態活化、核仁清晰、胞質豐富且嗜鹼的 atypical lymphocytes（即 Downey cells），可佔周邊淋巴球的 10–40%，甚至在部分病例達到 50%。幾十年來，教科書習慣將這些細胞與「EBV 感染的 B 細胞」畫上等號，但這是一個嚴重的誤讀。
+
+這些 atypical lymphocytes 的絕大多數，是活化增殖中的 CD8⁺ cytotoxic T lymphocytes（CTL）。 研究已明確指出，在急性 IM 患者的周邊血液中，高達 50% 的循環 CD8⁺ T 細胞是針對 EBV 的 CTL，而其中相當高比例是針對 EBV lytic-cycle 的 immediate-early 及 early 蛋白質——包括 BZLF1、BRLF1、BMLF1、BMRF1 等——具有高度專一性的 T 細胞。 NK 細胞在早期也參與這場戰役，共同構成血液抹片上那片活化、擴張的「淋巴球海洋」。
+
+被 EBV 實際感染的 B 細胞，在急性 IM 期間固然也在增殖，但它們佔周邊 B 細胞的比例極小，且主要的戰場並不在血液，而在淋巴組織內部。EBV 感染 B 細胞後透過 lytic replication 及後續的 latency program 驅動 polyclonal B-cell activation，但正是這些被活化增殖的 B 細胞，成為 CTL 獵殺的標靶。
+
+這個 CD8⁺ T 細胞的 lytic antigen 專一性反應，是人類已知最劇烈的抗病毒 T 細胞反應之一。 在某些 HLA 型別的個體，針對單一 EBV 抗原表位的 T 細胞克隆可以佔到全部循環 CD8⁺ T 細胞的 5–10%。即使在如此高度活化的狀態下，這些 CTL 仍維持其功能性，能夠有效分泌 IFN-γ、TNF-α、perforin，並展現細胞毒性。
+
+CTL 的擴張規模與病毒量的下降呈現平行關係——隨著 EBV genome load 降低，HLA-DR⁺/CD8⁺、CD45RO⁺/CD8⁺ 等活化 T 細胞亞群在 10 天內即可見明顯收縮。 這正是 IM 自限性病程的細胞免疫學基礎。
+
+## 主軸二：症狀的起源——免疫反應越激烈，症狀越嚴重
+
+這是本篇最核心的洞見，也是最顛覆直覺的觀念：IM 的臨床嚴重程度，與免疫反應的強度成正比，而非與病毒量成正比。
+
+發燒、咽喉痛、淋巴結腫大、肝脾腫大、transaminitis，主要是大量活化 T 細胞及其分泌的細胞激素（IFN-γ、TNF-α、IL-6）所造成，而非 EBV 的直接細胞毒性。 具體而言：
+
+- 發燒與全身不適： 大量活化 CTL 分泌的 IFN-γ 及 TNF-α 作用於下視丘，驅動體溫上升；這與其他病毒感染的發燒機制類似，但強度遠超過大多數病毒感染。
+- 咽喉痛與扁桃腺腫大： 大量 CTL 浸潤淋巴組織，淋巴結腫大（generalized lymphadenopathy），扁桃腺充血水腫乃至形成假膜（exudative tonsillitis）；少部分嚴重病例甚至造成氣道受壓。
+- Hepatosplenomegaly 與 transaminitis： 肝脾充斥著 EBV-infected B cells 及浸潤的 CTL，細胞激素風暴造成肝細胞旁觀性損傷（bystander injury），導致 ALT、AST 上升；transaminitis 在 IM 的發生率高達 80%，通常輕微且自限。
+
+流行病學上一個「看似矛盾」的現象，其實正是這個觀念的最有力佐證：
+
+- 幼兒（尤其是 3 歲以下）初次感染 EBV，多數為無症狀或僅有輕微上呼吸道感染；即使感染，也幾乎不出現典型的 atypical lymphocytosis。
+- 青少年與年輕成人（15–25 歲）初次感染才會出現典型 IM，症狀往往更嚴重，病程更長。
+
+這個年齡差異的原因不在於病毒量的不同——研究顯示無症狀感染者與有症狀 IM 患者的 EBV viremia 程度相當——而在於免疫系統的反應強度。幼兒的免疫系統對 EBV 的反應相對溫和，因此症狀輕微；青少年的成熟免疫系統發動更劇烈的 CTL 反應，因此症狀更嚴重。 這個概念稱為 delayed primary infection：在衛生條件較佳的已開發國家，幼年期接觸 EBV 的機會減少，初次感染的年齡因此延後至免疫系統更成熟的青少年時期，才造成典型 IM 的高盛行率。
+
+Acyclovir 的困境： 這個「症狀來自免疫反應」的觀念，完美解釋了 acyclovir 的臨床無效性。Acyclovir（及 ganciclovir）透過抑制 EBV DNA polymerase，確實能在用藥期間顯著降低口咽部的病毒複製與排出——但對 IM 的臨床症狀、病程、發燒持續時間，幾乎毫無改善。 原因很簡單：症狀的「製造者」不是口咽複製中的病毒，而是已被 EBV 啟動、正在大規模增殖的宿主免疫細胞。抑制病毒的複製，並不能澆熄已被點燃的免疫之火。
+
+## 主軸三：誰在控制病毒？——角色與時序的雙重顛倒
+
+理清 EBV 感染中各免疫成分的分工與時序，是避免觀念錯誤的關鍵。
+
+EBV 進入宿主的路徑： EBV 以其 major envelope glycoprotein gp350 結合 B 細胞表面的 CD21（complement receptor 2, CR2），侵入 B 細胞並驅動 polyclonal B-cell activation。 因此，B 細胞是 EBV 的標靶與宿主，不是抗病毒的守衛。
+
+免疫控制的正確時序：
+
+- 最早期（感染後數天內）：NK 細胞擔任第一道防線，辨識並殺傷 EBV-infected B cells，在適應性免疫反應尚未成熟之前發揮關鍵的橋接作用。NK cell 亞群（特別是 CD56dim CD16⁻ 亞群）在急性 EBV 感染期間出現顯著擴張。
+- 主要控制期：EBV-specific CD8⁺ CTL 主導，辨識並殺傷表現 lytic antigens 的 EBV-infected B cells，這是急性 IM 最關鍵的免疫機制。
+- 體液免疫（抗體）在急性期的病毒控制角色相對次要——VCA IgM、heterophile antibodies 在急性期大量出現，主要用於診斷目的，而非直接消滅被感染的細胞；抗體限制遊離病毒的擴散（中和作用），但對已進入潛伏的 B 細胞無能為力。
+
+因此，「B 細胞在感染早期扮演病毒控制的重要角色，隨後才由 T 細胞與體液免疫主導」——這是角色（B 細胞是宿主，不是守衛）與時序（T 細胞先於體液免疫）的雙重顛倒。正確順序是：NK 細胞 → CD8⁺ CTL（主角）→ 抗體（輔助），而非「B 細胞先行，T 細胞繼之」。
+
+## 主軸四：當免疫控制失敗——為什麼有人會死於 IM
+
+絕大多數免疫功能正常的個體在急性 IM 後能完全康復，因為 CTL 雖然造成了免疫病理，卻也同時完成了病毒控制。但當 T/NK 細胞功能有先天性缺陷時，這個精妙的平衡便會崩潰，導致致命的後果。
+
+原發性免疫缺損（PID）的致命情境：
+
+- XLP1（X-linked lymphoproliferative disease type 1）：SH2D1A 基因突變，導致 SAP（SLAM-associated protein）缺損。 SAP 是 CD8⁺ T 細胞與 NK 細胞表面 SLAM family receptors（包括 SAP1/SLAM、SAP2/2B4）傳遞訊號的關鍵銜接蛋白。2B4（CD244）在正常情況下透過 SAP 傳遞活化訊號，使 NK 細胞能有效辨識並殺傷表現 EBV 抗原的 B 細胞。SAP 缺損時，2B4 反而傳遞抑制性訊號，造成 NK 細胞及 CD8⁺ CTL 無法有效殺傷 EBV-infected B cells，但 B 細胞的增殖刺激依然持續——「殺不掉、卻持續被刺激」——形成惡性循環，演變為 fulminant infectious mononucleosis、EBV-associated hemophagocytic lymphohistiocytosis（HLH）、或 EBV⁺ 淋巴瘤。
+- XLP2：XIAP 基因突變，影響細胞凋亡調控，同樣容易發生 EBV-triggered HLH 及 splenomegaly。
+- 其他相關 PID：CTPS1（CTP synthase 1 缺損，T/NK 細胞增殖缺陷）、CD27、CD70 突變（影響 T 細胞共刺激）、MAGT1（鎂離子轉運缺損，影響 NKG2D 表現）、ITK（IL-2 inducible T cell kinase 缺損）——均可呈現 EBV 控制失敗的臨床表現，包括 fulminant IM、HLH、低丙種球蛋白血症（hypogammaglobulinemia）、及 EBV 相關淋巴瘤。
+
+EBV-associated HLH 的臨床警訊（何時該懷疑一個「不尋常」的 IM 其實是 HLH）：
+
+HLH 的診斷依 HLH-2004 標準，需符合以下 8 項中的 5 項：
+
+- 持續高燒（> 38.5°C）
+- 血球減少（≥ 2 個血球系列）：血紅素 < 9 g/dL、血小板 < 100,000/μL、嗜中性白血球 < 1,000/μL
+- 血清 ferritin 極高（> 500 μg/L；> 10,000 μg/L 高度警示）
+- 高三酸甘油酯（≥ 3 mmol/L）或低 fibrinogen（≤ 1.5 g/L）
+- sCD25（可溶性 IL-2 受體）升高（≥ 2,400 U/mL）
+- NK cell 活性降低或缺失
+- Hemophagocytosis（骨髓、脾臟、淋巴結中的噬血現象）
+- 低或無 NK cell 活性
+
+當一個「IM」出現以下情況時，應積極懷疑 HLH：持續發燒超過 2 週且無緩解、血球計數持續下降、ferritin 急速攀升、出現黃疸或神經症狀、男性兒童有家族 EBV 嚴重感染史（後者提示 XLP1）。
+
+## 主軸五：為什麼永遠清不乾淨——隱形於 Memory B Cell 中的終生伴隨
+
+即使是免疫功能完全健全的個體，急性期之後的 CTL 大軍也無法將 EBV 從宿主體內完全清除。 這是因為：EBV 最終棲身於靜止的 memory B cells，在此狀態下幾乎不表現任何病毒蛋白（僅表現 EBNA-1，而 EBNA-1 的 Gly-Ala repeat 結構干擾 proteasome 降解，使其難以呈現於 MHC class I，有效規避 CTL 辨識）。 靜止的 memory B cell 對 CTL 而言是「隱形的」——沒有抗原表現，就沒有 T 細胞攻擊的目標。
+
+病毒以約 1 個感染 B 細胞 / 10,000–100,000 個 memory B cells 的極低比例持久存在於人體中。 這樣的低度潛伏對宿主幾乎無害，卻永遠無法被根除。全球約 90–95% 的成人為 EBV 血清陽性，且大多數終生攜帶病毒。
+
+偶爾，潛伏的病毒重新活化進入 lytic replication，在口咽上皮細胞複製並從唾液排出（間歇性口咽排毒），這也是 EBV 在人群中持續傳播的主要機制——「接吻病」之名由此而來。對個別宿主而言，這種間歇排毒通常無症狀，且受 CTL memory 的持續監控；但對免疫缺損者，這種重新活化可能觸發嚴重疾病。
+
+## 主軸六：Polyclonal B-cell Activation 的副產物——自體抗體，以及一個常被搞錯的細節
+
+EBV 感染誘發大規模的 polyclonal B-cell activation，使各種 B 細胞株不加選擇地增殖，製造出各式各樣的抗體——其中許多並非針對 EBV 本身。這些「旁觀者抗體」包括：
+
+- Heterophile antibodies（Paul-Bunnell antibodies）： 凝集羊、馬紅血球，是 Monospot 快篩（Paul-Bunnell 試驗）的基礎，為 IM 的重要診斷工具。
+- Rheumatoid factor（IgM anti-IgG）
+- Antinuclear antibodies（ANA）
+- 冷反應性自體抗體（cold-reactive autoantibodies）：可能造成 cold agglutinin hemolytic anemia
+
+一個教科書與考題中極常見的錯誤，此處必須明確澄清：
+
+> IM 相關的冷凝集素，其專一性是 anti-i（小寫 i），而非 anti-I（大寫 I）。
+
+i 抗原與 I 抗原的抗原生物學基礎：
+
+- i 抗原： 紅血球膜上以線性（unbranched）polylactosamine 鏈為基礎的血型抗原，在胎兒及新生兒紅血球上大量表現。
+- I 抗原： 由酵素 IGnT/GCNT2（β-1,6-N-acetylglucosaminyltransferase） 將線性 polylactosamine 轉化為分支（branched）polylactosamine 結構，出生後逐漸取代 i 抗原。成人紅血球幾乎全為 I 抗原表現型；臍帶血（cord blood）紅血球仍以 i 抗原為主。
+- 臨床意義： IM 相關的 cold agglutinin 優先與 cord blood 紅血球（高 i 抗原）而非成人紅血球（高 I 抗原）反應，這正是 anti-i 的特徵。
+
+疾病
+
+冷凝集素專一性
+
+相關抗原特徵
+
+Infectious mononucleosis
+
+Anti-i
+
+線性 polylactosamine（臍帶血強陽性）
+
+Mycoplasma pneumoniae
+
+Anti-I
+
+分支 polylactosamine（成人紅血球強陽性）
+
+其他病毒感染
+
+多種
+
+視具體感染而異
+
+記憶口訣：i（小）= Infant/cord blood；I（大）= adult（成人）；IM 選 anti-i，Mycoplasma 選 anti-I。
+
+Donath-Landsteiner antibody（anti-P，biphasic hemolysin）： 這是造成 paroxysmal cold hemoglobinuria（PCH） 的特殊冷反應性抗體，其機制為「雙相式」——抗體在低溫下結合紅血球，待溫度回升至體溫後才活化補體、溶解紅血球。Anti-P 抗體與病毒感染（尤其是病毒後兒童，包括 EBV、CMV、麻疹等感染後）有明確關聯，是兒童急性血管內溶血的重要原因，需與 cold agglutinin disease 鑑別。
+
+## 主軸七：診斷時序與三個臨床陷阱
+
+Heterophile antibody（Monospot 快篩）的限制：
+
+- 發病第一週假陰性率高，原因是 heterophile antibodies 在 IM 初期尚未充分產生——發病第 1 週約 25% 假陰性，第 2 週約 5–10%；臨床高度懷疑而初次陰性者，應於 1 週後重複檢驗。
+- 4 歲以下兒童常為陰性（約 50% 以上），因此幼兒 IM 的診斷應依賴 EBV 特異性血清學。
+
+EBV 特異性血清學判讀邏輯（由出現時間排序）：
+
+- VCA IgM（viral capsid antigen IgM）： 急性感染最早出現，發病後數天即可測得；感染後 4–8 週消退，是急性 IM 的最佳血清學標記。
+- VCA IgG： 與 VCA IgM 幾乎同時或稍後出現，且終生持續，無助於區分急性與既往感染。
+- EA（early antigen）IgG： 急性期短暫升高，部分個體可持續數月。
+- EBNA-1 IgG（EBV nuclear antigen 1）： 感染後 6–12 週才出現，為最後出現的抗體。
+
+最實用的臨床判讀規則：「VCA IgG 陽性 + EBNA-1 IgG 陰性」= 近期（6–12 週內）初次 EBV 感染。 這在 Monospot 陰性但臨床高度懷疑 IM 的患者（特別是幼兒）中極為重要。
+
+三個不可忽略的臨床陷阱：
+
+陷阱一：Amoxicillin/ampicillin 皮疹 IM 患者若被誤診為細菌性咽炎而接受 amoxicillin 或 ampicillin 治療，約 80–100% 會在用藥後 3–7 天出現廣泛、融合性斑丘疹。這並非 penicillin 過敏，而是 EBV 感染的 polyclonal B-cell activation 所產生的免疫複合物，在 aminopenicillin 的存在下誘發的特殊皮膚反應。重要的是：此反應本身不構成日後使用 penicillin 的禁忌，但需向患者清楚說明，避免誤標為「青黴素過敏」。
+
+陷阱二：脾破裂風險 脾臟腫大（splenomegaly）在 IM 中極為常見（約 50–60%），可見於疾病的第 2–3 週達高峰。脾破裂是 IM 最危急的並發症，雖然發生率不高（約 0.1–0.5%），但可為自發性（不需外力），亦可因輕微腹部外傷觸發。臨床建議： - 急性 IM 期間絕對禁止參與接觸性運動及劇烈運動； - 多數指南建議禁運動期為發病後至少 3–4 週，並在恢復運動前以超音波確認脾臟大小已恢復正常； - 脾破裂的臨床表現為急性左上腹或左肩痛（Kehr's sign）、低血壓、休克——需立即外科評估。
+
+陷阱三：何時懷疑「不是單純 IM」 應積極進一步評估（包括懷疑 HLH、PID 或 EBV 相關淋巴瘤）的危險訊號： - 症狀持續超過 4–6 週而無改善 - 血球計數持續下降（特別是三系血球減少） - Ferritin 急速升高（> 500 μg/L 應警覺；> 10,000 μg/L 高度懷疑 HLH） - 淋巴結持續增大，尤其是局部性、不對稱、或伴有 B symptoms（發燒、盜汗、體重減輕） - 男性兒童或青少年出現嚴重 IM（需排除 XLP1/XLP2）
+
+## 主軸八：114 年血液專科考題逐項評析
+
+本題問「關於 EBV 或其後續感染反應的敘述，何者『最不正確』」，官方答案為 (D)。以下依實際選項逐項分析。
+
+選項 (A)：急性 IM 患者血中，對 EBV lytic protein 具反應性的 CTL 數量顯著增加；血中可見大型非典型淋巴球 → 正確，且正是本篇主軸一的內容。 急性 IM 期間高達 50% 的循環 CD8⁺ T 細胞為 EBV-specific CTL，其中相當高比例針對 lytic-cycle 的 immediate-early／early 蛋白（BZLF1、BRLF1、BMLF1、BMRF1）。血抹片上的 Downey cells 正是這群活化增殖的 CTL。
+
+選項 (B)：EBV-specific antibodies 在免疫功能正常者是診斷急性或既往感染的有效方法，其中 IgM anti-VCA 是急性感染最早出現的抗體 → 正確。 VCA IgM 於發病後數天即可測得，早於 EA IgG，更遠早於 EBNA-1 IgG（6–12 週）。須注意這句話的前提「免疫功能正常者」是必要的限定——免疫抑制患者的血清學反應可能延遲、減弱甚至完全缺如，此時應改以 EBV DNA PCR 病毒量判讀。
+
+選項 (C)：即使有健全的 EBV-specific T 細胞反應，受感染的 B 細胞也永遠無法完全根除，少部分記憶 B 細胞終生帶有病毒 → 正確，這是主軸五的內容。 病毒棲身於靜止的 memory B cells，此狀態下幾乎不表現病毒抗原（僅 EBNA-1，其 Gly-Ala repeat 又干擾 proteasome 降解與 MHC class I 呈現），對 CTL 而言是「隱形」的。約每 1 萬至 10 萬個 memory B cells 中有 1 個帶毒，終生共存。
+
+選項 (D)：B 細胞在 EBV 感染期被認為對病毒控制扮演重要角色，隨後則由 T 細胞和體液免疫反應主導 → 錯誤，且是本題最明確、最根本的錯誤——本題答案。 這句話犯了雙重顛倒：
+
+- 角色顛倒：B 細胞是 EBV 的標靶與宿主（經 gp350–CD21/CR2 進入），是被病毒驅動增殖、需要被免疫系統清除的對象，而不是抗病毒的守衛。
+- 時序顛倒：真正的控制順序是 NK 細胞（早期）→ EBV-specific CD8⁺ CTL（主角）→ 抗體（輔助）。體液免疫在急性期的病毒控制角色相對次要——抗體能中和游離病毒，卻對已進入細胞內的病毒與潛伏的 B 細胞無能為力。
+
+換句話說，這句話把「被打的人」寫成了「打人的人」，又把「後到的援軍」寫成了「先鋒」。
+
+選項 (E)：受感染的 B 細胞也會產生多種自體抗體，例如 cold-reactive anti-I antibodies、Donath-Landsteiner antibodies、rheumatoid factors → 大方向正確（polyclonal B-cell activation 確實產生多種非專一性自體抗體），但其中一個專一性寫得不夠精確。
+
+嚴格而言，infectious mononucleosis 相關的冷凝集素是 anti-i（小寫）而非 anti-I（大寫）；anti-I 是 Mycoplasma pneumoniae 的冷凝集素專一性。兩者的差別在 polylactosamine 的分支化程度——i 為線性（胎兒／臍帶血紅血球高表現），I 為分支（由 IGnT/GCNT2 於出生後轉換，成人紅血球高表現）。因此 IM 的冷凝集素對臍帶血紅血球反應強、對成人紅血球反應弱，這正是 anti-i 的判定依據。
+
+不過，這個瑕疵屬於「專一性標示不精確」，而 (D) 是病理生理學觀念的根本性顛倒。題目問的是「最不正確」，因此 (D) 仍是本題無可爭議的最佳答案。
+
+## 收束：一句話帶走
+
+IM 的臨床嚴重度，量的不是病毒有多兇，而是你的免疫系統反擊得有多猛。
+
+這解釋了為什麼幼兒感染多半無聲無息、青少年卻病得七葷八素；解釋了為什麼 acyclovir 壓得住病毒複製卻改變不了病程；也解釋了為什麼一旦這套 T/NK 控制系統有先天缺陷（XLP1 的 SAP 缺損最為典型），同一個病毒就會從「休息兩週的自限性疾病」變成 fulminant IM、HLH，甚至致命的淋巴增生。
+
+同一個病毒，不同的免疫系統，寫出完全不同的結局。

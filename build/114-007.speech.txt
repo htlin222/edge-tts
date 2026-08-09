@@ -1,0 +1,61 @@
+第一一四年，第七集。
+
+給藥方式是分子性質的後果：單藥或加成取決於能不能單獨擋住 MAC。
+
+第六章：給藥方式是分子性質的後果，而「單藥或加成」取決於它能不能單獨擋住 MAC。
+
+一、開場：三個近端抑制劑，三種完全不同的分子類型。
+
+給藥方式從來不是隨意設計的，而是分子本質的直接後果。看懂三個藥的化學身份，就能不靠死背推出正確的給藥方式。
+
+Pegcetacoplan：本質上不是抗體，而是一個 PEG 化的環狀胜肽（pegylated cyclic peptide）——兩個各 15 個胺基酸的環狀胜肽（compstatin 衍生物）以一條 40 kDa 的 PEG 分子連接，靶向 C3。胜肽類藥物有一個天生的弱點：未經修飾的胜肽會被蛋白酶迅速降解、並經腎小球快速濾除，半衰期極短。PEG 化延長了半衰期，但即使如此，仍不足以支撐長間隔給藥——其核准劑型是每週兩次、皮下輸注（約 20 mL，需用輸注幫浦、單次約 30 分鐘）。因此 (A) 說「靜脈注射」是錯的：pegcetacoplan 從未被設計成靜脈途徑，皮下輸注體積本身就決定了它不適合靜脈給藥的藥動學設計。
+
+Iptacopan：小分子（small molecule）、口服，靶向 factor B。小分子的優勢正在於良好的腸道吸收與可預測的口服生體可用率，這是它能夠做成口服劑型的分子基礎。核准劑量為 200 mg 口服每日兩次——一天兩次的需求來自其半衰期長度不足以用單次每日劑量維持足夠的谷濃度以持續抑制 alternative pathway。因此 (C)（皮下、每週一次）與 (D)（口服每日兩次的劑量頻率雖對，但搭配的 ravulizumab 給藥途徑錯誤）都存在給藥方式上的錯誤。
+
+Danicopan：同樣是小分子、口服，靶向 factor D。核准劑量為 150 mg 口服每日三次——比 iptacopan 更頻繁的給藥反映其半衰期更短，需要更密集的服藥才能維持有效的谷濃度以持續抑制 factor D 介導的 C3 C5 convertase 生成。
+
+補充 ravulizumab 的正確給藥：標準劑型是靜脈輸注、每 8 週一次（雖另有皮下劑型，但為每週一次的皮下劑型，並非「每 8 週皮下」）。這正是 (D) 錯誤的第二個地方：把 ravulizumab 寫成「皮下每 8 週」混淆了兩種截然不同的給藥途徑與頻率組合，在真實臨床中並不存在。
+
+二、本篇最重要的概念：為什麼有的可以單藥、有的只能加成。
+
+這是理解近端補體抑制劑分類的核心判準：一個近端抑制劑能不能單藥使用，取決於它能不能單獨且可靠地阻止 MAC 造成的血管內溶血（IVH），而不只是處理血管外溶血（EVH）。
+
+Pegcetacoplan（anti-C3）與 iptacopan（factor B 抑制劑），接著可以單藥：
+
+兩者阻斷的位置都在C3 或 C3 convertase 的形成這一步。NEJM 發表的 iptacopan 單藥試驗說明了這個機轉的邏輯：沒有 C3b 生成，就沒有下游的 C5 convertase 形成——因此這兩個藥物同時擋住了「C3b 沉積導致的 EVH」與「MAC 形成導致的 IVH」，一石二鳥。這正是為什麼它們能夠取代（而非僅僅補充）C5 抑制劑，成為單藥治療選項。 該試驗指出 iptacopan 在未曾接受過補體抑制劑治療的病人身上，能同時控制 IVH，且不會誘發 EVH——證明它在阻斷路徑上「一步到位」。同樣地，pegcetacoplan 在初治病人的 PADDOCK 試驗中也展現單藥控制血紅素的能力。
+
+Danicopan（factor D 抑制劑），接著只能作為「add-on」：
+
+必須誠實說明背後的原因。Factor D 抑制在臨床開發過程中被發現，單獨使用時對 IVH 的控制不夠可靠——alternative pathway 存在放大迴路，即使 factor D 被部分抑制，殘餘的 C3 convertase 生成仍可能足以驅動有臨床意義的 IVH。這正是為什麼 ALPHA 試驗的設計，是把 danicopan「加在既有的 ravulizumab 或 eculizumab 之上」，而非作為單藥與 C5 抑制劑頭對頭比較。 FDA 核准的適應症也明確寫著："Add-on therapy to ravulizumab or eculizumab for treatment of extravascular hemolysis in adults with PNH"——這正是 (E) 為什麼是唯一正確選項：danicopan 從機轉設計到臨床試驗到核准適應症，都是以「加成」而非「單飛」為前提。
+
+這個判準可以收束成一句話：「能同時關掉兩條溶血路徑的，才能單飛；只能補上其中一條的，只能當僚機。」
+
+三、近端阻斷的代價：一個必須誠實說明的安全性轉變。
+
+感染風險的擴大：C5 抑制劑主要阻斷 MAC 的形成，其感染風險集中在對 MAC 高度依賴的 Neisseria。但近端抑制（C3/factor B/factor D）進一步阻斷了 C3b 的生成——而 C3b 是人體最重要的 opsonin 之一，這意味著對所有依賴補體介導吞噬清除的「莢膜菌」（尤其肺炎鏈球菌、b 型嗜血桿菌）防禦力也隨之下降。因此近端抑制劑病人除了第三章所述的腦膜炎雙球菌疫苗，還必須額外接種肺炎鏈球菌與 Hib 疫苗。
+
+「未受保護的紅血球質量」問題——一個關鍵的實務警訊：
+
+在近端抑制下，PNH 紅血球不再被 C3b opsonize、也不再被 MAC 溶解，它們在循環中大量存活與累積，PNH clone 佔紅血球比例可顯著上升（如 danicopan 單藥研究中 PNH 紅血球比例從基礎值 54% 升至 84%）。這個現象本身是治療成功的標記，但也埋下風險：一旦漏藥、停藥，或發生強烈的補體活化事件（breakthrough），這一大群完全沒有 CD55 CD59 保護的紅血球會同時暴露於補體攻擊，可能引發災難性的大量溶血。
+
+NEJM 的一篇機轉分析清楚解釋了為何近端阻斷的 breakthrough 風險本質上比 C5 阻斷更嚴重：
+As a result, with C5 inhibition, if the inhibition is incomplete, only one MAC will be formed for each molecule of C5 that escapes inhibition... In contrast, with C3 inhibition, each molecule of C5 convertase that is formed as a result of incomplete inhibition will catalyze the cleavage of several molecules of C5, resulting in the assembly of not just one but many copies of MAC; as a consequence, breakthrough hemolysis can be massive.
+
+這是酶促放大效應的直接後果：C3 convertase 是酵素，一分子可催化多次 C5 裂解；而 MAC 組裝本身是非酶促、一對一的過程。因此近端阻斷下的 breakthrough，其嚴重度可能遠超 C5 阻斷下的 breakthrough。真實世界的多中心資料也顯示，不同複合體抑制劑之間 breakthrough hemolysis 的發生率與嚴重度確有差異——下圖呈現各類補體抑制劑（eculizumab、ravulizumab/其他 C5 抑制劑、pegcetacoplan、alternative pathway 抑制劑）在治療期間累積 breakthrough hemolysis 事件發生率的 Kaplan-Meier 曲線：
+
+![](/img/img/9340138c-20ea-47ac-bad5-85681b93b3ec.jpg)
+Figure 1: Incidence of breakthrough hemolysis (BTH) according to the complement inhibitor utilized, by Kaplan –Meier method. [Color figure can be viewed at wileyonlinelibrary.com ]
+
+正因如此，近端抑制劑的依從性要求比 C5 抑制劑更嚴格，且若需停藥（如轉換治療策略），通常建議有計畫地重疊 C5 抑制劑一段時間，避免大量無保護紅血球突然暴露於補體活化狀態。此外，即使在近端抑制下，感染等強烈補體活化事件仍可能誘發 breakthrough——監測與衛教同樣不可省略。
+
+四、逐項評析五個選項。
+
+(A) Pegcetacoplan 單藥、靜脈注射、每週兩次：錯誤。Pegcetacoplan 是皮下輸注，從未有靜脈劑型；胜肽的藥動學特性決定了皮下輸注幫浦給藥的設計
+(B) Pegcetacoplan 皮下每週兩次併用 ravulizumab 靜脈每 8 週：給藥途徑描述本身正確，但pegcetacoplan 是「能單獨阻斷 IVH 與 EVH」的分子，設計上以單藥取代 C5 抑制劑為主要定位，而非常規與 C5 抑制劑併用（雖然歷史早期 PHAROAH 試驗曾作為 add-on 探索）；此組合非目前的標準用法
+(C) Iptacopan 單藥、皮下、每週一次：錯誤。Iptacopan 是口服小分子，每日兩次，給藥途徑與頻率皆錯
+(D) Iptacopan 口服每日兩次併用 ravulizumab 皮下每 8 週：錯誤。Iptacopan 途徑與頻率正確，但ravulizumab 沒有「每 8 週皮下」這個劑型（標準是靜脈每 8 週）；此外 iptacopan 本身可單藥，此處併用 C5 抑制劑並非必要組合
+(E) Danicopan 每日三次併用 ravulizumab 靜脈每 8 週：正確。Danicopan 口服每日三次的給藥頻率符合其短半衰期；作為 add-on 加在標準劑型的 ravulizumab（靜脈每 8 週）之上，完全符合 ALPHA 試驗的設計與 FDA 核准適應症
+
+臨床 take-home：在補體抑制的世界裡，「打在哪一層」決定了療效的廣度，而「分子是什麼」決定了病人每天的生活形態。
+
+這七題的連鎖敘事，從一張看似普通的血栓合併貧血檢驗報告，走到了補體抑制劑的分子藥理與給藥邏輯，完整覆蓋了 PNH 從診斷、鑑別、抗凝決策、到治療優化與藥物選擇的臨床推理鏈。最後一題，通常會回到這位病人的長期追蹤與整體疾病管理策略上——這也是這組連鎖題的收尾之處。

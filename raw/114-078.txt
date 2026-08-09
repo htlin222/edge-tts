@@ -1,0 +1,44 @@
+第一一四年 第七十八集
+有脈絡的綜論:三個工具三個世界，兒童不是縮小的成人
+
+CML 這個病名底下，其實藏著三層完全不同的臨床問題:診斷工具看到的世界不一樣、兒童病人不是縮小版的成人病人、而驅動基因也不是只有 BCR::ABL1 一個。把這三條線分開理解，才能解釋為什麼同一個「CML」的病人之間，預後與處置可以差異巨大。
+
+主軸一:karyotype、FISH、RT-PCR——三個互補而非互相取代的視野
+
+Conventional karyotype 是唯一能看見 additional chromosomal abnormalities（ACAs）的工具。臨床上最重要的是 major route ACAs——+8、額外的 Ph（double Ph）、i(17q)、+19,以及 3q26.2 重排與 -7。這些異常被視為疾病加速/進展的警示訊號，部分（如 i(17)(q10)、3q26.2 重排、-7/del(7q)）已被歸類為高風險核型，在 ELN 建議中列為診斷時的「warning」訊號，需要密切追蹤。其中 3q26.2 重排（涉及 MECOM/EVI1）尤其值得注意:研究顯示帶有此重排的病人對 TKI 反應差，幾乎沒有病人能達到長期穩定的細胞遺傳學或分子反應，整體存活也明顯較差，其預後意義甚至凌駕於是否合併其他染色體異常之上。在急變期的細胞遺傳學圖譜研究中，+8、額外 Ph、3q26.2 重排、-7 與 i(17q) 也被確認為 major-route 變化，且 3q26.2 重排的出現與 ABL1 突變（TKI 抗藥性）密切相關。
+
+karyotype 還能偵測到Ph 陰性細胞中的克隆性細胞遺傳學異常（CCA/Ph−）,尤其是 -7/del(7q)——這與 TKI 治療期間發生 MDS/AML 的風險相關。這是FISH 與 RT-PCR 完全看不到的資訊，因為兩者只鎖定 BCR::ABL1 訊號或轉錄本本身，不會呈現整體染色體全貌。
+
+FISH 的角色則在於偵測cryptic 或 variant translocation（傳統核型看不出典型 t(9;22) 的複雜或隱藏性易位），以及 ABL1 3′端的缺失。但 FISH 存在約 1–5% 的偽陽性率，因此不應單獨作為診斷依據，而應與其他方法互相佐證。
+
+RT-PCR 則是唯一能確定 transcript type 的方法。臨床上最常見的是 e13a2/e14a2（p210,典型 CML),其次是 e1a2（p190,較常見於 Ph+ ALL,在 CML 中少見且可能預後較差）、e19a2（p230,常伴顯著嗜中性球增多),以及約 1–2% 的非典型轉錄本（atypical transcripts,如 e18a2、e14a3）,這些通常無法被常規 qPCR 偵測到。這裡有一個極實用的臨床要點:若診斷時未確定 transcript type,後續就無法用標準化的 International Scale（IS）做定量監測,因為 IS 標準化僅針對 e13a2/e14a2 兩種常見轉錄本建立，帶有非典型轉錄本的病人必須改用其他監測策略（如 digital PCR 或客製化定量方法）。
+
+至於 e13a2 與 e14a2 之間的差異，多項研究一致顯示 e14a2 有較快、較深的分子反應:一項納入 481 位病人的研究顯示,e14a2 病人在 3、6、12 個月的 CCyR 與 MMR 達成率均優於 e13a2,且多變量分析中 e14a2 可獨立預測較佳的事件無病存活與轉化無病存活。系統性回顧與台灣的多中心研究也得到一致結論——e14a2 病人分子反應更早、更深，儘管總體存活的差異在多數研究中未達顯著。
+
+主軸二:兒童 CML 不是「小一號的成人 CML」
+
+兒童 CML 極為罕見，僅占兒童白血病的 2–3%,但其疾病生物學與臨床表現與成人有顯著差異。兒童診斷時的疾病負荷往往更重——白血球數更高、脾臟更大、以加速期或急變期表現的比例高於成人。
+
+對一線 imatinib 的分子反應明顯較慢。台灣多中心研究直接比較同一實驗室監測的兒童與成人 CML-CP 病人，結果顯示第 5 年 IS<1%、MMR、MR4、MR4.5 的累積發生率，兒童均顯著低於成人（例如 MMR 48% vs 66%）。然而長期存活與成人相當——兩組的 10 年 PFS（90% vs 92%）與 OS（94% vs 92%）並無統計差異。這正是本題選項 (4) 的實證依據:分子反應慢，但長期存活不受影響。
+
+兒童特有的長期毒性是成人幾乎不需考慮的問題: - 生長遲滯:TKI 會影響生長板軟骨細胞及 GH/IGF-1 軸，青春期前即開始治療者風險最高，可能造成最終身高受損，這是兒童 CML 治療中被反覆強調的挑戰之一。臨床上需要定期監測身高、生長曲線與骨齡。 - 骨骼與礦物質代謝異常:文獻報告兒童 TKI 治療與骨密度下降相關，長期治療需追蹤骨骼健康。 - 甲狀腺功能與生育力:屬於兒童族群需長期追蹤但成人族群較少優先考慮的項目，反映兒童病人終身治療曝露時間遠長於成人。
+
+也正因為一個 10 歲確診的孩子，若終生服藥意味著長達七十年以上的藥物暴露，兒童族群追求 TFR（treatment-free remission）的動機遠強於成人（TFR 的停藥標準已另有筆記，此處不展開）。
+
+移植的角色在兒童與成人 CML 中也有差異:過去 allogeneic HSCT 是 2000 年前的標準治療，但隨 TKI 時代來臨，現行做法已將 HSCT 限縮為僅適用於呈現或進展為急變期的病人族群，慢性期病人以 TKI 單一治療為主流，這與成人的處置原則基本一致，但兒童因終身用藥的考量，對於何時應轉向移植的權衡會更謹慎。
+
+主軸三:BCR::ABL1 不是故事的全部——共突變如何影響 TKI 反應
+
+CML 長期被視為單一驅動基因疾病的典範，但次世代定序（NGS）技術顯示，不少病人在診斷時就已合併其他基因突變(co-mutations)。其中 ASXL1 是 CML 中最常見的共突變,並與較差的 TKI 反應、較低的 MMR/DMR 達成率，以及較高的疾病進展風險相關——這與選項 (3) 所述「ASXL1 突變與良好的 TKI 反應相關」方向完全相反。其他與不良預後相關的共突變包括 RUNX1、IKZF1、TP53、KMT2A 部分串聯重複（PTD）等，這些突變在急變期病人中顯著富集，反映其在疾病進展與克隆演化中的角色。
+
+臨床上的意義在於:當一個病人 TKI 反應不佳，但 BCR::ABL1 kinase domain 定序未發現突變時，答案可能不在 BCR::ABL1 本身，而在其背後合併的其他驅動基因異常。目前對於是否應在診斷時常規進行 myeloid NGS panel,尚未形成如成人 AML/MDS 那樣普及的常規建議，多數指引仍以疾病進展、TKI 反應不佳或懷疑急變轉化時，作為觸發進一步分子檢測的時機，而非所有新診斷病人的常規項目。
+
+主軸四:逐項評析本題（114 年血液專科考題，官方答案 (D) = 1+4）
+
+- (1) 正確——karyotype、FISH、RT-PCR 三者各有不可取代的角色:karyotype 是唯一能偵測 ACAs 與 CCA/Ph− 的方法;FISH 可補足 cryptic/variant translocation 與 ABL1 3′缺失的偵測，惟有偽陽性率限制;RT-PCR 是唯一能確定 transcript type 並支撐後續 IS 定量監測的方法。三者互補而非互相取代，因此所有病例都應同時使用細胞遺傳學加上 FISH 和/或 RT-PCR 來確認診斷。
+- (2) 錯在適用族群——asciminib 於 2024 年獲 FDA 核准的一線適應症，是針對新診斷的成人慢性期 Ph+ CML（依據 ASC4FIRST 試驗，其 STAMP 機轉細節已於另有筆記說明，此處不再展開）,並非兒童。目前 asciminib 在兒童族群仍缺乏足夠的療效與安全性資料支持其作為一線治療，兒童 CML 現行核准的 TKI 選項仍以 imatinib、dasatinib、nilotinib、bosutinib（≥1 歲）為主。
+- (3) 錯在方向完全相反——ASXL1 突變與不良的 TKI 治療反應、較低的分子反應深度及較高的疾病進展風險相關，而非「良好」反應。
+- (4) 正確——兒童 CML 接受一線 imatinib 治療，分子反應（MMR、MR4、MR4.5 等)明顯較成人慢，但長期（10 年)無病存活與整體存活與成人相當。
+
+![](/img/img/24a9c66a-c8b5-4ab3-8421-57cec3f75b47.jpg)
+Figure 2: A, Treatments and outcomes of 24 patients with ACAs. B, Treatments and outcomes of 13 patients with KD mutations. The horizontal line indicates the treatment time. The left and right vertical lines represent the case number and outcome, respectively. The black and blue inverted triangles indicate the time when ACAs and KD mutations emerge, respectively. Hu+IFN denotes hydroxyurea and interferon alpha; IM, imatinib; D, dasatinib; N, nilotinib; TA, doxorubicin and cytarabine; CPT+E, hydroxycamptothecin and etoposide; NR, not remission; CP, chronic phase; AP, accelerated phase; BP, blast phase; CMR, complete molecular response; MMR, main molecular response; PCyR, partial cytogenetic remission; CCyR, complete cytogenetic remission; ALL, acute lymphocytic leukaemia; AML‐M2, acute myelogenous leukaemia with maturation; AML‐M4, acute myelomonocytic leukaemia; AML‐M5, acute monocytic leukaemia; AML‐M6, erythroleukaemia; MAL, mixed lineage acute leukaemia; and CNSL, central nervous system leukaemia (using GraphPad Prism 5 graphics program)

@@ -1,0 +1,65 @@
+第一一四年 第九集
+有脈絡的綜論:同一個影像檢查:在一種類澱粉是確診工具,在另一種卻是誤診陷阱
+
+# Light Chain (AL) Amyloidosis：一次骨骼掃描，兩種截然不同的命運
+
+這道題目的核心（E）在於：同一台伽馬相機、同一支示蹤劑，在 ATTR 心臟類澱粉是「免切片確診」的利器，在 AL 卻可能是致命的誤診陷阱。 理解這個矛盾，必須先理解示蹤劑的結合機轉。
+
+一、為什麼骨骼掃描「看得見 ATTR，看不見 AL」
+
+99mTc-labelled bisphosphonate（PYP、DPD、HMDP）的核心藥理特性是與鈣結合。ATTR 的類澱粉纖維會伴隨顯著的心肌微鈣化（microcalcification），使示蹤劑大量沉積、心肌顯影強烈；相對地，AL 纖維的鈣結合能力低得多，多數僅呈現 grade 0–1 的微弱攝取。
+
+這個差異造就了心臟類澱粉診斷史上少見的典範轉移。Gillmore 等人於 Circulation（2016）的多中心研究分析 1217 名疑似心臟類澱粉病人後確立：骨骼掃描 grade 2–3 攝取，「加上」血清與尿液單株蛋白篩檢均為陰性（排除 monoclonal gammopathy）→ 對 ATTR 心臟類澱粉的特異度與陽性預測值可達 100%，可以不需組織切片直接診斷。這是內科少數能用非侵入性影像取代切片的診斷典範。
+
+但這個成就有一個致命的前提，也是本題（E）錯誤的關鍵所在。 該研究同時發現，骨骼掃描的偽陽性幾乎全部來自 AL 心臟類澱粉；後續更大型的世代甚至顯示，經心內膜切片證實的 AL-CM 病人中，多達 22% 在 99mTc-DPD 或 PYP 掃描上呈現 grade 2–3 的高強度攝取。美國心臟學會（AHA）2020 年科學聲明也明白指出：
+
+> Although bone scintigraphy has emerged as a cornerstone of ATTR-CM diagnosis, scans may be positive even in AL amyloidosis, and a bone scintigraphy scan alone, without concomitant testing for light chains, is neither appropriate nor valid for distinguishing ATTR-CM from AL amyloid cardiomyopathy (AL-CM).
+
+美國血液學會（ASH）2026 年 AL 類澱粉診斷指引進一步明確表示，骨骼掃描對 AL 類澱粉本身敏感度與特異度都低，不能用來診斷或排除心臟 AL，一旦誤判會導致假陰性延誤診斷、或假陽性給予不適當治療。臨床實務中，未先完整篩檢單株蛋白就依賴骨骼掃描的比例可達 24%——這正是誤診的主要來源。
+
+因此本篇的核心命題是：骨骼掃描不是用來「確認 ATTR」的工具，而是「在已排除單株蛋白之後，確認 ATTR」的工具——那個前置條件才是整個流程的靈魂。 誤把 AL 當成 ATTR，等於讓一位需要「緊急」漿細胞導向化療的病人，改服對其疾病完全無效的 TTR 穩定劑（如 tafamidis），坐視病情惡化；未經治療的 AL 心臟類澱粉，中位存活可能僅數個月。
+
+二、(A) 的核心：類澱粉的共通結構與致病機轉
+
+類澱粉的定義是「結構」而非「成分」：任何可溶性前驅蛋白，只要錯誤摺疊聚集成具 cross-β-sheet 結構的纖維，並沉積於細胞外，就是類澱粉——目前已知超過 40 種前驅蛋白可造成此病理過程。共通的組織學染色是 Congo red 在偏光顯微鏡下呈現 apple-green birefringence。
+
+現代病理生理觀點認為，造成器官毒性的可能主要是可溶性的 oligomer 與 prefibrillar species，而非成熟纖維本身——這也解釋了為何清除致病輕鏈後，即使沉積的纖維尚未完全消退，器官功能（尤其心臟）仍可明顯改善。輕鏈的致病性也有差異：λ 型約佔 AL 病例的四分之三，某些 germline 基因（如 IGLV6-57、IGLV1-44）與特定器官侵犯型態相關。
+
+三、(B)(C) 的核心：AL 為什麼「難被抓到」
+
+(B)： 全身性類澱粉症可分後天性與遺傳性。後天性包括 AL（漿細胞 clone）、ATTRwt（老年野生型，舊稱 senile systemic amyloidosis，其實遠比過去認知常見，在 HFpEF 與主動脈瓣狹窄的老年族群中盛行率不低）、AA（慢性發炎）、Aβ2M（長期透析）；遺傳性則有 ATTRv（如非裔常見的 V122I、V30M）、AFib、AApoAI 等。
+
+(C)： AL 的漿細胞 clone 通常很小（骨髓漿細胞常 <10%），單株蛋白量少；且 AL 常僅分泌輕鏈，分子量小、經腎臟濾除，血清濃度更低——血清蛋白電泳（SPEP）敏感度僅約 60–70%。正如 NEJM 綜述所述：
+
+> Immunofixation electrophoresis should be performed on serum and urine specimens because in AL amyloidosis, unlike multiple myeloma, the concentration of the monoclonal component is often too low to be detected by protein electrophoresis.
+
+2026 年一篇系統性回顧與統合分析量化了正確篩檢組合的價值：血清 IFE 敏感度 0.68、尿液 IFE 0.77、兩者合併 0.89、血清游離輕鏈（FLC）比值 0.82；三者（serum IFE + urine IFE + serum FLC ratio）合併使用，敏感度可達 0.99。單靠 SPEP 說「沒有 M protein」是危險的漏診陷阱。另需留意，腎功能不全會使 κ、λ 均上升並改變比值判讀範圍，須採用 renal reference range 校正。
+
+四、(D) 的核心：確認有類澱粉只完成一半——分型才決定治療
+
+Congo red 陽性只回答「是不是類澱粉」，「是哪一種」才決定治療方向。傳統免疫組織化學（IHC）分型受限於抗體對錯誤摺疊蛋白辨識力有限、血清蛋白滲入造成背景污染，偽陽性、偽陰性比例可觀，甚至有報告顯示 6–80% 的個案無法明確分型。
+
+雷射顯微切割（LMD）結合液相層析串聯質譜（LC-MS/MS）目前被公認為分型金標準：直接鑑定沉積物中的胺基酸序列，具有極高敏感度與特異度，可在同一次分析中鑑別所有已知類澱粉類型，並偵測 amyloid P component 等訊號蛋白作為「確實為類澱粉」的內部佐證。下圖即為一例：免疫螢光原先誤判為 AL，質譜卻明確鑑定出 ATTR V122I variant，避免了不必要的化療誤用。
+
+![](/img/img/33845d71-0b5e-49a6-97b0-5e505f8bcb48.jpg)
+Figure 7: Mass Spectrometry in an Endomyocardial Biopsy Incorrectly Diagnosed as Light Chain Amyloidosis by Immunofluorescence
+
+分型錯誤代價巨大：把 ATTR 誤判為 AL，病人承受不必要的化療毒性；把 AL 誤判為 ATTR，則錯失唯一能挽救器官功能的治療窗口。此外，遺傳性 ATTR 仍需 germline 基因定序確認 variant，質譜無法完全取代此步驟。
+
+五、臨床整合：何時該想到 AL，想到之後怎麼走
+
+警訊徵候包括：不明原因的 nephrotic-range proteinuria（以白蛋白為主）、HFpEF 合併心電圖低電壓卻左心室肥厚的矛盾、周邊神經病變合併姿勢性低血壓等自律神經失調、macroglossia（特異但敏感度僅約 10–20%）、periorbital purpura（「浣熊眼」）、不明原因肝腫大合併 ALP 上升，以及 factor X 缺乏造成的出血。MGUS 或 smoldering myeloma 病人若出現上述任一器官症狀，必須主動篩檢 AL。
+
+確診流程：① serum IFE + urine IFE + serum FLC ratio 三項篩檢 → ② 組織切片（腹部脂肪、骨髓、小唾液腺，必要時侵犯器官）＋ Congo red → ③ LC-MS/MS 分型 → ④ 器官侵犯評估（NT-proBNP、troponin、24 小時尿蛋白、心臟 MRI）。
+
+治療上，Mayo staging 以 NT-proBNP、troponin、dFLC 分期，現行一線標準為 daratumumab + CyBorD（bortezomib/cyclophosphamide/dexamethasone）。ANDROMEDA 試驗最終存活分析顯示，D-VCd 相較 VCd 顯著提升血液學完全緩解率（59.5% vs 19.2%）、改善 major organ deterioration-progression-free survival（HR 0.44）與整體存活（HR 0.62）。時間就是器官——AL 心臟侵犯屬內科急症等級疾病。
+
+六、逐項評析
+
+- - 正確：折疊異常→oligomer→pleated β-sheet fibril→細胞外沉積，是所有類澱粉的共通機轉。
+- - 正確：AL 與 ATTRwt 均屬後天性，是最常見兩型。
+- - 正確：AL 單株成分濃度常低於 SPEP 偵測極限，需 IFE/FLC 三項組合。
+- - 正確：LC-MS/MS 已被視為分型金標準。
+- (E) 錯誤：骨骼掃描確診的是 ATTR，前提是先排除單株蛋白；它對 AL 沒有診斷價值，且高達兩成以上的 AL-CM 也會有高強度攝取，是誤診主因。
+
+臨床 take-home：在類澱粉沉積症，最危險的不是「沒想到它」，而是「想到了、卻分錯了型」——而分型的第一步，永遠是先問有沒有單株蛋白。

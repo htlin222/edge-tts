@@ -1,0 +1,232 @@
+第一一四年 第九十五集
+有脈絡的綜論:二十七個崗位的產線，只有 PIGA 是單人輪班
+
+以下這篇臨床綜論以「為什麼偏偏是 PIGA？」為核心敘事線，循序追溯 GPI 生合成產線的結構邏輯、染色體算術、罕見變體的反證，直至考題的逐項解析。補體抑制劑等下游議題，完全不在本文討論範圍之內。
+
+## 前言：一個從來沒被問過的問題
+
+paroxysmal nocturnal hemoglobinuria（PNH）的教科書敘述，往往從「PIGA 突變導致 GPI 錨缺失」這句話開始，然後筆鋒一轉，直奔補體級聯與溶血的討論。然而這句話本身藏著一個從未被認真追問的問題：GPI 錨的生合成，需要大約二十七個基因的協同完成——為什麼幾乎所有的 PNH，都只由其中一個基因的突變造成？
+
+這個問題的答案，不藏在生物學的重要性裡，而藏在染色體的算術裡。本文試圖把這道算術講清楚，並連帶說明：同一條產線上，斷在不同的工位，病就長成完全不同的樣子。
+
+## 主軸一：一條二十七個崗位的產線，只有一個崗位沒有備援
+
+### GPI 錨的生合成是一條有嚴格工序的產線
+
+glycosylphosphatidylinositol（GPI）錨是一種脂質-醣類複合結構，負責將超過一百五十種蛋白質錨定在細胞膜的外葉。這條生合成路徑幾乎全程在內質網（endoplasmic reticulum, ER）中進行，隨後在高基氏體（Golgi apparatus）完成重塑與成熟，最後抵達細胞表面。
+
+整條產線涉及約二十七個基因，依功能可粗分為兩大群：
+
+- PIG- 基因群（PIGA、PIGC、PIGH、PIGY、PIGQ、PIGP、PIGL、PIGM、PIGW、PIGN、PIGV、PIGO、PIGG、PIGT、GPAA1 等）：負責在 ER 內逐步組裝 GPI 前驅物的骨幹，包括加入 N-acetylglucosamine、去乙醯化、加入 inositol 的醯基、三個 mannose，以及最終與蛋白質的 transpeptidation。
+- PGAP- 基因群（PGAP1、PGAP2、PGAP3 等）：負責 GPI 離開 ER、進入 Golgi 後的脂質鏈重塑與成熟。
+
+PIGA 所在的位置是這條產線的第一道工序：它編碼一個酵素複合體的催化次單元（與 PIGC、PIGH、PIGY、PIGQ、PIGP 共組），催化 N-acetylglucosamine（GlcNAc）轉移到磷脂醯肌醇（phosphatidylinositol）上，形成 GlcNAc-PI——這是整個 GPI 結構的第一塊積木。沒有這一步，後面的二十幾道工序無從啟動，細胞膜上乾乾淨淨，沒有任何 GPI 中間產物。
+
+### 二十七個基因中，只有一個在 X 染色體上
+
+這二十七個基因分佈在多條染色體上，全部都在體染色體（autosomes）上——唯有 PIGA 例外，它位於 X 染色體的 Xp22.1。
+
+這個染色體定位，決定了一切。
+
+### 體染色體基因需要「兩次打擊」，PIGA 只需要「一次」
+
+對於體染色體上的基因，每個細胞都攜帶兩份拷貝（母源＋父源）。在一個體細胞突變的情境下，要讓一個體染色體基因完全失去功能，需要：
+
+- 第一次打擊：一個等位基因突變
+- 第二次打擊：另一個等位基因也突變或缺失
+
+這就是腫瘤抑制基因理論所謂的 two-hit 假說。在 GPI 生合成的情境下，對 PIGV、PIGO、PIGT 等體染色體基因而言，一個造血幹細胞要單憑體細胞突變讓整條產線完全停擺，機率極低——因為必須在同一個細胞內連續發生兩次獨立的打擊。
+
+PIGA 的情況根本不同。在功能上，每一個人——無論男女——對 PIGA 而言都是單套（hemizygous）：
+
+- 男性：只有一條 X 染色體，天生只有一份 PIGA
+- 女性：雖有兩條 X 染色體，但因為 lyonization（X 染色體隨機失活，又稱 X-inactivation），每個體細胞中有一條 X 染色體被永久沉默。對任何一個給定的造血幹細胞來說，其活躍 X 染色體上的 PIGA 就是它唯一能用的那一份。
+
+因此，一次體細胞突變，就足以讓該幹細胞及其所有後代完全停止 GPI 合成。
+
+### 結論：這是一道純粹的機率題
+
+PNH 幾乎清一色由 PIGA 突變造成，並不是因為 PIGA 這個基因特別脆弱（它的突變率並不高於其他基因），也不是因為它特別重要（它只是第一個工位，不是最關鍵的工位）。
+
+原因只有一個：PIGA 是這條二十七道工序的產線上，唯一一個沒有備援拷貝的崗位。 其他二十六個崗位都有兩份拷貝作為保險，一次打擊不會停產；只有 PIGA 的崗位，人人都是單人輪班，一次打擊就讓整條線停擺。
+
+這是染色體算術，不是生物學命運。
+
+## 主軸二：「X 染色體上的突變」不等於「性聯遺傳」
+
+### 一個常見的推論錯誤
+
+知道 PIGA 位於 X 染色體，很多人會下意識地推論：「那 PNH 應該像 hemophilia 或 G6PD 缺乏症一樣，男性比女性多。」
+
+這個推論是錯的，原因在於：PNH 的 PIGA 突變是後天獲得的體細胞突變（acquired somatic mutation），而非生殖系遺傳（germline inheritance）。這兩種突變的傳播邏輯完全不同。
+
+生殖系突變存在於受精卵的每一個細胞裡；體細胞突變只發生在某個特定的造血幹細胞，不會傳給子代，也不遵循孟德爾遺傳規律。因此，PNH 的男女發病率相同——這是有流行病學數據支持的事實，而不是例外。
+
+### Lyonization 的鏡像效應：同一機制，截然相反的保護性
+
+這裡有一組極為漂亮的鏡像對照，值得細細玩味。
+
+在 G6PD 缺乏症中，G6PD 基因位於 X 染色體，且為生殖系遺傳。一位 G6PD 缺乏的異型合子（heterozygous）女性，因為 lyonization，體內會有約半數的紅血球表現正常的 G6PD、另半數表現缺乏的 G6PD。這種細胞鑲嵌（cellular mosaicism）讓她在急性溶血發作時有一定程度的保護——因為正常的那一半紅血球可以「撐場」。
+
+在 PNH 中，lyonization 也製造了鑲嵌性——但方向完全相反。對一個正在發生 PIGA 體細胞突變的造血幹細胞來說，lyonization 讓這個幹細胞的活躍 X 染色體上的 PIGA 成為唯一選項，因此一次打擊就夠了。Lyonization 在這裡不是保護，而是讓女性與男性站在同一條起跑線上——同樣脆弱，同樣只需要一次體細胞打擊。
+
+差異的根源只在一點：G6PD 缺乏是生殖系遺傳，每個細胞都帶著原始的雙等位基因態，lyonization 只是決定哪個等位基因被讀取；而 PIGA 的 PNH 突變是體細胞事件，發生在單一造血幹細胞，那個細胞本來就只有一份活躍的 PIGA，根本沒有第二份可以沉默。
+
+## 主軸三：極罕見的「非 PIGA 型 PNH」反而驗證了上述邏輯
+
+### PIGT-PNH：一個需要真正兩次打擊的例外
+
+如果上述的染色體算術邏輯成立，那麼我們可以做出一個預測：體染色體上的 GPI 生合成基因，也有可能造成 PNH——但必須符合 two-hit 的條件。
+
+這個預測已經得到驗證。Höchsmann 等人（2019）報告了一組具有典型 PNH 表現但同時伴有顯著自體發炎特徵的患者，分子分析顯示他們的病因並非 PIGA 突變，而是位於第 20 號染色體的 PIGT 基因雙等位基因失活——具體機制恰好是：
+
+- 第一次打擊：一個生殖系的 PIGT 點突變（heterozygous germline variant），讓患者從出生起就帶著一個功能受損的 PIGT 等位基因
+- 第二次打擊：造血幹細胞中發生體細胞性 20q 缺失，把另一個正常的 PIGT 等位基因所在的染色體區段整個刪掉
+
+這完美地符合 two-hit 的要求：正因為 PIGT 在體染色體上有備援，所以需要兩次打擊；而 PIGA 在 X 染色體上沒有備援，所以一次就夠。
+
+### 斷在不同的工位，病就長成不同的樣子
+
+PIGT-PNH 不只是「罕見的 PNH 亞型」，它是一個在臨床表現上就與 PIGA-PNH 截然不同的實體。除了典型的溶血性貧血之外，這些患者還有：
+
+- 反覆發作的無菌性腦膜炎（aseptic meningitis）
+- 蕁麻疹樣皮疹
+- 關節痛與發燒
+
+這些是自體發炎（autoinflammatory）的特徵，而非典型 PNH 的表現。
+
+機轉是什麼？關鍵在於 PIGT 在產線上的位置。PIGT 負責催化 GPI 前驅物與蛋白質的 transpeptidation（即把蛋白質接到 GPI 錨上）——這是產線的較後段工位。當 PIGT 失去功能，細胞仍然可以合成 GPI 的前驅結構，但無法將其連接到蛋白質上。這些未完成的、游離的 GPI 結構無處去，就滯留在細胞膜的外葉上，成為一種異常的分子信號。
+
+Höchsmann 等人的實驗顯示，這些游離 GPI 結構會： - 活化補體的凝集素路徑（lectin pathway），產生 C5b-9 複合物 - 刺激白血球分泌 IL-1β，驅動 inflammasome 的激活
+
+這就解釋了 PIGT-PNH 的自體發炎表現。
+
+反觀 PIGA-PNH：PIGA 斷在最前端，什麼 GPI 中間產物都做不出來，細胞膜上乾乾淨淨，沒有任何異常的游離結構可以觸發發炎。因此 PIGA-PNH 是「純粹的 GPI 蛋白缺失」，而 PIGT-PNH 是「GPI 蛋白缺失＋游離 GPI 誘發的自體發炎」。
+
+同一條產線，斷在不同的工位，病就長成不同的樣子——這個原則，在 PIGT-PNH 身上得到了最清晰的示範。
+
+## 主軸四：生殖系的「部分」缺陷，走向一個完全不同的疾病
+
+### Inherited GPI Deficiency：當產線不是停擺，而是降速
+
+如果說 PNH 是 GPI 產線在某個造血幹細胞完全停擺，那麼inherited GPI deficiency（遺傳性 GPI 錨缺陷，又稱 Mabry syndrome 或 hyperphosphatasia with mental retardation syndrome, HPMRS）則是整個身體每一個細胞都在降速運轉。
+
+HPMRS 的致病基因包括： - PIGV（HPMRS1） - PIGO（HPMRS2） - PGAP2（HPMRS3） - PGAP3（HPMRS4） - PIGY（HPMRS6）
+
+這些基因的致病變異是hypomorphic（部分功能喪失）的生殖系雙等位基因突變——兩個等位基因都有缺陷，但仍保留部分殘餘酵素活性。GPI 的合成不是完全停止，而是效率大幅下降。
+
+### 臨床表現：不溶血，但神經系統受不了
+
+HPMRS 的三大特徵是： - Hyperphosphatasia（持續性高鹼性磷酸酶血症） - Intellectual disability（智能障礙） - Seizures（癲癇）
+
+值得注意的是，這些孩子並不出現溶血。
+
+原因在於殘餘酵素活性的組織門檻差異：紅血球的 GPI 錨需求相對低，殘餘的酵素活性足以在紅血球上維持足夠數量的 CD55 與 CD59，使其不至於遭受補體攻擊而溶血；但神經系統的發育依賴大量 GPI 錨定的細胞黏附分子、軸突導引分子與信號蛋白，部分 GPI 缺乏就足以造成神經元的發育障礙與功能失調。
+
+「殘餘活性保護了紅血球，卻保護不了神經系統」——這正是 HPMRS 的臨床邏輯。
+
+### 鹼性磷酸酶升高：一個「檢驗數值直接反映分子缺陷」的漂亮例子
+
+HPMRS 最具標誌性的生化異常，是血清 alkaline phosphatase（鹼性磷酸酶，ALP）的持續性顯著升高。
+
+其機轉出乎意料地直白：alkaline phosphatase 本身就是一個 GPI 錨定蛋白。正常情況下，ALP 被 GPI 錨牢牢固定在細胞膜的外葉；當 GPI 錨的生合成不足，ALP 無法被有效錨定，就從細胞表面脫落，進入血液循環。
+
+錨做不好 → 蛋白質固定不住 → 直接沖進血流 → 血中 ALP 濃度升高
+
+這是一個罕見的「實驗室數值直接映照分子缺陷」的例子：血清 ALP 升高，不是因為 ALP 的產量增加，而是因為它的「定錨能力」出了問題。臨床上遇到無法解釋的持續性高 ALP，尤其合併智能障礙與癲癇時，HPMRS 應列入鑑別診斷。
+
+## 主軸五：GPI 錨是「發育必需、成熟細胞非必需」——這解釋了 PNH 克隆為何能長期存在
+
+### Piga 剔除的小鼠是胚胎致死的
+
+Keller 等人（2001）以及 Johnston 等人（2012）的研究清楚說明：germline 的 Piga/PIGA 完全缺失，在小鼠是胚胎致死的。在人類，完全喪失功能的生殖系 PIGA 突變也幾乎不見於活產個體（少數存活的例外個案攜帶的是 hypomorphic 而非 null 突變，表現為嚴重的多發性先天異常與智能障礙）。
+
+這意味著：GPI 錨在胚胎發育的早期階段是不可或缺的——許多細胞黏附、形態發生、細胞間信號傳遞的關鍵分子，都依賴 GPI 錨定。
+
+### 但成熟血球缺少 GPI 錨，卻可以存活數十年
+
+然而，PNH 患者的 GPI 陰性血球，可以在體內存活並持續增殖數十年，並不會自發性死亡。條件性剔除（conditional knockout）Piga 的小鼠實驗也顯示，GPI 陰性的成熟血球在沒有免疫壓力的環境下可以正常存活，只是不會自發擴張（反而會逐漸減少）。
+
+這個對比揭示了 GPI 錨的生物學地位：它在胚胎發育中是建築材料，不可缺少；但對已經分化完成的成熟血球而言，它不是細胞存活的必要條件，而更像是一種功能性的裝飾，其缺失不造成細胞死亡。
+
+### PNH 克隆的選擇優勢：免疫逃脫的機率
+
+既然 GPI 陰性的幹細胞不會自發擴張，那麼 PNH 克隆為什麼會在某些人體內壯大？
+
+Luzzatto 與 Nakao（2025）的整合分析指出，PNH 的克隆擴張高度依賴骨髓衰竭的免疫壓力環境。機轉的核心是：
+
+- 正常的造血幹細胞，其細胞表面攜帶多種 GPI 錨定蛋白
+- 在自體免疫性骨髓衰竭（如再生不良性貧血，aplastic anemia, AA）的情境中，自體反應性 T 細胞（autoreactive T cells）以某些 GPI 錨定蛋白作為攻擊標靶之一
+- PIGA 突變的幹細胞，因為失去了這些 GPI 錨定的表面分子，等同於在 T 細胞的眼中「隱形」——無法被識別、無法被攻擊
+- 在正常幹細胞被免疫系統大量清除的同時，GPI 陰性的 PNH 克隆卻得以倖免，相對比例上升
+
+這是一個達爾文式的體細胞競爭：PNH 克隆的擴張不依賴「主動增殖優勢」，而依賴「被動存活優勢」——在免疫壓力的環境下，失去 GPI 錨，反而是一件好事。
+
+這也解釋了一個臨床觀察：PNH 與 AA 的關係極為密切——許多 AA 患者同時能測到小型 PNH 克隆，許多 PNH 患者同時有骨髓衰竭的背景。
+
+## 主軸六：逐項評析考題五個選項——每一個錯誤選項都是另一個真實疾病的正確答案
+
+題目背景：32 歲女性，溶血性貧血、晨起深色尿、靜脈血栓病史，流式細胞術顯示紅血球缺乏 CD55 與 CD59。問其分子機轉。（114 年血液專科考題，官方答案 (C)）
+
+(C) Acquired mutation in the PIGA gene on X chromosome ✓ 正確答案
+
+流式細胞術顯示 CD55 與 CD59 雙缺失，代表 GPI 錨定蛋白普遍缺失；結合晨起深色尿（血色素尿）與靜脈血栓病史，診斷 PNH 無庸置疑。機轉正是本文主軸一所描述：X 染色體上的 PIGA 是 GPI 生合成產線上唯一沒有備援的崗位，一次體細胞突變即可讓整條線停擺。Acquired（後天獲得）是這個選項最關鍵的定語，它確立了體細胞突變的性質。
+
+(A) Acquired mutation in the BCL-2 gene ✗ 方向錯誤型
+
+BCL-2 基因編碼一個抗細胞凋亡蛋白，與 GPI 生合成完全無關。BCL-2 的臨床意義在血液腫瘤學，最著名的例子是：BCL2 的 G101V 點突變見於接受 venetoclax 治療的慢性淋巴性白血病（CLL）患者，是 venetoclax 抗藥性的主要分子機制。BCL-2 突變不會造成溶血，不會影響 CD55/CD59，選項 (A) 與題目情境毫無交集。
+
+(B) Acquired mutation in the complement factor B ✗ 方向完全相反型——最具教學價值的錯誤
+
+這是五個選項中最值得深究的一個，因為它揭示了一個方向性的根本錯誤。
+
+PNH 的本質是：宿主細胞的「防禦端」失去了保護——CD55（DAF, decay-accelerating factor）與 CD59（protectin）這兩個 GPI 錨定的補體調節蛋白從紅血球表面消失，使其暴露在補體攻擊之下。這是一個「盾牌被拆掉」的故事。
+
+complement factor B 的 gain-of-function 突變（如 D279G、F286L）則是截然相反的情境：補體的攻擊端獲得了異常的活化能力。Factor B 是補體替代路徑（alternative pathway）的核心組件，其功能增益突變見於： - atypical hemolytic uremic syndrome（aHUS） - C3 glomerulopathy（C3 腎絲球病變）
+
+用一個對比句收束：PNH 是「盾牌被拆掉」（紅血球端、後天體細胞突變、GPI 錨定調節蛋白缺失）；aHUS/C3 glomerulopathy 是「劍失控」（內皮細胞端、生殖系或後天突變、液相補體調節因子功能失調）。同樣是補體介導的溶血性損傷，責任歸屬卻在細胞膜的兩側：一個在細胞本身的防禦失效，另一個在循環中的攻擊力量失控。選項 (B) 把 PNH 的被動受害者角色，錯誤地替換成主動的攻擊端增強——方向完全相反。
+
+(D) Inherited deficiency of spectrin ✗ 正確答案屬於 hereditary spherocytosis
+
+Spectrin 是紅血球細胞骨架的核心蛋白，其遺傳性缺陷造成 hereditary spherocytosis（遺傳性球形紅血球症），表現為溶血性貧血、脾臟腫大、與球形紅血球。
+
+選項 (D) 的關鍵錯誤在一個形容詞：inherited。PNH 是 acquired 的體細胞突變，hereditary spherocytosis 是 inherited 的生殖系突變——這一個字，把兩個疾病分開在截然不同的遺傳學範疇。此外，spectrin 缺陷是細胞骨架的問題，與 GPI 錨完全無關，流式細胞術也不會顯示 CD55/CD59 的缺失。
+
+(E) Autoimmune destruction of red blood cells ✗ 正確答案屬於 autoimmune hemolytic anemia
+
+autoimmune hemolytic anemia（AIHA）確實可以表現為溶血性貧血，其中 cold antibody type（冷凝集素型）甚至可以出現深色尿。然而，鑑別 PNH 與 AIHA 有一個關鍵的實驗室工具：direct antiglobulin test（DAT，又稱 direct Coombs test）。
+
+- AIHA：DAT 陽性——紅血球表面有 IgG 抗體或補體成分（C3d）沉積
+- PNH：DAT 陰性——紅血球表面沒有抗體，它之所以被補體攻擊，是因為缺少 CD55/CD59 這些自我保護的調節蛋白，而不是因為被抗體標記
+
+PNH 的溶血是補體介導的，但並非免疫球蛋白直接識別紅血球抗原所致；紅血球表面乾淨，DAT 因此陰性。這個「補體溶血但 DAT 陰性」的組合，是 PNH 的一個重要臨床特徵，也是與 AIHA 鑑別的核心依據。
+
+### 一字之差，疾病之別
+
+本題最核心的分辨力，集中在一個形容詞：acquired vs. inherited。
+
+- 「Acquired mutation in the PIGA gene」：後天體細胞突變，發生在單一造血幹細胞，不遺傳，男女發病率相等，流式細胞術可測到 GPI 陰性克隆——PNH 的本質
+- 「Inherited deficiency of spectrin」：生殖系突變，每個細胞都攜帶，可遺傳，家族史陽性，周邊血片可見球形紅血球——hereditary spherocytosis 的本質
+
+這一個形容詞，就把 PNH 與遺傳性血球疾病、遺傳性補體調節缺陷完全分開。它不只是措辭的差異，而是兩種完全不同的遺傳學邏輯——一個遵循孟德爾定律在家族中傳遞，另一個遵循達爾文法則在骨髓的細胞競爭中浮現。
+
+## 結語：答案不在生物學的重要性裡，而在染色體的算術裡
+
+「為什麼偏偏是 PIGA？」
+
+答案是：因為這條二十七道工序的 GPI 生合成產線，其中二十六個崗位都有雙份備援，任何一個崗位的一次體細胞打擊都不足以讓產線完全停擺；而 PIGA 所在的崗位，因為它恰好落在 X 染色體上，加上 lyonization 的效應，讓每一個造血幹細胞對它都是單人輪班、無備援可言。
+
+一次體細胞突變的機率，比兩次連續打擊的機率高出幾個數量級——這不是命運，這是算術。
+
+在這個框架下，PIGT-PNH 是「two-hit 邏輯的活體驗證」，HPMRS 是「hypomorphic 缺陷走向截然不同出口的示範」，而 Piga 剔除的致死性胚胎表型，則告訴我們 GPI 錨對生命的必要性在發育期而非成熟期——正因如此，PNH 克隆可以在免疫壓力的骨髓環境中悄悄積累，借著免疫逃脫的選擇優勢，逐漸壯大。
+
+GPI 生合成這條產線，提供了血液學中難得一見的「分子缺陷定位決定臨床表型」的完整範本：斷在前端，什麼都不產，細胞膜乾淨，病是 PNH；斷在後段，產了一半，膜上留下廢料，病多了自體發炎；整條線降速，殘餘活性保護了紅血球卻保護不了大腦，病是 HPMRS。
+
+一條產線，三種結局，取決於斷在哪裡、斷得多深。
+
+上述綜論的核心論點有堅實的文獻依據。PIGA 的 X 染色體定位與體細胞突變性質已由 Bessler 等人（1994）在分子層面證實，並由 Luzzatto & Nakao（2025）的最新整合性回顧進一步詮釋，包括骨髓衰竭的免疫逃脫機制與達爾文克隆競爭模型 。PIGT-PNH 作為 two-hit 的活體驗證，來自 Höchsmann 等人（2019）的 JCI 研究，明確指出生殖系 PIGT 點突變加上體細胞性 20q 缺失的雙重打擊機制，以及游離 GPI 誘發 IL-1β 分泌與凝集素路徑活化的自體發炎機轉 。HPMRS 的致病基因與 ALP 升高的 GPI 錨定蛋白脫落機制，由 Krawitz 等人（2012）的 PIGO 報告以及 Susgun 等人（2023）的 PGAP2 研究共同支撐 。Piga 生殖系失活的胚胎致死性與條件性剔除的造血幹細胞數據，見於 Keller 等人（2001）的 FES-Cre 小鼠實驗，以及 Johnston 等人（2012）對人類生殖系 PIGA 突變罕見存活案例的報告 。
+
+下圖為 GPI 生合成路徑的結構示意圖，清楚呈現各 PIG- 基因在產線中的位置，對理解「斷在哪裡、病就長成什麼樣子」這個核心論點最具參考價值。
+
+![](/img/img/e1f4ce39-2e39-4552-94a2-1407abb031cd.jpg)
+Figure 3: The structure of GPI–protein (protein–EtNP‐6Manα1‐2Manα1‐6Manα1‐4GlcNα1‐6myoinositol‐phospholipid) is shown. GPI biosynthesis takes place mostly in the endoplasmic reticulum. The first step involves the addition of acetylglucosamine (GlcN) to phosphatidylinositol (inositol‐P). Synthesis of the GPI anchor proceeds with the serial addition of a glycan moiety consisting of three mannose (M) molecules each modified by phosphoethanolamine (EtNP). Through a transpeptidation reaction, proteins with the appropriate carboxy‐terminal amino acid motif are attached covalently to the terminal EtNP. The GPI–protein complex subsequently travels to the cell surface, where the protein becomes anchored to the lipid bilayer through GPI. In PNH, PIG‐A, a protein encoded by the X‐linked gene PIGA and a member of a multi‐subunit enzymatic complex that catalyzes the first step (i.e. addition of GlcN to inositol‐P), is somatically mutated in one or few HSCs. As a result, very little GPI is synthesized, or none at all, with consequent severe deficiency of GPI‐anchored proteins on the surface of the mutated HSCs and their progeny. In Inherited GPI deficiency, germline hypomorphic mutations in PIGL, PIGM, PIGN, PIGV, PIGO, PGAP2, or PGAP3 result in variable GPI deficiency. Germline mutations in PIGA are embryonically lethal in men, with the exception of two families. Here, mono‐allelic PIGA mutations resulted in a truncated PIGA protein with sufficient residual function to allow survival of the affected individuals, but causing severe congenital abnormalities and intellectual disability. For PIGT, a case of a germline mutation in one allele with a tissue‐specific somatic mutation in neutrophils has been reported. Abbreviations: P‐Phosphatidyl; M‐mannose; GlcN‐glucosamine; EtNP‐phosphoethanolamine.
