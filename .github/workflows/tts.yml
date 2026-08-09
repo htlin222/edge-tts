@@ -54,9 +54,13 @@ jobs:
         id: plan
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 表格改寫用；沒設也能跑
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          ARGS=(--chunks "${{ inputs.chunks || '10' }}")
+          # 拿實際存在的 release tag 去校正 manifest。少了這步，
+          # 「manifest 說發佈了但 release 其實不在」的那一集會被永遠跳過。
+          TAGS=$(gh release list --limit 1000 --json tagName --jq '[.[].tagName]|join(",")')
+          ARGS=(--chunks "${{ inputs.chunks || '10' }}" --released-tags "$TAGS")
           if [ -n "${{ inputs.only }}" ]; then
             ARGS+=(--only "${{ inputs.only }}")
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then

@@ -93,6 +93,12 @@ def main() -> None:
     ap.add_argument("--only", help="只處理這幾題，逗號分隔（workflow_dispatch 用）")
     ap.add_argument("--force", action="store_true", help="忽略 sha256 比對，強制重新合成")
     ap.add_argument("--chunks", type=int, default=10, help="切成幾個 matrix job")
+    ap.add_argument(
+        "--released-tags",
+        default=None,
+        help="實際存在的 release tag（逗號分隔）。給了就會拿它校正 manifest —— "
+        "manifest 說已發佈但 release 不在清單裡的，一律重做。留白則跳過這項檢查。",
+    )
     args = ap.parse_args()
 
     if args.only:
@@ -107,6 +113,19 @@ def main() -> None:
         files, deleted = diff_files(args.before, args.after)
 
     manifest = load_manifest()
+
+    # manifest 與實際 release 對帳。兩者會脫節的情況是真的會發生的：
+    # 本機測試寫進 manifest 卻沒發佈、release 被手動刪掉、上一輪 job 傳到一半掛掉。
+    # 沒有這一步的話，那一集會因為「manifest 說已發佈」而被永遠跳過，且沒有任何跡象。
+    released = None
+    if args.released_tags is not None:
+        released = {t.strip() for t in args.released_tags.split(",") if t.strip()}
+        stale = [q for q, m in manifest.items() if m.get("mp3_released") and q not in released]
+        for q in stale:
+            manifest[q]["mp3_released"] = False
+        if stale:
+            print(f"⚠️  manifest 標記已發佈但找不到 release，將重做: {', '.join(stale)}", file=sys.stderr)
+
     rules = load_lexicon()
     todo, skipped = [], []
     for f in files:
