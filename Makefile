@@ -50,7 +50,23 @@ feed:  ## 本機重建 site/feed.xml 與索引頁
 voices:  ## 列出可用的 zh-TW 語音
 	uv run edge-tts --list-voices | grep zh-TW
 
+DEST ?= $(HOME)/Downloads/mcq-tts
+
+sync:  ## 把 release 上的 mp3 同步下來  make sync [DEST=~/Downloads/mcq-tts]
+	@mkdir -p "$(DEST)"
+	@have=0; got=0; \
+	for t in $$(gh api repos/htlin222/edge-tts/releases --paginate --jq '.[].tag_name' | sort); do \
+		if [ -f "$(DEST)/$$t.mp3" ]; then have=$$((have+1)); continue; fi; \
+		if gh release download "$$t" -p '*.mp3' -D "$(DEST)" 2>/dev/null; then \
+			got=$$((got+1)); echo "  ↓ $$t"; \
+		else \
+			echo "  ⚠ $$t 沒有 mp3（可能還在合成）"; \
+		fi; \
+	done; \
+	echo "✅ 新下載 $$got 集，已存在 $$have 集 → $(DEST)"; \
+	echo "   總計 $$(ls "$(DEST)"/*.mp3 2>/dev/null | wc -l) 個檔案，$$(du -sh "$(DEST)" 2>/dev/null | cut -f1)"
+
 clean:  ## 清掉合成產物（保留朗讀稿與 manifest）
 	rm -rf dist
 
-.PHONY: help setup export export-one norm one preview plan feed voices clean
+.PHONY: help setup export export-one norm one preview plan feed voices sync clean
