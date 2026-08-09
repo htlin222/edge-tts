@@ -1,0 +1,243 @@
+name: TTS
+
+# 只有 raw/ 底下的 txt 變動才跑。build/ 與 site/ 是 CI 自己 commit 回來的，
+# 不在 paths 裡 —— 這是避免 CI 觸發 CI 的無限迴圈的關鍵。
+on:
+  push:
+    branches: [main]
+    paths: ['raw/**.txt']
+  workflow_dispatch:
+    inputs:
+      only:
+        description: '只處理這幾集（逗號分隔，例如 114-031,114-053）；留白=全部'
+        required: false
+      force:
+        description: '忽略 sha256 比對，強制重新合成'
+        type: boolean
+        default: false
+      chunks:
+        description: '切成幾個平行 job'
+        default: '10'
+
+# 不取消進行中的 run —— 取消會留下「release 建了但 asset 沒傳完」的半殘狀態。
+concurrency:
+  group: tts-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # 建 release、commit build/ 回來
+  pages: write      # 部署 GitHub Pages
+  id-token: write   # Pages 的 OIDC
+
+env:
+  VOICE: zh-TW-YunJheNeural
+  RATE: '+20%'
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.plan.outputs.chunks }}
+      has_work: ${{ steps.plan.outputs.has_work }}
+      deleted: ${{ steps.plan.outputs.deleted }}
+      count: ${{ steps.plan.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # changed.py 要能 git diff 到 event.before
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 決定要做哪幾集
+        id: plan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 表格改寫用；沒設也能跑
+        run: |
+          set -euo pipefail
+          ARGS=(--chunks "${{ inputs.chunks || '10' }}")
+          if [ -n "${{ inputs.only }}" ]; then
+            ARGS+=(--only "${{ inputs.only }}")
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            ARGS+=(--all)
+          else
+            ARGS+=(--before "${{ github.event.before }}" --after "${{ github.sha }}")
+          fi
+          [ "${{ inputs.force }}" = "true" ] && ARGS+=(--force)
+
+          python3 scripts/changed.py "${ARGS[@]}" > plan.json
+          {
+            echo "chunks=$(jq -c '.chunks' plan.json)"
+            echo "has_work=$(jq -r '.has_work' plan.json)"
+            echo "deleted=$(jq -c '.deleted' plan.json)"
+            echo "count=$(jq -r '.todo | length' plan.json)"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: 摘要
+        run: |
+          {
+            echo "### 本次要合成 ${{ steps.plan.outputs.count }} 集"
+            echo '```json'
+            jq -r '{todo, skipped, deleted}' plan.json
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # 朗讀稿要留下來，後面 finalize 才有東西 commit 回 repo
+      - uses: actions/upload-artifact@v4
+        with:
+          name: plan
+          path: |
+            plan.json
+            build/*.speech.txt
+            build/table-cache/**
+          if-no-files-found: warn
+
+  synth:
+    needs: detect
+    if: needs.detect.outputs.has_work == 'true' && needs.detect.outputs.count != '0'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false   # 一集掛掉不該拖垮其他 99 集
+      matrix:
+        chunk: ${{ fromJSON(needs.detect.outputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install --quiet edge-tts mutagen
+
+      - name: 正規化
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -euo pipefail
+          for qid in ${{ join(matrix.chunk, ' ') }}; do
+            python3 scripts/normalize.py "raw/$qid.txt"
+          done
+
+      - name: 合成
+        id: synth
+        run: |
+          set -euo pipefail
+          python3 scripts/synth.py ${{ join(matrix.chunk, ' ') }} \
+            --voice "$VOICE" --rate "$RATE" --json-out synth.json
+
+      # 即使上一步部分失敗，也把成功的那幾集發出去
+      - name: 建 release 並上傳
+        if: always() && hashFiles('synth.json') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          jq -c '.ok[]' synth.json | while read -r row; do
+            qid=$(jq -r '.qid' <<<"$row")
+            title=$(jq -r '.title' <<<"$row")
+            mins=$(jq -r '(.duration/60)|floor' <<<"$row")
+            secs=$(jq -r '(.duration%60)|floor' <<<"$row")
+            notes=$(printf '**%s**\n\n- 長度 %d 分 %02d 秒\n- 語音 `%s` 語速 `%s`\n- 分 %s 段合成\n\n朗讀稿：[`build/%s.speech.txt`](../../blob/main/build/%s.speech.txt)\n原始文字：[`raw/%s.txt`](../../blob/main/raw/%s.txt)' \
+              "$title" "$mins" "$secs" "$VOICE" "$RATE" "$(jq -r '.chunks' <<<"$row")" "$qid" "$qid" "$qid" "$qid")
+
+            if gh release view "$qid" >/dev/null 2>&1; then
+              gh release edit "$qid" --title "$qid $title" --notes "$notes"
+              gh release upload "$qid" "dist/$qid.mp3" "dist/$qid.vtt" "dist/$qid.srt" --clobber
+            else
+              gh release create "$qid" --title "$qid $title" --notes "$notes" \
+                "dist/$qid.mp3" "dist/$qid.vtt" "dist/$qid.srt"
+            fi
+            echo "✅ release $qid"
+          done
+
+      - name: 記下這批的結果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: synth-${{ strategy.job-index }}
+          path: |
+            synth.json
+            build/*.speech.txt
+            build/table-cache/**
+          if-no-files-found: warn
+
+  finalize:
+    needs: [detect, synth]
+    if: always() && needs.detect.outputs.has_work == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: 刪掉已移除集數的 release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          for qid in $(echo '${{ needs.detect.outputs.deleted }}' | jq -r '.[]'); do
+            if gh release view "$qid" >/dev/null 2>&1; then
+              gh release delete "$qid" --yes --cleanup-tag
+              echo "🗑  刪除 release $qid"
+            fi
+          done
+
+      # manifest 只在這裡寫一次 —— 讓 10 個 matrix job 各自 commit 必然衝突
+      - name: 合併 manifest
+        run: |
+          set -euo pipefail
+          mkdir -p build
+          find artifacts -name '*.speech.txt' -exec cp {} build/ \;
+          if compgen -G "artifacts/*/build/table-cache/*" > /dev/null; then
+            mkdir -p build/table-cache
+            find artifacts -path '*/table-cache/*' -exec cp {} build/table-cache/ \;
+          fi
+          python3 scripts/merge_manifest.py \
+            --plan artifacts/plan/plan.json \
+            --synth 'artifacts/synth-*/synth.json' \
+            --deleted '${{ needs.detect.outputs.deleted }}'
+
+      - name: 產生 feed 與索引頁
+        run: python3 scripts/feed.py --repo "$GITHUB_REPOSITORY"
+
+      - name: 把朗讀稿與 manifest commit 回來
+        run: |
+          set -euo pipefail
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add build/ site/
+          if git diff --cached --quiet; then
+            echo "沒有變化，不 commit"
+          else
+            git commit -m "chore: 更新朗讀稿與 manifest [skip ci]"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 失敗彙總
+        if: always()
+        run: |
+          set -euo pipefail
+          failed=$(cat artifacts/synth-*/synth.json 2>/dev/null | jq -r '.failed[]?.qid' | sort -u || true)
+          if [ -n "$failed" ]; then
+            {
+              echo "### ❌ 以下集數合成失敗（重試 3 次後仍不行）"
+              echo '```'
+              echo "$failed"
+              echo '```'
+              echo "重跑方式：Actions → TTS → Run workflow → only 填上題號"
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi

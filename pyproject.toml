@@ -1,0 +1,12 @@
+[project]
+name = "edge-tts-mcq"
+version = "0.1.0"
+description = "把「有脈絡的綜論」用 edge-tts 唸成 podcast，每一集一個 GitHub release"
+requires-python = ">=3.11"
+dependencies = [
+    "edge-tts>=7.2.0",  # 7.x 的 SubMaker.feed()/get_srt() API
+    "mutagen>=1.47",    # ID3 標籤，沒有的話手機播放器只顯示檔名
+]
+
+[tool.uv]
+package = false

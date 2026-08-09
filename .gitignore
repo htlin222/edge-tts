@@ -1,0 +1,14 @@
+# MCQ 個人金鑰 —— 這個 repo 是 public，絕對不能進版控
+.env
+
+# 合成產物：一集約 10 MB，100 集就 1 GB。只走 release，不進 git。
+dist/
+
+# 本機預覽的暫存
+build/*-preview.speech.txt
+build/preview.speech.txt
+
+.venv/
+__pycache__/
+*.pyc
+uv.lock
