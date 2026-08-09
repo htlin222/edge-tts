@@ -6,7 +6,13 @@
     "sha256": "384448b621dd6d8a788d6fd5f69e7dd07db1409334f92086bade37a4d7aeacfb",
     "chars": 3889,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 541.3,
+    "bytes": 3252285,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-002": {
     "qid": "114-002",
@@ -15,7 +21,13 @@
     "sha256": "20da754c575a409b37bed63d54dd445d26fc683898ae55a2ae793c0ef8ab8665",
     "chars": 4456,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 714.7,
+    "bytes": 4294170,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-003": {
     "qid": "114-003",
@@ -24,7 +36,13 @@
     "sha256": "e153ee15eedc6de69aa3e9eb2487ff84d0145a483e8a0d89fbdf343df01f26ed",
     "chars": 6710,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 943.3,
+    "bytes": 5667010,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-004": {
     "qid": "114-004",
@@ -33,7 +51,13 @@
     "sha256": "899b10979597037bf0fea335dc9878471a98d09eb18016d03956c367b799219b",
     "chars": 6467,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1003.8,
+    "bytes": 6030119,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-005": {
     "qid": "114-005",
@@ -42,7 +66,13 @@
     "sha256": "27ca7964ba70415347d6f5f1f2e0693f6dcf17abcfc2a7d51ddb584291d96674",
     "chars": 4948,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 776.6,
+    "bytes": 4665659,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-006": {
     "qid": "114-006",
@@ -51,7 +81,13 @@
     "sha256": "29a5cdd547dd938d10b9a81a9adc2573092600b3e937a35fad0da78d5228f243",
     "chars": 5741,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 890.4,
+    "bytes": 5349308,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-007": {
     "qid": "114-007",
@@ -60,7 +96,13 @@
     "sha256": "9bc4c3aaff3c259ce6b105b24061558300b362c2a4ee31baa47770bfa25c0048",
     "chars": 4115,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 577.4,
+    "bytes": 3469109,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-008": {
     "qid": "114-008",
@@ -69,7 +111,13 @@
     "sha256": "54f4252fbb3ba838f89341a32477f0f85890efa45e3dc050bb25a7fe5bcb8f0f",
     "chars": 2904,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 482.1,
+    "bytes": 2896862,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-009": {
     "qid": "114-009",
@@ -78,7 +126,13 @@
     "sha256": "e04cf5b63ab8bb7342af5af35768357866b19f4315a775720a2ff019ec45a0af",
     "chars": 3901,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 562.2,
+    "bytes": 3378156,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-010": {
     "qid": "114-010",
@@ -87,7 +141,13 @@
     "sha256": "0eaf98c12e9e6358b744da2e0e37f8d3e558dcd233182e1e3d6ecf66a4e90f87",
     "chars": 6046,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 999.1,
+    "bytes": 6002311,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-011": {
     "qid": "114-011",
@@ -96,7 +156,13 @@
     "sha256": "7861e358a61d20ce68734a91b6958ef145947bcb98faebc41974c39196502a83",
     "chars": 5327,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 746.2,
+    "bytes": 4483303,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-012": {
     "qid": "114-012",
@@ -105,7 +171,13 @@
     "sha256": "380de74c4e4dce2df71e76d77c9511afdadbde6c746ca93369435848f0561987",
     "chars": 2888,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 406.7,
+    "bytes": 2443822,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-013": {
     "qid": "114-013",
@@ -114,7 +186,13 @@
     "sha256": "fe9c28c0be3beb7b3479bd9f7b93fe6c472c1e809cb174566ed9d9c4e9ca23dc",
     "chars": 4436,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 749.6,
+    "bytes": 4503763,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-014": {
     "qid": "114-014",
@@ -123,7 +201,13 @@
     "sha256": "399c2460705da5cd341a23dabffcdd0813352c89126e19af8eccbf7142c23ce2",
     "chars": 4524,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 626.1,
+    "bytes": 3761847,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-015": {
     "qid": "114-015",
@@ -132,7 +216,13 @@
     "sha256": "20801e43d591a2de9b0cd7b49703c8f45ffb74097d603636a5543501884f5257",
     "chars": 5434,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 855.2,
+    "bytes": 5137997,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-016": {
     "qid": "114-016",
@@ -141,7 +231,13 @@
     "sha256": "07b3e295c2cb8e47b85df282fe4fb9e860051f8920970a6fd12d0ac309d9f649",
     "chars": 2818,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 495.0,
+    "bytes": 2974680,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-017": {
     "qid": "114-017",
@@ -150,7 +246,13 @@
     "sha256": "bce87f7cf468b31653825f9111e8da1ff8ade34dd67cf28435d559db37d29f41",
     "chars": 2873,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 466.3,
+    "bytes": 2802004,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-018": {
     "qid": "114-018",
@@ -159,7 +261,13 @@
     "sha256": "85bdc688bf8696a145530f794b80d2652a30d83d3cdfbf5e93026f55da9e9f93",
     "chars": 5307,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 838.2,
+    "bytes": 5035504,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-019": {
     "qid": "114-019",
@@ -168,7 +276,13 @@
     "sha256": "3b806d41ea76e5ba6cfc16c881d8dfe1920dc0a7dda07b12d03669de81884e41",
     "chars": 3619,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 575.4,
+    "bytes": 3456986,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-020": {
     "qid": "114-020",
@@ -177,7 +291,13 @@
     "sha256": "15b08eef76c2bd940c0661f6bc2e9a37e7c7c531b3f46070f88c4ca560a4865b",
     "chars": 5380,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 880.4,
+    "bytes": 5289366,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-021": {
     "qid": "114-021",
@@ -186,7 +306,13 @@
     "sha256": "ebf697ce2e31ac349c0b85099da8a2e944b5cb1706c5d841e326fda4f181a9fc",
     "chars": 3856,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 579.3,
+    "bytes": 3480623,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-022": {
     "qid": "114-022",
@@ -195,7 +321,13 @@
     "sha256": "064b06420bb20f9e858fab8783755a3f4515bbaae02567e6adaba9e1c7e585ce",
     "chars": 8960,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1275.5,
+    "bytes": 7661959,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-023": {
     "qid": "114-023",
@@ -204,7 +336,13 @@
     "sha256": "c18b9c9a76890c039827fd188f9a68367109d0515d03bad11a72d3050af23c51",
     "chars": 2746,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 433.0,
+    "bytes": 2602068,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-024": {
     "qid": "114-024",
@@ -213,7 +351,13 @@
     "sha256": "6281b1c1fb0b4d47d06796874990e1d3b24a1b2c5541e8ceb2659580c90943ce",
     "chars": 3327,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 529.1,
+    "bytes": 3179085,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-025": {
     "qid": "114-025",
@@ -222,7 +366,13 @@
     "sha256": "bb52fd16c8a53cf8f9022d24988ed2d7b3b32343307a2d482b2595a7b896e5f3",
     "chars": 3290,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 484.0,
+    "bytes": 2908359,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-026": {
     "qid": "114-026",
@@ -231,7 +381,13 @@
     "sha256": "8436a333be4ffba01b1f3e351d2239816a011825ac51aeead41c785638d5aa48",
     "chars": 3484,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 555.2,
+    "bytes": 3335920,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-027": {
     "qid": "114-027",
@@ -240,7 +396,13 @@
     "sha256": "e4ef5154ef9ff8165f8f27efbeaf0274dbac654982a1f408fbeeefe7aaf8eedf",
     "chars": 5231,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 858.4,
+    "bytes": 5157152,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-028": {
     "qid": "114-028",
@@ -249,7 +411,13 @@
     "sha256": "eb8c22ff715bd5187ec00b97528f666fdfd2d66ce5349107192b9c5c6ed65a27",
     "chars": 5448,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 807.8,
+    "bytes": 4853020,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-029": {
     "qid": "114-029",
@@ -258,7 +426,13 @@
     "sha256": "833aa62d040584c0daeb635110f8eef3b42a17e92735edc5c02fb8b8f2f6ffe9",
     "chars": 3284,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 495.6,
+    "bytes": 2978299,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-030": {
     "qid": "114-030",
@@ -267,7 +441,13 @@
     "sha256": "6701c95a46ab1a0737d79096fd34cd31d093890f96de0b1610e5477ce2a1e02e",
     "chars": 4390,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 661.1,
+    "bytes": 3972030,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-031": {
     "qid": "114-031",
@@ -277,12 +457,12 @@
     "chars": 3413,
     "tables": [],
     "mp3_released": true,
-    "duration": 433.6,
-    "bytes": 2605370,
+    "duration": 520.0,
+    "bytes": 3124577,
     "voice": "zh-TW-YunJheNeural",
-    "rate": "+20%",
+    "rate": "+0%",
     "chunks": 4,
-    "released_at": "2026-08-09T17:19:33+00:00"
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-032": {
     "qid": "114-032",
@@ -291,7 +471,13 @@
     "sha256": "ee99056ccee02fd9dbb963714b0a7060a6e26f8bdc68517d9e836afe2224ddb8",
     "chars": 5559,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 887.6,
+    "bytes": 5332308,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-033": {
     "qid": "114-033",
@@ -300,7 +486,13 @@
     "sha256": "78fe3482ad90e9d9212b70c424c7bb61b63017fcad04affcb0e2bddd3883a8ed",
     "chars": 4462,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 729.4,
+    "bytes": 4382399,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-034": {
     "qid": "114-034",
@@ -309,7 +501,13 @@
     "sha256": "4bc18b11bb7fc3c955ec51a5ea83a8bcc604c03b0c6939785dc09b527ac04b74",
     "chars": 4504,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 753.7,
+    "bytes": 4528114,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-035": {
     "qid": "114-035",
@@ -318,7 +516,13 @@
     "sha256": "375b9c427f27a8c3c3e13fede95455afcfb2e08172045fd1089ff83183845df2",
     "chars": 5391,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 811.2,
+    "bytes": 4873342,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-036": {
     "qid": "114-036",
@@ -327,7 +531,13 @@
     "sha256": "ae39a93fcce67fc3e7c15e7e228f5a6d7f327073e9925a55ea17f2366593e34e",
     "chars": 2811,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 502.2,
+    "bytes": 3017932,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-037": {
     "qid": "114-037",
@@ -336,7 +546,13 @@
     "sha256": "f1fb6978aff72f64077b683b012c5ca30dfc2489ae446690f12d0cf29b98faea",
     "chars": 2524,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 411.6,
+    "bytes": 2473485,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-038": {
     "qid": "114-038",
@@ -345,7 +561,13 @@
     "sha256": "28dba763f276728ac0a02cb9a285edd4eaad3f54af384159d2cfe58ccbe44e0b",
     "chars": 6167,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1014.9,
+    "bytes": 6096982,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-039": {
     "qid": "114-039",
@@ -354,7 +576,13 @@
     "sha256": "cf088f25856224dd8ab486a5d492186dc8964810d1c0633e28713efe19a09f19",
     "chars": 3892,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 609.8,
+    "bytes": 3663974,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-040": {
     "qid": "114-040",
@@ -363,7 +591,13 @@
     "sha256": "b3595d731057a83f0fa45a7437d68444b2cecc717ae72437e059e1f639e08a41",
     "chars": 3355,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 536.3,
+    "bytes": 3222482,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-041": {
     "qid": "114-041",
@@ -372,7 +606,13 @@
     "sha256": "89ac39af8ff39c74d82f09df2f08615bad09a6c942b3e770673ea2480f035bb7",
     "chars": 5713,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 908.4,
+    "bytes": 5456991,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-042": {
     "qid": "114-042",
@@ -381,7 +621,13 @@
     "sha256": "23af496425c9e6b4424619d716e8a5ac8824319462a6c05f08b092d0209d9ab9",
     "chars": 5366,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 690.6,
+    "bytes": 4149151,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-043": {
     "qid": "114-043",
@@ -390,7 +636,13 @@
     "sha256": "e84723b804baa8f861b634d0efc64113d08c3bf846335015176c820d224842fd",
     "chars": 2907,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 479.4,
+    "bytes": 2880413,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-044": {
     "qid": "114-044",
@@ -399,7 +651,13 @@
     "sha256": "eaac3e0e9663707b6bae04aeabb161904957e86efb0200be482fe22f31e2f09a",
     "chars": 4829,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 868.6,
+    "bytes": 5218002,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-045": {
     "qid": "114-045",
@@ -408,7 +666,13 @@
     "sha256": "7af64a2aaa57bb6c3aecd2439ddea7e363a7bd20349bb9a6517d72d955bfc661",
     "chars": 2953,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 485.6,
+    "bytes": 2918037,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-046": {
     "qid": "114-046",
@@ -417,7 +681,13 @@
     "sha256": "fde78d3f88c911704bbd35713067c30d3e33775b54c14b1307aa549c82c06e58",
     "chars": 3716,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 565.8,
+    "bytes": 3399493,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-047": {
     "qid": "114-047",
@@ -426,7 +696,13 @@
     "sha256": "06628768c1b460ea4ae4dd0ebcfca156475f100613ee6ccb1188b5be889c031e",
     "chars": 2808,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 441.8,
+    "bytes": 2654692,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-048": {
     "qid": "114-048",
@@ -435,7 +711,13 @@
     "sha256": "4bb57226f7d5d84bf0907b92b4dba9d63075323d2299f738502fb7455c26127e",
     "chars": 3238,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 536.9,
+    "bytes": 3226067,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-049": {
     "qid": "114-049",
@@ -444,7 +726,13 @@
     "sha256": "668d882a8c705479e83bfdf5a6746868b605f5b21ecc8aea86aa47b8f9a08d4f",
     "chars": 5422,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 828.6,
+    "bytes": 4978299,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-050": {
     "qid": "114-050",
@@ -453,7 +741,13 @@
     "sha256": "5def33628cca0356d17ea3da5090d9e7b4c9f6cd4ca64129b4485f5dab173bcf",
     "chars": 3304,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 549.3,
+    "bytes": 3300319,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-051": {
     "qid": "114-051",
@@ -462,7 +756,13 @@
     "sha256": "4aca72e7a28bcc23bee6bea3a3ed58c7fe12de6f3c377b583118b5237794dcb5",
     "chars": 5026,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 882.3,
+    "bytes": 5300437,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-052": {
     "qid": "114-052",
@@ -471,7 +771,13 @@
     "sha256": "148e987d9d5747f0ccc16bbcbf6320021bcd452baea2dea463bdb4722a9cda91",
     "chars": 5688,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 892.3,
+    "bytes": 5360678,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-053": {
     "qid": "114-053",
@@ -481,12 +787,12 @@
     "chars": 2901,
     "tables": [],
     "mp3_released": true,
-    "duration": 405.7,
-    "bytes": 2438197,
+    "duration": 486.7,
+    "bytes": 2924683,
     "voice": "zh-TW-YunJheNeural",
-    "rate": "+20%",
+    "rate": "+0%",
     "chunks": 3,
-    "released_at": "2026-08-09T17:33:04+00:00"
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-054": {
     "qid": "114-054",
@@ -495,7 +801,13 @@
     "sha256": "957d235bf88de4c3b8238c46f0bb739c039825d4a706dc8c9d08cbe861ec6481",
     "chars": 3153,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 540.6,
+    "bytes": 3248421,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-055": {
     "qid": "114-055",
@@ -504,7 +816,13 @@
     "sha256": "25ce80fa21923e5520579f753d1a0338fbbf4272d8a0666e69e7eabbc1398963",
     "chars": 6278,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1028.5,
+    "bytes": 6178860,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-056": {
     "qid": "114-056",
@@ -513,7 +831,13 @@
     "sha256": "787fbcf524a2634664b3926852d63fd3a7213e69b77f0432c57405447b9dda64",
     "chars": 2677,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 456.0,
+    "bytes": 2740140,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-057": {
     "qid": "114-057",
@@ -522,7 +846,13 @@
     "sha256": "5424faef158a03762796fdb9aeb799d53a7056227291c679d595578e2044b494",
     "chars": 3133,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 518.2,
+    "bytes": 3113764,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-058": {
     "qid": "114-058",
@@ -531,7 +861,13 @@
     "sha256": "f2c31dfff2e7679ff6b914088158c567e175c66d8fe31584b0554fef7566b2da",
     "chars": 5074,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 790.8,
+    "bytes": 4751267,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-059": {
     "qid": "114-059",
@@ -540,7 +876,13 @@
     "sha256": "40947ea21424faee257dc48a12f99effcaf8d8f5a53d7985df1f56b66b419c2e",
     "chars": 2979,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 522.6,
+    "bytes": 3140466,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-060": {
     "qid": "114-060",
@@ -549,7 +891,8 @@
     "sha256": "1c9589f4fede500691a3c6e2f9c8d1e8bfa660b7817cbe2e2ac927f22c51b0ec",
     "chars": 5452,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": false,
+    "last_error": "段 6 重試 3 次仍失敗: No audio was received. Please verify that your parameters are correct."
   },
   "114-061": {
     "qid": "114-061",
@@ -558,7 +901,13 @@
     "sha256": "7ed5a301a79cb07dc3bf539364b4b28e275df4b8678901c84b17e8f50d1659cb",
     "chars": 3031,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 504.0,
+    "bytes": 3028184,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-062": {
     "qid": "114-062",
@@ -567,7 +916,13 @@
     "sha256": "ecc35589b8bf5c6f61f31f62110901f4340fd3c82dc9a2ebdac91fca734b8d7c",
     "chars": 2781,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 459.2,
+    "bytes": 2759497,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-063": {
     "qid": "114-063",
@@ -576,7 +931,13 @@
     "sha256": "c654e4f1e44ef1de51d48354e4c1e72c67c8ae45a13c50dc4acedfee7f93d041",
     "chars": 3920,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 617.0,
+    "bytes": 3706914,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-064": {
     "qid": "114-064",
@@ -585,7 +946,13 @@
     "sha256": "5123d390bea4f80f6249f17d0ec51e8b8642d27ee33eb2b24a30107baf70f233",
     "chars": 6014,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 955.9,
+    "bytes": 5742836,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-065": {
     "qid": "114-065",
@@ -594,7 +961,13 @@
     "sha256": "eae38831e32e9312aa43080002eb81cc299a3f83b57c9f20d7a3b626e91e4df3",
     "chars": 6999,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1055.1,
+    "bytes": 6338139,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-066": {
     "qid": "114-066",
@@ -603,7 +976,13 @@
     "sha256": "cac4b0ab187074e36d348431432e9e6ef097911853863de6b1a151904235c7ca",
     "chars": 5950,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 965.0,
+    "bytes": 5797431,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 7,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-067": {
     "qid": "114-067",
@@ -612,7 +991,13 @@
     "sha256": "8b3cbea6741bc424939f2658a68192ebde210483d137f33db7ae575c7f99c155",
     "chars": 8999,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1371.6,
+    "bytes": 8239516,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 9,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-068": {
     "qid": "114-068",
@@ -621,7 +1006,13 @@
     "sha256": "d2c33ba1dc40a8b8ef8062940beb17a21cb336cea1e52f1012fb4145630b4894",
     "chars": 7164,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1207.1,
+    "bytes": 7250955,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-069": {
     "qid": "114-069",
@@ -631,12 +1022,12 @@
     "chars": 7824,
     "tables": [],
     "mp3_released": true,
-    "duration": 964.3,
-    "bytes": 5792808,
+    "duration": 1156.6,
+    "bytes": 6947690,
     "voice": "zh-TW-YunJheNeural",
-    "rate": "+20%",
+    "rate": "+0%",
     "chunks": 8,
-    "released_at": "2026-08-09T17:33:04+00:00"
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-070": {
     "qid": "114-070",
@@ -645,7 +1036,13 @@
     "sha256": "2b4a0a516fcda4ef4b0d9f5d964aa7a80bf643b8907bf510eb1ef181872cfefd",
     "chars": 2972,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 436.1,
+    "bytes": 2620473,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-071": {
     "qid": "114-071",
@@ -744,7 +1141,13 @@
     "sha256": "a9eebe60b2117ea91aac37995b6779abf94e5a83387beb74519cd5cb3cc65a8f",
     "chars": 7585,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1321.2,
+    "bytes": 7936804,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-082": {
     "qid": "114-082",
@@ -753,7 +1156,13 @@
     "sha256": "c45894f0ef35d317bee1477cda12df4cc270063e04aabdf96867f3fb7a6a9854",
     "chars": 4052,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 655.2,
+    "bytes": 3936361,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-083": {
     "qid": "114-083",
@@ -762,7 +1171,13 @@
     "sha256": "36cf003ecb270aa11deed8102e52cc0597a2b78d50d5def754e6c6870d3e9c6a",
     "chars": 4197,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 685.6,
+    "bytes": 4119156,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-084": {
     "qid": "114-084",
@@ -771,7 +1186,13 @@
     "sha256": "5ee0d2c82fd0e69e627c16a1b47e50646f3be889a334bbf6753e9658646baa8d",
     "chars": 3355,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 583.3,
+    "bytes": 3504517,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-085": {
     "qid": "114-085",
@@ -780,7 +1201,13 @@
     "sha256": "2fb8272f1c20b514019a12dee008e283222835899bb12f62c88451e6b26f6318",
     "chars": 4087,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 668.8,
+    "bytes": 4018415,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-086": {
     "qid": "114-086",
@@ -791,7 +1218,13 @@
     "tables": [
       "流程圖(22 行) → 快取 e0204e7f2f311e78"
     ],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1539.5,
+    "bytes": 9247512,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 9,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-087": {
     "qid": "114-087",
@@ -800,7 +1233,13 @@
     "sha256": "ee8ad1ccba654f44b2b8ab98f61ceb78c79942774be4924c674f9f7721aa224b",
     "chars": 7312,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1237.5,
+    "bytes": 7433736,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-088": {
     "qid": "114-088",
@@ -809,7 +1248,13 @@
     "sha256": "a7a34e242180309ad57257f8d106522579087e5e522e27848baf811ef0e56a36",
     "chars": 5442,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 905.1,
+    "bytes": 5437338,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-089": {
     "qid": "114-089",
@@ -818,7 +1263,13 @@
     "sha256": "187ae5e7f5207beb54a55251e8c2f5ade39d8415712b12ebee6a2d5af3db4fb6",
     "chars": 3712,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 581.0,
+    "bytes": 3490692,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-090": {
     "qid": "114-090",
@@ -827,7 +1278,13 @@
     "sha256": "18c25cf89c149568006239674243cf3223011a7c74835b00ad15b5de45410bb9",
     "chars": 3921,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 590.3,
+    "bytes": 3546642,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-091": {
     "qid": "114-091",
@@ -836,7 +1293,13 @@
     "sha256": "e452f03afb151c1c4c4ae44d19a1edfe597c2f4df342406a6783701c7dd6425d",
     "chars": 4542,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 749.0,
+    "bytes": 4500138,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-092": {
     "qid": "114-092",
@@ -845,7 +1308,13 @@
     "sha256": "8e30d24371cfef5aa57e4a64d3c400213230055377b81a4f20e243634751a3c0",
     "chars": 4852,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 818.7,
+    "bytes": 4918726,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-093": {
     "qid": "114-093",
@@ -854,7 +1323,13 @@
     "sha256": "5cb87a39aa599051d0f927b2c8c66c676efc2940f61bb7aa9787bc62352518a4",
     "chars": 3909,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 608.4,
+    "bytes": 3655313,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-094": {
     "qid": "114-094",
@@ -863,7 +1338,13 @@
     "sha256": "39621a8d2ab2db0dd206f78d6345058736cf146833e5e698da947e9f7585c4b8",
     "chars": 2654,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 432.4,
+    "bytes": 2598461,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 3,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-095": {
     "qid": "114-095",
@@ -872,7 +1353,13 @@
     "sha256": "f5ea724b8db231635ecf55815825e847e3761c38539d0a8f542bebcd3905375d",
     "chars": 10506,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1557.4,
+    "bytes": 9355343,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 10,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-096": {
     "qid": "114-096",
@@ -881,7 +1368,13 @@
     "sha256": "4e0e3ed1cb5eb2d5d052ef26cac1e6612340c4c5c7f9608c78e7ee68f9d9f2bc",
     "chars": 6117,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 958.5,
+    "bytes": 5757957,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-097": {
     "qid": "114-097",
@@ -890,7 +1383,13 @@
     "sha256": "6ff3c075e31d15f882674d65adbef93353d302e1c2626031b83c5fcd44d9bc08",
     "chars": 3592,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 524.8,
+    "bytes": 3153398,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-098": {
     "qid": "114-098",
@@ -899,7 +1398,13 @@
     "sha256": "e7d35b01f2b74857dc60f42ffeedc3cf242382bebd25f555b4876993b7b85f34",
     "chars": 3468,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 595.5,
+    "bytes": 3577761,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-099": {
     "qid": "114-099",
@@ -908,7 +1413,13 @@
     "sha256": "15a223c6795ea23b967f5cef4d60f103814ffaf8d7d91bcd867323539d5d4523",
     "chars": 5302,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 942.2,
+    "bytes": 5660197,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 6,
+    "released_at": "2026-08-09T23:53:39+00:00"
   },
   "114-100": {
     "qid": "114-100",
@@ -917,6 +1428,12 @@
     "sha256": "324a91344143b89fdf0ed20d88ca58b63772a4c9ebb33ae4fd7df93f59d4a93f",
     "chars": 5117,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 858.0,
+    "bytes": 5154409,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-09T23:53:39+00:00"
   }
 }
