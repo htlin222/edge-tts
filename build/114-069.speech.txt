@@ -1,0 +1,153 @@
+第一一四年，第六十九集。
+
+一個 4.7 kb 的行李箱決定的命運。
+
+血友病基因治療：為什麼 A 型比 B 型難得多，以及肝臟是這一切的共同代價。
+
+一、4.7 kb 的行李箱——AAV 載體容量如何決定了兩型的命運。
+
+一切的差異，從一個數字開始：4.7 kb。這是 adeno-associated virus（AAV）病毒載體包裝基因表現匣的實際上限。超過這個閾值，包裝效率急劇下降，載體顆粒中裝填的多半是截短的 DNA 片段，而非完整的功能性轉基因匣——這不只是工程上的不便，而是一條近乎無法逾越的生物物理邊界 。
+
+在這個框架下，B 型血友病（Hemophilia B）與 A 型血友病（Hemophilia A）的基因治療難度，從兩個基因的大小就已被決定：
+
+FIX cDNA 約 1.4 kb：裝入 4.7 kb 的 AAV 後，還餘下超過 3 kb 的空間，足以容納一個強效的 liver-specific promoter/enhancer（如 apolipoprotein E 調控序列或合成型肝臟啟動子），以及 Kozak 序列、poly-A signal、intron 等最佳化調控元件的完整組合。
+FVIII cDNA 完整版本約 7 kb，遠超上限。即便採用 B-domain deleted FVIII（BDD-FVIII）——將生理上在 thrombin 活化時即被切除的 B 域刪去——壓縮後的構型仍約 4.9 到 5.2 kb，已觸頂甚至溢出，幾乎沒有空間留給最佳化的轉錄調控元件 。
+
+這個物理限制帶來的連鎖效應是：A 型基因治療被迫在「裝得下的 DNA」與「表現夠多的調控工具」之間取得一個從一開始就不夠好的妥協，而 B 型則能兩者兼顧。
+
+B 型血友病還握有一張 A 型沒有的王牌：FIX Padua variant（R338L）。這個天然存在的點突變（第 338 位精胺酸→亮胺酸），由義大利 Padua 一個家族發現，其蛋白比活性（specific activity）約為野生型 FIX 的 6 到 8 倍 。這意味著：若目標血漿 FIX 活性為 20 到 30%，只需表現出相當於「正常量的 1/6 到 1/8」的蛋白分子數，即可達到治療濃度。
+
+這是一個精妙的雙重紅利：載體裝得下整個表現匣（基因小），又不必從每個肝細胞榨出太多蛋白（功效高）。低表現量就足夠，因此 ER 的分泌壓力相對低，免疫被偵測的「靶面積」也小。Padua variant 的引入，使 etranacogene dezaparvovec（Hemgenix）與 fidanacogene elaparvovec（Beqvez）在劑量選擇上具有極大彈性，且長期安全性資料迄今未見血栓等預期外的嚴重副作用 。
+
+二、表現量會衰減——AAV-FVIII 的核心難題，三個相互交纏的機轉。
+
+2-1. FVIII 在肝細胞內質網中的折疊危機。
+
+FVIII 是凝血因子中一個出了名難以表現的蛋白。即便肝細胞正是 FVIII 的生理產地，它在內質網（endoplasmic reticulum, ER）中的折疊效率仍遠低於同等大小的分泌蛋白 。其根本原因包括：
+
+FVIII 結構中多個 copper-binding domain 的折疊對氧化還原環境極為敏感
+FVIII 依賴特定的分子伴護系統（LMAN1-MCFD2 complex）才能有效離開 ER 進入高爾基氏體
+BDD-FVIII 雖然去除了 B 域，仍保留了導致折疊困難的 heavy chain/light chain 結構
+
+大量折疊不良的 FVIII 在 ER 滯積，觸發 unfolded protein response（UPR）。持續的 UPR 對肝細胞產生毒性，啟動 IRE1alpha /ATF6 PERK 等路徑，若無法解決，最終導致 ER stress-induced apoptosis 。這等於說：FVIII 的高表現本身就對產生它的細胞帶來傷害，而 FIX 是肝細胞本來就擅長分泌的維生素 K 依賴型蛋白，折疊路徑遠較流暢。
+
+最新研究已嘗試工程化改造 BDD-FVIII 的折疊特性：2025 年發表的工作顯示，帶有特定胺基酸取代的工程型 FVIIISQ 可顯著降低 ER 內積累，減少 UPR 活化，並在小鼠與恆河猴模型中達到比 valoctocogene roxaparvovec 高出數倍的 FVIII 活性——且所需載體劑量僅為其 1/30 。這一進展印證了 ER stress 在 FVIII 衰減中的核心地位，也指出了未來改良的方向。
+
+2-2. Episomal AAV 基因體隨細胞分裂被稀釋。
+
+AAV 基因治療後，轉基因在肝細胞中以非嵌入型環狀 episome（circular episome） 形式存在，而非穩定整合於宿主基因組。這個 episomal DNA 會隨每次細胞分裂而被子細胞平分，平均每次分裂後拷貝數降為一半。
+
+這有兩個關鍵臨床意涵：
+
+成人的靜止期肝細胞（quiescent hepatocyte）轉基因相對穩定，因為正常成人肝臟的細胞更新速度極慢。
+兒童不適合接受 AAV 基因治療：兒童期肝臟仍持續生長，肝細胞持續分裂，episomal 轉基因會被快速稀釋而失效；加之兒童的免疫系統對外來 capsid 的反應亦更難預測。目前所有已核准的血友病基因治療產品均限於成人（Beqvez：18 歲以上，Hemgenix：18 歲以上，Roctavian：18 歲以上），兒童的基因治療需要整合型載體或 in vivo 基因編輯策略，目前均在研究階段 。
+
+2-3. GENEr8-1 的長期數據：衰減是真實的。
+
+Valoctocogene roxaparvovec（Roctavian, AAV5-BDD-FVIII-SQ）的臨床表現最清楚地呈現了上述機轉的臨床後果。GENEr8-1 第三期試驗顯示 ：
+
+第一年末 FVIII 中位活性達治療巔峰，出血率大幅下降
+第 1 至第 2 年，FVIII 活性即出現顯著衰減，此後繼續下滑
+多年追蹤後，相當比例的患者 FVIII 活性降回重度血友病（<1%）或接近重度水準，需要重啟預防性因子補充治療
+
+相比之下，etranacogene dezaparvovec 的 phase 2b 五年追蹤顯示平均 FIX 活性從第一年的 40.8 IU/dL 到第五年維持於 45.7 IU/dL，五年間幾乎無顯著衰減 ；fidanacogene elaparvovec 三至六年追蹤同樣顯示 FIX 活性持續穩定 。這種 A 型衰減、B 型穩定的不對稱，直接呼應了上述 ER stress 與 Padua variant 帶來的生物學差距。
+
+三、肝臟是共同的代價——transaminitis 不是意外，是這條路徑的內建成本。
+
+3-1. AAV 基因治療後的肝酵素升高：機轉與規模。
+
+AAV 載體進入肝細胞後，其 capsid 蛋白片段被呈現於 MHC class I 分子，引發針對已轉導肝細胞的 CD8⁺ cytotoxic T lymphocyte（CTL）反應。這個免疫攻擊是一個「本來就應該發生」的生理性免疫監視機制——問題在於，被攻擊的正是攜帶轉基因的細胞，因此 ALT AST 上升與轉基因表現量下降常常同步發生，臨床上可以將 ALT 趨勢作為細胞毒性 T 細胞攻擊強度的間接指標 。
+
+在 GENEr8-1 試驗中 ： - 79.1% 的受試者（106/134 人）依照方案接受了 corticosteroid 治療 - ALT 升高首次出現的中位時間：輸注後 8.0 週 - Corticosteroid 中位治療持續時間：230 天（範圍：22 到 551 天）——超過 7 個月的平均類固醇暴露 - 71.8% 接受類固醇的患者出現類固醇相關副作用，最常見者為 acne、insomnia、Cushing's syndrome、體重增加 - 3 名患者（2.7%）因類固醇出現嚴重不良事件
+
+此外，肝臟切片（transjugular biopsy）的病理研究進一步確認，ALT 升高的組織學基礎是急性免疫性肝炎，並伴隨肝細胞平滑 ER 的形態異常——同時呈現免疫攻擊（高 cytotoxic T 細胞活性）與 ER stress（形態異常）的雙重病理 。ALT 監測是接受 AAV 基因治療後追蹤的核心工具，各指引建議在輸注後數週至數月密集監測，一旦 ALT>1.5 倍基線值即考慮啟動 corticosteroid。
+
+3-2. Fitusiran 同樣造成肝酵素上升——GalNAc-conjugated siRNA 的肝臟標靶代價。
+
+Fitusiran 是一個以 GalNAc（N-acetylgalactosamine）連接的皮下注射 siRNA，靶向 antithrombin（AT）mRNA，透過抑制 AT 表現來重平衡凝血系統（rebalancing），適用於 A 型與 B 型血友病（含或不含 inhibitors）。GalNAc 設計本質上就是為了靶向肝細胞（肝細胞表面高度表現 asialoglycoprotein receptor，可攝取 GalNAc 接合物），因此肝臟是其藥理作用的主要場所，也是其副作用的主要位置。
+
+ATLAS 系列試驗（ATLAS-A B 與 ATLAS-INH）均一致觀察到肝酵素升高 ：
+
+ATLAS-A B（無 inhibitors 的 A B 型）：fitusiran 組中 15/79 人（19%） ALT 或 AST 超過正常上限 3 倍；均為非嚴重事件，但導致 5 名患者中斷或退出 fitusiran；事件解除中位時間 57 到 106 天
+ATLAS-INH（有 inhibitors）：最常見的 adverse event 即為 ALT 升高，13/41 人（32%） 出現，對照的 bypassing agent 組則為 0
+所有試驗中均未觀察到符合 Hy's Law 標準的事件（ALT AST >3 倍 ULN 合併 bilirubin >2 倍 ULN），提示肝損傷程度以輕中度為主
+
+因此，「基因治療與 antithrombin siRNA 都會造成一定程度的肝功能上升」這個敘述是成立的——前者的機轉是 capsid 誘發的 CTL 肝炎，後者的機轉尚未完全釐清（可能與 siRNA 分子本身的肝毒性、脫靶效應或局部 AT 抑制的肝組織影響有關），兩者雖機轉不同，但臨床表現上均需監測肝酵素。
+
+四、一次性治療的長期不確定與現實面。
+
+4-1. 中和抗體排除可觀比例的患者。
+
+Pre-existing anti-AAV neutralizing antibodies（NAbs）是 AAV 基因治療的主要資格門檻。一項大規模多中心橫斷面研究顯示，血友病患者中： - AAV2 NAbs 陽性率：53.1% - AAV5 NAbs 陽性率：53.4% - AAV8 NAbs 陽性率：46.9% - 至少兩種血清型同時陽性者約 40%，三種全陽性者 38.2%
+
+世界血友病聯盟（WFH）2025 年基因治療指引明確指出：血友病 A 患者只要 AAV5 NAbs 檢測陽性，目前即不具 valoctocogene roxaparvovec 治療資格 。BENEGENE-2 試驗篩選期間，316 名受試者中有 188 人（59.5%）因 anti-AAV NAbs 陽性而被排除 。這個「抗體關卡」在真實世界中排除了相當大比例的潛在受益族群。
+
+值得注意的例外是 etranacogene dezaparvovec：其 phase 3 HOPE-B 試驗納入了部分 AAV5 NAbs 陽性患者，顯示低至中效價的 NAbs 並不完全阻止基因轉導效果；此特性被認為與 AAV5 capsid 的獨特結合位點有關，為 B 型血友病患者開放了更廣的治療窗 。這是又一項 B 型在制度設計上優於 A 型之處。
+
+4-2. 第一次就必須成功——AAV 基因治療的不可重複性。
+
+AAV 輸注後，患者會產生效價極高的中和抗體反應。由於目前可用的血清型有限，且 AAV capsid 之間存在相當程度的交叉反應，一旦接受某一血清型的 AAV 基因治療，實質上即失去再次使用同一載體系統的機會。即便改換血清型，交叉反應性 NAbs 仍可能封鎖治療效果 。這使得「基因治療只有一次機會」成為臨床上的嚴肅事實：第一次的劑量選擇、患者篩選、免疫管理，以及對衰減的預先告知，都必須慎之又慎。
+
+4-3. 商業現實：市場已說話。
+
+Valoctocogene roxaparvovec（Roctavian）2022 年在歐盟、2023 年在美國核准上市，但商業表現嚴重低於預期。BioMarin 在 2023 到 2024 年間大幅縮減 Roctavian 的商業佈局，包括裁減銷售團隊、退出部分市場，並對 Roctavian 的長期前景作出保守預測。核心原因包括：FVIII 活性衰減的長期數據降低了醫師信心、高昂定價（約 290 萬美元）難以取得保險核准、以及 emicizumab 皮下注射預防性治療的強大競爭 。
+
+相對地，B 型血友病的兩個基因治療產品均已成功上市： - Hemgenix（etranacogene dezaparvovec）：2022 年 11 月由 FDA 核准 - Beqvez（fidanacogene elaparvovec）：2024 年 3 月由 FDA 核准
+
+兩者均有相對穩定的長期追蹤數據支撐，也未出現 Roctavian 式的商業崩解。這個商業敘事，本身就是科學敘事的延伸：B 型的生物學優勢轉化為了臨床優勢，再轉化為市場優勢。
+
+五、誠實評析考題的四個子敘述。
+
+本題（114 年血液專科考題）官方答案為「正確敘述為 (1)(2)(3)」，即 (4) 錯誤。以下逐項評析。
+
+敘述 (1)：Fitusiran 是 antithrombin-targeting siRNA，與 emicizumab 同屬 rebalancing drug，有潛在血栓與中風風險。
+
+部分正確，但藥理分類有精確性問題。
+
+Fitusiran 確為 antithrombin-targeting siRNA，且確有血栓風險（ATLAS-INH 試驗中觀察到 thromboembolic events），這一點完全正確。
+
+問題在於「與 emicizumab 同屬 rebalancing drug」這個分類。Emicizumab 並不是 rebalancing agent，而是 FVIII mimetic（factor VIII 功能模擬物），其本質是一個 bispecific antibody，同時結合 FIXa（活化 FIX）與 FX（FX 受質），將兩者共定位（co-localize），模擬 FVIIIa 作為 intrinsic tenase complex 中 cofactor 的橋接功能 。它是「模擬缺失的因子來補位」，是 replacement-mimicking 策略。
+
+真正的 rebalancing agents 是透過抑制天然抗凝路徑來「重新平衡」凝血系統的藥物： - Fitusiran（AT siRNA，抑制 antithrombin） - Concizumab（抑制 TFPI，tissue factor pathway inhibitor） - Marstacimab（亦抑制 TFPI）
+
+Emicizumab 的血栓風險來源與 rebalancing agents 不同：emicizumab 與 aPCC 併用時因凝血過度活化導致 TMA/血栓（此部分您另有筆記，不在本文重複），而不是因為抑制了天然抗凝機制。
+
+因此，敘述 (1) 的「血栓風險」成立，但「同屬 rebalancing drug」的分類在嚴謹的藥理學意義上不夠精確。考試答題脈絡下可視為「大致成立」，但臨床討論時應區辨兩者的機轉類別。
+
+敘述 (2)：基因治療方面 A 型血友病不如 B 型血友病成功，且 B 型基因治療已經上市。
+
+正確。
+
+如上述主軸一至四所詳述：AAV 容量限制、BDD-FVIII 的 ER stress、Padua variant 的比活性優勢、GENEr8-1 的衰減數據 vs. HOPE-B BENEGENE-2 的穩定性、BioMarin 的商業收縮 vs. Hemgenix/Beqvez 的成功上市，全面支持「A 型不如 B 型」的判斷 。
+
+敘述 (3)：基因治療及 antithrombin siRNA 都會造成一定程度肝功能上升。
+
+正確。
+
+如主軸三所述，兩者均有肝酵素升高的臨床證據：AAV 基因治療（79.1% 需 corticosteroid ，且有 biopsy 確認的免疫性肝炎 ）、fitusiran（ATLAS-A B 19%，ATLAS-INH 32% ALT AST >3x ULN ）。機轉雖不同，結論一致 。
+
+敘述 (4)：病人有高效價抑制體、正在接受 ITI 免疫耐受誘導治療，若有出血情事可以暫時併用 emicizumab。
+
+錯誤——且是方向性的根本錯誤。
+
+這個敘述至少犯了兩個層次的錯誤：
+
+第一層：藥理動力學的錯誤。 Emicizumab 的半衰期約為 4 到 5 週，需要 4 次 loading doses（每週 3 mg/kg 皮下注射）才能在約 4 到 5 週後達到穩態濃度，才具備充分的出血預防效能。它本質上是一個 prophylactic（預防性）藥物，並非設計用來快速應對急性出血。「急性出血時暫時併用」的說法——意指突發出血時臨時加用 emicizumab——從藥動學上根本行不通：給藥後需數週才能達到治療濃度，急性期患者出血時間根本等不到這個血中濃度窗口 。
+
+第二層：急性出血管理的錯誤。 有高效價 FVIII inhibitors 的患者發生急性出血時，應使用 bypassing agents： - Recombinant activated factor VII（rFVIIa，NovoSeven）：在患者已接受 emicizumab 預防治療的背景下，rFVIIa 是急性出血的首選 bypassing agent，因為與 emicizumab 的交互作用風險較低。 - aPCC（activated prothrombin complex concentrate，如 FEIBA）：在 emicizumab 存在的情況下因 TMA/blood clot 風險，須極度謹慎，您另有筆記記錄此細節。
+
+Emicizumab 與 ITI 正確的並用定位： 在 ITI（Immune Tolerance Induction）治療期間，患者因體內有高效價 inhibitors，傳統預防性因子補充治療效果不佳，出血保護存在空窗。這時 emicizumab 的角色是作為 ITI 期間的持續性背景出血預防（background prophylaxis）——在 inhibitor 尚未被 ITI 消除的漫長過程中（往往數月至數年），emicizumab 提供持續的出血保護，而非在特定出血事件發生時臨時「加進去」。這是一個長期、預防性、規律給藥的角色，而非急性出血的救援措施。
+
+因此，敘述 (4) 所描述的「有出血情事，可以暫時併用 emicizumab」不但在藥動學上不合理，在臨床操作上也顛倒了 emicizumab 的正確角色——它應在出血發生之前就已在發揮預防效果，而非在出血發生之後才考慮引入。
+
+結語：三件事如何一路決定了臨床結果。
+
+回顧這整條敘事線，可以看到三個相互交纏的生物學事件如何從分子層面一路決定了臨床結局：
+
+分子大小（molecular size） 決定了什麼能裝進 AAV——FIX 裝得下，FVIII 只能用妥協後的 BDD 版本勉強塞進去，且幾乎榨乾了調控元件的空間。
+
+蛋白折疊（protein folding） 決定了裝進去的東西能不能穩定運作——FIX 對肝細胞友善，FVIII 帶來 ER stress 與 UPR，肝細胞在高表現 FVIII 的壓力下逐漸凋亡，transgene 表現隨之衰減。
+
+免疫反應（immune response） 是這條路徑的共同代價——無論是 A 型還是 B 型，AAV capsid 均引發 CTL 攻擊已轉導的肝細胞，造成 transaminitis；而 fitusiran 作為另一條肝臟靶向策略，也以不同的機轉帶來類似的肝酵素異常。肝臟是所有這些策略的共同舞台，也是共同的代價。
+
+理解這個「大小→折疊→免疫」的邏輯鏈，就理解了為什麼 B 型基因治療的五年穩定性數據讓人振奮，而 A 型基因治療仍在尋找一個能克服 ER stress 與衰減的工程解答 ——那個解答，可能就在下一代的工程型 FVIII 分子中。

@@ -1,0 +1,35 @@
+{
+  "114-031": {
+    "qid": "114-031",
+    "title": "有脈絡的綜論:不去搶 ATP 的位子:一個替激酶裝回煞車的藥",
+    "episode": "第一一四年 第三十一集",
+    "sha256": "a8f7868dd3523457f175ed5f4c3aaabf8c90b890c9eff852cd7e7268a553eb98",
+    "chars": 3413,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-053": {
+    "qid": "114-053",
+    "title": "有脈絡的綜論:一個染色體易位如何被翻譯成一個數字,而那個數字現在已經不夠用了",
+    "episode": "第一一四年 第五十三集",
+    "sha256": "42ec9443fd3c6c17724e5a4ce21292d7e86ba1699241e38d8f2c2dd481d9dd84",
+    "chars": 2891,
+    "tables": [],
+    "mp3_released": true,
+    "duration": 402.4,
+    "bytes": 2423062,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+20%",
+    "chunks": 3,
+    "released_at": "2026-08-09T17:06:33+00:00"
+  },
+  "114-069": {
+    "qid": "114-069",
+    "title": "有脈絡的綜論:一個 4.7 kb 的行李箱決定的命運",
+    "episode": "第一一四年 第六十九集",
+    "sha256": "ea9a36233f948df4119afecd763ecc0311a121663e24794f2a2254c3dc953e79",
+    "chars": 7824,
+    "tables": [],
+    "mp3_released": false
+  }
+}

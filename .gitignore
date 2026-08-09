@@ -17,3 +17,7 @@ uv.lock
 plan.json
 synth.json
 site/
+
+# 你的 ~/.gitignore_global 第 34 行有 build/，會把朗讀稿與 manifest 整個擋掉。
+# 本機看不到、CI（runner 沒有全域 ignore）看得到 —— 這種不一致最難查，明確覆蓋掉。
+!build/
