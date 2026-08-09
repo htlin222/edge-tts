@@ -1,4 +1,274 @@
 {
+  "114-001": {
+    "qid": "114-001",
+    "title": "有脈絡的綜論:測量的時間點,決定了它在測哪一種抗藥性",
+    "episode": "第一一四年 第一集",
+    "sha256": "384448b621dd6d8a788d6fd5f69e7dd07db1409334f92086bade37a4d7aeacfb",
+    "chars": 3889,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-002": {
+    "qid": "114-002",
+    "title": "有脈絡的綜論:排除一個診斷,和做出一個診斷,用的是不同的證據",
+    "episode": "第一一四年 第二集",
+    "sha256": "20da754c575a409b37bed63d54dd445d26fc683898ae55a2ae793c0ef8ab8665",
+    "chars": 4456,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-003": {
+    "qid": "114-003",
+    "title": "有脈絡的綜論:同樣是補體失控:一個是細胞失去盾牌,一個是補體失去煞車",
+    "episode": "第一一四年 第三集",
+    "sha256": "e153ee15eedc6de69aa3e9eb2487ff84d0145a483e8a0d89fbdf343df01f26ed",
+    "chars": 6710,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-004": {
+    "qid": "114-004",
+    "title": "有脈絡的綜論:一個看起來像溶血就該用的藥,為什麼在這裡是錯的(含共筆答案更正)",
+    "episode": "第一一四年 第四集",
+    "sha256": "899b10979597037bf0fea335dc9878471a98d09eb18016d03956c367b799219b",
+    "chars": 6467,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-005": {
+    "qid": "114-005",
+    "title": "有脈絡的綜論:治療有效不等於危險因子消失:停藥的決定和開藥的決定用的是不同的證據",
+    "episode": "第一一四年 第五集",
+    "sha256": "27ca7964ba70415347d6f5f1f2e0693f6dcf17abcfc2a7d51ddb584291d96674",
+    "chars": 4948,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-006": {
+    "qid": "114-006",
+    "title": "有脈絡的綜論:LDH 正常了,貧血卻沒好:治療把一種溶血換成了另一種",
+    "episode": "第一一四年 第六集",
+    "sha256": "29a5cdd547dd938d10b9a81a9adc2573092600b3e937a35fad0da78d5228f243",
+    "chars": 5741,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-007": {
+    "qid": "114-007",
+    "title": "有脈絡的綜論:給藥方式是分子性質的後果:單藥或加成取決於能不能單獨擋住 MAC",
+    "episode": "第一一四年 第七集",
+    "sha256": "9bc4c3aaff3c259ce6b105b24061558300b362c2a4ee31baa47770bfa25c0048",
+    "chars": 4115,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-008": {
+    "qid": "114-008",
+    "title": "有脈絡的綜論:把補體的每一個片段各歸其位:誰負責溶解、誰負責標記、誰負責召喚",
+    "episode": "第一一四年 第八集",
+    "sha256": "54f4252fbb3ba838f89341a32477f0f85890efa45e3dc050bb25a7fe5bcb8f0f",
+    "chars": 2904,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-009": {
+    "qid": "114-009",
+    "title": "有脈絡的綜論:同一個影像檢查:在一種類澱粉是確診工具,在另一種卻是誤診陷阱",
+    "episode": "第一一四年 第九集",
+    "sha256": "e04cf5b63ab8bb7342af5af35768357866b19f4315a775720a2ff019ec45a0af",
+    "chars": 3901,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-010": {
+    "qid": "114-010",
+    "title": "有脈絡的綜論:一個西方試劑盤看不見的抗體:為什麼台灣的輸血醫學必須有自己的篩檢細…",
+    "episode": "第一一四年 第十集",
+    "sha256": "0eaf98c12e9e6358b744da2e0e37f8d3e558dcd233182e1e3d6ecf66a4e90f87",
+    "chars": 6046,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-011": {
+    "qid": "114-011",
+    "title": "有脈絡的綜論:四個 DOAC,兩種起始方式:分野不在藥理,而在當年試驗怎麼設計",
+    "episode": "第一一四年 第十一集",
+    "sha256": "7861e358a61d20ce68734a91b6958ef145947bcb98faebc41974c39196502a83",
+    "chars": 5327,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-012": {
+    "qid": "114-012",
+    "title": "有脈絡的綜論:潛伏期是機轉的指紋:一個是慢慢被選出來的,一個是一次意外造出來的",
+    "episode": "第一一四年 第十二集",
+    "sha256": "380de74c4e4dce2df71e76d77c9511afdadbde6c746ca93369435848f0561987",
+    "chars": 2888,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-013": {
+    "qid": "114-013",
+    "title": "有脈絡的綜論:一條染色體上同時帶著 A 和 B:一個打破孟德爾預期的血型",
+    "episode": "第一一四年 第十三集",
+    "sha256": "fe9c28c0be3beb7b3479bd9f7b93fe6c472c1e809cb174566ed9d9c4e9ca23dc",
+    "chars": 4436,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-014": {
+    "qid": "114-014",
+    "title": "有脈絡的綜論:當分類的依據從看得見的染色體走向看不見的表現譜",
+    "episode": "第一一四年 第十四集",
+    "sha256": "399c2460705da5cd341a23dabffcdd0813352c89126e19af8eccbf7142c23ce2",
+    "chars": 4524,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-015": {
+    "qid": "114-015",
+    "title": "有脈絡的綜論:Auto control 是一個岔路口:決定接下來要找別人的抗原還…",
+    "episode": "第一一四年 第十五集",
+    "sha256": "20801e43d591a2de9b0cd7b49703c8f45ffb74097d603636a5543501884f5257",
+    "chars": 5434,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-016": {
+    "qid": "114-016",
+    "title": "有脈絡的綜論:TP53 的幾次打擊如何決定一個診斷:ICC 與 WHO 的兩套算…",
+    "episode": "第一一四年 第十六集",
+    "sha256": "07b3e295c2cb8e47b85df282fe4fb9e860051f8920970a6fd12d0ac309d9f649",
+    "chars": 2818,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-017": {
+    "qid": "114-017",
+    "title": "有脈絡的綜論:當基因幫不上忙的時候:MPN 是形態學仍然主權在握的那個反例",
+    "episode": "第一一四年 第十七集",
+    "sha256": "bce87f7cf468b31653825f9111e8da1ff8ade34dd67cf28435d559db37d29f41",
+    "chars": 2873,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-018": {
+    "qid": "114-018",
+    "title": "有脈絡的綜論:攔截點越往上游:療效與感染風險的形狀就一起改變",
+    "episode": "第一一四年 第十八集",
+    "sha256": "85bdc688bf8696a145530f794b80d2652a30d83d3cdfbf5e93026f55da9e9f93",
+    "chars": 5307,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-019": {
+    "qid": "114-019",
+    "title": "有脈絡的綜論:配對題真正的陷阱:強烈相關不等於專一(home disease v…",
+    "episode": "第一一四年 第十九集",
+    "sha256": "3b806d41ea76e5ba6cfc16c881d8dfe1920dc0a7dda07b12d03669de81884e41",
+    "chars": 3619,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-020": {
+    "qid": "114-020",
+    "title": "有脈絡的綜論:ITP 的二線治療:在破壞端與生產端之間選邊,而時間本身是第三個選…",
+    "episode": "第一一四年 第二十集",
+    "sha256": "15b08eef76c2bd940c0661f6bc2e9a37e7c7c531b3f46070f88c4ca560a4865b",
+    "chars": 5380,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-021": {
+    "qid": "114-021",
+    "title": "有脈絡的綜論:一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMC…",
+    "episode": "第一一四年 第二十一集",
+    "sha256": "ebf697ce2e31ac349c0b85099da8a2e944b5cb1706c5d841e326fda4f181a9fc",
+    "chars": 3856,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-022": {
+    "qid": "114-022",
+    "title": "有脈絡的綜論:TMA 是共同終點不是診斷:真正的問題永遠是上游是誰推的",
+    "episode": "第一一四年 第二十二集",
+    "sha256": "064b06420bb20f9e858fab8783755a3f4515bbaae02567e6adaba9e1c7e585ce",
+    "chars": 8960,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-023": {
+    "qid": "114-023",
+    "title": "有脈絡的綜論:同一台機器上的四個零件:為什麼壞掉的後果天差地遠",
+    "episode": "第一一四年 第二十三集",
+    "sha256": "c18b9c9a76890c039827fd188f9a68367109d0515d03bad11a72d3050af23c51",
+    "chars": 2746,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-024": {
+    "qid": "114-024",
+    "title": "有脈絡的綜論:激酶抑制劑的構型政治學:你抓的是活著的酶,還是睡著的酶",
+    "episode": "第一一四年 第二十四集",
+    "sha256": "6281b1c1fb0b4d47d06796874990e1d3b24a1b2c5541e8ceb2659580c90943ce",
+    "chars": 3327,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-025": {
+    "qid": "114-025",
+    "title": "有脈絡的綜論:上了頭條的那一個,和真正最常見的那一個",
+    "episode": "第一一四年 第二十五集",
+    "sha256": "bb52fd16c8a53cf8f9022d24988ed2d7b3b32343307a2d482b2595a7b896e5f3",
+    "chars": 3290,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-026": {
+    "qid": "114-026",
+    "title": "有脈絡的綜論:每次改版真正在改的不是能不能治好,而是治好之後要付多少代價",
+    "episode": "第一一四年 第二十六集",
+    "sha256": "8436a333be4ffba01b1f3e351d2239816a011825ac51aeead41c785638d5aa48",
+    "chars": 3484,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-027": {
+    "qid": "114-027",
+    "title": "有脈絡的綜論:急性期救回了病人,但 iTTP 真正的長尾在後面",
+    "episode": "第一一四年 第二十七集",
+    "sha256": "e4ef5154ef9ff8165f8f27efbeaf0274dbac654982a1f408fbeeefe7aaf8eedf",
+    "chars": 5231,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-028": {
+    "qid": "114-028",
+    "title": "有脈絡的綜論:如何把一個抗體從一次性消耗品變成可重複使用的工具",
+    "episode": "第一一四年 第二十八集",
+    "sha256": "eb8c22ff715bd5187ec00b97528f666fdfd2d66ce5349107192b9c5c6ed65a27",
+    "chars": 5448,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-029": {
+    "qid": "114-029",
+    "title": "有脈絡的綜論:什麼樣的突變才配被叫做高風險:關於獨立性與疾病專屬性的篩選",
+    "episode": "第一一四年 第二十九集",
+    "sha256": "833aa62d040584c0daeb635110f8eef3b42a17e92735edc5c02fb8b8f2f6ffe9",
+    "chars": 3284,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-030": {
+    "qid": "114-030",
+    "title": "有脈絡的綜論:一個放棄了自己身分的腫瘤細胞:所以打它的方式必須從微環境下手",
+    "episode": "第一一四年 第三十集",
+    "sha256": "6701c95a46ab1a0737d79096fd34cd31d093890f96de0b1610e5477ce2a1e02e",
+    "chars": 4390,
+    "tables": [],
+    "mp3_released": false
+  },
   "114-031": {
     "qid": "114-031",
     "title": "有脈絡的綜論:不去搶 ATP 的位子:一個替激酶裝回煞車的藥",
@@ -13,6 +283,195 @@
     "rate": "+20%",
     "chunks": 4,
     "released_at": "2026-08-09T17:19:33+00:00"
+  },
+  "114-032": {
+    "qid": "114-032",
+    "title": "有脈絡的綜論:第一章:線索幾年來一直寫在皮膚上,而診斷的關鍵字是溫度",
+    "episode": "第一一四年 第三十二集",
+    "sha256": "ee99056ccee02fd9dbb963714b0a7060a6e26f8bdc68517d9e836afe2224ddb8",
+    "chars": 5559,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-033": {
+    "qid": "114-033",
+    "title": "有脈絡的綜論:第二章:為什麼在這個病人身上,最常用的那顆藥反而沒有用",
+    "episode": "第一一四年 第三十三集",
+    "sha256": "78fe3482ad90e9d9212b70c424c7bb61b63017fcad04affcb0e2bddd3883a8ed",
+    "chars": 4462,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-034": {
+    "qid": "114-034",
+    "title": "有脈絡的綜論:第三章:同一條級聯,三個疾病,三個不同的入口",
+    "episode": "第一一四年 第三十四集",
+    "sha256": "4bc18b11bb7fc3c955ec51a5ea83a8bcc604c03b0c6939785dc09b527ac04b74",
+    "chars": 4504,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-035": {
+    "qid": "114-035",
+    "title": "有脈絡的綜論:第四章:攔截點的高度,決定了你能擋住哪一種溶血",
+    "episode": "第一一四年 第三十五集",
+    "sha256": "375b9c427f27a8c3c3e13fede95455afcfb2e08172045fd1089ff83183845df2",
+    "chars": 5391,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-036": {
+    "qid": "114-036",
+    "title": "有脈絡的綜論:第五章:最不起眼的那些處置,才是病人每天真正在過的日子",
+    "episode": "第一一四年 第三十六集",
+    "sha256": "ae39a93fcce67fc3e7c15e7e228f5a6d7f327073e9925a55ea17f2366593e34e",
+    "chars": 2811,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-037": {
+    "qid": "114-037",
+    "title": "有脈絡的綜論:第六章(終章):同一個抗體,做了兩件互不相干的事",
+    "episode": "第一一四年 第三十七集",
+    "sha256": "f1fb6978aff72f64077b683b012c5ca30dfc2489ae446690f12d0cf29b98faea",
+    "chars": 2524,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-038": {
+    "qid": "114-038",
+    "title": "有脈絡的綜論:為什麼同一類藥,有一個能治 ITP,另一個反而讓你流血",
+    "episode": "第一一四年 第三十八集",
+    "sha256": "28dba763f276728ac0a02cb9a285edd4eaad3f54af384159d2cfe58ccbe44e0b",
+    "chars": 6167,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-039": {
+    "qid": "114-039",
+    "title": "有脈絡的綜論:當一個為不能化療的人設計的藥,開始挑戰化療本身",
+    "episode": "第一一四年 第三十九集",
+    "sha256": "cf088f25856224dd8ab486a5d492186dc8964810d1c0633e28713efe19a09f19",
+    "chars": 3892,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-040": {
+    "qid": "114-040",
+    "title": "有脈絡的綜論:一個腫瘤細胞的出生證明:IGHV 有沒有突變,為什麼決定了病人的一…",
+    "episode": "第一一四年 第四十集",
+    "sha256": "b3595d731057a83f0fa45a7437d68444b2cecc717ae72437e059e1f639e08a41",
+    "chars": 3355,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-041": {
+    "qid": "114-041",
+    "title": "有脈絡的綜論:當發炎與凝血其實是同一套系統:COVID-19 給血液學上的那一課",
+    "episode": "第一一四年 第四十一集",
+    "sha256": "89ac39af8ff39c74d82f09df2f08615bad09a6c942b3e770673ea2480f035bb7",
+    "chars": 5713,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-042": {
+    "qid": "114-042",
+    "title": "有脈絡的綜論:為什麼有一種 mantle cell lymphoma,從來不去淋…",
+    "episode": "第一一四年 第四十二集",
+    "sha256": "23af496425c9e6b4424619d716e8a5ac8824319462a6c05f08b092d0209d9ab9",
+    "chars": 5366,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-043": {
+    "qid": "114-043",
+    "title": "有脈絡的綜論:一張染色單子上的加號與減號:CD45 為什麼是關鍵的那一個",
+    "episode": "第一一四年 第四十三集",
+    "sha256": "e84723b804baa8f861b634d0efc64113d08c3bf846335015176c820d224842fd",
+    "chars": 2907,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-044": {
+    "qid": "114-044",
+    "title": "有脈絡的綜論:一個以速度定義的疾病:當抗磷脂症候群在一週之內接管全身",
+    "episode": "第一一四年 第四十四集",
+    "sha256": "eaac3e0e9663707b6bae04aeabb161904957e86efb0200be482fe22f31e2f09a",
+    "chars": 4829,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-045": {
+    "qid": "114-045",
+    "title": "有脈絡的綜論:當一個突變幾乎定義了整個疾病:BRAF V600E 如何把黑色素瘤…",
+    "episode": "第一一四年 第四十五集",
+    "sha256": "7af64a2aaa57bb6c3aecd2439ddea7e363a7bd20349bb9a6517d72d955bfc661",
+    "chars": 2953,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-046": {
+    "qid": "114-046",
+    "title": "有脈絡的綜論:不同的機器,在回答不同的問題:溶骨破壞、骨髓浸潤,還是代謝活性",
+    "episode": "第一一四年 第四十六集",
+    "sha256": "fde78d3f88c911704bbd35713067c30d3e33775b54c14b1307aa549c82c06e58",
+    "chars": 3716,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-047": {
+    "qid": "114-047",
+    "title": "有脈絡的綜論:拉鋸戰的兩端:植入失敗 vs GVHD,而在再生不良性貧血天平方向…",
+    "episode": "第一一四年 第四十七集",
+    "sha256": "06628768c1b460ea4ae4dd0ebcfca156475f100613ee6ccb1188b5be889c031e",
+    "chars": 2808,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-048": {
+    "qid": "114-048",
+    "title": "有脈絡的綜論:兩個突變畫出的治療地圖:MYD88 與 CXCR4 如何決定一個 …",
+    "episode": "第一一四年 第四十八集",
+    "sha256": "4bb57226f7d5d84bf0907b92b4dba9d63075323d2299f738502fb7455c26127e",
+    "chars": 3238,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-049": {
+    "qid": "114-049",
+    "title": "有脈絡的綜論:同一個抗原,兩種抗體,兩種疾病:PF4 為什麼會變成一場災難的舞台",
+    "episode": "第一一四年 第四十九集",
+    "sha256": "668d882a8c705479e83bfdf5a6746868b605f5b21ecc8aea86aa47b8f9a08d4f",
+    "chars": 5422,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-050": {
+    "qid": "114-050",
+    "title": "有脈絡的綜論:一個治不好卻能活很久的病:每一次治療都在決定下一次還剩下什麼",
+    "episode": "第一一四年 第五十集",
+    "sha256": "5def33628cca0356d17ea3da5090d9e7b4c9f6cd4ca64129b4485f5dab173bcf",
+    "chars": 3304,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-051": {
+    "qid": "114-051",
+    "title": "有脈絡的綜論:一個以每天為單位的治療:血漿置換的算術與工程",
+    "episode": "第一一四年 第五十一集",
+    "sha256": "4aca72e7a28bcc23bee6bea3a3ed58c7fe12de6f3c377b583118b5237794dcb5",
+    "chars": 5026,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-052": {
+    "qid": "114-052",
+    "title": "有脈絡的綜論:三個天然的煞車,各自壞掉的方式不一樣",
+    "episode": "第一一四年 第五十二集",
+    "sha256": "148e987d9d5747f0ccc16bbcbf6320021bcd452baea2dea463bdb4722a9cda91",
+    "chars": 5688,
+    "tables": [],
+    "mp3_released": false
   },
   "114-053": {
     "qid": "114-053",
@@ -29,6 +488,141 @@
     "chunks": 3,
     "released_at": "2026-08-09T17:33:04+00:00"
   },
+  "114-054": {
+    "qid": "114-054",
+    "title": "有脈絡的綜論:一個易位不等於一個疾病:從健康人血液裡的那顆細胞到淋巴瘤",
+    "episode": "第一一四年 第五十四集",
+    "sha256": "957d235bf88de4c3b8238c46f0bb739c039825d4a706dc8c9d08cbe861ec6481",
+    "chars": 3153,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-055": {
+    "qid": "114-055",
+    "title": "有脈絡的綜論:為什麼一個有五十多個抗原的系統,我們卻只驗其中一個",
+    "episode": "第一一四年 第五十五集",
+    "sha256": "25ce80fa21923e5520579f753d1a0338fbbf4272d8a0666e69e7eabbc1398963",
+    "chars": 6278,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-056": {
+    "qid": "114-056",
+    "title": "有脈絡的綜論:當預後模型從把人分組變成一人一個分數",
+    "episode": "第一一四年 第五十六集",
+    "sha256": "787fbcf524a2634664b3926852d63fd3a7213e69b77f0432c57405447b9dda64",
+    "chars": 2677,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-057": {
+    "qid": "114-057",
+    "title": "有脈絡的綜論:染色的位置,正在告訴你哪一條染色體斷了",
+    "episode": "第一一四年 第五十七集",
+    "sha256": "5424faef158a03762796fdb9aeb799d53a7056227291c679d595578e2044b494",
+    "chars": 3133,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-058": {
+    "qid": "114-058",
+    "title": "有脈絡的綜論:一個檢驗方法的缺陷,如何在一個族群裡製造出一整批假的病人",
+    "episode": "第一一四年 第五十八集",
+    "sha256": "f2c31dfff2e7679ff6b914088158c567e175c66d8fe31584b0554fef7566b2da",
+    "chars": 5074,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-059": {
+    "qid": "114-059",
+    "title": "有脈絡的綜論:一張流式報告如何在五分鐘內排除三個疾病:而 CLL 的特徵是它有多…",
+    "episode": "第一一四年 第五十九集",
+    "sha256": "40947ea21424faee257dc48a12f99effcaf8d8f5a53d7985df1f56b66b419c2e",
+    "chars": 2979,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-060": {
+    "qid": "114-060",
+    "title": "有脈絡的綜論:兩個病人,兩套血小板,兩組完全不同的顧慮",
+    "episode": "第一一四年 第六十集",
+    "sha256": "1c9589f4fede500691a3c6e2f9c8d1e8bfa660b7817cbe2e2ac927f22c51b0ec",
+    "chars": 5452,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-061": {
+    "qid": "114-061",
+    "title": "有脈絡的綜論:一場只需要滿足一個條件就會發生的災難,而那個條件在台灣特別容易滿足",
+    "episode": "第一一四年 第六十一集",
+    "sha256": "7ed5a301a79cb07dc3bf539364b4b28e275df4b8678901c84b17e8f50d1659cb",
+    "chars": 3031,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-062": {
+    "qid": "114-062",
+    "title": "有脈絡的綜論:一個因為免疫系統被關掉才長出來的癌:治療的第一步是把免疫系統打開",
+    "episode": "第一一四年 第六十二集",
+    "sha256": "ecc35589b8bf5c6f61f31f62110901f4340fd3c82dc9a2ebdac91fca734b8d7c",
+    "chars": 2781,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-063": {
+    "qid": "114-063",
+    "title": "有脈絡的綜論:一個被一場失敗的試驗誤導了很久的治療",
+    "episode": "第一一四年 第六十三集",
+    "sha256": "c654e4f1e44ef1de51d48354e4c1e72c67c8ae45a13c50dc4acedfee7f93d041",
+    "chars": 3920,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-064": {
+    "qid": "114-064",
+    "title": "有脈絡的綜論:兩種完全相反的思路:一個模仿失去的東西,一個拆掉還在的煞車",
+    "episode": "第一一四年 第六十四集",
+    "sha256": "5123d390bea4f80f6249f17d0ec51e8b8642d27ee33eb2b24a30107baf70f233",
+    "chars": 6014,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-065": {
+    "qid": "114-065",
+    "title": "有脈絡的綜論:一個沒有確診檢驗的診斷:靠的是排除、時機與治療反應",
+    "episode": "第一一四年 第六十五集",
+    "sha256": "eae38831e32e9312aa43080002eb81cc299a3f83b57c9f20d7a3b626e91e4df3",
+    "chars": 6999,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-066": {
+    "qid": "114-066",
+    "title": "有脈絡的綜論:一個會隨時間、壓力與年齡移動的診斷",
+    "episode": "第一一四年 第六十六集",
+    "sha256": "cac4b0ab187074e36d348431432e9e6ef097911853863de6b1a151904235c7ca",
+    "chars": 5950,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-067": {
+    "qid": "114-067",
+    "title": "有脈絡的綜論:濾得掉細胞，濾不掉已經發生的發炎",
+    "episode": "第一一四年 第六十七集",
+    "sha256": "8b3cbea6741bc424939f2658a68192ebde210483d137f33db7ae575c7f99c155",
+    "chars": 8999,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-068": {
+    "qid": "114-068",
+    "title": "有脈絡的綜論:方向地圖：哪些往上、哪些往下",
+    "episode": "第一一四年 第六十八集",
+    "sha256": "d2c33ba1dc40a8b8ef8062940beb17a21cb336cea1e52f1012fb4145630b4894",
+    "chars": 7164,
+    "tables": [],
+    "mp3_released": false
+  },
   "114-069": {
     "qid": "114-069",
     "title": "有脈絡的綜論:一個 4.7 kb 的行李箱決定的命運",
@@ -43,5 +637,286 @@
     "rate": "+20%",
     "chunks": 8,
     "released_at": "2026-08-09T17:33:04+00:00"
+  },
+  "114-070": {
+    "qid": "114-070",
+    "title": "有脈絡的綜論:學會找不見了的東西",
+    "episode": "第一一四年 第七十集",
+    "sha256": "2b4a0a516fcda4ef4b0d9f5d964aa7a80bf643b8907bf510eb1ef181872cfefd",
+    "chars": 2972,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-071": {
+    "qid": "114-071",
+    "title": "有脈絡的綜論:細胞在哪裡成熟，病就在哪裡發作",
+    "episode": "第一一四年 第七十一集",
+    "sha256": "3f5762d01edd97512a8e42a951a71bff38c68578cff8a68b6689ef57d187ed9e",
+    "chars": 4308,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-072": {
+    "qid": "114-072",
+    "title": "有脈絡的綜論:顯微鏡下看到的不是敵人，是你自己的軍隊",
+    "episode": "第一一四年 第七十二集",
+    "sha256": "ec255755b680282f3d834a9050a699ee40248d5aeb079f6d3f250912862e300f",
+    "chars": 8792,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-073": {
+    "qid": "114-073",
+    "title": "有脈絡的綜論:誰來上膛，決定一切",
+    "episode": "第一一四年 第七十三集",
+    "sha256": "f91260fcd5715dc922f3af1b73eb70f2a2fd459eeff8a4bdc57105f9726f0491",
+    "chars": 9443,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-074": {
+    "qid": "114-074",
+    "title": "有脈絡的綜論:發育時鐘決定的發作時間，以及我們如何把它倒轉",
+    "episode": "第一一四年 第七十四集",
+    "sha256": "cae53ef4b1932d717a0e62dc8974c6def8407a95a06ab67aa0b9690483a5dc7a",
+    "chars": 7766,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-075": {
+    "qid": "114-075",
+    "title": "有脈絡的綜論:魔鬼藏在一個字母裡",
+    "episode": "第一一四年 第七十五集",
+    "sha256": "3779946207da9e79131873d64049f7ddd91fa7b76d25b9235a76c27f4c8e615a",
+    "chars": 5003,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-076": {
+    "qid": "114-076",
+    "title": "有脈絡的綜論:劑量是一個變數，不是一個數字",
+    "episode": "第一一四年 第七十六集",
+    "sha256": "7b0e589fbad29d434502aebf2e2f22101d706a906527d6bb98b85aa9a2148408",
+    "chars": 4407,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-077": {
+    "qid": "114-077",
+    "title": "有脈絡的綜論:標記告訴我們細胞停在哪一站，不是這班車開向哪裡",
+    "episode": "第一一四年 第七十七集",
+    "sha256": "9deb46330788a53a82ddda205379ad74ff9e5209ceb760fd64ce4f7be6991f52",
+    "chars": 4115,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-078": {
+    "qid": "114-078",
+    "title": "有脈絡的綜論:三個工具三個世界，兒童不是縮小的成人",
+    "episode": "第一一四年 第七十八集",
+    "sha256": "6527b9091e8fc0acec0ed06fa9e645ddb0e1d9e91f22f2f61a003c13e35a7448",
+    "chars": 4231,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-079": {
+    "qid": "114-079",
+    "title": "有脈絡的綜論:同一個藥，兩個適應症，三倍的劑量",
+    "episode": "第一一四年 第七十九集",
+    "sha256": "c20ecb2c70722094551804523f4de98839d35189a208aacde15b356139f0d4bc",
+    "chars": 8335,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-080": {
+    "qid": "114-080",
+    "title": "有脈絡的綜論:用體重計秤金子",
+    "episode": "第一一四年 第八十集",
+    "sha256": "b358c2847304c3bcbf4f83332eace72240c33134df3aed842afa208f83ee8f05",
+    "chars": 3132,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-081": {
+    "qid": "114-081",
+    "title": "有脈絡的綜論:台灣需要一張自己的抗原地圖",
+    "episode": "第一一四年 第八十一集",
+    "sha256": "a9eebe60b2117ea91aac37995b6779abf94e5a83387beb74519cd5cb3cc65a8f",
+    "chars": 7585,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-082": {
+    "qid": "114-082",
+    "title": "有脈絡的綜論:預後差不等於沒救",
+    "episode": "第一一四年 第八十二集",
+    "sha256": "c45894f0ef35d317bee1477cda12df4cc270063e04aabdf96867f3fb7a6a9854",
+    "chars": 4052,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-083": {
+    "qid": "114-083",
+    "title": "有脈絡的綜論:逃兵與篡位者：同一片焦土上兩種方向相反的克隆",
+    "episode": "第一一四年 第八十三集",
+    "sha256": "36cf003ecb270aa11deed8102e52cc0597a2b78d50d5def754e6c6870d3e9c6a",
+    "chars": 4197,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-084": {
+    "qid": "114-084",
+    "title": "有脈絡的綜論:不是藥不對，是一次給太多",
+    "episode": "第一一四年 第八十四集",
+    "sha256": "5ee0d2c82fd0e69e627c16a1b47e50646f3be889a334bbf6753e9658646baa8d",
+    "chars": 3355,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-085": {
+    "qid": "114-085",
+    "title": "有脈絡的綜論:p53 已經壞了，就別再用需要 p53 來傳話的武器",
+    "episode": "第一一四年 第八十五集",
+    "sha256": "2fb8272f1c20b514019a12dee008e283222835899bb12f62c88451e6b26f6318",
+    "chars": 4087,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-086": {
+    "qid": "114-086",
+    "title": "有脈絡的綜論:接力棒掉在哪一棒，決定你補什麼",
+    "episode": "第一一四年 第八十六集",
+    "sha256": "885caa8d0b876a6f3b82c0553d836a1702a9bfd10beaa1f5be48e5f068eac48c",
+    "chars": 9312,
+    "tables": [
+      "流程圖(22 行) → 快取 e0204e7f2f311e78"
+    ],
+    "mp3_released": false
+  },
+  "114-087": {
+    "qid": "114-087",
+    "title": "有脈絡的綜論:試劑瓶裡只裝了兩種抗體",
+    "episode": "第一一四年 第八十七集",
+    "sha256": "ee8ad1ccba654f44b2b8ab98f61ceb78c79942774be4924c674f9f7721aa224b",
+    "chars": 7312,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-088": {
+    "qid": "114-088",
+    "title": "有脈絡的綜論:輸得不夠，鐵反而更多",
+    "episode": "第一一四年 第八十八集",
+    "sha256": "a7a34e242180309ad57257f8d106522579087e5e522e27848baf811ef0e56a36",
+    "chars": 5442,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-089": {
+    "qid": "114-089",
+    "title": "有脈絡的綜論:刪掉的三個但書，都是量不準的東西",
+    "episode": "第一一四年 第八十九集",
+    "sha256": "187ae5e7f5207beb54a55251e8c2f5ade39d8415712b12ebee6a2d5af3db4fb6",
+    "chars": 3712,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-090": {
+    "qid": "114-090",
+    "title": "有脈絡的綜論:藥敏報告上那個 S，是在有嗜中性球的世界裡測出來的",
+    "episode": "第一一四年 第九十集",
+    "sha256": "18c25cf89c149568006239674243cf3223011a7c74835b00ad15b5de45410bb9",
+    "chars": 3921,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-091": {
+    "qid": "114-091",
+    "title": "有脈絡的綜論:腫瘤會被放療融掉，骨頭不會自己長回來",
+    "episode": "第一一四年 第九十一集",
+    "sha256": "e452f03afb151c1c4c4ae44d19a1edfe597c2f4df342406a6783701c7dd6425d",
+    "chars": 4542,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-092": {
+    "qid": "114-092",
+    "title": "有脈絡的綜論:三道關卡都在驗血，沒有一道在驗人",
+    "episode": "第一一四年 第九十二集",
+    "sha256": "8e30d24371cfef5aa57e4a64d3c400213230055377b81a4f20e243634751a3c0",
+    "chars": 4852,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-093": {
+    "qid": "114-093",
+    "title": "有脈絡的綜論:冰敷是為了關掉血流，解藥卻要靠血流送達",
+    "episode": "第一一四年 第九十三集",
+    "sha256": "5cb87a39aa599051d0f927b2c8c66c676efc2940f61bb7aa9787bc62352518a4",
+    "chars": 3909,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-094": {
+    "qid": "114-094",
+    "title": "有脈絡的綜論:唯一一種什麼都不做的處置，卻要最嚴格的資格審查",
+    "episode": "第一一四年 第九十四集",
+    "sha256": "39621a8d2ab2db0dd206f78d6345058736cf146833e5e698da947e9f7585c4b8",
+    "chars": 2654,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-095": {
+    "qid": "114-095",
+    "title": "有脈絡的綜論:二十七個崗位的產線，只有 PIGA 是單人輪班",
+    "episode": "第一一四年 第九十五集",
+    "sha256": "f5ea724b8db231635ecf55815825e847e3761c38539d0a8f542bebcd3905375d",
+    "chars": 10506,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-096": {
+    "qid": "114-096",
+    "title": "有脈絡的綜論:疫苗的保護力得靠補體來兌現，而他的補體正被藥擋著",
+    "episode": "第一一四年 第九十六集",
+    "sha256": "4e0e3ed1cb5eb2d5d052ef26cac1e6612340c4c5c7f9608c78e7ee68f9d9f2bc",
+    "chars": 6117,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-097": {
+    "qid": "114-097",
+    "title": "有脈絡的綜論:PTH 已經被壓到底，calcitriol 卻還在加班",
+    "episode": "第一一四年 第九十七集",
+    "sha256": "6ff3c075e31d15f882674d65adbef93353d302e1c2626031b83c5fcd44d9bc08",
+    "chars": 3592,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-098": {
+    "qid": "114-098",
+    "title": "有脈絡的綜論:基因決定誰會中毒，順從性決定誰會復發",
+    "episode": "第一一四年 第九十八集",
+    "sha256": "e7d35b01f2b74857dc60f42ffeedc3cf242382bebd25f555b4876993b7b85f34",
+    "chars": 3468,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-099": {
+    "qid": "114-099",
+    "title": "有脈絡的綜論:Hb 是濃度，只有 red cell mass 是量",
+    "episode": "第一一四年 第九十九集",
+    "sha256": "15a223c6795ea23b967f5cef4d60f103814ffaf8d7d91bcd867323539d5d4523",
+    "chars": 5302,
+    "tables": [],
+    "mp3_released": false
+  },
+  "114-100": {
+    "qid": "114-100",
+    "title": "有脈絡的綜論:你身上沒有的那個蛋白，就是你的過敏原",
+    "episode": "第一一四年 第一百集",
+    "sha256": "324a91344143b89fdf0ed20d88ca58b63772a4c9ebb33ae4fd7df93f59d4a93f",
+    "chars": 5117,
+    "tables": [],
+    "mp3_released": false
   }
 }
