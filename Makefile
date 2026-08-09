@@ -66,7 +66,20 @@ sync:  ## 把 release 上的 mp3 同步下來  make sync [DEST=~/Downloads/mcq-t
 	echo "✅ 新下載 $$got 集，已存在 $$have 集 → $(DEST)"; \
 	echo "   總計 $$(ls "$(DEST)"/*.mp3 2>/dev/null | wc -l) 個檔案，$$(du -sh "$(DEST)" 2>/dev/null | cut -f1)"
 
+REMOTE ?= goanna:~/Downloads
+
+push-remote:  ## 把已同步的 mp3 rsync 到遠端  make push-remote [REMOTE=goanna:~/Downloads]
+	@test -d "$(DEST)" || { echo "本機還沒有音檔，先跑 make sync"; exit 1; }
+	@echo "→ $(REMOTE)"
+	rsync -avh --partial --info=progress2 \
+		--include='*.mp3' --exclude='*' \
+		"$(DEST)/" "$(REMOTE)/"
+
+ship:  ## 一次做完：從 release 同步下來，再 rsync 到遠端
+	@$(MAKE) sync
+	@$(MAKE) push-remote
+
 clean:  ## 清掉合成產物（保留朗讀稿與 manifest）
 	rm -rf dist
 
-.PHONY: help setup export export-one norm one preview plan feed voices sync clean
+.PHONY: help setup export export-one norm one preview plan feed voices sync push-remote ship clean
