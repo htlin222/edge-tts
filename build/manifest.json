@@ -6,7 +6,13 @@
     "sha256": "a8f7868dd3523457f175ed5f4c3aaabf8c90b890c9eff852cd7e7268a553eb98",
     "chars": 3413,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 433.6,
+    "bytes": 2605370,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+20%",
+    "chunks": 4,
+    "released_at": "2026-08-09T17:19:33+00:00"
   },
   "114-053": {
     "qid": "114-053",
@@ -30,6 +36,12 @@
     "sha256": "ea9a36233f948df4119afecd763ecc0311a121663e24794f2a2254c3dc953e79",
     "chars": 7824,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 955.6,
+    "bytes": 5740772,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+20%",
+    "chunks": 8,
+    "released_at": "2026-08-09T17:19:33+00:00"
   }
 }
