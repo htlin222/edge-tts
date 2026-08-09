@@ -245,3 +245,5 @@ jobs:
             } >> "$GITHUB_STEP_SUMMARY"
             exit 1
           fi
+
+# (touch to force GitHub to index this workflow)
