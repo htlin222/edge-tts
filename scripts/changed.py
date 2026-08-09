@@ -49,6 +49,18 @@ def diff_files(before: str, after: str) -> tuple[list[Path], list[str]]:
         print(f"⚠️  取不到 before={before}（淺 clone 或 force push）→ 退回全量", file=sys.stderr)
         return sorted(RAW.glob("*.txt")), []
 
+    # 改到發音詞典或腳本，等於每一集的朗讀稿都可能變 —— 必須全部重新檢查。
+    # workflow 的 paths 會為這些路徑觸發 CI，這裡的偵測邏輯要跟它一致，
+    # 否則就會出現「CI 跑了但什麼都沒做」的靜默失敗。
+    # 實際要重新合成哪幾集，仍由後面的 sha256 比對決定（改註解不會重跑）。
+    pipeline_changed = git(
+        "diff", "--name-only", f"{before}..{after}", "--", "dict/", "scripts/"
+    )
+    if pipeline_changed:
+        names = ", ".join(pipeline_changed.split("\n")[:4])
+        print(f"🔧 管線本身有變動（{names}）→ 全部重新檢查", file=sys.stderr)
+        return sorted(RAW.glob("*.txt")), []
+
     out = git("diff", "--name-status", f"{before}..{after}", "--", "raw/")
     changed, deleted = [], []
     for line in out.splitlines():
