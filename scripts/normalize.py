@@ -159,9 +159,9 @@ def normalize_one(path: Path, rules: list[dict], show_diff: bool = False) -> dic
         "speech_path": str(dest.relative_to(ROOT)),
         "sha256": hashlib.sha256(speech.encode("utf-8")).hexdigest(),
         "chars": chars,
-        # 實測 zh-TW-YunJheNeural +20% 是 7.2 字/秒（114-053：2891 字 → 402 秒）。
+        # zh-TW-YunJheNeural +0% 約 6.0 字/秒（+20% 時實測 7.2 字/秒，除以 1.2 推得）。
         # 只是給人看的估計值，不影響流程。
-        "est_seconds": round(chars / 7.2),
+        "est_seconds": round(chars / 6.0),
         "tables": table_log,
         "lexicon_hits": len(lex_log),
     }

@@ -36,7 +36,7 @@ permissions:
 
 env:
   VOICE: zh-TW-YunJheNeural
-  RATE: '+20%'
+  RATE: '+0%'
 
 jobs:
   detect:
@@ -65,7 +65,10 @@ jobs:
           # 拿實際存在的 release tag 去校正 manifest。少了這步，
           # 「manifest 說發佈了但 release 其實不在」的那一集會被永遠跳過。
           TAGS=$(gh release list --limit 1000 --json tagName --jq '[.[].tagName]|join(",")')
-          ARGS=(--chunks "${{ inputs.chunks || '10' }}" --released-tags "$TAGS")
+          # 把目前的語音/語速一起帶進去：改了語速就該重新合成，
+          # 但那不會改變朗讀稿的 sha256，所以必須另外比對
+          ARGS=(--chunks "${{ inputs.chunks || '10' }}" --released-tags "$TAGS"
+                --voice "$VOICE" --rate "$RATE")
           if [ -n "${{ inputs.only }}" ]; then
             ARGS+=(--only "${{ inputs.only }}")
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then

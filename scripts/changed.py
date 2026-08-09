@@ -105,6 +105,8 @@ def main() -> None:
     ap.add_argument("--only", help="只處理這幾題，逗號分隔（workflow_dispatch 用）")
     ap.add_argument("--force", action="store_true", help="忽略 sha256 比對，強制重新合成")
     ap.add_argument("--chunks", type=int, default=10, help="切成幾個 matrix job")
+    ap.add_argument("--voice", default=None, help="目前設定的語音；與 manifest 不符就重做")
+    ap.add_argument("--rate", default=None, help="目前設定的語速；與 manifest 不符就重做")
     ap.add_argument(
         "--released-tags",
         default=None,
@@ -145,7 +147,18 @@ def main() -> None:
             continue
         meta = normalize_one(f, rules)
         prev = manifest.get(meta["qid"], {})
-        if not args.force and prev.get("sha256") == meta["sha256"] and prev.get("mp3_released"):
+        # 語音與語速也要比對。它們不影響朗讀稿的 sha256，所以只看 sha 的話，
+        # 「把語速從 +20% 改成 +0%」會被判定成「沒有變化」而全部略過 —— 音檔永遠不會更新。
+        same_audio_settings = (
+            (args.voice is None or prev.get("voice") == args.voice)
+            and (args.rate is None or prev.get("rate") == args.rate)
+        )
+        if (
+            not args.force
+            and prev.get("sha256") == meta["sha256"]
+            and prev.get("mp3_released")
+            and same_audio_settings
+        ):
             skipped.append(meta["qid"])
             continue
         todo.append(meta)

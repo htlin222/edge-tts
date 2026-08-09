@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 
 VOICE ?= zh-TW-YunJheNeural
-RATE  ?= +20%
+RATE  ?= +0%
 YEAR  ?= 114
 Q     ?=
 

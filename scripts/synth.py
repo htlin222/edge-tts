@@ -31,7 +31,7 @@ BUILD = ROOT / "build"
 DIST = ROOT / "dist"
 
 DEFAULT_VOICE = "zh-TW-YunJheNeural"
-DEFAULT_RATE = "+20%"
+DEFAULT_RATE = "+0%"
 CHUNK_CHARS = 1200      # 每段上限，約 4 分鐘語音
 GAP_SECONDS = 0.6       # 段落之間的靜音
 MAX_RETRIES = 3
