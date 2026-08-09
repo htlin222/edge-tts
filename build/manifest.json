@@ -18,30 +18,30 @@
     "qid": "114-053",
     "title": "有脈絡的綜論:一個染色體易位如何被翻譯成一個數字,而那個數字現在已經不夠用了",
     "episode": "第一一四年 第五十三集",
-    "sha256": "42ec9443fd3c6c17724e5a4ce21292d7e86ba1699241e38d8f2c2dd481d9dd84",
-    "chars": 2891,
+    "sha256": "a2a5b544ec4e042d3b94e74537c697ed12eecd7aedc24dbf451b55406c1ed2f4",
+    "chars": 2901,
     "tables": [],
     "mp3_released": true,
-    "duration": 403.2,
-    "bytes": 2423062,
+    "duration": 405.7,
+    "bytes": 2438197,
     "voice": "zh-TW-YunJheNeural",
     "rate": "+20%",
     "chunks": 3,
-    "released_at": "2026-08-09T17:24:46+00:00"
+    "released_at": "2026-08-09T17:33:04+00:00"
   },
   "114-069": {
     "qid": "114-069",
     "title": "有脈絡的綜論:一個 4.7 kb 的行李箱決定的命運",
     "episode": "第一一四年 第六十九集",
-    "sha256": "ea9a36233f948df4119afecd763ecc0311a121663e24794f2a2254c3dc953e79",
+    "sha256": "7cbda541cb3ae4b01106dee137fe5c2228620ec41d27b91fa2e95c4bf40af519",
     "chars": 7824,
     "tables": [],
     "mp3_released": true,
-    "duration": 955.6,
-    "bytes": 5740772,
+    "duration": 964.3,
+    "bytes": 5792808,
     "voice": "zh-TW-YunJheNeural",
     "rate": "+20%",
     "chunks": 8,
-    "released_at": "2026-08-09T17:19:33+00:00"
+    "released_at": "2026-08-09T17:33:04+00:00"
   }
 }
