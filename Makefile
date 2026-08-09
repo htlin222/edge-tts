@@ -50,34 +50,18 @@ feed:  ## 本機重建 site/feed.xml 與索引頁
 voices:  ## 列出可用的 zh-TW 語音
 	uv run edge-tts --list-voices | grep zh-TW
 
-DEST ?= $(HOME)/Downloads/mcq-tts
-
-sync:  ## 把 release 上的 mp3 同步下來  make sync [DEST=~/Downloads/mcq-tts]
-	@mkdir -p "$(DEST)"
-	@have=0; got=0; \
-	for t in $$(gh api repos/htlin222/edge-tts/releases --paginate --jq '.[].tag_name' | sort); do \
-		if [ -f "$(DEST)/$$t.mp3" ]; then have=$$((have+1)); continue; fi; \
-		if gh release download "$$t" -p '*.mp3' -D "$(DEST)" 2>/dev/null; then \
-			got=$$((got+1)); echo "  ↓ $$t"; \
-		else \
-			echo "  ⚠ $$t 沒有 mp3（可能還在合成）"; \
-		fi; \
-	done; \
-	echo "✅ 新下載 $$got 集，已存在 $$have 集 → $(DEST)"; \
-	echo "   總計 $$(ls "$(DEST)"/*.mp3 2>/dev/null | wc -l) 個檔案，$$(du -sh "$(DEST)" 2>/dev/null | cut -f1)"
-
+DEST   ?= $(HOME)/Downloads/mcq-tts
 REMOTE ?= goanna:~/Downloads
+
+sync:  ## 從 release 同步 mp3 到本機（比對檔案大小，重新合成過的會自動更新）
+	uv run python scripts/sync.py --dest "$(DEST)"
 
 push-remote:  ## 把已同步的 mp3 rsync 到遠端  make push-remote [REMOTE=goanna:~/Downloads]
 	@test -d "$(DEST)" || { echo "本機還沒有音檔，先跑 make sync"; exit 1; }
-	@echo "→ $(REMOTE)"
-	rsync -avh --partial --info=progress2 \
-		--include='*.mp3' --exclude='*' \
-		"$(DEST)/" "$(REMOTE)/"
+	rsync -ah --partial --info=progress2 --include='*.mp3' --exclude='*' "$(DEST)/" "$(REMOTE)/"
 
-ship:  ## 一次做完：從 release 同步下來，再 rsync 到遠端
-	@$(MAKE) sync
-	@$(MAKE) push-remote
+ship:  ## 一次做完：同步 release 音檔 → rsync 到遠端
+	uv run python scripts/sync.py --dest "$(DEST)" --rsync "$(REMOTE)"
 
 clean:  ## 清掉合成產物（保留朗讀稿與 manifest）
 	rm -rf dist
