@@ -114,6 +114,9 @@ jobs:
     needs: detect
     if: needs.detect.outputs.has_work == 'true' && needs.detect.outputs.count != '0'
     runs-on: ubuntu-latest
+    # 10 集正常約 20–40 分鐘。設 90 分鐘當保險絲 —— 曾經有一個 job 卡到 6 小時
+    # 才被 GitHub 的上限砍掉，那時整批 10 集全部作廢且 log 一片空白。
+    timeout-minutes: 90
     strategy:
       fail-fast: false   # 一集掛掉不該拖垮其他 99 集
       matrix:
@@ -140,7 +143,7 @@ jobs:
         id: synth
         run: |
           set -euo pipefail
-          python3 scripts/synth.py ${{ join(matrix.chunk, ' ') }} \
+          python3 -u scripts/synth.py ${{ join(matrix.chunk, ' ') }} \
             --voice "$VOICE" --rate "$RATE" --json-out synth.json
 
       # 即使上一步部分失敗，也把成功的那幾集發出去

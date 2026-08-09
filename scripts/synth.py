@@ -34,7 +34,12 @@ DEFAULT_VOICE = "zh-TW-YunJheNeural"
 DEFAULT_RATE = "+0%"
 CHUNK_CHARS = 1200      # 每段上限，約 4 分鐘語音
 GAP_SECONDS = 0.6       # 段落之間的靜音
-MAX_RETRIES = 3
+MAX_RETRIES = 5
+# 一段 1200 字正常只要 10–40 秒。給到 180 秒是為了「卡住」而不是「慢」——
+# edge_tts 的 stream() 對伺服器不回應沒有任何保護，會無限等下去。
+# 這在 CI 上真的發生過：一個 job 從 17:53 卡到 23:53，撞到 GitHub 的 6 小時上限被砍，
+# 整批 10 集全部作廢。沒有這個 timeout，重試邏輯永遠不會被觸發。
+CHUNK_TIMEOUT = 180
 
 
 def chunk_text(text: str, limit: int = CHUNK_CHARS) -> list[str]:
@@ -62,34 +67,48 @@ def chunk_text(text: str, limit: int = CHUNK_CHARS) -> list[str]:
     return chunks
 
 
+async def _stream_once(text: str, voice: str, rate: str, out_mp3: Path) -> str:
+    comm = edge_tts.Communicate(text, voice, rate=rate)
+    sub = edge_tts.SubMaker()
+    with out_mp3.open("wb") as f:
+        async for chunk in comm.stream():
+            if chunk["type"] == "audio":
+                f.write(chunk["data"])
+            elif chunk["type"] in ("WordBoundary", "SentenceBoundary"):
+                # 中文語音回的是 SentenceBoundary（英文才是 WordBoundary）。
+                # SubMaker 不允許混用兩種，所以第一個來的決定型別，
+                # 之後不同型別的一律丟掉 —— 寧可少幾行字幕，也不要整段炸掉。
+                try:
+                    sub.feed(chunk)
+                except ValueError:
+                    pass
+    if out_mp3.stat().st_size == 0:
+        raise RuntimeError("回傳 0 bytes")
+    return sub.get_srt()
+
+
 async def synth_chunk(text: str, voice: str, rate: str, out_mp3: Path, idx: int) -> str:
-    """合成一段，回傳該段的 SRT 原文。失敗指數退避重試。"""
+    """合成一段，回傳該段的 SRT 原文。逾時或失敗就指數退避重試。
+
+    退避到 MAX_RETRIES=5（2/4/8/16/32 秒）是因為 edge-tts 的
+    「No audio was received」是間歇性的服務端故障，不是參數錯誤 ——
+    114-060 就是連續 3 次撞上而整集報銷。多等一會兒通常就過了。
+    """
     last_err = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            comm = edge_tts.Communicate(text, voice, rate=rate)
-            sub = edge_tts.SubMaker()
-            with out_mp3.open("wb") as f:
-                async for chunk in comm.stream():
-                    if chunk["type"] == "audio":
-                        f.write(chunk["data"])
-                    elif chunk["type"] in ("WordBoundary", "SentenceBoundary"):
-                        # 中文語音回的是 SentenceBoundary（英文才是 WordBoundary）。
-                        # SubMaker 不允許混用兩種，所以第一個來的決定型別，
-                        # 之後不同型別的一律丟掉 —— 寧可少幾行字幕，也不要整段炸掉。
-                        try:
-                            sub.feed(chunk)
-                        except ValueError:
-                            pass
-            if out_mp3.stat().st_size == 0:
-                raise RuntimeError("回傳 0 bytes")
-            return sub.get_srt()
-        except Exception as e:  # noqa: BLE001 — edge-tts 端點什麼錯都可能丟（403/超時/斷線）
-            last_err = e
-            if attempt < MAX_RETRIES:
-                wait = 2**attempt
-                print(f"    段 {idx} 第 {attempt} 次失敗（{type(e).__name__}: {e}），{wait}s 後重試", file=sys.stderr)
-                await asyncio.sleep(wait)
+            return await asyncio.wait_for(
+                _stream_once(text, voice, rate, out_mp3), timeout=CHUNK_TIMEOUT
+            )
+        except asyncio.TimeoutError:
+            last_err = f"超過 {CHUNK_TIMEOUT}s 沒有完成（連線可能卡住）"
+        except Exception as e:  # noqa: BLE001 — 端點什麼錯都可能丟（403/斷線/無音訊）
+            last_err = f"{type(e).__name__}: {e}"
+        if attempt < MAX_RETRIES:
+            wait = 2**attempt
+            print(f"    段 {idx} 第 {attempt} 次失敗（{last_err}），{wait}s 後重試",
+                  file=sys.stderr, flush=True)
+            await asyncio.sleep(wait)
     raise RuntimeError(f"段 {idx} 重試 {MAX_RETRIES} 次仍失敗: {last_err}")
 
 
@@ -184,7 +203,7 @@ async def synth_one(qid: str, voice: str, rate: str) -> dict:
 
     chunks = chunk_text(text)
     DIST.mkdir(exist_ok=True)
-    print(f"🎙  {qid}  {len(chunks)} 段  voice={voice} rate={rate}")
+    print(f"🎙  {qid}  {len(chunks)} 段  voice={voice} rate={rate}", flush=True)
 
     with tempfile.TemporaryDirectory() as tmp:
         tmpdir = Path(tmp)
@@ -201,7 +220,7 @@ async def synth_one(qid: str, voice: str, rate: str) -> dict:
                 srt_all.append(shifted)
             offset += dur + GAP_SECONDS
             parts.extend([part, silence])
-            print(f"    段 {i}/{len(chunks)}  {len(chunk)} 字 → {dur:.1f}s")
+            print(f"    段 {i}/{len(chunks)}  {len(chunk)} 字 → {dur:.1f}s", flush=True)
         parts.pop()  # 最後一段後面不要靜音
 
         mp3 = DIST / f"{qid}.mp3"
@@ -225,7 +244,7 @@ async def synth_one(qid: str, voice: str, rate: str) -> dict:
         "rate": rate,
         "chunks": len(chunks),
     }
-    print(f"✅ {qid}  {duration/60:.1f} 分鐘  {mp3.stat().st_size/1e6:.1f} MB")
+    print(f"✅ {qid}  {duration/60:.1f} 分鐘  {mp3.stat().st_size/1e6:.1f} MB", flush=True)
     return result
 
 
@@ -235,7 +254,7 @@ async def main_async(args) -> None:
         try:
             results.append(await synth_one(qid, args.voice, args.rate))
         except Exception as e:  # noqa: BLE001
-            print(f"❌ {qid} 合成失敗: {e}", file=sys.stderr)
+            print(f"❌ {qid} 合成失敗: {e}", file=sys.stderr, flush=True)
             failed.append({"qid": qid, "error": str(e)})
 
     if args.json_out:
