@@ -892,7 +892,7 @@
     "chars": 5452,
     "tables": [],
     "mp3_released": false,
-    "last_error": "段 6 重試 3 次仍失敗: No audio was received. Please verify that your parameters are correct."
+    "last_error": "段 6 重試 5 次仍失敗: NoAudioReceived: No audio was received. Please verify that your parameters are correct."
   },
   "114-061": {
     "qid": "114-061",
@@ -1051,7 +1051,13 @@
     "sha256": "3f5762d01edd97512a8e42a951a71bff38c68578cff8a68b6689ef57d187ed9e",
     "chars": 4308,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 678.0,
+    "bytes": 4073607,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-072": {
     "qid": "114-072",
@@ -1060,7 +1066,13 @@
     "sha256": "ec255755b680282f3d834a9050a699ee40248d5aeb079f6d3f250912862e300f",
     "chars": 8792,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1352.8,
+    "bytes": 8126372,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 9,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-073": {
     "qid": "114-073",
@@ -1069,7 +1081,13 @@
     "sha256": "f91260fcd5715dc922f3af1b73eb70f2a2fd459eeff8a4bdc57105f9726f0491",
     "chars": 9443,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1466.9,
+    "bytes": 8811458,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 10,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-074": {
     "qid": "114-074",
@@ -1078,7 +1096,13 @@
     "sha256": "cae53ef4b1932d717a0e62dc8974c6def8407a95a06ab67aa0b9690483a5dc7a",
     "chars": 7766,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1105.5,
+    "bytes": 6641121,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 8,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-075": {
     "qid": "114-075",
@@ -1087,7 +1111,13 @@
     "sha256": "3779946207da9e79131873d64049f7ddd91fa7b76d25b9235a76c27f4c8e615a",
     "chars": 5003,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 732.6,
+    "bytes": 4401516,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-076": {
     "qid": "114-076",
@@ -1096,7 +1126,13 @@
     "sha256": "7b0e589fbad29d434502aebf2e2f22101d706a906527d6bb98b85aa9a2148408",
     "chars": 4407,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 719.6,
+    "bytes": 4323261,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-077": {
     "qid": "114-077",
@@ -1105,7 +1141,13 @@
     "sha256": "9deb46330788a53a82ddda205379ad74ff9e5209ceb760fd64ce4f7be6991f52",
     "chars": 4115,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 617.7,
+    "bytes": 3711109,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-078": {
     "qid": "114-078",
@@ -1114,7 +1156,13 @@
     "sha256": "6527b9091e8fc0acec0ed06fa9e645ddb0e1d9e91f22f2f61a003c13e35a7448",
     "chars": 4231,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 614.3,
+    "bytes": 3691058,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 5,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-079": {
     "qid": "114-079",
@@ -1123,7 +1171,13 @@
     "sha256": "c20ecb2c70722094551804523f4de98839d35189a208aacde15b356139f0d4bc",
     "chars": 8335,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 1360.3,
+    "bytes": 8171624,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 9,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-080": {
     "qid": "114-080",
@@ -1132,7 +1186,13 @@
     "sha256": "b358c2847304c3bcbf4f83332eace72240c33134df3aed842afa208f83ee8f05",
     "chars": 3132,
     "tables": [],
-    "mp3_released": false
+    "mp3_released": true,
+    "duration": 547.4,
+    "bytes": 3289007,
+    "voice": "zh-TW-YunJheNeural",
+    "rate": "+0%",
+    "chunks": 4,
+    "released_at": "2026-08-10T00:07:43+00:00"
   },
   "114-081": {
     "qid": "114-081",
