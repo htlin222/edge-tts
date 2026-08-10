@@ -35,7 +35,7 @@ Nature 2021 年的關鍵分子研究以 alanine-scanning mutagenesis 確認：VI
 這個結合模式帶出一個連鎖推論：
 
 VITT 抗體本身能把 PF4 四聚體交聯成簇，不需要肝素即可形成免疫複合體，接著 Fcgamma RIIa，接著血小板活化
-肝素反而會「競爭同一個結合位」，干擾 VITT 抗體的附著，從而「抑制」這些抗體的活性
+肝素反而會「競爭同一個結合位」，干擾 VITT 抗體的附著，從而「抑制」這些抗體的活性。
 
 這個方向與 HIT 完全相反。
 
@@ -45,7 +45,7 @@ VITT 抗體本身能把 PF4 四聚體交聯成簇，不需要肝素即可形成�
 
 這是最具實務影響的一段。
 
-快速免疫分析（rapid immunoassay）的致命弱點
+快速免疫分析（rapid immunoassay）的致命弱點。
 
 化學發光法（chemiluminescence）、乳膠凝集法（latex agglutination）、側流法（lateral flow）等快速免疫分析，均以 PF4-heparin 複合體為抗原設計。由於 VITT 抗體辨識的是 PF4 上的肝素結合位（而非 PF4-heparin 複合體的構型改變），這些試劑無法充分捕捉 VITT 抗體。
 
@@ -53,14 +53,14 @@ VITT 抗體本身能把 PF4 四聚體交聯成簇，不需要肝素即可形成�
 
 以下圖表清楚展示了這個 ELISA 與快速免疫分析之間的結果落差：
 
-![](/img/img/411ed84b-14a9-44ea-a668-9411709859d9.jpg)
-Figure 3: Summary of reported ELISA OD readings for PF4 antibodies and results of rapid assays, according to the study of Platton et al 24 For rapid assays, CLIA and LIA results given in U/mL; for PAGIA, the numbers refer to the grade of response, and, for STiC, a value of 0 represents negative and a value of 1.5 represents positive. The horizontal lines indicate the negative/positive cut‐off values
+（此處原文有一張圖）
+Figure 3: Summary of reported ELISA OD readings for PF4 antibodies and results of rapid assays, according to the study of Platton et al 24 For rapid assays, CLIA and LIA results given in U/mL; for PAGIA, the numbers refer to the grade of response, and, for STiC, a value of 0 represents negative and a value of 1.5 represents positive. The horizontal lines indicate the negative/positive cut‐off values。
 
-必要的替代方案：PF4-ELISA
+必要的替代方案：PF4-ELISA。
 
 診斷 VITT 必須使用 PF4-polyanion ELISA（如 PF4-PVS ELISA 或 Asserachrom HPIA IgG ELISA）。VITT 病例的 ELISA 光密度值（OD）通常非常高（常 > 2.0），遠超出 HIT 的典型範圍 。
 
-功能性試驗也必須調整
+功能性試驗也必須調整。
 
 傳統的 SRA 與 HIPA，是以「加入低濃度肝素（0.1 到 0.5 U/mL）」誘發血小板活化——這種設計在 VITT 往往失敗，因為加入肝素反而可能抑制 VITT 抗體。必須改用加入外源性 PF4 的功能性試驗，例如 PF4-enhanced SRA（PF4-SRA）或 PF4-induced platelet activation（PIPA） 。
 
@@ -74,11 +74,11 @@ Figure 3: Summary of reported ELISA OD readings for PF4 antibodies and results o
 ② Autoimmune HIT / 自發性 HIT——曾接觸肝素，但抗體已轉變為 heparin-independent；或術後、感染後從未接觸肝素卻發生（例如膝關節置換術後）
 ③ VITT——腺病毒載體疫苗（ChAdOx1 nCoV-19、Ad26.COV2.S）觸發，抗體為 heparin-independent，單株來源
 ④ VITT 樣疾病（無疫苗、無肝素）——已報告於自然腺病毒感染及其他感染之後；部分病例甚至早於 COVID-19 疫苗上市前即存在 。這正是選項 (B) 中「約半數病例與感染相關」的依據
-⑤ VITT 樣單株丙種球蛋白病（VITT-like monoclonal gammopathy of thrombotic significance, MGTS）——抗體持續分泌，反覆血栓，可視為慢性 anti-PF4 疾病
+⑤ VITT 樣單株丙種球蛋白病（VITT-like monoclonal gammopathy of thrombotic significance, MGTS）——抗體持續分泌，反覆血栓，可視為慢性 anti-PF4 疾病。
 
 以下圖表完整呈現了這個疾病譜的分類框架：
 
-![](/img/img/09511248-4aa2-4755-a523-2827a727c917.jpg)
+（此處原文有一張圖）
 Figure 4: Spectrum of Anti-PF4 Disorders.
 
 腺病毒載體疫苗致病的推測機轉：腺病毒顆粒表面帶負電、製程中的游離 DNA 為強效多陰離子，均可與 PF4 形成複合體。加上疫苗誘發的局部發炎環境提供「危險訊號（danger signal）」，在具有特定免疫基因背景（IGLV3-21*02/*03 基因，帶有 K31E 體細胞超突變）的人，免疫耐受被打破，產生高親和力的 monoclonal anti-PF4 IgG 。
@@ -101,14 +101,14 @@ D-dimer 極度升高：VITT 的 D-dimer 常 > 4,000 ng/mL，嚴重者可達數�
 
 六、(E) 的核心：治療的「三個要做」與「兩個絕不能做」。
 
-要做的
+要做的。
 
 ① 高劑量 IVIG（1 g/kg/day × 2 天）——VITT 的「第一線」治療：IVIG 藉由大量 Fc 片段飽和並阻斷血小板表面的 Fcgamma RIIa，截斷免疫複合體活化血小板的訊號 。值得特別強調：在 VITT 中，IVIG 是第一線治療，與典型 HIT 中 IVIG 屬第二線輔助用藥不同。採集功能性試驗血液樣本必須在輸注 IVIG 之前完成，以免 IVIG 干擾結果 。
 ② 非肝素類抗凝（non-heparin anticoagulation）：包括 argatroban、bivalirudin、fondaparinux，或 direct oral anticoagulants（DOACs）。理論上 Xa 抑制劑（fondaparinux、Xa-DOAC）可能較直接凝血酶抑制劑（DTI）更不干擾 protein C 的活化 。
 ③ 難治者的升階治療：血漿置換（therapeutic plasma exchange）直接移除循環抗體；類固醇與 rituximab 用於免疫抑制；對於慢性 VITT 樣 MGTS，Bruton's tyrosine kinase 抑制劑（如 ibrutinib）可抑制 Fcgamma RIIa 下游訊號 。
 追蹤：anti-PF4 抗體可持續數月，需追蹤至抗體轉陰、血小板回復，再考慮逐步停止抗凝。
 
-絕不能做的
+絕不能做的。
 
 ⚠️ ① 不要輸血小板（除非有危及生命的出血且已同時給予抗凝）——輸入血小板等於「添加燃料」，提供更多被抗體活化的靶細胞，加劇血栓形成 。
 ⚠️ ② 不要給肝素——儘管分子機轉上肝素理論上可能不加重甚至略有抑制效果，但所有主要指引仍一致建議在確診 VITT 後完全避免肝素，以消除額外的系統性 Fcgamma R 活化風險 。

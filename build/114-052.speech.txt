@@ -38,43 +38,43 @@ Protein S 的獨特性質——C4BP 結合與「假性缺乏」（(E) 題的關�
 
 根據 total protein S、free protein S antigen，以及功能性活性的組合，protein S 缺乏分為三型：
 
-分型
+分型。
 
-Total PS
+Total PS。
 
-Free PS antigen
+Free PS antigen。
 
-PS 活性
+PS 活性。
 
-機轉
+機轉。
 
-Type I
+Type I。
 
-下降
+下降。
 
-下降
+下降。
 
-下降
+下降。
 
 量的缺乏（合成下降）
 
 Type II（部分文獻稱 IIb）
 
-正常
+正常。
 
-正常
+正常。
 
-下降
+下降。
 
 質的缺陷（功能異常蛋白）
 
 Type III（部分文獻稱 IIa）
 
-正常
+正常。
 
-下降
+下降。
 
-下降
+下降。
 
 Free PS 下降（與 C4BP 結合增加）
 
@@ -84,7 +84,7 @@ Free PS 下降（與 C4BP 結合增加）
 
 四、(B) 的核心：新生兒 purpura fulminans，以及它的「成人版」。
 
-Homozygous protein C deficiency 的臨床表現
+Homozygous protein C deficiency 的臨床表現。
 
 出生後數小時至數天內，嬰兒出現大片網狀紫斑（purpura fulminans），迅速進展為皮膚全層壞死；可合併中樞神經系統與眼部的子宮內血栓（prenatal thrombosis），以及 DIC 樣表現。此因體內完全缺乏 APC 活性，微小靜脈內持續發生血栓，消耗性凝血病隨之而來。
 
@@ -149,45 +149,45 @@ PNH 好發血栓部位（由高至低）：肝靜脈（Budd-Chiari syndrome）�
 
 以下圖表呈現不同 PNH 亞群的血栓分佈與時間線，可清楚看到靜脈血栓的多部位分佈（包含腦靜脈）：
 
-![](/img/img/24ed8ca5-5f02-4cac-a2d4-429f03f5212c.jpg)
+（此處原文有一張圖）
 Figure 4: Thrombotic events in patients with PNH high Type II and low Type II neutrophils, adapted from (A) Pie charts illustrating the type of thrombotic events in patients with high Type II (upper pies) and low Type II (lower pies) with a major clone above 50% (left pies) and a clone between 1% and 50% (right pies). (B) Anatomic site of origin of all thrombotic events. (C) Longitudinal follow‐up and anticomplement therapy in patients with PNH low Type II and high Type II neutrophils experiencing thrombotic events (patients are shown by decreasing total PNH clone sizes); y, years. [Color figure can be viewed at wileyonlinelibrary.com]
 
 八、逐項評析與臨床 Take-home。
 
-選項
+選項。
 
-正誤
+正誤。
 
-關鍵點
+關鍵點。
 
-(A) PNH 血栓約 15%，很少發生大腦血栓
+(A) PNH 血栓約 15%，很少發生大腦血栓。
 
 ❌ 錯（本題答案）
 
-真實發生率 29 到 44%；CVT 佔 2 到 8%，為第二常見部位
+真實發生率 29 到 44%；CVT 佔 2 到 8%，為第二常見部位。
 
-(B) Homozygous PC deficiency，接著新生兒 purpura fulminans
+(B) Homozygous PC deficiency，接著新生兒 purpura fulminans。
 
-✅ 正確
+✅ 正確。
 
-出生後數日內皮膚壞死＋DIC，需 PC concentrate 或 FFP 緊急處置
+出生後數日內皮膚壞死＋DIC，需 PC concentrate 或 FFP 緊急處置。
 
-(C) PC 缺乏以靜脈血栓為主，多在 40 歲前發病
+(C) PC 缺乏以靜脈血栓為主，多在 40 歲前發病。
 
-✅ 正確
+✅ 正確。
 
-靜脈為主，但動脈血栓亦有報告；雜合子常在 40 歲前首次發病
+靜脈為主，但動脈血栓亦有報告；雜合子常在 40 歲前首次發病。
 
-(D) PS 缺乏者，PT 及 aPTT 正常
+(D) PS 缺乏者，PT 及 aPTT 正常。
 
-✅ 正確
+✅ 正確。
 
-抑制系統不參與這兩個試驗的終點反應
+抑制系統不參與這兩個試驗的終點反應。
 
-(E) PS 缺乏 type IIa：total 正常但 free PS 缺乏
+(E) PS 缺乏 type IIa：total 正常但 free PS 缺乏。
 
 ✅ 正確（命名為舊系統）
 
-對應現行 Type III；C4BP 結合增加，free PS 選擇性下降
+對應現行 Type III；C4BP 結合增加，free PS 選擇性下降。
 
 臨床 Take-home：當一個年輕人在奇怪的地方長血栓——腹腔靜脈、腦靜脈竇、或反覆不明血栓——而所有常規凝血檢查都「正常」，那份「正常」本身，就是最重要的線索：它不代表安全，它代表你需要去看那三套煞車是不是其中一個已經悄悄壞掉了。

@@ -10,12 +10,12 @@
 
 這句口訣背後的邏輯，並不是什麼深邃的藥理必然，而是四個樞紐試驗當年的設計決策直接決定了核准標籤，進而形成了臨床指引。理解這個來源，才不會在考場或床邊記混。
 
-Single-drug approach（不需注射型前導）——Apixaban、Rivaroxaban
+Single-drug approach（不需注射型前導）——Apixaban、Rivaroxaban。
 
 EINSTEIN-DVT / EINSTEIN-PE（rivaroxaban）：試驗設計為純口服單藥，起始給予 rivaroxaban 15 mg BID × 21 天作為「加強劑量期（loading phase）」，之後轉為 20 mg QD 維持。試驗入組 3,449 例（DVT）與 4,832 例（PE），對比 enoxaparin 橋接後的 warfarin，顯示復發性 VTE 的非劣性，且 EINSTEIN-PE 中大出血風險顯著較低（1.1% vs. 2.2%，HR 0.49）。
 AMPLIFY（apixaban）：同樣單藥設計，起始 apixaban 10 mg BID × 7 天，後轉 5 mg BID 維持。入組 5,395 例，大出血率僅 0.6%，對照組（enoxaparin/warfarin）為 1.8%，HR 0.31，差距極為顯著 。
 
-Parenteral lead-in（需注射型前導大於等於 5 天）——Dabigatran、Edoxaban
+Parenteral lead-in（需注射型前導大於等於 5 天）——Dabigatran、Edoxaban。
 
 RE-COVER（dabigatran）：試驗設計為先給 5 到 10 天注射型抗凝（enoxaparin 或 UFH），再轉入 dabigatran 150 mg BID，與繼續注射橋接後之 warfarin 比較，顯示非劣性，出血亦較少 。
 Hokusai-VTE（edoxaban）：同樣先給大於等於 5 天注射型抗凝，再轉 edoxaban 60 mg QD（若 CrCl 30 到 50 mL/min、體重小於等於 60 kg、或併用 P-gp 抑制劑則降為 30 mg QD）維持，入組 8,240 例，顯示非劣性 。
@@ -42,11 +42,11 @@ DOAC 短半衰期帶來的臨床優勢體現在：停藥後 1 到 2 天內藥效
 
 三、(A)(C) 的核心：DOAC 憑什麼取代 warfarin。
 
-選項 (A) 的實證基礎
+選項 (A) 的實證基礎。
 
 綜合以 EINSTEIN-DVT、EINSTEIN-PE、AMPLIFY、Hokusai-VTE、RE-COVER 及 RE-COVER II 為代表的六大樞紐試驗資料，DOAC 對於復發性 VTE 的療效與 VKA 非劣，同時大出血風險顯著降低。其中減幅最為突出的是致命性出血與顱內出血（ICH）——而正是這兩種出血類型對病人的長期預後影響最深遠 。AMPLIFY 中 apixaban 的大出血率對比 enoxaparin/warfarin HR 僅 0.31，EINSTEIN-PE 中 rivaroxaban 的大出血 HR 為 0.49，均達統計顯著性 。
 
-選項 (C) 的機轉解釋
+選項 (C) 的機轉解釋。
 
 DOAC 能夠固定劑量給藥而不需常規監測，根本原因在於其直接且單一的作用靶點：dabigatran 直接抑制 thrombin（factor IIa），apixaban、rivaroxaban、edoxaban 直接抑制 factor Xa——藥效與血中濃度的關係可預測，治療窗相對寬 。
 
@@ -58,35 +58,35 @@ DOAC 能夠固定劑量給藥而不需常規監測，根本原因在於其直接
 
 腎臟清除比例是 DOAC 臨床選藥最核心的參數 ：
 
-DOAC
+DOAC。
 
-腎臟清除比例
+腎臟清除比例。
 
-臨床含義
+臨床含義。
 
-Dabigatran
+Dabigatran。
 
-≈ 80%
+≈ 80%。
 
-最依賴腎臟；CrCl < 30 mL/min 通常禁用
+最依賴腎臟；CrCl < 30 mL/min 通常禁用。
 
-Edoxaban
+Edoxaban。
 
-≈ 50%
+≈ 50%。
 
 中度腎功能不全需降劑量（CrCl 30 到 50 mL/min，接著 30 mg QD）
 
-Rivaroxaban
+Rivaroxaban。
 
-≈ 33 到 35%
+≈ 33 到 35%。
 
-嚴重腎功能不全（CrCl < 15 mL/min）禁用
+嚴重腎功能不全（CrCl < 15 mL/min）禁用。
 
-Apixaban
+Apixaban。
 
-≈ 25 到 27%
+≈ 25 到 27%。
 
-最不依賴腎臟；CKD 病人中通常最被接受
+最不依賴腎臟；CKD 病人中通常最被接受。
 
 肝臟代謝與藥物交互作用：Rivaroxaban 與 apixaban 透過 CYP3A4 及 P-glycoprotein（P-gp） 代謝 。這意味著與強效 CYP3A4 P-gp 抑制劑（如 azole 抗黴菌藥 ketoconazole、itraconazole；某些抗病毒藥 ritonavir）合用時，DOAC 血中濃度大幅升高，出血風險增加；而與 CYP3A4 P-gp 誘導劑（rifampin、carbamazepine、phenytoin）合用時，DOAC 濃度降低，血栓保護失效 。
 
@@ -94,10 +94,10 @@ Apixaban
 
 中央示意圖呈現了四個 DOAC 透過腸道、腎臟與肝臟的代謝消除途徑與相關轉運蛋白：
 
-![](/img/img/28ee85db-0594-428d-ac22-ebdc4527cba4.jpg)
+（此處原文有一張圖）
 Central Illustration: Central Illustration. Transport Proteins and Metabolic/Elimination Pathways of the Direct Oral Anticoagulants This figure outlines the various transport protein and metabolic/elimination pathways that have been shown to have a role in drug-drug interactions involving the direct oral anticoagulants (DOACs). P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), and organic anion transporting peptide (OATP) are influx/efflux transport proteins expressed in the intestinal tract, renal tubules, and hepatic biliary tree that can minimize DOAC absorption and increase DOAC elimination. The DOACs are listed under the respective transport proteins in which they serve as a substrate. Following absorption, the DOACs enter the central circulation and undergo various degrees of metabolism via the hepatic cytochrome P450 3A4 system and are eliminated at various rates in the urine and stool.
 
-其他 DOAC 重要禁忌與限制（讓知識完整）：機械性心臟瓣膜禁用：RE-ALIGN 試驗顯示 dabigatran 在此族群明顯較差，試驗提前終止；此禁忌亦推及所有 DOAC。中度以上二尖瓣狹窄（rheumatic）禁用：血流動力學特殊，DOAC 資料不足。Triple-positive antiphospholipid syndrome 不建議：TRAPS 試驗顯示 rivaroxaban 在此族群血栓復發率高於 warfarin。懷孕與哺乳禁用：無安全性資料。極端體重（BMI > 40 或體重 > 120 kg）：藥動學資料有限，固定劑量的可預測性存疑。Child-Pugh C 肝硬化：所有 DOAC 一般不建議使用
+其他 DOAC 重要禁忌與限制（讓知識完整）：機械性心臟瓣膜禁用：RE-ALIGN 試驗顯示 dabigatran 在此族群明顯較差，試驗提前終止；此禁忌亦推及所有 DOAC。中度以上二尖瓣狹窄（rheumatic）禁用：血流動力學特殊，DOAC 資料不足。Triple-positive antiphospholipid syndrome 不建議：TRAPS 試驗顯示 rivaroxaban 在此族群血栓復發率高於 warfarin。懷孕與哺乳禁用：無安全性資料。極端體重（BMI > 40 或體重 > 120 kg）：藥動學資料有限，固定劑量的可預測性存疑。Child-Pugh C 肝硬化：所有 DOAC 一般不建議使用。
 
 五、逐項評析。
 

@@ -34,7 +34,7 @@ RDW 19.9%：紅血球大小極不均一。 正常值約 11.5 到 14.5%，本例�
 
 RBC 計數假性偏低（計數少了）
 MCV 假性偏高（把一團細胞當一顆大細胞）
-Hct 被低估（因為 Hct 由 RBC × MCV 計算而來），接著 MCHC = Hgb ÷ Hct，Hct 被低估，故 MCHC 假性升高，常 > 36 到 40 g/dL
+Hct 被低估（因為 Hct 由 RBC × MCV 計算而來），接著 MCHC = Hgb ÷ Hct，Hct 被低估，故 MCHC 假性升高，常 > 36 到 40 g/dL。
 
 MCHC > 36 g/dL 在生理上幾乎不可能真實存在（唯一例外是嚴重脫水或遺傳性球形紅血球症），因此出現此紅旗時，應立即懷疑冷凝集素干擾，並將檢體加溫至 37°C 後重新分析。抽血與運送過程中，檢體亦應以保溫袋維持體溫，避免冷凝集素在體外再度活化 。
 
@@ -52,7 +52,7 @@ Reticulocyte count 確認骨髓是否對溶血做出「適當的代償性增生�
 
 ⚠️ 一個重要的臨床情境：若溶血病人的 reticulocyte 沒有上升，要立刻想到「合併骨髓問題」—— 例如 parvovirus B19 造成的 aplastic crisis（red cell aplasia），或者如下一節將提到的 folate 耗竭，皆可導致骨髓無法正常代償，出現「溶血仍在進行、但骨髓反應缺席」的危險組合。
 
-(E) Cold agglutinin 與 titer（冷凝集素及效價）——確立 CAD 診斷的關鍵
+(E) Cold agglutinin 與 titer（冷凝集素及效價）——確立 CAD 診斷的關鍵。
 
 ⚠️ 效價（titer）與熱幅度（thermal amplitude）是兩件截然不同的事，臨床意義各異：
 

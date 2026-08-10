@@ -57,7 +57,7 @@ Eculizumab 與 ravulizumab 都結合 C5 的 alpha 鏈，且結合位點涉及 Ar
 
 DTDC 多發生在換藥後的數週內，當前一個藥物被清除後，DTDCs 自然瓦解，症狀消失
 在 COMMODORE 1 試驗（從 eculizumab/ravulizumab 換藥的族群）中，約 16% 的 crovalimab 組病人出現免疫複合體反應，但絕大多數為輕度至中度，且全數在不修改治療的前提下自行緩解，沒有病人因此中斷治療或死亡
-在 COMPOSER Phase I II 試驗中，透過藥動學模型模擬，優化換藥期間的 crovalimab 劑量（以初始 IV loading 加密集皮下補充劑量），可將大型 DTDCs 的比例顯著壓低逾 50%，有效降低不良反應風險
+在 COMPOSER Phase I II 試驗中，透過藥動學模型模擬，優化換藥期間的 crovalimab 劑量（以初始 IV loading 加密集皮下補充劑量），可將大型 DTDCs 的比例顯著壓低逾 50%，有效降低不良反應風險。
 
 實務意義：換藥前須事先告知病人此風險，並在換藥後前幾週密切監測皮疹、關節痛等症狀；採用優化的換藥劑量方案可大幅降低 DTDC 相關事件的嚴重度。
 
@@ -75,7 +75,7 @@ Crovalimab 的真正「價值主張」，並非療效更優——COMMODORE 2 的
 
 以下為 COMMODORE 2 試驗中 crovalimab 與 eculizumab 在溶血控制方面的時間趨勢：
 
-![](/img/img/207cd44e-2343-4f07-959b-12aa5bce4aae.jpg)
+（此處原文有一張圖）
 Figure 2: Hemolysis control during the primary treatment period. (A) Proportion of patients with hemolysis control (central LDH 小於等於 1.5 × ULN) by visit. (B) Mean normalized central LDH by visit. Lines represent the mean values at each visit and the bars represent the 95% CIs. The black dashed line represents the 1.5 × ULN level. The box inset shows a magnification of the lines from week 7 to 25. LDH, lactate dehydrogenase; ULN, upper limit of normal. [Color figure can be viewed at wileyonlinelibrary.com ]
 
 五、逐項評析五個選項。

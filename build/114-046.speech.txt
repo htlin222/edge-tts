@@ -2,83 +2,83 @@
 
 不同的機器，在回答不同的問題：溶骨破壞、骨髓浸潤，還是代謝活性。
 
-![](/img/img/6af38224-cb76-44f8-8ca7-059e5ef05730.jpg)
-Figure 2: Average number of lesions found in paired investigations of classical skeletal survey (CSS) compared to whole‐body low‐dose CT (WBLDCT) with 95% confidence intervals. It is seen in (A) that a significantly higher total number of lesions are found on WBLDCT compared with CSS. Most of these are found in the axial skeleton (B) while there is no difference in the number of lesions found in the skull (C). In the extremities (D), slightly more lesions are found on the CSS compared with WBLDCT
+（此處原文有一張圖）
+Figure 2: Average number of lesions found in paired investigations of classical skeletal survey (CSS) compared to whole‐body low‐dose CT (WBLDCT) with 95% confidence intervals. It is seen in (A) that a significantly higher total number of lesions are found on WBLDCT compared with CSS. Most of these are found in the axial skeleton (B) while there is no difference in the number of lesions found in the skull (C). In the extremities (D), slightly more lesions are found on the CSS compared with WBLDCT。
 
-開場：先立起本篇的判準
+開場：先立起本篇的判準。
 
 面對多發性骨髓瘤（MM）的骨病變影像評估，臨床上常見的誤區是把 skeletal survey、whole-body low-dose CT（WBLDCT）、MRI、FDG-PET CT 當作「新舊取代」的關係來排序優劣。但更準確的理解是：這些工具偵測的是完全不同的物理／生物訊號，而不是同一件事的不同解析度——X 光與 CT 偵測的是「骨頭有沒有被破壞」（礦物質流失、骨皮質溶蝕）；MRI 偵測的是「骨髓裡有沒有東西」（漿細胞浸潤造成的骨髓訊號改變）；FDG-PET 偵測的是「那些東西還活不活躍」（葡萄糖代謝）。因此，「哪個影像最好」本身就是一個問錯的問題；真正該問的是「當下要回答的是溶骨、浸潤，還是代謝活性這三個問題中的哪一個」。這個判準會貫穿本題五個選項的評析。
 
-核心一：(B) 的「解偶聯」，及其兩個關鍵臨床後果
+核心一：(B) 的「解偶聯」，及其兩個關鍵臨床後果。
 
 MM 骨病變的病理生理核心是破骨與造骨活性的解偶聯（uncoupling）。腫瘤性漿細胞驅動骨髓微環境中 RANKL 上升、OPG 下降，加上 MIP-1alpha 、MIP-1beta 、IL-6、activin A 等因子，共同活化破骨細胞；與此同時，漿細胞分泌的 DKK-1、sclerostin、sFRP-2 等 Wnt 通路抑制因子直接壓制造骨細胞分化與功能。
 
 這個解偶聯帶來兩個重要臨床事實：第一，溶骨病灶即使在疾病完全緩解後也往往不會被重新填補，因為造骨端始終處於被抑制狀態，所以影像上的溶骨病灶不能作為治療反應評估的指標。第二，這也解釋了為何骨骼閃爍掃描（Tc-99m bone scan）在 MM 幾乎不建議使用——bone scan 偵測的是造骨細胞的成骨反應，而在一個造骨被系統性抑制的疾病中，即使病灶廣泛，掃描仍可能呈現偽陰性；這與轉移性攝護腺癌、乳癌等造骨反應活躍的骨轉移剛好相反。此外，(B) 提到 MGUS 階段已可見破骨細胞增生的現象，說明骨微環境失衡發生在臨床可見骨病變之前，這也部分解釋了為何 MGUS 病人骨折風險已較一般族群升高。
 
-核心二：四種影像工具的能與不能
+核心二：四種影像工具的能與不能。
 
-工具
+工具。
 
-偵測訊號
+偵測訊號。
 
-主要角色
+主要角色。
 
-關鍵限制
+關鍵限制。
 
-參考
+參考。
 
-傳統 X 光 skeletal survey
+傳統 X 光 skeletal survey。
 
-骨皮質/骨小樑破壞
+骨皮質/骨小樑破壞。
 
-資源有限時的替代選項
+資源有限時的替代選項。
 
-需喪失約 30 到 50%（甚至文獻報告 50 到 75%）骨小樑才能顯影；IMWG 已不建議作為第一線
+需喪失約 30 到 50%（甚至文獻報告 50 到 75%）骨小樑才能顯影；IMWG 已不建議作為第一線。
 
 全身低劑量 CT（WBLDCT）
 
-骨質破壞，空間解析度優於 X 光
+骨質破壞，空間解析度優於 X 光。
 
-IMWG 2019 建議之第一線工具
+IMWG 2019 建議之第一線工具。
 
-仍僅能偵測「已破壞」的骨，看不到未破壞骨頭內的骨髓浸潤
+仍僅能偵測「已破壞」的骨，看不到未破壞骨頭內的骨髓浸潤。
 
 MRI（含全身 MRI）
 
-骨髓內漿細胞浸潤
+骨髓內漿細胞浸潤。
 
-診斷骨髓浸潤模式、界定 MDE、評估脊髓壓迫的唯一選擇
+診斷骨髓浸潤模式、界定 MDE、評估脊髓壓迫的唯一選擇。
 
-對肋骨、顱骨等薄皮質骨部位敏感度不如 X 光/CT；耗時、昂貴、部分植入物禁忌
+對肋骨、顱骨等薄皮質骨部位敏感度不如 X 光/CT；耗時、昂貴、部分植入物禁忌。
 
-FDG-PET CT
+FDG-PET CT。
 
-代謝活性
+代謝活性。
 
 治療反應評估、偵測髓外/伴髓旁病變（EMD PMD）
 
-對 <1 cm 病灶敏感度有限；部分病人因 hexokinase-2 表現低下而偽陰性
+對 <1 cm 病灶敏感度有限；部分病人因 hexokinase-2 表現低下而偽陰性。
 
 值得特別說明的是 MRI 的部位依賴性：全身 MRI 對脊椎與骨盆的骨髓浸潤偵測能力極佳，但在肋骨、顱骨等區域因皮質薄、呼吸/氣體偽影干擾，表現明顯不如 CT。WBLDCT 與傳統 X 光的比較也呈現同樣的部位依賴模式——WBLDCT 在中軸骨（脊椎、骨盆）遠優於 X 光，但在顱骨兩者相當，在四肢骨甚至略遜於 X 光，如下圖所示。
 
-![](/img/img/f03cccf7-0718-486a-bbbd-b48cf595eabf.jpg)
-Figure 2: Average number of lesions found in paired investigations of classical skeletal survey (CSS) compared to whole‐body low‐dose CT (WBLDCT) with 95% confidence intervals. It is seen in (A) that a significantly higher total number of lesions are found on WBLDCT compared with CSS. Most of these are found in the axial skeleton (B) while there is no difference in the number of lesions found in the skull (C). In the extremities (D), slightly more lesions are found on the CSS compared with WBLDCT
+（此處原文有一張圖）
+Figure 2: Average number of lesions found in paired investigations of classical skeletal survey (CSS) compared to whole‐body low‐dose CT (WBLDCT) with 95% confidence intervals. It is seen in (A) that a significantly higher total number of lesions are found on WBLDCT compared with CSS. Most of these are found in the axial skeleton (B) while there is no difference in the number of lesions found in the skull (C). In the extremities (D), slightly more lesions are found on the CSS compared with WBLDCT。
 
 FDG-PET 的偽陰性有一個相當漂亮的分子機轉：部分骨髓瘤細胞表現 hexokinase-2 低下，導致 FDG 攝取不足，即使骨髓浸潤廣泛、DWI-MRI 顯示明確病灶，PET CT 仍可能呈現「假性乾淨」，此現象在文獻中報告的發生率約 11 到 12%。
 
-核心三：(A) ——影像如何直接改變診斷本身
+核心三：(A) ——影像如何直接改變診斷本身。
 
 2014 年 IMWG 修訂診斷準則的重大變革，是在傳統 CRAB 之外新增了 myeloma-defining events（MDE）：骨髓漿細胞大於等於 60%、involved/uninvolved 血清游離輕鏈比值大於等於 100，以及 MRI 上 >1 個、每個大於等於 5 mm 的 focal lesion。同時明訂，CT 或 PET-CT 上發現的溶骨病灶即可滿足 CRAB 中的 "B"。
 
 這意味著一個原本因無 CRAB 表現而被歸類為 smoldering myeloma、只需觀察的病人，一旦接受 WBLDCT 或 MRI 檢查發現額外病灶，可能當場升期為需要立即治療的 active MM。同樣邏輯適用於疑似 solitary plasmacytoma——必須以進階影像（WBLDCT 或 MRI）確認排除其他部位病灶，否則診斷本身即不成立為「solitary」。這正是「影像決定診斷、診斷決定治療」的典型範例，也是 (A) 完全準確之處。
 
-核心四：(E) 的誠實評析——概括過度，而非明顯錯誤
+核心四：(E) 的誠實評析——概括過度，而非明顯錯誤。
 
 前半句「MRI 對骨盆與脊椎病灶的偵測優於傳統 X 光」完全正確，文獻反覆證實 MRI 在中軸骨骨髓浸潤偵測上的優勢。但後半句「整體偵測 MM 骨侵犯的敏感度也普遍優於傳統 X 光」則屬於概括過度：MRI 的優勢具有明確的解剖部位依賴性，在肋骨與顱骨等薄皮質骨、易受偽影干擾的部位，其表現並不優於、甚至可能劣於 X 光或 CT。
 
 需要誠實說明的是，若 (E) 特指「全身 MRI（whole-body MRI）」，則多數文獻確實支持其整體敏感度高於傳統骨骼 X 光攝影，這也是為什麼本題將 (E) 歸類為「最不準確（least accurate）」而非「明顯錯誤（wrong）」——它的問題不在於方向錯誤，而在於把一個「有條件、有部位限制」的優勢，寫成了不限部位的普遍性優勢，掩蓋了 MRI 在肋骨、顱骨等區域的已知弱點。相對地，(C) 所述 FDG-PET 對 <1 cm 病灶敏感度有限、部分廣泛病灶病人可能偽陰性，兩者都有明確文獻支持，屬於準確描述。
 
-收尾：實用影像決策流程
+收尾：實用影像決策流程。
 
 初診斷評估骨病灶：WBLDCT 為第一線。
 WBLDCT 陰性但臨床仍高度懷疑，或需鑑別 smoldering 與 active MM：加做全身 MRI（或至少脊椎＋骨盆 MRI），尋找 MDE 定義的 focal lesion。

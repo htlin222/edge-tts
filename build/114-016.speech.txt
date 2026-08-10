@@ -2,23 +2,23 @@
 
 TP53 的幾次打擊如何決定一個診斷:ICC 與 WHO 的兩套算…。
 
-有脈絡的綜論:TP53 的幾次打擊如何決定一個診斷:ICC 與 WHO 的兩套算法
+有脈絡的綜論:TP53 的幾次打擊如何決定一個診斷:ICC 與 WHO 的兩套算法。
 
 TP53 的「幾次打擊」如何決定一個診斷——以及 ICC 與 WHO 在同一件事上的兩套算法。
 
 這道題的爭議點，本質上反映了 TP53 突變在 MDS 分類學上最複雜、也最容易考倒臨床醫師的地方：官方答案是 (D)，但依 ICC 2022 原始準則逐條檢視，真正不成立的敘述其實是 (C)。以下先梳理生物學背景，再逐一拆解，最後說明可能的爭議來源。
 
-一、為什麼 TP53 值得單獨列一類
+一、為什麼 TP53 值得單獨列一類。
 
 TP53 突變的 MDS AML 是預後最差的一群，對傳統化療與 HMA 反應差，移植後復發率高。但關鍵在於：「有 TP53 突變」與「TP53 功能完全喪失」是兩件事。Bernard 等在 Nature Medicine（2020）分析 3,324 例 MDS 病人發現，monoallelic（單一等位基因）突變病人的預後與存活與 co-occurring 突變、複雜核型等高風險特徵，都特異地只出現在 multi-hit 病人——單一突變病人的存活與治療反應與 TP53 wild-type 病人並無差異。這正是 2022 年兩套分類都把 TP53 獨立成類、且都要求「證明是雙打擊」的根本原因——分類反映生物學的典範案例。
 
-二、兩套算法的精確比較
+二、兩套算法的精確比較。
 
 ICC 2022「MDS with mutated TP53」：BM blast 0 到 9%，需符合 multi-hit TP53——即大於等於 2 個 TP53 突變（各 VAF大於等於 10%）；或 1 個突變合併 17p 缺失、17p cnLOH、或複雜核型；或單一突變 VAF>50%。ICC 另設兩個依 blast 分層的延伸類別：「MDS AML with mutated TP53」（blast 10 到 19%）與「AML with mutated TP53」（blast大於等於 20%）——在這兩個較高 blast 的類別，只要 TP53 突變 VAF大於等於 10% 即可定義，不需要 multi-hit。
 
 WHO 第 5 版「MDS with biallelic TP53 inactivation（MDS-biTP53）」：blast<20%，需大於等於 2 個 TP53 突變；或 1 個突變合併 TP53 的 copy number loss 或 cnLOH 證據。WHO 並不把「複雜核型本身」當作第二個打擊，這是與 ICC 最關鍵的分歧點，儘管實務上這群人幾乎都伴隨複雜核型。近期回溯性研究顯示，用這兩套系統重新分類同一世代病人，逾三分之二（67.5%）病例會得到不一致的分類結果，凸顯這不是紙上談兵的細節差異。
 
-三、逐一判讀題目病例
+三、逐一判讀題目病例。
 
 (C) 病例：單一 TP53 突變、VAF 46%、核型正常（46,XY）、BM blast 7%。逐條核對 ICC 的 multi-hit 定義：大於等於 2 個突變？否。合併 17p 缺失/cnLOH/複雜核型？否（核型正常）。VAF>50%？否（46%，未達門檻）。四條路徑均不符合，不能診斷為 multi-hit，也就不能診斷「MDS with mutated TP53」。此外 BM blast 7% 本身應歸入 MDS with excess blasts（MDS-EB），TP53 單一突變僅作為預後不良的分子註記。依 ICC 原文，(C) 的敘述不成立。
 
@@ -28,61 +28,61 @@ WHO 第 5 版「MDS with biallelic TP53 inactivation（MDS-biTP53）」：blast<
 
 爭議說明：官方答案選 (D) 為錯誤敘述，但依 ICC 2022 原始文獻（Arber et al., Blood 2022）逐條核對，站得住腳、真正不成立的應是 (C)。推測命題可能是把 WHO 5th 對 biallelic 判定的某些細節（或某種對 TP53 診斷路徑的簡化理解）誤置到 ICC 情境中，也可能是誤認為單一 VAF 46% 已足夠「接近」50% 而忽略門檻的絕對性。應試時以官方答案為準，臨床判讀時應以準則原文的四條 multi-hit 路徑逐一核對。
 
-四、(A)(B) 的確認
+四、(A)(B) 的確認。
 
 成立：ICC 與 WHO 5th 對各系別 dysplasia 判定門檻皆為該系別大於等於 10% 細胞具形態學異常。需提醒，dysplasia 的判讀者間一致性並不高，且缺鐵、B12/葉酸缺乏、酒精、藥物、感染、重金屬皆可造成 reactive dysplasia，故形態學異常不能單獨診斷 MDS，須先排除可逆病因。
 成立：WHO 5th 的「MDS with low blasts and SF3B1 mutation（MDS-SF3B1）」要求 BM blast<5%（一般定義為<5%，部分文獻列<1% PB）、PB blast<2%、SF3B1 突變（VAF大於等於 10%），且無 5q 缺失、monosomy 7 或複雜核型。SF3B1 突變已取代 ring sideroblast 計數成為定義依據，因為突變比形態更可靠且本身即與良好預後相關。ICC 對應類別為「MDS with mutated SF3B1」，條件相近。此群體預後相對良好，也是 luspatercept 的主要適應族群。
 
-五、收尾：分類改版的精神
+五、收尾：分類改版的精神。
 
 兩套分類的共同方向是從「以形態學為主」走向「以基因型為主」——TP53、SF3B1（及 5q 缺失）已成為定義性標準而非附註。IPSS-M 則將 31 個基因納入預後模型，取代 IPSS-R，與分類互補：分類回答「這是什麼病」，IPSS-M 回答「這個病人會怎樣」。
 
-選項
+選項。
 
-敘述重點
+敘述重點。
 
-依準則原文判定
+依準則原文判定。
 
-說明
+說明。
 
 (A)
 
-dysplasia 門檻 10%
+dysplasia 門檻 10%。
 
-正確
+正確。
 
-ICC WHO 5th 一致
+ICC WHO 5th 一致。
 
 (B)
 
-MDS-SF3B1 定義
+MDS-SF3B1 定義。
 
-正確
+正確。
 
-無 5q 缺失/-7/複雜核型為前提
+無 5q 缺失/-7/複雜核型為前提。
 
 (C)
 
-單一 TP53、VAF 46%、核型正常、blast 7%，接著 ICC 診斷 MDS with mutated TP53
+單一 TP53、VAF 46%、核型正常、blast 7%，接著 ICC 診斷 MDS with mutated TP53。
 
-不成立
+不成立。
 
-未達 multi-hit 任一路徑，應屬 MDS-EB
+未達 multi-hit 任一路徑，應屬 MDS-EB。
 
 (D)
 
-兩系 dysplasia、blast 3%、RUNX1 突變，接著 ICC MDS,NOS-MLD
+兩系 dysplasia、blast 3%、RUNX1 突變，接著 ICC MDS,NOS-MLD。
 
-逐條相符
+逐條相符。
 
-RUNX1 非 MDS 排除條件
+RUNX1 非 MDS 排除條件。
 
 (E)
 
-雙 TP53 突變，接著 WHO MDS-biTP53
+雙 TP53 突變，接著 WHO MDS-biTP53。
 
-正確
+正確。
 
-大於等於 2 突變即符合 biallelic
+大於等於 2 突變即符合 biallelic。
 
 臨床上必須誠實面對：同一病人在兩套系統下可能得到不同診斷名稱。病理報告應註明採用哪一套分類，臨床試驗入組條件也須確認版本，以免因分類差異造成入選或治療決策錯誤。

@@ -22,19 +22,19 @@
 
 「DAT 陰性」的假陰性，並非單一機轉，而是三條獨立的路徑，每一條都需要不同的破解策略 。
 
-路徑一：抗體量低於偵測閾值
+路徑一：抗體量低於偵測閾值。
 
 傳統試管法（tube method）的偵測下限，約需每顆紅血球表面有 200 到 500 個 IgG 分子才能讀出陽性 。若病人的自體 IgG 確實存在，但密度落在這條線以下，試管法就靜悄悄地回報陰性。
 
 對策：升級偵測方法。 管柱凝集法（column agglutination / gel card）、流式細胞術（flow cytometry），或 ELISA-based DAT，可將偵測下限降至每顆紅血球數十個分子——靈敏度提升一個數量級 。這些方法在部分參考實驗室可以取得，但需要臨床醫師主動提出要求，因為常規流程只跑試管法。
 
-路徑二：低親和力 IgG 在洗滌過程中被沖走
+路徑二：低親和力 IgG 在洗滌過程中被沖走。
 
 標準 DAT 流程在加入 AHG 試劑之前，必須以 37°C 生理食鹽水洗滌紅血球，目的是去除游離的血清免疫球蛋白（避免假陽性）。然而，若自體抗體本身親和力低（low-affinity），它與紅血球的結合就不穩固，37°C 的洗滌步驟會把它一起沖走——帶走證據的同時，也帶走了診斷 。
 
 對策：改用 4°C 冷洗滌，或改用低離子強度溶液（LISS）洗滌。 低溫可以保留原本在體溫下結合鬆散的抗體；LISS 降低離子強度，同樣有助於穩定抗原抗體結合。這兩個調整都很簡單，但同樣必須由臨床醫師主動向血庫提出，常規流程不會自動執行 。
 
-路徑三：抗體根本不是 IgG——而是 IgA 或 warm-reactive IgM
+路徑三：抗體根本不是 IgG——而是 IgA 或 warm-reactive IgM。
 
 這是最根本的盲區：試劑瓶裡沒有裝的，永遠驗不到。IgA 型 AIHA 與 warm-reactive IgM 型 AIHA，在常規 polyspecific AHG 試劑下，一定是陰性 。這不是技術靈敏度的問題，而是試劑成分的問題——無論你的試管法再精良，偵測不了的就是偵測不了。
 
@@ -81,7 +81,7 @@ IgA 介導的 AIHA 在中文詳解中常被當成「錯誤干擾選項」一筆�
 IgA 不活化古典補體路徑——因此 DAT 上不會看到 C3d 沉積
 其溶血機轉以脾臟的 Fcalpha 受體（Fcalpha RI，又稱 CD89）介導的血管外破壞為主，但一項重要的病例研究發現，pIgA 介導的 AIHA 更主要的機轉可能是紅血球在脾臟內凝集後被機械性滯留與清除（trogocytosis），而非典型的 Fc 受體吞噬
 部分報告指出 IgA 型 AIHA 對類固醇反應較差、病程較易慢性化
-常規 polyspecific DAT 完全驗不到它——polyspecific 試劑裡沒有 anti-IgA，所以這類病人的 DAT 永遠是陰性，診斷必須靠 monospecific anti-IgA 試劑才能揭露
+常規 polyspecific DAT 完全驗不到它——polyspecific 試劑裡沒有 anti-IgA，所以這類病人的 DAT 永遠是陰性，診斷必須靠 monospecific anti-IgA 試劑才能揭露。
 
 這正好完美接回主軸一的核心命題：試劑瓶裡裝了什麼，決定了你能否看見疾病。IgA 型 AIHA 對常規試劑來說是隱形的——不是因為疾病不存在，而是因為試劑設計根本沒有去找它。
 
@@ -89,65 +89,65 @@ IgA 不活化古典補體路徑——因此 DAT 上不會看到 C3d 沉積
 
 為了幫助整合全文，以下建立一個二維框架，以抗體類型為橫軸、紅血球清除途徑為縱軸，把主要的 AIHA 實體放進去：
 
-疾病 / 情境
+疾病 / 情境。
 
-主要自體抗體
+主要自體抗體。
 
-主要清除途徑
+主要清除途徑。
 
-DAT 典型結果
+DAT 典型結果。
 
-備註
+備註。
 
 溫型 AIHA（warm AIHA）
 
-IgG
+IgG。
 
-脾臟 Fcgamma R 介導，血管外溶血
+脾臟 Fcgamma R 介導，血管外溶血。
 
-IgG 陽性；約 50% 同時 C3d 陽性
+IgG 陽性；約 50% 同時 C3d 陽性。
 
-最常見；C3d 陽性代表補體已被部分活化
+最常見；C3d 陽性代表補體已被部分活化。
 
 Cold Agglutinin Disease（CAD）
 
-IgM
+IgM。
 
-肝臟 Kupffer 細胞，CR1 CR3 辨識 C3b，血管外溶血為主
+肝臟 Kupffer 細胞，CR1 CR3 辨識 C3b，血管外溶血為主。
 
-IgG 陰性；C3d 陽性
+IgG 陰性；C3d 陽性。
 
-急性寒冷暴露時可有 MAC（血管內）成分
+急性寒冷暴露時可有 MAC（血管內）成分。
 
-IgA 型 AIHA
+IgA 型 AIHA。
 
 IgA（pIgA）
 
-脾臟滯留／trogocytosis；Fcalpha RI 貢獻有限
+脾臟滯留／trogocytosis；Fcalpha RI 貢獻有限。
 
-Polyspecific DAT 陰性；monospecific anti-IgA 陽性
+Polyspecific DAT 陰性；monospecific anti-IgA 陽性。
 
-罕見（<1%）；類固醇反應可能較差
+罕見（<1%）；類固醇反應可能較差。
 
 Paroxysmal Cold Hemoglobinuria（PCH）
 
 IgG（Donath-Landsteiner 雙相抗體）
 
-強烈補體活化，接著 MAC（C5b-9），血管內溶血
+強烈補體活化，接著 MAC（C5b-9），血管內溶血。
 
-IgG 陽性；C3d 陽性；需 Donath-Landsteiner 試驗確診
+IgG 陽性；C3d 陽性；需 Donath-Landsteiner 試驗確診。
 
-唯一 IgG 主導強烈血管內溶血的例外
+唯一 IgG 主導強烈血管內溶血的例外。
 
-健康者 DAT 陽性
+健康者 DAT 陽性。
 
 非病理性（非特異吸附等）
 
-無清除
+無清除。
 
-IgG 或 C3d 低度陽性
+IgG 或 C3d 低度陽性。
 
-無溶血；每千至萬名捐血者中約一人
+無溶血；每千至萬名捐血者中約一人。
 
 這個座標軸揭示了兩個在考試與臨床中都關鍵的觀念。
 
@@ -159,7 +159,7 @@ IgG 或 C3d 低度陽性
 
 本題問「關於冷凝集素病引起的溶血，下列敘述何者正確」，官方答案為 (C)。以下逐項剖析：
 
-(A) IgG 抗體直接破壞紅血球膜
+(A) IgG 抗體直接破壞紅血球膜。
 
 錯誤類型：機轉描述錯位型——一句話錯了兩層。
 
@@ -168,18 +168,18 @@ IgG 或 C3d 低度陽性
 
 把 IgG 說成 CAD 的主角，又把抗體說成直接打洞的兇器——這是兩個獨立的錯誤疊加在同一句話裡。
 
-(B) IgG 抗體介導的溶血，不涉及補體
+(B) IgG 抗體介導的溶血，不涉及補體。
 
 錯誤類型：過度絕對化型。
 
 這句話的第一個問題是「不涉及補體」這種絕對措辭。如前所述：
 
 約 30 到 60% 的溫型 AIHA，DAT 同時為 IgG 與 C3d 雙陽性，代表 IgG 已觸發古典補體路徑的活化
-PCH 是更直接的反例：IgG 的 Donath-Landsteiner 抗體可以驅動強烈的補體活化，一直推進到 MAC，造成血管內溶血
+PCH 是更直接的反例：IgG 的 Donath-Landsteiner 抗體可以驅動強烈的補體活化，一直推進到 MAC，造成血管內溶血。
 
 第二個問題是：這句話把 IgG 框死為「不涉及補體」，卻對 IgG subclass 的差異視而不見——IgG3 的補體活化效率遠高於 IgG4，subclass 的差異在這裡很重要。
 
-(C) IgM 抗體介導的溶血，通常伴隨補體的參與
+(C) IgM 抗體介導的溶血，通常伴隨補體的參與。
 
 正確答案。
 
@@ -187,7 +187,7 @@ IgM 冷凝集素在低溫（肢端微血管）時與紅血球結合，啟動古�
 
 「通常伴隨補體的參與」——這句話精確、有據，且沒有過度絕對化。CAD 之所以幾乎必然涉及補體，是因為 IgM 的五聚體結構賦予它極高的 C1q 結合效率；補體活化是 CAD 溶血機轉的核心，而非偶然。
 
-(D) IgA 抗體介導的紅血球凝集
+(D) IgA 抗體介導的紅血球凝集。
 
 錯誤類型：套錯疾病型。
 
@@ -195,7 +195,7 @@ IgM 冷凝集素在低溫（肢端微血管）時與紅血球結合，啟動古�
 
 CAD 的定義性抗體是 IgM 冷凝集素。選項 (D) 把一個真實的免疫機轉貼錯了病名標籤。此外，「紅血球凝集」這個描述本身也過度簡化——IgA 型 AIHA 的紅血球破壞更多是脾臟滯留與吞噬，而非典型的凝集 。
 
-(E) 紅血球膜缺陷，不涉及任何抗體
+(E) 紅血球膜缺陷，不涉及任何抗體。
 
 錯誤類型：方向完全相反型。
 
@@ -211,19 +211,19 @@ IgM 冷凝集素在末梢低溫時結合紅血球並啟動補體，但當紅血�
 
 只有在急性嚴重寒冷暴露的情境下，補體活化足以推進至 MAC（C5b-9），才會出現血管內溶血與血紅素尿——這是 CAD 的急性併發症，而非常態機轉。把急性例外當成常規機轉，是教學上的危險簡化。
 
-第二個常見錯誤：混淆 CAD 的補體標靶藥物
+第二個常見錯誤：混淆 CAD 的補體標靶藥物。
 
 部分中文詳解在討論 CAD 的新型治療時，會提到「C5 抑制劑 pegcetacoplan」或「iptacopan」，這是三重錯誤：
 
 Pegcetacoplan 是 C3 抑制劑，不是 C5 抑制劑
 Iptacopan 是 factor B 抑制劑（抑制 alternative pathway），不是 C5 抑制劑
-兩者目前的核准適應症都是 PNH（paroxysmal nocturnal hemoglobinuria），而非 CAD
+兩者目前的核准適應症都是 PNH（paroxysmal nocturnal hemoglobinuria），而非 CAD。
 
 至於 eculizumab（C5 抑制劑）：在 CAD 的 DECADE 試驗中，eculizumab 確實能降低 LDH（代表血管內溶血減少），但無法顯著提升血紅素濃度。原因正是 CAD 的溶血瓶頸在 C3，而非 C5——C3b 大量沉積後直接走向 Kupffer 細胞吞噬（血管外），這條路徑完全不依賴 C5 和 MAC。封鎖 C5 對這條主要路徑毫無作用。
 
 目前唯一經 FDA 核准用於 CAD 的補體標靶藥物，是 anti-C1s 單株抗體 sutimlimab（Enjaymo） 。它直接封鎖 C1s（古典補體路徑的啟動酶），在 IgM 與 C1q 結合之後、C4 裂解之前就截斷整條路徑，因此能同時阻止 C3b 沉積（消除肝臟吞噬）與 MAC 形成（消除血管內溶血），兩條路徑一起封住 。
 
-![](/img/img/3e6cbec8-12a2-4adf-9182-426ef65e305d.jpg)
+（此處原文有一張圖）
 Figure 1: Classical complement pathway inhibition with sutimlimab. The lectin and alternative pathways remain unaffected.
 
 九、貫穿全文的一條線。
@@ -236,5 +236,5 @@ Figure 1: Classical complement pathway inhibition with sutimlimab. The lectin an
 
 下圖呈現 NEJM 建議的 AIHA 完整診斷流程，可作為臨床參考框架：
 
-![](/img/img/54862cd6-5b4d-4b39-8199-cf4a2d1cc490.jpg)
+（此處原文有一張圖）
 Figure 3: Algorithm for a Diagnostic Workup of Autoimmune Hemolytic Anemia (AIHA).

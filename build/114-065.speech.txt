@@ -35,7 +35,7 @@ aHUS 病人常同時具備三項升高出血風險的因素：嚴重血小板低
 
 在 aHUS，每一天未受控的 TMA 持續消耗腎元（nephron loss）：血栓形成、缺血、纖維化的「時間效應」是真實且不可逆的。目前的臨床共識是以 24 到 48 小時內啟動補體阻斷（complement blockade） 為目標，而等待切片安排、執行、判讀，往往需要數天以上的時間 。
 
-最重要的邏輯顛倒——(D) 的措辭根本說反了
+最重要的邏輯顛倒——(D) 的措辭根本說反了。
 
 選項 (D) 寫道「除非病人有嚴重的血小板低下」才不需要切片——但嚴重血小板低下本來就是腎切片的禁忌症（contraindication），而不是「得以省略切片的特殊情況」。邏輯恰恰相反：正是因為這些病人本來就「不適合」做切片，所以診斷 aHUS 從一開始就必須依賴臨床整合，而非病理確認。
 
@@ -50,13 +50,13 @@ MAHA 的判定要素：
 周邊血液抹片（peripheral blood smear）可見 schistocyte（裂片紅血球）——這是機械性血管內溶血的形態學證據，是診斷的必要條件之一
 血紅素（Hb）常 < 10 g/dL
 乳酸脫氫酶（LDH）> 正常上限的 1.5 倍，反映紅血球溶解與組織缺血
-haptoglobin 測不到（undetectable），因 free hemoglobin 快速飽和 haptoglobin 結合位
+haptoglobin 測不到（undetectable），因 free hemoglobin 快速飽和 haptoglobin 結合位。
 
 一個「必須陰性」的關鍵檢驗：DAT（direct antiglobulin test，直接抗球蛋白試驗）
 
 DAT 必須為陰性，用以排除 autoimmune hemolytic anemia（AIHA）——後者也可以呈現溶血性貧血，但機制不同，treatment decision 完全不同（DAT 陽性的鑑別在前一篇筆記已完整處理，此處不重複展開）。
 
-一個誠實的但書：血小板低下並非 aHUS 的必要條件
+一個誠實的但書：血小板低下並非 aHUS 的必要條件。
 
 並非所有 aHUS 病人在初診時均有血小板低下；部分病人的血小板在正常範圍內，尤其在疾病早期或局部腎臟受累為主時 。「血小板正常」不能排除 aHUS，這是一個臨床上容易疏漏的陷阱，也是選項 (A) 中「血小板 < 150 × 10⁹/L」這一門檻需要理解其來自定義而非排除標準的原因。
 
@@ -79,7 +79,7 @@ MCP CD46：約 10 到 15%，是膜結合蛋白（membrane-bound），僅在表�
 CFI（complement factor I）：約 5 到 10%
 C3：約 5 到 10%
 CFB（complement factor B）：約 1 到 4%，gain-of-function 變異
-THBD（thrombomodulin）：罕見，約 3 到 5%
+THBD（thrombomodulin）：罕見，約 3 到 5%。
 
 整體而言，仍有約 40 到 60% 的病人找不到任何已知 complement 路徑變異，凸顯目前基因診斷的侷限性 。
 
@@ -88,7 +88,7 @@ THBD（thrombomodulin）：罕見，約 3 到 5%
 約佔所有 aHUS 的 10%，好發於兒童及青少年
 抗體結合於 factor H 的 C 端（C-terminus），干擾 factor H 與細胞表面 C3b 的結合，導致 alternative pathway 失控活化
 幾乎所有 FHAA 陽性病人均合併 CFHR1 CFHR3 的同型合子缺失（homozygous deletion）：此基因區段的缺失導致 CFHR1 CFHR3 蛋白不存在，而 CFHR1 正常情況下有「競爭性抑制」自體抗體生成的功能，缺失後使免疫耐受性下降，抗體大量產生
-這是 aHUS 中少數「血漿置換（plasma exchange, PE）＋免疫抑制（如 rituximab）」有明確治療角色的亞型：血漿置換可快速清除已循環的自體抗體，rituximab 則針對 B 細胞以長期壓制抗體生成；抗體效價（titer）可作為治療反應的監測指標，效價下降即支持減量或停藥
+這是 aHUS 中少數「血漿置換（plasma exchange, PE）＋免疫抑制（如 rituximab）」有明確治療角色的亞型：血漿置換可快速清除已循環的自體抗體，rituximab 則針對 B 細胞以長期壓制抗體生成；抗體效價（titer）可作為治療反應的監測指標，效價下降即支持減量或停藥。
 
 基因型如何決定腎移植後的復發風險——本段最有臨床價值的部分：
 
@@ -99,7 +99,7 @@ CFH、CFI、C3、CFB：這些都是肝臟合成並分泌至血液循環的蛋白
 因應策略：
 
 CFH、C3、CFB 高風險變異者，目前指引建議預防性使用 eculizumab 或 ravulizumab，自移植前或移植時即開始，並維持至足夠時間
-部分高風險病人在過去曾考慮「肝腎合併移植（combined liver-kidney transplantation）」——以健康肝臟取代原本製造異常蛋白的器官，從根本糾正問題；但此術式的手術風險高，現有 eculizumab 後，其適應症已大幅縮窄
+部分高風險病人在過去曾考慮「肝腎合併移植（combined liver-kidney transplantation）」——以健康肝臟取代原本製造異常蛋白的器官，從根本糾正問題；但此術式的手術風險高，現有 eculizumab 後，其適應症已大幅縮窄。
 
 六、治療與一個重要的未解問題。
 
@@ -109,11 +109,11 @@ CFH、C3、CFB 高風險變異者，目前指引建議預防性使用 eculizumab
 
 Ravulizumab 相較 eculizumab 的主要優勢在於輸注頻率：eculizumab 每兩週一次，ravulizumab 每八週一次（成人），減少就醫負擔，在腎移植後管理中尤其具有實務價值 。
 
-實務難題：腦膜炎雙球菌（Neisseria meningitidis）疫苗的時間差
+實務難題：腦膜炎雙球菌（Neisseria meningitidis）疫苗的時間差。
 
 Anti-C5 治療使終端補體路徑受抑，大幅增加莢膜菌（尤其是腦膜炎雙球菌）感染風險。指引要求用藥前接種 meningococcal vaccine（四價 ACWY 加上 MenB），但疫苗至少需要兩週才能誘發保護性免疫。臨床上，aHUS 不能等兩週——因此標準做法是：同時接種疫苗，並立即給予預防性抗生素（通常為 penicillin 或 amoxicillin），持續至疫苗保護建立為止 。
 
-血漿置換（plasma exchange, PE）的現代定位
+血漿置換（plasma exchange, PE）的現代定位。
 
 自 eculizumab 核可以來，PE 在 aHUS 的地位已從第一線退居第二線。唯一仍有明確角色的情境，是「抗 factor H 抗體」型 aHUS：PE 在此可快速移除致病自體抗體，並補充外源性 factor H，通常與 rituximab 合用 。對基因型 aHUS 而言，PE 無法從根本阻斷 complement activation，僅有有限的橋接作用。
 
@@ -122,12 +122,12 @@ Anti-C5 治療使終端補體路徑受抑，大幅增加莢膜菌（尤其是腦
 aHUS 的補體阻斷治療是否應「終身」進行，至今無定論 。現有資料顯示：
 
 在選定病人中停藥後，復發率約 20 到 30%，且 CFH 變異者的復發風險最高
-目前的共識是：在「腎功能已恢復至穩定、無已知高風險基因變異（如 CFH、C3、CFB）、且能維持密切監測（定期查 LDH、血小板、腎功能）」的選定病人，可「在密切監測下嘗試停藥」，但任何復發跡象應立即重啟治療
+目前的共識是：在「腎功能已恢復至穩定、無已知高風險基因變異（如 CFH、C3、CFB）、且能維持密切監測（定期查 LDH、血小板、腎功能）」的選定病人，可「在密切監測下嘗試停藥」，但任何復發跡象應立即重啟治療。
 
-新一代藥物的現況
+新一代藥物的現況。
 
 Crovalimab（Piasky）：另一個 anti-C5 抗體，已獲 FDA 核可用於 PNH；在 aHUS 的 phase III 試驗正在進行中
-近端補體抑制劑（proximal complement inhibitors）：包括針對 factor B、factor D、C3 的藥物（如 iptacopan），目前尚未核可用於 aHUS，但 phase III 試驗正在招募，代表未來或可針對 alternative pathway 的更上游環節進行阻斷，理論上可提供更完整的保護
+近端補體抑制劑（proximal complement inhibitors）：包括針對 factor B、factor D、C3 的藥物（如 iptacopan），目前尚未核可用於 aHUS，但 phase III 試驗正在招募，代表未來或可針對 alternative pathway 的更上游環節進行阻斷，理論上可提供更完整的保護。
 
 七、收尾：基因是體質，誘因才是扳機。
 
@@ -137,8 +137,8 @@ aHUS 的 complement 基因變異，本身不足以觸發疾病——在大多數
 
 如下圖所示，aHUS 的遺傳負擔與環境誘因之間存在「劑量-效應」關係——攜帶越多 complement 風險因素（致病性變異加上 risk haplotype），在越小的環境誘因下即可發病，甚至在沒有明顯誘因的情況下達到完全外顯（full penetrance）。
 
-![](/img/img/178a95a1-1552-4741-aa20-0cd59966139a.jpg)
-Figure 7: The genetic load of genetic risk factors determines penetrance of aHUS. aHUS is a complex disease, with additive genetic risk factors conferring predisposition to aHUS and environmental risk factors triggering disease development. Data support an inverse correlation between the genetic load of risk factors and the intensity of environmental triggers required for disease development. A, Kaplan–Meier estimations of the aHUS penetrance for different loads of genetic risk factors. B, aHUS penetrance at age 35 years and maximum aHUS penetrance in relatives of probands carrying 1 or 2 pathogenic variants and contribution of the CFH‐H3 and MCP ggaac risk haplotypes. Reproduced from 144 with permission
+（此處原文有一張圖）
+Figure 7: The genetic load of genetic risk factors determines penetrance of aHUS. aHUS is a complex disease, with additive genetic risk factors conferring predisposition to aHUS and environmental risk factors triggering disease development. Data support an inverse correlation between the genetic load of risk factors and the intensity of environmental triggers required for disease development. A, Kaplan–Meier estimations of the aHUS penetrance for different loads of genetic risk factors. B, aHUS penetrance at age 35 years and maximum aHUS penetrance in relatives of probands carrying 1 or 2 pathogenic variants and contribution of the CFH‐H3 and MCP ggaac risk haplotypes. Reproduced from 144 with permission。
 
 這個「兩次打擊」的結構（體質 × 誘因 = 發病），與抗磷脂症候群中 catastrophic APS（CAPS）的發病邏輯幾乎如出一轍——背景的凝血高危體質加上一個急性觸發事件，決定了臨床上是否會有災難性的多器官血栓事件。
 

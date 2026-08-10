@@ -68,7 +68,7 @@ Foscarnet：直接瞄準，扣下扳機。
 
 Foscarnet 是 pyrophosphate 的類似物。它的機轉完全不依賴任何磷酸化：它直接結合病毒 DNA polymerase 的焦磷酸結合位（pyrophosphate binding site），非競爭性地阻斷焦磷酸的釋放，從而抑制 DNA 合成。
 
-出廠就已上膛，因此：對 HSV、VZV、CMV 均有效（只要這些病毒有 DNA polymerase，foscarnet 就有靶點）。是 acyclovir-resistant HSV（TK 缺陷株） 的首要救援藥物——TK 缺陷導致 acyclovir 無法上膛，但 foscarnet 不在乎 TK。是 ganciclovir-resistant CMV（UL97 突變） 的首要救援藥物——UL97 失能不影響 foscarnet 的作用
+出廠就已上膛，因此：對 HSV、VZV、CMV 均有效（只要這些病毒有 DNA polymerase，foscarnet 就有靶點）。是 acyclovir-resistant HSV（TK 缺陷株） 的首要救援藥物——TK 缺陷導致 acyclovir 無法上膛，但 foscarnet 不在乎 TK。是 ganciclovir-resistant CMV（UL97 突變） 的首要救援藥物——UL97 失能不影響 foscarnet 的作用。
 
 毒性的代價：不需要病毒幫忙上膛，意味著藥物本身必須直接接觸宿主組織，腎臟首當其衝。Foscarnet 的腎毒性極為顯著，且會造成複雜的電解質異常：低鈣血症（foscarnet 螯合游離鈣）、低鎂血症、低鉀血症，以及磷代謝失衡（可能低磷或高磷，視腎功能狀態而定）。
 
@@ -128,7 +128,7 @@ Maribavir 是口服 benzimidazole riboside，機轉是競爭性抑制 CMV UL97 k
 
 Ganciclovir 需要 UL97 來完成第一步磷酸化（上膛）
 Maribavir 抑制 UL97
-兩者合用 = maribavir 把 ganciclovir 的上膛機制關閉，ganciclovir 因此無法活化
+兩者合用 = maribavir 把 ganciclovir 的上膛機制關閉，ganciclovir 因此無法活化。
 
 這是一個罕見的、由機轉決定的臨床禁忌。臨床指引明確指出不建議 maribavir 與 ganciclovir/valganciclovir 合用 。
 
@@ -208,76 +208,76 @@ Lytic vs latency 的不對稱：Acyclovir 在體外確實能抑制 EBV lytic rep
 
 把以上所有藥物放入一個統一框架：
 
-藥物
+藥物。
 
 上膛者（活化酵素）
 
-藥效譜
+藥效譜。
 
-抗藥主因
+抗藥主因。
 
-主要毒性
+主要毒性。
 
-參考
+參考。
 
-Acyclovir
+Acyclovir。
 
 病毒 TK（HSV > VZV，EBV 臨床無效；CMV 無 TK 故無效）
 
-HSV、VZV
+HSV、VZV。
 
-TK 缺失或突變
+TK 缺失或突變。
 
 低（腎毒性少見，高劑量需水化）
 
-Ganciclovir
+Ganciclovir。
 
-CMV UL97
+CMV UL97。
 
 CMV（兼及 HSV）
 
 UL97 突變（約 80%）、UL54 突變（交叉抗藥）
 
-骨髓抑制（中性球低下）、腎毒性
+骨髓抑制（中性球低下）、腎毒性。
 
-Foscarnet
+Foscarnet。
 
 無需活化（直接結合 DNA polymerase 焦磷酸位）
 
-HSV、VZV、CMV
+HSV、VZV、CMV。
 
-UL54 突變
+UL54 突變。
 
 腎毒性、電解質異常（低鈣、低鎂、低鉀）
 
-Cidofovir
+Cidofovir。
 
 宿主 kinase（已自帶 monophosphate）
 
-HSV、VZV、CMV
+HSV、VZV、CMV。
 
-UL54 突變
+UL54 突變。
 
 近端腎小管毒性（需 probenecid + 水化）
 
-Letermovir
+Letermovir。
 
 無需活化（直接抑制 terminase complex）
 
-CMV 專一
+CMV 專一。
 
-UL56 突變
+UL56 突變。
 
-極低（無骨髓毒性）；CYP3A 交互作用
+極低（無骨髓毒性）；CYP3A 交互作用。
 
-Maribavir
+Maribavir。
 
 無需活化（抑制 UL97 kinase 本身）
 
-CMV 專一
+CMV 專一。
 
-UL97、UL27 突變
+UL97、UL27 突變。
 
-Dysgeusia；不可與 ganciclovir 合用
+Dysgeusia；不可與 ganciclovir 合用。
 
 這張表的核心信息是：上膛者決定藥效譜；上膛者失能即成抗藥性；無需上膛者跨越抗藥性但付出毒性代價；靶點越獨特，毒性越小，但藥效譜越窄。Letermovir 是這個邏輯的極致——幾乎零毒性，幾乎零交叉活性，只對 CMV 一把鎖。

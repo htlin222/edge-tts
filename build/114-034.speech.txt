@@ -36,64 +36,64 @@ C3 被裂解為 C3a 與 C3b，接著 C3b 大量共價沉積在紅血球表面（
 
 被 C3b 標記的紅血球，接下來有兩種命運：
 
-命運一（多數）：血管外溶血
+命運一（多數）：血管外溶血。
 
 C3b 在流體相中被 factor I 與輔因子（如 CR1、factor H）降解，先變成 iC3b，再繼續降解為最終殘留的 C3d。帶著 C3b/iC3b 的紅血球被肝臟 Kupffer cells 經由 CR1 CR3 辨識並吞噬，這就是 CAD 的主要溶血場所——血管外、發生在肝臟，而非脾臟。
 
 ⚠️ 這裡有一個非常優雅的細節：那些「沒有被吃掉」、只殘留 C3d 的紅血球，反而獲得了對後續補體攻擊的抵抗力——因為 C3d 無法再被 C3 convertase 識別，也無法組裝 C5 convertase，使紅血球進入一種「被標記但受保護」的狀態。這賦予了溶血某種自限性，也解釋了為什麼臨床上 DAT 呈現的是 C3d 而非 C3b——最終殘留在紅血球上的，正是這個降解末端產物。
 
-命運二（少數）：血管內溶血
+命運二（少數）：血管內溶血。
 
 若 C3b 積累到足以驅動 C5 convertase，接著 C5b-9（MAC），就會發生直接的膜穿孔與血管內溶血。然而，CAD 病人的 CD55 與 CD59 功能是完好的：CD55（DAF）加速 C3 C5 convertase 的瓦解，CD59 抑制 MAC 的最終組裝，使終末途徑的活化在多數穩定期病人中維持在次臨床水準。因此血管外溶血才是 CAD 穩定期的主要機制；但在感染、手術等補體超強活化時，血管內溶血比例會上升。
 
 以下圖示清楚呈現了 warm AIHA 與 CAD 兩種路徑的對比——前者以脾臟為核心，後者以肝臟為核心：
 
-![](/img/img/c1244506-20af-497d-b083-e4c825b4bbd3.jpg)
+（此處原文有一張圖）
 Figure 1: Pathogenesis of Warm Antibody–Mediated and Cold Antibody–Mediated Autoimmune Hemolytic Anemia.
 
 四、本章高潮：三個疾病，三個不同的入口。
 
 補體攻擊自己的細胞，可以從三個完全不同的地方開始。 以下是這三種疾病在「入口」上的對比，也是本題選項 (C)(D)(E) 設計的深層邏輯：
 
-疾病
+疾病。
 
-補體異常的入口
+補體異常的入口。
 
-核心機轉
+核心機轉。
 
-CD55 CD59 狀態
+CD55 CD59 狀態。
 
-治療攔截點
+治療攔截點。
 
-參考
+參考。
 
-CAD
+CAD。
 
 有人按了警鈴（古典途徑）
 
-IgM 冷凝集素「不當地啟動」古典途徑；防禦蛋白完好
+IgM 冷凝集素「不當地啟動」古典途徑；防禦蛋白完好。
 
-✅ 正常
+✅ 正常。
 
 Sutimlimab（抗 C1s，擋在古典途徑最起點）
 
-PNH
+PNH。
 
 沒有盾牌（替代途徑 tick-over 無法被壓制）
 
-PIGA 突變，接著 GPI-anchor 缺陷，接著 CD55 CD59 喪失；替代途徑持續自發水解（無需觸發）便可造成溶血
+PIGA 突變，接著 GPI-anchor 缺陷，接著 CD55 CD59 喪失；替代途徑持續自發水解（無需觸發）便可造成溶血。
 
-❌ 缺失
+❌ 缺失。
 
-C5 抑制劑（eculizumab/ravulizumab）或近端 C3/factor B 抑制劑
+C5 抑制劑（eculizumab/ravulizumab）或近端 C3/factor B 抑制劑。
 
-aHUS
+aHUS。
 
 煞車壞了（替代途徑調控蛋白失能）
 
-CFH、CFI、MCP 功能突變，接著替代途徑在內皮細胞表面失控放大
+CFH、CFI、MCP 功能突變，接著替代途徑在內皮細胞表面失控放大。
 
-✅ 正常
+✅ 正常。
 
 C5 抑制劑（eculizumab/ravulizumab）
 
@@ -103,7 +103,7 @@ C5 抑制劑（eculizumab/ravulizumab）
 
 以下圖示呈現了三條補體途徑的架構與它們在不同位置的調控節點：
 
-![](/img/img/de552d25-743e-4c92-a4ec-89918a65d8c4.jpg)
+（此處原文有一張圖）
 Figure 1: Pathogenesis of Warm Antibody–Mediated and Cold Antibody–Mediated Autoimmune Hemolytic Anemia.
 
 五、回到血栓：補體活化如何「同時」造成血栓。
@@ -116,7 +116,7 @@ C5a 是連接補體與凝血的關鍵樞紐。C5a 作為強效的 anaphylatoxin�
 
 溶血釋出的游離血紅素大量消耗一氧化氮（NO），接著血管收縮、血小板活化增強
 活化的嗜中性球形成 NETs（neutrophil extracellular traps），提供促凝血的支架
-紅血球凝集造成局部血流遲滯，在肢端微血管尤為顯著
+紅血球凝集造成局部血流遲滯，在肢端微血管尤為顯著。
 
 結論就此清晰：貧血與血栓不是這個病人的「兩個併發症」，而是「同一個補體活化事件的兩種不同表現」——前者是補體標記紅血球後、肝臟巨噬細胞的吞噬；後者是 C5a 驅動的促凝環境與溶血副產品的協同。
 

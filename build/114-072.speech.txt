@@ -76,7 +76,7 @@ HLH 的診斷依 HLH-2004 標準，需符合以下 8 項中的 5 項：
 sCD25（可溶性 IL-2 受體）升高（大於等於 2,400 U/mL）
 NK cell 活性降低或缺失
 Hemophagocytosis（骨髓、脾臟、淋巴結中的噬血現象）
-低或無 NK cell 活性
+低或無 NK cell 活性。
 
 當一個「IM」出現以下情況時，應積極懷疑 HLH：持續發燒超過 2 週且無緩解、血球計數持續下降、ferritin 急速攀升、出現黃疸或神經症狀、男性兒童有家族 EBV 嚴重感染史（後者提示 XLP1）。
 
@@ -95,7 +95,7 @@ EBV 感染誘發大規模的 polyclonal B-cell activation，使各種 B 細胞�
 Heterophile antibodies（Paul-Bunnell antibodies）： 凝集羊、馬紅血球，是 Monospot 快篩（Paul-Bunnell 試驗）的基礎，為 IM 的重要診斷工具。
 Rheumatoid factor（IgM anti-IgG）
 Antinuclear antibodies（ANA）
-冷反應性自體抗體（cold-reactive autoantibodies）：可能造成 cold agglutinin hemolytic anemia
+冷反應性自體抗體（cold-reactive autoantibodies）：可能造成 cold agglutinin hemolytic anemia。
 
 一個教科書與考題中極常見的錯誤，此處必須明確澄清：
 IM 相關的冷凝集素，其專一性是 anti-i（小寫 i），而非 anti-I（大寫 I）。
@@ -106,29 +106,29 @@ i 抗原： 紅血球膜上以線性（unbranched）polylactosamine 鏈為基礎
 I 抗原： 由酵素 IGnT GCNT2（beta -1,6-N-acetylglucosaminyltransferase） 將線性 polylactosamine 轉化為分支（branched）polylactosamine 結構，出生後逐漸取代 i 抗原。成人紅血球幾乎全為 I 抗原表現型；臍帶血（cord blood）紅血球仍以 i 抗原為主。
 臨床意義： IM 相關的 cold agglutinin 優先與 cord blood 紅血球（高 i 抗原）而非成人紅血球（高 I 抗原）反應，這正是 anti-i 的特徵。
 
-疾病
+疾病。
 
-冷凝集素專一性
+冷凝集素專一性。
 
-相關抗原特徵
+相關抗原特徵。
 
-Infectious mononucleosis
+Infectious mononucleosis。
 
-Anti-i
+Anti-i。
 
 線性 polylactosamine（臍帶血強陽性）
 
-Mycoplasma pneumoniae
+Mycoplasma pneumoniae。
 
-Anti-I
+Anti-I。
 
 分支 polylactosamine（成人紅血球強陽性）
 
-其他病毒感染
+其他病毒感染。
 
-多種
+多種。
 
-視具體感染而異
+視具體感染而異。
 
 記憶口訣：i（小）= Infant/cord blood；I（大）= adult（成人）；IM 選 anti-i，Mycoplasma 選 anti-I。
 

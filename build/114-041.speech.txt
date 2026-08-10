@@ -4,9 +4,9 @@
 
 以下是依題目要求撰寫的綜論，以「免疫血栓」為主軸，涵蓋 COVID-19 凝血病的全貌與考題五個選項的深度解析。
 
-當發炎與凝血其實是同一套系統——COVID-19 給血液學上的那一課
+當發炎與凝血其實是同一套系統——COVID-19 給血液學上的那一課。
 
-一、開場：免疫血栓（immunothrombosis）——被分開教的兩章，其實是同一套武器
+一、開場：免疫血栓（immunothrombosis）——被分開教的兩章，其實是同一套武器。
 
 傳統醫學教育把「發炎」與「凝血」分拆成兩個章節：前者屬於免疫學，後者屬於血液學。然而從演化的角度看，這種分法是人為的。在無脊椎動物體內，凝固系統本來就兼具「抵禦病原體」的功能；「免疫血栓（immunothrombosis）」這個概念所要表達的，正是它們共同的演化起源。
 
@@ -14,51 +14,51 @@
 
 COVID-19 是人類史上規模最大的一次「免疫血栓」自然實驗。SARS-CoV-2 直接感染並損傷血管內皮細胞、激活補體與凝血，同時引發史無前例規模的細胞激素風暴，讓我們有機會在數以百萬計的病人身上，觀察免疫與凝血系統的互動如何從保護走向毀滅。
 
-二、COVID-19 相關凝血病（CAC）「不是」典型的 DIC
+二、COVID-19 相關凝血病（CAC）「不是」典型的 DIC。
 
 臨床上最重要、也最常被誤解的一點，是把 COVID-19 的凝血異常直接套用 DIC 的框架。這兩者雖然都涉及凝血活化，但在實驗室與臨床表現上有根本性的差異 ：
 
-指標
+指標。
 
 CAC（COVID-19 相關凝血病）
 
-典型 DIC
+典型 DIC。
 
-Fibrinogen
+Fibrinogen。
 
 正常或「顯著升高」（急性期蛋白）
 
 明顯下降（消耗殆盡）
 
-血小板
+血小板。
 
-僅輕度下降
+僅輕度下降。
 
-明顯下降
+明顯下降。
 
-PT / aPTT
+PT / aPTT。
 
-僅輕度延長
+僅輕度延長。
 
-明顯延長
+明顯延長。
 
-D-dimer
+D-dimer。
 
 極度升高，與其他異常「不成比例」
 
-升高，但與其他指標同步
+升高，但與其他指標同步。
 
-臨床主要表現
+臨床主要表現。
 
-以動靜脈「血栓」為主；出血罕見
+以動靜脈「血栓」為主；出血罕見。
 
-出血常見，甚至為主要表現
+出血常見，甚至為主要表現。
 
 這張對比表有一個關鍵洞察：在 CAC 中，fibrinogen 不降反升，是因為 IL-6 驅動肝臟大量合成急性期蛋白，合成速率遠超過消耗速率；而 D-dimer 的極度升高（有時超過 5000 到 10000 ng/mL）相較於相對輕微的 PT 延長與血小板下降，形成一種「比例嚴重失調」的實驗室型態 。
 
 更貼切的描述，是 Ackermann 等人提出的「肺內血管內凝血（pulmonary intravascular coagulopathy, PIC）」——病灶的核心並非全身性，而是集中於肺微血管床。病理解剖的證據令人印象深刻：COVID-19 死亡病例的肺部，可見廣泛的肺泡微血管纖維蛋白血栓與嚴重的內皮損傷；更重要的是，血管新生模式以「intussusceptive angiogenesis（插入性血管新生）」為主，此一模式在流感死亡病例的肺部幾乎不見——這正是 COVID-19 肺部病理最具辨識性的特徵，也反映了慢性低氧與持續內皮損傷的共同驅動 。
 
-三、選項 (B) 為什麼錯——CRP 不只是旁觀者，它是共犯
+三、選項 (B) 為什麼錯——CRP 不只是旁觀者，它是共犯。
 
 題目的核心陷阱在於（B）——「CRP 高低與預後無關」。這是本題最明確的錯誤敘述，且錯得相當徹底。
 
@@ -71,9 +71,9 @@ D-dimer
 
 與 IL-6 的同步邏輯：SARS-CoV-2 感染引發大量 IL-6 釋放，IL-6 驅動肝臟進入急性期反應，使 CRP、fibrinogen、以及纖溶抑制劑 PAI-1「同時」上升。這一現象解釋了一個臨床上常見的困惑——為什麼發炎指標與凝血指標往往同步惡化？因為它們有「同一個上游」。CRP 與凝血指標的同步，正是「發炎與凝血本是一套系統」這個命題最直接、最具臨床說服力的證據。
 
-四、選項 (A) 與 (C) 的確認：兩個最有預後價值的生物標記
+四、選項 (A) 與 (C) 的確認：兩個最有預後價值的生物標記。
 
-（A）D-dimer：預後分層的工具，而非診斷工具
+（A）D-dimer：預後分層的工具，而非診斷工具。
 
 多項研究一致證實，入院時 D-dimer > 1 µg/mL（即 1000 ng/mL）已與死亡率顯著相關；而 D-dimer > 5000 ng/mL 則代表極高的死亡風險，這一切割值在多個隊列中均具備獨立預後意義 。
 
@@ -81,10 +81,10 @@ D-dimer
 
 下圖來自系統性回顧的 meta 分析，清楚呈現了各凝血指標在重症與非重症病人之間的差異幅度：
 
-![](/img/img/cffe8545-06f4-452f-b8db-e369fef75e50.jpg)
-Figure 2: Forrest plots of the meta‐analyzed association of every blood coagulation indicator with the risk of severe 2019 novel coronavirus disease (COVID‐19). APTT, activated partial thromboplastin time; PT, prothrombin time; WMD, weighted mean difference
+（此處原文有一張圖）
+Figure 2: Forrest plots of the meta‐analyzed association of every blood coagulation indicator with the risk of severe 2019 novel coronavirus disease (COVID‐19). APTT, activated partial thromboplastin time; PT, prothrombin time; WMD, weighted mean difference。
 
-（C）VWF / ADAMTS13 ratio：內皮損傷程度的直接讀值
+（C）VWF / ADAMTS13 ratio：內皮損傷程度的直接讀值。
 
 SARS-CoV-2 造成廣泛且嚴重的「內皮活化與損傷」，其機轉涉及直接病毒感染、補體攻擊、以及細胞激素介導的旁觀者損傷。內皮細胞的 Weibel-Palade body 在受刺激時大量「傾倒」其儲存物——其中最重要的就是超大 VWF multimer（ultra-large VWF multimers, UL-VWF）。研究顯示，COVID-19 住院病人的血漿 VWF 抗原（VWF:Ag）可高達正常值的 4 倍以上，且隨疾病嚴重度遞增（低氧流量者約 268 IU/dL、CPAP 者 386 IU/dL、機械通氣者高達 476 IU/dL）。
 
@@ -94,26 +94,26 @@ SARS-CoV-2 造成廣泛且嚴重的「內皮活化與損傷」，其機轉涉及
 
 以下散佈圖顯示，ADAMTS13 VWF:Ag 比值在急診表現時即可區分嚴重急性腎損傷與重症 COVID-19 病人：
 
-![](/img/img/57dedb4e-9e22-424a-aef9-99cb331f5a59.jpg)
+（此處原文有一張圖）
 Figure 1: ADAMTS13 VWF:ratio measured at emergency department presentation in patients with and without severe acute kidney injury (AKI) (A) and according to peak 30‐d COVID‐19 severity (B)
 
 ⚠️ 關鍵鑑別：此一 VWF ADAMTS13 失衡所形成的「TTP 樣」狀態，在凝膠電泳上可見類似 TTP 的大分子 multimer 聚積型態 ——但這「並非 TTP」，ADAMTS13 通常只是中度下降，極少低於 10%（TTP 的診斷門檻），詳見 TTP/iTTP 筆記。
 
-五、選項 (D) 與 (E) 的誠實評析
+五、選項 (D) 與 (E) 的誠實評析。
 
-（D）Caplacizumab——機轉完全合理，但證據仍薄弱
+（D）Caplacizumab——機轉完全合理，但證據仍薄弱。
 
 Caplacizumab 是一種 anti-VWF nanobody，其作用機轉是阻斷 VWF A1 domain 與血小板 GPIbalpha 的交互作用，在 iTTP 已有明確療效（詳見 iTTP 筆記，此處一句帶過）。
 
 既然 COVID-19 的核心問題之一正是 VWF 過剩導致血小板被大量捕捉，caplacizumab 的機轉在理論上「完全合理」，阻斷此一交互作用應能減少微血管血栓的形成。然而，⚠️ 目前支持 caplacizumab 用於 COVID-19 的證據，僅限於個案報告與小型系列研究，尚無足夠的隨機對照試驗資料，並非標準治療。選項（D）的敘述（「可抑制血小板與 VWF multimer 的作用而改善病情」）在機轉描述上正確，作為考題選項不構成「不正確的敘述」，故不是本題答案。
 
-（E）Antithrombin——間接抑制血小板的機轉，以及在重症 COVID-19 的臨床意義
+（E）Antithrombin——間接抑制血小板的機轉，以及在重症 COVID-19 的臨床意義。
 
 選項（E）所說「antithrombin 可抑制血小板的附著與凝集」，其機轉是「間接的」，路徑如下：AT 的主要底物是 thrombin（以及 FXa、FIXa）；而 thrombin 是已知最強的血小板活化劑，經由 protease-activated receptor（PAR-1 與 PAR-4）直接促進血小板活化、形態改變與凝集。因此，抑制 thrombin 就等於切斷「凝血，接著血小板放大迴路」的關鍵訊號，間接達到抑制血小板的效果——這一敘述在機轉上並無錯誤。
 
 臨床觀察則為此提供了另一層重要性：重症 COVID-19 病人普遍出現 antithrombin 濃度下降，且低 AT 水平與預後不良高度相關。更具臨床實際意義的是，低 AT 導致「肝素抗性（heparin resistance）」——因為 unfractionated heparin 必須以 AT 作為輔因子（將其加速一萬倍以上）才能發揮抗凝效果；一旦 AT 不足，即便使用足量 heparin，抗凝效果仍嚴重受損 。這也是重症加護室中 aPTT 監測下 heparin 劑量需求往往出乎意料地高的原因之一。
 
-六、最反直覺、也最重要的一段：抗凝治療試驗的時機悖論
+六、最反直覺、也最重要的一段：抗凝治療試驗的時機悖論。
 
 三個國際平台試驗（ATTACC、ACTIV-4a、REMAP-CAP）的合併分析，在 COVID-19 抗凝治療的歷史上留下了最具震撼性的結論，其要點可以簡述如下 ：
 
@@ -130,12 +130,12 @@ Caplacizumab 是一種 anti-VWF nanobody，其作用機轉是阻斷 VWF A1 domai
 
 以下 forest plot 清楚呈現了這個時機差異在不同嚴重度病人的療效分歧：
 
-![](/img/img/76464332-6f2d-4a9a-a9aa-90964baab641.jpg)
-Figure 2: Forrest plots of the meta‐analyzed association of every blood coagulation indicator with the risk of severe 2019 novel coronavirus disease (COVID‐19). APTT, activated partial thromboplastin time; PT, prothrombin time; WMD, weighted mean difference
+（此處原文有一張圖）
+Figure 2: Forrest plots of the meta‐analyzed association of every blood coagulation indicator with the risk of severe 2019 novel coronavirus disease (COVID‐19). APTT, activated partial thromboplastin time; PT, prothrombin time; WMD, weighted mean difference。
 
 臨床教訓直白如下：在免疫血栓的情境下，「時機」比「劑量」更重要。這是 COVID-19 給現代血液學、重症醫學最深刻的一課——不是「要不要抗凝」的問題，而是「你是否還在可以有效介入的時間窗口之內」的問題。
 
-七、逐項評析與臨床 Take-Home
+七、逐項評析與臨床 Take-Home。
 
 (A) 正確：D-dimer > 5000 ng/mL 是公認的重症與死亡高風險指標，本選項描述正確 。
 (B) ❌ 不正確：CRP 與 COVID-19 的嚴重度、重症化及死亡率有一致且強烈的相關性，且 CRP 本身參與補體活化與組織因子誘導，直接驅動病理，並非「與預後無關」。，接著本題答案。

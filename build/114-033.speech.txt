@@ -54,7 +54,7 @@ CADENZA 試驗（無近期輸血史病人）為 26 週隨機安慰劑對照試�
 
 以下圖顯示 sutimlimab 治療後血色素與膽紅素隨時間的快速且持續改善：
 
-![](/img/img/e3bb135e-6125-4f16-8e92-f5e88dc95e20.jpg)
+（此處原文有一張圖）
 Figure 1: Effect of Sutimlimab on Hemoglobin and Bilirubin Levels in Patients with Cold Agglutinin Disease.
 
 Sutimlimab 已獲美國 FDA 核准用於治療成人 CAD 之溶血。其機轉上的優雅之處在於僅阻斷古典途徑，保留替代途徑與凝集素途徑的部分免疫防禦功能，這與 PNH 所用的 C5 抑制劑作用位點不同（此部分機轉已於先前補體筆記中討論，不再重複展開）。

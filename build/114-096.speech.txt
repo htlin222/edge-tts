@@ -98,23 +98,23 @@ Danicopan（factor D 抑制劑）：同樣阻斷替代途徑，影響波及 opso
 
 逐項分析如下：
 
-(A) Pneumococcal vaccination——「另一種免疫缺陷的正解」型錯誤
+(A) Pneumococcal vaccination——「另一種免疫缺陷的正解」型錯誤。
 
 肺炎鏈球菌是厚壁的革蘭氏陽性莢膜菌，其清除完全依賴 opsonophagocytosis，與 MAC 無關。抗肺炎鏈球菌的最重要臨床適應症是無脾病人，而非終端補體缺乏或 anti-C5 治療。這個選項把「無脾病人的正確答案」搬到了補體缺陷的情境，是機轉錯置。 若題幹換成近端補體抑制劑，(A) 就會重新進入答案範疇。
 
-(B) Hemophilus vaccination——「時代錯置」型錯誤
+(B) Hemophilus vaccination——「時代錯置」型錯誤。
 
 Hib 疫苗在兒童常規接種普及之後，成人侵襲性 Hib 感染在已開發國家已極為罕見，並非 anti-C5 治療者的主要感染威脅。其次，Hib 感染的防禦同樣依賴 opsonophagocytosis，而非 MAC。這個選項在機轉與流行病學上均對不上。 同樣地，若題幹換成近端補體抑制劑，Hib 疫苗則回歸適應症之列。
 
-(C) Meningococcal (Neisseria) vaccination——正確答案
+(C) Meningococcal (Neisseria) vaccination——正確答案。
 
 機轉完全吻合：N. meningitidis 是革蘭氏陰性薄壁菌，主要靠 MAC 清除；anti-C5 精準切斷 MAC 的形成；FDA REMS 強制要求。全篇論述都是這個答案的理論基礎。
 
-(D) Zoster vaccination——「機轉不對口」型錯誤
+(D) Zoster vaccination——「機轉不對口」型錯誤。
 
 帶狀疱疹（Herpes zoster）的再活化，是 VZV 在背根神經節長期潛伏後的復燃，其控制仰賴細胞免疫（CD4⁺ 及 CD8⁺ T 細胞），補體在其中扮演的角色微乎其微。Anti-C5 對 T 細胞免疫完全無影響。因此帶狀疱疹疫苗在 PNH anti-C5 治療情境下，並非因補體抑制而產生的適應症。機轉根本不對口。
 
-(E) All of the above vaccination are needed——「過度包含」的誘導選項
+(E) All of the above vaccination are needed——「過度包含」的誘導選項。
 
 在 anti-C5 的題幹下，這是一個過度包含的陷阱，因為選項中的 (A)(B)(D) 在機轉上均不符合 anti-C5 治療所產生的特定免疫缺口。然而，這是本題最值得深思的選項，因為它在另一個藥物情境下幾乎是正確的： 把題幹的 anti-C5 換成近端補體抑制劑（如 pegcetacoplan），meningococcal、pneumococcal、Hib 三者疫苗就都進入適應症，(E) 就從「過度包含的錯誤」，變成「最接近正確的答案」（仍排除 zoster，因機轉仍不符）。這個微妙的分界，正是本題真正在測試的補體生物學深度。
 

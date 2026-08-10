@@ -34,7 +34,7 @@ PIGA 所在的位置是這條產線的第一道工序：它編碼一個酵素複
 對於體染色體上的基因，每個細胞都攜帶兩份拷貝（母源＋父源）。在一個體細胞突變的情境下，要讓一個體染色體基因完全失去功能，需要：
 
 第一次打擊：一個等位基因突變
-第二次打擊：另一個等位基因也突變或缺失
+第二次打擊：另一個等位基因也突變或缺失。
 
 這就是腫瘤抑制基因理論所謂的 two-hit 假說。在 GPI 生合成的情境下，對 PIGV、PIGO、PIGT 等體染色體基因而言，一個造血幹細胞要單憑體細胞突變讓整條產線完全停擺，機率極低——因為必須在同一個細胞內連續發生兩次獨立的打擊。
 
@@ -82,7 +82,7 @@ PIGT-PNH：一個需要真正兩次打擊的例外。
 這個預測已經得到驗證。Höchsmann 等人（2019）報告了一組具有典型 PNH 表現但同時伴有顯著自體發炎特徵的患者，分子分析顯示他們的病因並非 PIGA 突變，而是位於第 20 號染色體的 PIGT 基因雙等位基因失活——具體機制恰好是：
 
 第一次打擊：一個生殖系的 PIGT 點突變（heterozygous germline variant），讓患者從出生起就帶著一個功能受損的 PIGT 等位基因
-第二次打擊：造血幹細胞中發生體細胞性 20q 缺失，把另一個正常的 PIGT 等位基因所在的染色體區段整個刪掉
+第二次打擊：造血幹細胞中發生體細胞性 20q 缺失，把另一個正常的 PIGT 等位基因所在的染色體區段整個刪掉。
 
 這完美地符合 two-hit 的要求：正因為 PIGT 在體染色體上有備援，所以需要兩次打擊；而 PIGA 在 X 染色體上沒有備援，所以一次就夠。
 
@@ -92,13 +92,13 @@ PIGT-PNH 不只是「罕見的 PNH 亞型」，它是一個在臨床表現上就
 
 反覆發作的無菌性腦膜炎（aseptic meningitis）
 蕁麻疹樣皮疹
-關節痛與發燒
+關節痛與發燒。
 
 這些是自體發炎（autoinflammatory）的特徵，而非典型 PNH 的表現。
 
 機轉是什麼？關鍵在於 PIGT 在產線上的位置。PIGT 負責催化 GPI 前驅物與蛋白質的 transpeptidation（即把蛋白質接到 GPI 錨上）——這是產線的較後段工位。當 PIGT 失去功能，細胞仍然可以合成 GPI 的前驅結構，但無法將其連接到蛋白質上。這些未完成的、游離的 GPI 結構無處去，就滯留在細胞膜的外葉上，成為一種異常的分子信號。
 
-Höchsmann 等人的實驗顯示，這些游離 GPI 結構會：活化補體的凝集素路徑（lectin pathway），產生 C5b-9 複合物。刺激白血球分泌 IL-1beta ，驅動 inflammasome 的激活
+Höchsmann 等人的實驗顯示，這些游離 GPI 結構會：活化補體的凝集素路徑（lectin pathway），產生 C5b-9 複合物。刺激白血球分泌 IL-1beta ，驅動 inflammasome 的激活。
 
 這就解釋了 PIGT-PNH 的自體發炎表現。
 
@@ -132,7 +132,7 @@ HPMRS 最具標誌性的生化異常，是血清 alkaline phosphatase（鹼性�
 
 其機轉出乎意料地直白：alkaline phosphatase 本身就是一個 GPI 錨定蛋白。正常情況下，ALP 被 GPI 錨牢牢固定在細胞膜的外葉；當 GPI 錨的生合成不足，ALP 無法被有效錨定，就從細胞表面脫落，進入血液循環。
 
-錨做不好，接著蛋白質固定不住，接著直接沖進血流，接著血中 ALP 濃度升高
+錨做不好，接著蛋白質固定不住，接著直接沖進血流，接著血中 ALP 濃度升高。
 
 這是一個罕見的「實驗室數值直接映照分子缺陷」的例子：血清 ALP 升高，不是因為 ALP 的產量增加，而是因為它的「定錨能力」出了問題。臨床上遇到無法解釋的持續性高 ALP，尤其合併智能障礙與癲癇時，HPMRS 應列入鑑別診斷。
 
@@ -159,7 +159,7 @@ Luzzatto 與 Nakao（2025）的整合分析指出，PNH 的克隆擴張高度依
 正常的造血幹細胞，其細胞表面攜帶多種 GPI 錨定蛋白
 在自體免疫性骨髓衰竭（如再生不良性貧血，aplastic anemia, AA）的情境中，自體反應性 T 細胞（autoreactive T cells）以某些 GPI 錨定蛋白作為攻擊標靶之一
 PIGA 突變的幹細胞，因為失去了這些 GPI 錨定的表面分子，等同於在 T 細胞的眼中「隱形」——無法被識別、無法被攻擊
-在正常幹細胞被免疫系統大量清除的同時，GPI 陰性的 PNH 克隆卻得以倖免，相對比例上升
+在正常幹細胞被免疫系統大量清除的同時，GPI 陰性的 PNH 克隆卻得以倖免，相對比例上升。
 
 這是一個達爾文式的體細胞競爭：PNH 克隆的擴張不依賴「主動增殖優勢」，而依賴「被動存活優勢」——在免疫壓力的環境下，失去 GPI 錨，反而是一件好事。
 
@@ -169,15 +169,15 @@ PIGA 突變的幹細胞，因為失去了這些 GPI 錨定的表面分子，等�
 
 題目背景：32 歲女性，溶血性貧血、晨起深色尿、靜脈血栓病史，流式細胞術顯示紅血球缺乏 CD55 與 CD59。問其分子機轉。（114 年血液專科考題，官方答案 (C)）
 
-(C) Acquired mutation in the PIGA gene on X chromosome 正確答案
+(C) Acquired mutation in the PIGA gene on X chromosome 正確答案。
 
 流式細胞術顯示 CD55 與 CD59 雙缺失，代表 GPI 錨定蛋白普遍缺失；結合晨起深色尿（血色素尿）與靜脈血栓病史，診斷 PNH 無庸置疑。機轉正是本文主軸一所描述：X 染色體上的 PIGA 是 GPI 生合成產線上唯一沒有備援的崗位，一次體細胞突變即可讓整條線停擺。Acquired（後天獲得）是這個選項最關鍵的定語，它確立了體細胞突變的性質。
 
-(A) Acquired mutation in the BCL-2 gene ，錯誤方向錯誤型
+(A) Acquired mutation in the BCL-2 gene ，錯誤方向錯誤型。
 
 BCL-2 基因編碼一個抗細胞凋亡蛋白，與 GPI 生合成完全無關。BCL-2 的臨床意義在血液腫瘤學，最著名的例子是：BCL2 的 G101V 點突變見於接受 venetoclax 治療的慢性淋巴性白血病（CLL）患者，是 venetoclax 抗藥性的主要分子機制。BCL-2 突變不會造成溶血，不會影響 CD55 CD59，選項 (A) 與題目情境毫無交集。
 
-(B) Acquired mutation in the complement factor B ，錯誤方向完全相反型——最具教學價值的錯誤
+(B) Acquired mutation in the complement factor B ，錯誤方向完全相反型——最具教學價值的錯誤。
 
 這是五個選項中最值得深究的一個，因為它揭示了一個方向性的根本錯誤。
 
@@ -187,18 +187,18 @@ complement factor B 的 gain-of-function 突變（如 D279G、F286L）則是截�
 
 用一個對比句收束：PNH 是「盾牌被拆掉」（紅血球端、後天體細胞突變、GPI 錨定調節蛋白缺失）；aHUS C3 glomerulopathy 是「劍失控」（內皮細胞端、生殖系或後天突變、液相補體調節因子功能失調）。同樣是補體介導的溶血性損傷，責任歸屬卻在細胞膜的兩側：一個在細胞本身的防禦失效，另一個在循環中的攻擊力量失控。選項 (B) 把 PNH 的被動受害者角色，錯誤地替換成主動的攻擊端增強——方向完全相反。
 
-(D) Inherited deficiency of spectrin 正確答案屬於 hereditary spherocytosis
+(D) Inherited deficiency of spectrin 正確答案屬於 hereditary spherocytosis。
 
 Spectrin 是紅血球細胞骨架的核心蛋白，其遺傳性缺陷造成 hereditary spherocytosis（遺傳性球形紅血球症），表現為溶血性貧血、脾臟腫大、與球形紅血球。
 
 選項 (D) 的關鍵錯誤在一個形容詞：inherited。PNH 是 acquired 的體細胞突變，hereditary spherocytosis 是 inherited 的生殖系突變——這一個字，把兩個疾病分開在截然不同的遺傳學範疇。此外，spectrin 缺陷是細胞骨架的問題，與 GPI 錨完全無關，流式細胞術也不會顯示 CD55 CD59 的缺失。
 
-(E) Autoimmune destruction of red blood cells 正確答案屬於 autoimmune hemolytic anemia
+(E) Autoimmune destruction of red blood cells 正確答案屬於 autoimmune hemolytic anemia。
 
 autoimmune hemolytic anemia（AIHA）確實可以表現為溶血性貧血，其中 cold antibody type（冷凝集素型）甚至可以出現深色尿。然而，鑑別 PNH 與 AIHA 有一個關鍵的實驗室工具：direct antiglobulin test（DAT，又稱 direct Coombs test）。
 
 AIHA：DAT 陽性——紅血球表面有 IgG 抗體或補體成分（C3d）沉積
-PNH：DAT 陰性——紅血球表面沒有抗體，它之所以被補體攻擊，是因為缺少 CD55 CD59 這些自我保護的調節蛋白，而不是因為被抗體標記
+PNH：DAT 陰性——紅血球表面沒有抗體，它之所以被補體攻擊，是因為缺少 CD55 CD59 這些自我保護的調節蛋白，而不是因為被抗體標記。
 
 PNH 的溶血是補體介導的，但並非免疫球蛋白直接識別紅血球抗原所致；紅血球表面乾淨，DAT 因此陰性。這個「補體溶血但 DAT 陰性」的組合，是 PNH 的一個重要臨床特徵，也是與 AIHA 鑑別的核心依據。
 
@@ -207,7 +207,7 @@ PNH 的溶血是補體介導的，但並非免疫球蛋白直接識別紅血球�
 本題最核心的分辨力，集中在一個形容詞：acquired vs. inherited。
 
 「Acquired mutation in the PIGA gene」：後天體細胞突變，發生在單一造血幹細胞，不遺傳，男女發病率相等，流式細胞術可測到 GPI 陰性克隆——PNH 的本質
-「Inherited deficiency of spectrin」：生殖系突變，每個細胞都攜帶，可遺傳，家族史陽性，周邊血片可見球形紅血球——hereditary spherocytosis 的本質
+「Inherited deficiency of spectrin」：生殖系突變，每個細胞都攜帶，可遺傳，家族史陽性，周邊血片可見球形紅血球——hereditary spherocytosis 的本質。
 
 這一個形容詞，就把 PNH 與遺傳性血球疾病、遺傳性補體調節缺陷完全分開。它不只是措辭的差異，而是兩種完全不同的遺傳學邏輯——一個遵循孟德爾定律在家族中傳遞，另一個遵循達爾文法則在骨髓的細胞競爭中浮現。
 
@@ -229,5 +229,5 @@ GPI 生合成這條產線，提供了血液學中難得一見的「分子缺陷�
 
 下圖為 GPI 生合成路徑的結構示意圖，清楚呈現各 PIG- 基因在產線中的位置，對理解「斷在哪裡、病就長成什麼樣子」這個核心論點最具參考價值。
 
-![](/img/img/e1f4ce39-2e39-4552-94a2-1407abb031cd.jpg)
+（此處原文有一張圖）
 Figure 3: The structure of GPI–protein (protein–EtNP‐6Manalpha 1‐2Manalpha 1‐6Manalpha 1‐4GlcNalpha 1‐6myoinositol‐phospholipid) is shown. GPI biosynthesis takes place mostly in the endoplasmic reticulum. The first step involves the addition of acetylglucosamine (GlcN) to phosphatidylinositol (inositol‐P). Synthesis of the GPI anchor proceeds with the serial addition of a glycan moiety consisting of three mannose (M) molecules each modified by phosphoethanolamine (EtNP). Through a transpeptidation reaction, proteins with the appropriate carboxy‐terminal amino acid motif are attached covalently to the terminal EtNP. The GPI–protein complex subsequently travels to the cell surface, where the protein becomes anchored to the lipid bilayer through GPI. In PNH, PIG‐A, a protein encoded by the X‐linked gene PIGA and a member of a multi‐subunit enzymatic complex that catalyzes the first step (i.e. addition of GlcN to inositol‐P), is somatically mutated in one or few HSCs. As a result, very little GPI is synthesized, or none at all, with consequent severe deficiency of GPI‐anchored proteins on the surface of the mutated HSCs and their progeny. In Inherited GPI deficiency, germline hypomorphic mutations in PIGL, PIGM, PIGN, PIGV, PIGO, PGAP2, or PGAP3 result in variable GPI deficiency. Germline mutations in PIGA are embryonically lethal in men, with the exception of two families. Here, mono‐allelic PIGA mutations resulted in a truncated PIGA protein with sufficient residual function to allow survival of the affected individuals, but causing severe congenital abnormalities and intellectual disability. For PIGT, a case of a germline mutation in one allele with a tissue‐specific somatic mutation in neutrophils has been reported. Abbreviations: P‐Phosphatidyl; M‐mannose; GlcN‐glucosamine; EtNP‐phosphoethanolamine.

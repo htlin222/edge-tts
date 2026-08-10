@@ -2,7 +2,7 @@
 
 ITP 的二線治療：在破壞端與生產端之間選邊，而時間本身是第三個選…。
 
-有脈絡的綜論:ITP 的二線治療：在破壞端與生產端之間選邊，而時間本身是第三個選項
+有脈絡的綜論:ITP 的二線治療：在破壞端與生產端之間選邊，而時間本身是第三個選項。
 
 ITP 的二線治療：在「破壞端」與「生產端」之間選邊——而「時間」本身是第三個選項。
 
@@ -18,7 +18,7 @@ ITP 的二線治療：在「破壞端」與「生產端」之間選邊——而�
 
 ① 減少破壞端：類固醇（抑制巨噬細胞活性、干擾 Fcgamma R 訊號）、IVIG/anti-D（飽和 Fcgamma R）、脾切（移除主要破壞場所）、rituximab（清除產生自體抗體的 B 細胞）、fostamatinib（SYK 抑制劑，阻斷吞噬訊號下游）、efgartigimod（FcRn 阻斷，加速 IgG 降解）
 ② 增加生產端：TPO-RA（eltrombopag、romiplostim、avatrombopag），直接刺激巨核細胞增生與成熟
-③ 等待：因為晚發性自發緩解確實會發生，「時間」本身是一個合法的治療選項
+③ 等待：因為晚發性自發緩解確實會發生，「時間」本身是一個合法的治療選項。
 
 關於 ITP 的診斷（排除性診斷）、次發性原因鑑別（SLE、APS、HIV、HCV、H. pylori、藥物性等），以及急性出血的緊急處置，詳見其他筆記；本篇聚焦於二線治療的選擇邏輯與各選項的深度解析。
 
@@ -47,7 +47,7 @@ ASH 指引對兩者皆認可，不強制二選一，但兩者各有特性：
 
 Dexamethasone 40 mg/day × 4 天（可重複 1 到 2 個療程）：起效較快，初期（1 到 6 個月）反應率略高，適合需要快速提升血小板的情境
 Prednisone 0.5 到 2 mg/kg/day：起效較慢，需逐步 taper
-關鍵：6 個月時的持續反應率，兩者相當——高劑量 dexamethasone 的早期優勢在長期隨訪中消失
+關鍵：6 個月時的持續反應率，兩者相當——高劑量 dexamethasone 的早期優勢在長期隨訪中消失。
 
 臨床操作要點：若 2 週內血小板完全無反應，不應繼續加碼或無謂延長療程，而應評估是否直接進入二線，以免白白累積毒性。
 
@@ -57,7 +57,7 @@ Prednisone 0.5 到 2 mg/kg/day：起效較慢，需逐步 taper
 
 Romiplostim：peptibody（肽抗體），每週一次皮下注射，與 TPO receptor（c-Mpl）的「配體結合位（ligand-binding domain）」結合，位置與天然 TPO 相同（競爭性結合）
 Eltrombopag：口服小分子，結合於 TPO receptor 跨膜區（transmembrane domain）的不同位點（非競爭性），獨立激活受體。須空腹服用，且與多價陽離子（鈣、鐵、鎂、鋁制酸劑、乳製品）間隔至少 2 小時——因為 eltrombopag 與陽離子螯合後吸收率大幅下降；另需定期監測肝功能（肝毒性風險）
-Avatrombopag：口服小分子，無需空腹，可與食物併服——對於服藥順從性是實質優勢，尤其在老年或多重用藥族群
+Avatrombopag：口服小分子，無需空腹，可與食物併服——對於服藥順從性是實質優勢，尤其在老年或多重用藥族群。
 
 換藥有效的機轉基礎：結合位點不同，使得對一種藥物無反應（或部分反應）不代表受體本身功能喪失；加上藥物動力學差異、以及「無反應」的原因有相當比例源自順從性不佳（如 eltrombopag 的飲食限制未被遵守），換藥後確實可能獲得新的反應窗口。
 
@@ -65,19 +65,19 @@ Avatrombopag：口服小分子，無需空腹，可與食物併服——對於�
 
 TRAIT 研究（英國真實世界數據，n=267）：從 eltrombopag 換至 romiplostim 者，92% 達到血小板大於等於 30×10⁹/L；反向換藥者 78% 達標
 美國多中心研究顯示，從 eltrombopag 或 romiplostim 換至 avatrombopag 者，93% 達到血小板大於等於 50×10⁹/L；即使在因療效不足而換藥的子群，88% 仍達完全反應
-西班牙 GEPTI 真實世界研究（n=208）：因療效不足而換至 avatrombopag 者，92% 獲得反應，81% 維持至 56 週以上
+西班牙 GEPTI 真實世界研究（n=208）：因療效不足而換至 avatrombopag 者，92% 獲得反應，81% 維持至 56 週以上。
 
 因此，題目所述「50 到 80%」是相對保守的估計；現有數據支持換藥後的反應率可達 78 到 93%，端視換藥方向與換藥原因。
 
 以下圖表呈現了第二線 ITP 治療（包含 TPO-RA 與 rituximab）在隨機對照試驗中與安慰劑或標準治療相比的完全血小板反應率，清楚顯示 TPO-RA 在療效證據強度上的優勢：
 
-![](/img/img/c0e68e83-ad4b-42b8-92cb-2aa519481edb.jpg)
-Figure 3: Complete platelet response in trials of eltrombopag, rituximab, or romiplostim. Calculated response ratios comparing the complete platelet response of patients receiving eltrombopag, rituximab, or romiplostim vs that in patients receiving placebo or standard of care
+（此處原文有一張圖）
+Figure 3: Complete platelet response in trials of eltrombopag, rituximab, or romiplostim. Calculated response ratios comparing the complete platelet response of patients receiving eltrombopag, rituximab, or romiplostim vs that in patients receiving placebo or standard of care。
 
 兩個實用觀念補充：
 
 約 10 到 30% 的病人在穩定使用 TPO-RA 數月至數年後，可在監測下逐步減量並停藥，達到「treatment-free remission（TFR）」；TRAIT 研究中 TFR 達 18%
-血栓風險：TPO-RA 使用中需警覺靜脈或動脈血栓事件，尤其病人合併抗磷脂抗體或其他血栓危險因子時，需個別化風衡
+血栓風險：TPO-RA 使用中需警覺靜脈或動脈血栓事件，尤其病人合併抗磷脂抗體或其他血栓危險因子時，需個別化風衡。
 
 五、選項 (D) 與 (E)：為什麼要等，以及等待期間能做什麼。
 
@@ -89,7 +89,7 @@ ASH 2019 指引明確建議「盡可能將脾切延後至診斷後至少 1 年�
 
 終身莢膜細菌敗血症風險（overwhelming post-splenectomy infection, OPSI）：肺炎鏈球菌、腦膜炎雙球菌、Hib——術前必須完成疫苗接種，術後需教育病人發燒時立即就醫及預防性抗生素的使用
 靜脈血栓與門靜脈血栓風險上升、肺動脈高壓（長期後果）
-手術本身的急性併發症
+手術本身的急性併發症。
 
 時代變遷：TPO-RA 廣泛普及後，脾切的使用率已大幅下降。然而需要誠實指出：脾切仍是目前治癒率最高的選項，長期緩解率約 60 到 70%——它是一個「有代價但有機會永久解決」的選擇，而非已被淘汰的舊療法。
 
@@ -100,12 +100,12 @@ ASH 指引的邏輯是：若病人強烈偏好手術，先給一個療程的 rit
 Rituximab 的實際數據：
 
 初期（6 到 12 個月）反應率約 60%
-5 年時僅約 20% 仍維持緩解——rituximab 更像是「延長的緩解視窗」，而非治癒手段
+5 年時僅約 20% 仍維持緩解——rituximab 更像是「延長的緩解視窗」，而非治癒手段。
 
 Rituximab 的重要風險：
 
 B 細胞耗竭導致低免疫球蛋白血症（hypogammaglobulinemia）、疫苗反應下降
-⚠️ 必須在給藥前篩查 HBV（HBsAg 與 anti-HBc total）——rituximab 誘發的 B 細胞抑制可導致 HBV 再活化，後果嚴重，篩查陽性者需預防性抗病毒治療
+⚠️ 必須在給藥前篩查 HBV（HBsAg 與 anti-HBc total）——rituximab 誘發的 B 細胞抑制可導致 HBV 再活化，後果嚴重，篩查陽性者需預防性抗病毒治療。
 
 六、新一代藥物——「破壞端」的精準化工具。
 

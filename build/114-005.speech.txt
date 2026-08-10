@@ -12,7 +12,7 @@
 
 重大暫時性（major transient）誘因：大手術（全身麻醉超過 30 分鐘）、嚴重外傷、長期臥床——這些誘因有明確的起點與終點，危險因子會消失。對應的 VTE 復發風險低（外科手術誘因的年復發率 < 1%），抗凝 3 到 6 個月後可安全停藥
 持續性（persistent）誘因：活動性癌症、antiphospholipid syndrome、慢性發炎性疾病——這些誘因不會自己消失，持續存在的危險因子帶來持續存在的復發風險。對應的建議是延長至無限期抗凝
-Unprovoked：找不到任何危險因子——VTE 停藥後 10 年的累積復發率高達 30 到 40%，多數指引建議延長抗凝
+Unprovoked：找不到任何危險因子——VTE 停藥後 10 年的累積復發率高達 30 到 40%，多數指引建議延長抗凝。
 
 (A) 說「此病人的血栓是 provoked by PNH」——這是正確的。
 
@@ -24,15 +24,15 @@ Unprovoked：找不到任何危險因子——VTE 停藥後 10 年的累積復�
 
 (B) 的主張：只要 ravulizumab 有效（Hgb 改善、LDH 下降），就可以「立即停用抗凝劑」。 這句話犯了三個獨立的錯誤，且每一個都足以單獨推翻它。
 
-第一層：時序上的錯誤——藥物在控制溶血，不是在溶解血栓
+第一層：時序上的錯誤——藥物在控制溶血，不是在溶解血栓。
 
 LDH 下降、Hgb 回升，反映的是補體介導的血管內溶血被壓制——這是 ravulizumab 在做它設計要做的事。但已形成的 DVT 是一個實質性的結構性問題：血栓需要數週至數月的時間，透過內源性纖維蛋白溶解機制逐步機化或再通。在影像確認血栓已再通之前停抗凝，等同於讓一個尚未癒合的傷口失去覆蓋。 抗凝在急性期的主要任務是「防止血栓繁殖與新血栓形成」，這個任務不會因為溶血指標的改善而告終。
 
-第二層：機轉上的錯誤——補體抑制劑不具備溶栓能力
+第二層：機轉上的錯誤——補體抑制劑不具備溶栓能力。
 
 如同第三章所闡述，補體抑制劑作用的是血栓形成的上游驅動力：減少 NO 消耗、降低血小板活化、改善內皮功能。但這些機轉的改善，不等於對既有血栓有任何溶解或清除作用。ravulizumab 減少「未來新血栓」的風險，不能用來處理「現在存在的舊血栓」。
 
-第三層：證據上的錯誤——「在良好控制下安全停抗凝」目前仍缺乏前瞻性試驗支撐
+第三層：證據上的錯誤——「在良好控制下安全停抗凝」目前仍缺乏前瞻性試驗支撐。
 
 這是最需要誠實呈現的部分。補體抑制劑確實帶來了顯著的血栓保護：Gurnari 等人（2024）的真實世界分析（267 名 PNH 病人，2043 patient-years）顯示，接受補體抑制劑的病人血栓率為 21/1000 patient-years，未治療者為 40/1000 patient-years，2 年累積發生率從 18.3% 降至 3.9%。來自荷蘭的全國性研究（eculizumab）亦顯示血栓事件率下降 83.1%。
 
@@ -55,7 +55,7 @@ LDH 下降、Hgb 回升，反映的是補體介導的血管內溶血被壓制—
 影像確認：血栓已完全再通，或已穩定機化（無進展或繁殖的靜態陳舊血栓）
 補體抑制持續穩定：LDH 長期正常化，無 breakthrough hemolysis 的紀錄
 無其他合併血栓危險因子：排除 antiphospholipid syndrome、遺傳性 thrombophilia、活動性惡性腫瘤
-與病人充分討論復發風險，並達成共識
+與病人充分討論復發風險，並達成共識。
 
 出血風險的另一面： 本病例骨髓功能未完全釐清，若後續骨髓切片顯示有 aplastic anemia 的成分而導致血小板低下，抗凝的效益與風險需要重新動態權衡——這正是上一章強調骨髓評估不可省略的原因之一。
 
@@ -63,42 +63,42 @@ LDH 下降、Hgb 回升，反映的是補體介導的血管內溶血被壓制—
 
 這種情況在臨床上非常罕見，但一旦發生，正確的解讀方式是「這是一個警訊」，而不是「抗凝失敗，所以停掉它」。應該的反應是「往上加」：強化抗凝、並且深入排查為什麼補體保護失效。
 
-第一步：排查 breakthrough hemolysis 的原因
+第一步：排查 breakthrough hemolysis 的原因。
 
 Notaro 與 Luzzatto（2022 NEJM）對 breakthrough hemolysis 的分類是目前最廣泛被引用的框架：
 
 Pharmacokinetic（藥物動力學）型：血漿中 C5 抑制劑的濃度在下次給藥前（trough）不足以維持完全抑制。常見於體重較重的病人（藥物分佈容積大）、或使用 eculizumab 時給藥間隔過長。表現特徵是「接近下次給藥時間前出現症狀」。處置是縮短給藥間隔或加量
-Pharmacodynamic（藥效動力學）型：藥物濃度足夠，但補體被大量超出正常的誘因活化——感染（尤其細菌感染）、外科手術、懷孕、疫苗接種後——使得 C5 convertase 密度過高，高密度的 C3b 使 C5 被「繞過抑制劑」的方式切割。這種型態通常是自限性的，隨誘因緩解而改善；處置是積極治療誘因，必要時補給一劑抑制劑
+Pharmacodynamic（藥效動力學）型：藥物濃度足夠，但補體被大量超出正常的誘因活化——感染（尤其細菌感染）、外科手術、懷孕、疫苗接種後——使得 C5 convertase 密度過高，高密度的 C3b 使 C5 被「繞過抑制劑」的方式切割。這種型態通常是自限性的，隨誘因緩解而改善；處置是積極治療誘因，必要時補給一劑抑制劑。
 
-第二步：排查 C5 多型性
+第二步：排查 C5 多型性。
 
 如果使用的是 eculizumab 或 ravulizumab，且病人有東亞血統，C5 p.Arg885His（R885H）多型性造成這兩種藥完全無效（eculizumab 無法與含 R885H 的 C5 結合）。解決方案是改用 crovalimab（第三章已詳述）。
 
-第三步：排查抗凝劑本身的問題
+第三步：排查抗凝劑本身的問題。
 
 依從性不佳（這在年輕男性中是真實問題）、劑量錯誤、與其他藥物的交互作用（DOAC 與 P-gp / CYP3A4 抑制劑的交互作用），以及在少數病人中 apixaban 的腸道吸收不穩定——這些都必須系統性排除。
 
-第四步：考慮合併其他血栓危險因子
+第四步：考慮合併其他血栓危險因子。
 
 在補體抑制良好、又有充足抗凝的情況下仍發生血栓，必須考慮「另有其他危險因子未被發現」：惡性腫瘤（有時 PNH 合併 MDS，MDS 本身也提高血栓風險）、antiphospholipid syndrome（可與 PNH 共存）、遺傳性 thrombophilia（factor V Leiden、prothrombin G20210A）。
 
 下圖來自 PNH Registry 的真實世界數據，清楚顯示補體抑制劑（eculizumab）在有高度疾病活動性（HDA）與無 HDA 的病人中，均帶來顯著的 TE 率下降——HDA 組的 TE 率從 3.9 降至 0.7/100 patient-years（降幅約 80%）。在這樣的背景下，治療中仍發生血栓，代表保護機制出現了缺口。
 
-![](/img/img/be67c10d-b34e-4471-9158-58c4913f7062.jpg)
-Figure 3: (A) Rate of MAVEs per 100 patient‐years. (B) Rate of TEs per 100 patient‐years. All analyses were restricted to patients with at least 6 months between date at baseline and at last follow‐up visits. For never‐treated patients, baseline was defined as the date of enrollment in the Registry. In patients treated with eculizumab (ie, after enrollment in the Registry), baseline was defined as the date of treatment initiation. CI, confidence interval; ECU, eculizumab; HDA, high‐disease activity; IRR, incidence rate ratio; MAVEs, major adverse vascular events; TEs, thrombotic events
+（此處原文有一張圖）
+Figure 3: (A) Rate of MAVEs per 100 patient‐years. (B) Rate of TEs per 100 patient‐years. All analyses were restricted to patients with at least 6 months between date at baseline and at last follow‐up visits. For never‐treated patients, baseline was defined as the date of enrollment in the Registry. In patients treated with eculizumab (ie, after enrollment in the Registry), baseline was defined as the date of treatment initiation. CI, confidence interval; ECU, eculizumab; HDA, high‐disease activity; IRR, incidence rate ratio; MAVEs, major adverse vascular events; TEs, thrombotic events。
 
 處置原則的整合：
 
 繼續（甚至短期強化）抗凝：不因「已在補體抑制劑治療中」而減量或停止
 排查並矯正補體控制不佳的根本原因：是 PK、PD、多型性、還是另有疾病？
-若補體抑制確認失效（而非暫時突破）：評估換成近端抑制劑（pegcetacoplan、iptacopan），或加上 danicopan 作為 add-on
+若補體抑制確認失效（而非暫時突破）：評估換成近端抑制劑（pegcetacoplan、iptacopan），或加上 danicopan 作為 add-on。
 
 五、逐項評析與臨床 Take-Home。
 
 (A) 血栓「由 PNH 誘發（provoked by PNH）」：正確。但「provoked」不等於「暫時性誘因」——PNH 屬於持續性危險因子，對應的是延長（通常無限期）抗凝的策略，不是 3 個月停藥的路徑
 (B) Ravulizumab 有效後立即停用抗凝：錯誤（正確答案）。Hgb 改善反映溶血被控制，不代表血栓已消解；補體抑制劑降低未來血栓風險，不能清除現有血栓；「補體控制良好 = 可停抗凝」目前缺乏前瞻性試驗支撐；且 PIGA clone 仍在、停藥後風險即刻回歸
 (C) 維持 apixaban 至血栓消解或補體抑制開始後至少 3 到 6 個月：正確，且這是下限，不是上限。多數有血栓史的 PNH 病人，在補體抑制穩定且無出血風險的前提下，應持續無限期抗凝；僅在影像確認血栓再通、疾病穩定控制、無其他危險因子的高度選擇情境下，才考慮個別化評估停藥
-(D) 補體抑制劑治療中發生血栓，不要停 apixaban：正確。這是一個需要「往上加」而非「往下減」的警訊；應排查 PK PD breakthrough、C5 多型性、抗凝依從性、及合併危險因子，同時強化而非削弱抗凝保護
+(D) 補體抑制劑治療中發生血栓，不要停 apixaban：正確。這是一個需要「往上加」而非「往下減」的警訊；應排查 PK PD breakthrough、C5 多型性、抗凝依從性、及合併危險因子，同時強化而非削弱抗凝保護。
 
 臨床 Take-Home：開始抗凝的理由是「已經發生的事（急性 DVT）」；停止抗凝的理由必須是「不會再發生（誘因已永久消除）」——而 PNH 的 PIGA clone 只要還在，這個保證就不存在。
 

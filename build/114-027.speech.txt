@@ -12,7 +12,7 @@
 
 ① 高比例的長期復發，且可於數月至十餘年後發生
 ② 緩解期持續存在的「隱形」器官傷害，尤其是無症狀腦梗塞（silent cerebral infarcts, SCI）與認知功能下降
-③ 即使在臨床緩解中，長期死亡率仍高於一般族群
+③ 即使在臨床緩解中，長期死亡率仍高於一般族群。
 
 這三個問題，正是本篇綜論的核心。
 
@@ -29,11 +29,11 @@
 緩解時 ADAMTS13 活性持續嚴重低下（小於等於 10 到 20%）
 緩解時 anti-ADAMTS13 IgG 持續陽性且數值偏高
 非裔族群（Black individuals，iTTP 發生率本即為非裔的 7 倍 ）
-年輕發病
+年輕發病。
 
 下圖（來自 Schieppati 等人的多中心世代研究）顯示：緩解時 ADAMTS13 活性小於等於 20% 合併高抗體效價者，累積復發率可達 67%；兩者均正常者則僅約 20% 。
 
-![](/img/img/1337dd97-ecb0-4286-ab92-ba21f79a9478.jpg)
+（此處原文有一張圖）
 Figure 3: Cox regression analysis. Cumulative incidence of relapse in patients with ADAMTS‐13 activity 小於等於 20% plus anti‐ADAMTS‐13 IgG 大於等於 15 U/mL upon remission (green line), compared to patients with ADAMTS‐13 activity>20% plus anti‐ADAMTS‐13 IgG <15U/mL upon remission (blue line with bars) [Color figure can be viewed at wileyonlinelibrary.com ]
 
 三、選項 (E) 的第二個錯誤：preemptive rituximab 的 ADAMTS13 門檻不是「< 30%」。
@@ -47,7 +47,7 @@ Figure 3: Cox regression analysis. Cumulative incidence of relapse in patients w
 ISTH 指引（2020）建議：對緩解期中 ADAMTS13 活性低下的病人，給予 preemptive rituximab（conditional recommendation）
 多數專家採用的門檻為 ADAMTS13 活性小於等於 10%；部分中心放寬至小於等於 20%
 一項納入 2 個世代研究（163 名病人）的 meta-analysis 顯示：在 ADAMTS13 活性 < 10% 的緩解期病人中，給予 rituximab 者的臨床復發率大幅低於未給予者（17/122 vs. 24/41；OR 0.09，95% CI 0.04 到 0.24）
-在英國的研究中，96% 的「生化復發」病人接受 preemptive rituximab 後，ADAMTS13 活性於中位 21 天內回升至大於等於 20%
+在英國的研究中，96% 的「生化復發」病人接受 preemptive rituximab 後，ADAMTS13 活性於中位 21 天內回升至大於等於 20%。
 
 為什麼「< 30%」是錯的？ ADAMTS13 活性在 20 到 60% 之間的緩解期病人相當普遍，且其中多數並不會復發。若以 30% 作為啟動 rituximab 的門檻，將導致大量不必要的 B 細胞耗竭，引發感染風險上升（包括 hepatitis B 再活化）、低免疫球蛋白血症（hypogammaglobulinemia）、以及疫苗反應下降等副作用——而這些病人原本可能根本不需要治療。
 
@@ -66,13 +66,13 @@ HERCULES 試驗（2019 年，NEJM） 是 caplacizumab 最重要的臨床證據 �
 TTP 相關死亡、復發或血栓栓塞的複合終點：12% vs. 49%（降低 74%；P < 0.001）
 試驗期間 TTP 復發率：12% vs. 38%（降低 67%；P < 0.001）
 難治性 TTP（refractory TTP）：caplacizumab 組無人發生 vs. 安慰劑組 3 人
-PEX 天數與住院天數均顯著縮短
+PEX 天數與住院天數均顯著縮短。
 
 此外，納入 HERCULES 與 TITAN 兩個試驗（220 名病人）的 meta-analysis 確認：caplacizumab 縮短血小板回復時間（平均差 0.7 天）、降低疾病惡化（exacerbation）與難治性疾病的風險；死亡率的下降（0.9% vs. 4.5%）雖具臨床意義，但因樣本數有限，信賴區間跨越 1（RD −4%，95% CI −8% to 1%），尚未達統計顯著 。
 
 下圖為 HERCULES 試驗中血小板正常化時間的 Kaplan-Meier 曲線：
 
-![](/img/img/36fa0cfa-89fe-4185-bba3-16d4a86779a4.jpg)
+（此處原文有一張圖）
 Figure 1: Time to Confirmed Normalization of the Platelet Count in the Intention-to-Treat Population.
 
 副作用：最常見的是黏膜出血（mucocutaneous bleeding）——鼻出血、牙齦出血、月經量增多——在 HERCULES 試驗中發生率為 65%（vs. 安慰劑組 48%）。這是可預期的，因為 VWF-GPIb 軸不僅參與病理性血栓，也是正常初級止血（primary hemostasis）的核心。
@@ -97,39 +97,39 @@ iTTP 存活者並非「恢復正常」，而是帶著一身的後遺症繼續生
 
 憂鬱症與生活品質顯著下降
 高血壓、中風、心血管疾病的發生率高於一般族群
-整體死亡率仍高於年齡配對的對照族群
+整體死亡率仍高於年齡配對的對照族群。
 
 本篇的主軸至此收束：iTTP 不應被視為一次急性事件，而應被當成一個需要終身追蹤的慢性自體免疫疾病。急性期之後的工作——監測 ADAMTS13、適時給予 preemptive rituximab、定期追蹤認知功能與心血管風險——才是真正照顧這群病人的核心。
 
 七、逐項評析。
 
-選項
+選項。
 
-正誤
+正誤。
 
-評析
+評析。
 
 (A)
 
-正確
+正確。
 
-神經學症狀（39 到 80%）與腹痛（35 到 39%）確為最常見表現；但需補充心臟受損的重要性
+神經學症狀（39 到 80%）與腹痛（35 到 39%）確為最常見表現；但需補充心臟受損的重要性。
 
 (B)
 
-正確
+正確。
 
-PLASMIC score（含 platelet < 30 × 10⁹/L、creatinine < 2.0 mg/dL 等）可在 ADAMTS13 結果回報前協助啟動經驗性治療
+PLASMIC score（含 platelet < 30 × 10⁹/L、creatinine < 2.0 mg/dL 等）可在 ADAMTS13 結果回報前協助啟動經驗性治療。
 
 (C)
 
-正確
+正確。
 
-Caplacizumab 縮短血小板正常化時間、降低早期復發風險，但增加黏膜出血
+Caplacizumab 縮短血小板正常化時間、降低早期復發風險，但增加黏膜出血。
 
 (D)
 
-正確
+正確。
 
 PEX + 類固醇 + rituximab 的 30 天存活率確實 > 90%（約 93%）
 
@@ -137,7 +137,7 @@ PEX + 類固醇 + rituximab 的 30 天存活率確實 > 90%（約 93%）
 
 錯誤（兩處）
 
-① 復發率：「16%」嚴重低估——長期追蹤顯示約 30 到 50%（多數落在 40% 上下）的 iTTP 病人至少復發一次，復發可發生於數月至十餘年之後 。② ADAMTS13 門檻：「< 30%」錯誤——多數專家與 ISTH 指引採用小於等於 10%（部分中心放寬至小於等於 20%）作為啟動 preemptive rituximab 的門檻；以 30% 為門檻會造成大量不必要的 B 細胞耗竭
+① 復發率：「16%」嚴重低估——長期追蹤顯示約 30 到 50%（多數落在 40% 上下）的 iTTP 病人至少復發一次，復發可發生於數月至十餘年之後 。② ADAMTS13 門檻：「< 30%」錯誤——多數專家與 ISTH 指引採用小於等於 10%（部分中心放寬至小於等於 20%）作為啟動 preemptive rituximab 的門檻；以 30% 為門檻會造成大量不必要的 B 細胞耗竭。
 
 臨床 take-home：當急性期死亡率不再是主要問題的時候，問題就變成了——「活下來的人，過著什麼樣的生活」？
 

@@ -24,7 +24,7 @@ SAA：骨髓荒漠，HSC 才是真正的目標。
 
 SAA 是另一個世界。在免疫攻擊下，骨髓裡的造血幹細胞幾乎被清空——不是巨核細胞不夠，而是連製造巨核細胞的幹細胞都所剩無幾。此時 eltrombopag 的任務，不再是催促現有的巨核細胞加班，而是要在一片荒漠中找到殘存的造血幹細胞，透過 c-MPL 訊號重新啟動它的自我更新與多系分化能力。
 
-這個任務的難度遠高於前者，原因在於：HSC 上的 c-MPL 表現密度遠低於成熟巨核細胞。HSC 在骨髓衰竭的環境中處於深度靜止（quiescence）或凋亡邊緣，訊號啟動的門檻更高。SAA 病人骨髓微環境充滿抑制性細胞激素（尤其是 IFN-gamma ），形成額外阻礙
+這個任務的難度遠高於前者，原因在於：HSC 上的 c-MPL 表現密度遠低於成熟巨核細胞。HSC 在骨髓衰竭的環境中處於深度靜止（quiescence）或凋亡邊緣，訊號啟動的門檻更高。SAA 病人骨髓微環境充滿抑制性細胞激素（尤其是 IFN-gamma ），形成額外阻礙。
 
 要讓這些稀少、疲憊的 HSC 上相對低密度的 c-MPL 受體達到足夠的佔據率（receptor occupancy）與下游訊號強度，血漿藥物濃度必須遠高於刺激巨核細胞所需的濃度。這正是 SAA 需要 150 mg/day 的藥理基礎 。
 
@@ -43,7 +43,7 @@ CAMT：大自然最有力的基因敲除實驗。
 先天性無巨核細胞血小板減少症（congenital amegakaryocytic thrombocytopenia, CAMT）是 MPL 功能喪失突變所造成的罕見遺傳性疾病。它提供了一個無法在實驗室複製的天然人體實驗：
 
 出生時：患者的表現型幾乎只有嚴重血小板低下（thrombocytopenia），其他血球系大致正常
-隨年齡增長（通常在數年內）：患者逐漸進展為全血球低下（pancytopenia）與骨髓衰竭，紅血球系與白血球系相繼受累
+隨年齡增長（通常在數年內）：患者逐漸進展為全血球低下（pancytopenia）與骨髓衰竭，紅血球系與白血球系相繼受累。
 
 Germeshausen 等人（Haematologica, 2021）分析 56 例 CAMT-MPL 患者的完整隊列，確認了這個「先血小板、後全系」的進展模式，並指出骨髓低細胞性與全血球低下是疾病晚期的核心表現 。Hirata 等人更以 CAMT 患者的誘導多潛能幹細胞（iPSC）系統直接證實：MPL 訊號對維持 CD34+ 多能造血前驅細胞群體是不可缺少的，其角色遠超出巨核系的範疇 。
 
@@ -56,7 +56,7 @@ Germeshausen 等人（Haematologica, 2021）分析 56 例 CAMT-MPL 患者的完�
 整體反應率：40%（17/43），其中包含雙系與三系造血改善
 在持續治療的延伸研究中，14/17 名反應者繼續進步，其中 7 名最終達到中性球、紅血球、血小板三系均有顯著提升
 5 名達到近正常化的患者在停藥後仍能維持穩定血球——中位追蹤 13 個月
-這種「停藥後持續反應」顯示 eltrombopag 確實重建了有功能的造血幹細胞池，而非單純的周邊效應
+這種「停藥後持續反應」顯示 eltrombopag 確實重建了有功能的造血幹細胞池，而非單純的周邊效應。
 
 選項 (4) 說 eltrombopag 能改善 trilineage hematopoiesis，這正是正確的，也是它與「單純升血小板藥物」最根本的分野。
 
@@ -72,7 +72,7 @@ Vlachodimitropoulou 等人（Blood, 2017） 系統性地描述了 eltrombopag �
 
 鐵預加載（iron preloading）能完全阻斷 eltrombopag 對 HSC 的促進效果
 接受 eltrombopag 的患者骨髓中，HSC 數量顯著增加；而接受 romiplostim（同為 TPO-RA 但缺乏鐵螯合能力）的患者則無此現象
-這一系列證據確立了：eltrombopag 透過降低細胞內 LIP、減少 ROS，觸發代謝與基因表現的重編程，促進 HSC 自我更新——這條路徑與 TPO-R 完全無關
+這一系列證據確立了：eltrombopag 透過降低細胞內 LIP、減少 ROS，觸發代謝與基因表現的重編程，促進 HSC 自我更新——這條路徑與 TPO-R 完全無關。
 
 這個第二機轉解釋了為何 eltrombopag 在 SAA 的效果優於其他 TPO-RA（如 romiplostim），以及為何長期使用 eltrombopag 的 SAA 患者有時出現「鐵被動員至血漿」的特殊現象——包括血液變成灰色的罕見報告 。
 
@@ -80,7 +80,7 @@ Vlachodimitropoulou 等人（Blood, 2017） 系統性地描述了 eltrombopag �
 
 Eltrombopag 的鐵螯合特性帶來了一個必須嚴肅對待的臨床問題：它會與食物中的二價與三價陽離子（Ca²⁺、Fe²⁺/³⁺、Mg²⁺、Al³⁺）形成螯合物，大幅降低口服吸收率。
 
-這並非理論問題。乳製品、含鐵補充劑、制酸劑（含 Al 或 Mg）、以及多種食物都含有大量相關陽離子。FDA 核准藥品標籤明確規定 ：服藥前後至少 2 小時不得攝取含陽離子的食物或製劑。多數臨床建議為前後各 2 到 4 小時的間隔，以確保足夠的吸收窗口
+這並非理論問題。乳製品、含鐵補充劑、制酸劑（含 Al 或 Mg）、以及多種食物都含有大量相關陽離子。FDA 核准藥品標籤明確規定 ：服藥前後至少 2 小時不得攝取含陽離子的食物或製劑。多數臨床建議為前後各 2 到 4 小時的間隔，以確保足夠的吸收窗口。
 
 在 SAA 的臨床現場，150 mg/day 的高劑量若因飲食問題而吸收打折，實際達到 HSC 的藥物濃度可能遠低於治療所需。這是臨床上最常見、也最容易被低估的藥效失敗原因之一，在衛教時必須以明確的時間表向病人說明，而非僅僅「空腹服用」一句帶過。
 
@@ -102,12 +102,12 @@ Eltrombopag 之所以特別，在於它結合的位置完全不同於內源性 T
 
 以下圖示說明了 eltrombopag 與 romiplostim 的結構差異及受體結合機轉，有助於建立直覺理解：
 
-![](/img/img/699c6aae-871b-42a3-91eb-15963c385092.jpg)
+（此處原文有一張圖）
 Figure 1: Structure of Romiplostim and Eltrombopag and the Cellular Mechanisms of Action.
 
 Romiplostim 的對比：競爭性、胜肽體。
 
-Romiplostim 的設計邏輯完全不同：它是一個胜肽體（peptibody），由 IgG1 Fc 段連接兩條 TPO 模擬胜肽鏈構成。它的結合位點在 TPO-R 胞外區，與內源性 TPO 競爭同一個結合位。這意味著：在內源性 TPO 極高的 SAA 環境中，romiplostim 面臨競爭劣勢。它沒有鐵螯合能力，因此缺乏 eltrombopag 的第二機轉
+Romiplostim 的設計邏輯完全不同：它是一個胜肽體（peptibody），由 IgG1 Fc 段連接兩條 TPO 模擬胜肽鏈構成。它的結合位點在 TPO-R 胞外區，與內源性 TPO 競爭同一個結合位。這意味著：在內源性 TPO 極高的 SAA 環境中，romiplostim 面臨競爭劣勢。它沒有鐵螯合能力，因此缺乏 eltrombopag 的第二機轉。
 
 這也是為何目前臨床試驗在 SAA 的脈絡下，eltrombopag 的數據遠比 romiplostim 強的重要原因之一 。
 
@@ -121,35 +121,35 @@ FDA 藥品標籤明確記載：東亞裔與東南亞裔患者（包括華人、�
 
 具體起始劑量調整。
 
-適應症
+適應症。
 
-一般成人起始劑量
+一般成人起始劑量。
 
-東亞裔起始劑量
+東亞裔起始劑量。
 
-最高劑量
+最高劑量。
 
 ITP（大於等於 6 歲）
 
-50 mg/day
+50 mg/day。
 
-25 mg/day
+25 mg/day。
 
-75 mg/day
+75 mg/day。
 
 SAA（大於等於 12 歲）
 
-150 mg/day
+150 mg/day。
 
-75 mg/day
+75 mg/day。
 
-150 mg/day
+150 mg/day。
 
 對台灣的臨床醫師而言，這意味著：對一位台灣成人 SAA 病人，正確的起始劑量是 75 mg/day，而非 150 mg/day，根據反應與耐受性再向上滴定。如果直接以 150 mg/day 起始，發生肝功能異常等不良反應的風險將顯著增加。
 
 肝功能監測：不可省略。
 
-Eltrombopag 有明確的肝毒性風險，在東亞裔族群因暴露量較高，需更謹慎監測：輕度肝功能不全（Child-Pugh A）：AUC 增加約 41%。中至重度肝功能不全（Child-Pugh B C）：AUC 增加約 2 倍，需顯著減量或避免使用。FDA 建議在治療開始前、每月治療期間監測 ALT、AST、bilirubin；若出現 ALT 升至正常上限 3 倍以上並持續 4 週，或伴隨臨床症狀（黃疸、右上腹痛），應停藥
+Eltrombopag 有明確的肝毒性風險，在東亞裔族群因暴露量較高，需更謹慎監測：輕度肝功能不全（Child-Pugh A）：AUC 增加約 41%。中至重度肝功能不全（Child-Pugh B C）：AUC 增加約 2 倍，需顯著減量或避免使用。FDA 建議在治療開始前、每月治療期間監測 ALT、AST、bilirubin；若出現 ALT 升至正常上限 3 倍以上並持續 4 週，或伴隨臨床症狀（黃疸、右上腹痛），應停藥。
 
 這對台灣臨床實務有直接意義：亞裔族群肝功能異常的發生率在多項研究中高於非亞裔，肝功能監測頻率的確實執行在台灣尤為重要。
 
@@ -163,7 +163,7 @@ Cohort 3（從第 1 天即加入 eltrombopag，持續 6 個月）的結果最為
 
 6 個月 complete response（CR）率：58%（歷史對照組為 10%）
 6 個月 overall response rate（ORR）：94%（歷史對照組為 66%）
-中位追蹤 2 年，存活率 97%
+中位追蹤 2 年，存活率 97%。
 
 骨髓組織學同步顯示骨髓細胞性、CD34⁺ 細胞數、及早期造血前驅細胞頻率均顯著增加，直接佐證了 eltrombopag 作用於幹細胞層次的假說 。
 The rate of complete response at 6 months was 33% in cohort 1, 26% in cohort 2, and 58% in cohort 3. The overall response rates at 6 months were 80%, 87%, and 94%, respectively.
@@ -175,13 +175,13 @@ RACE 是迄今最重要的第三期隨機對照試驗，比較 hATG + cyclospori
 3 個月 CR 率：A 組 10%，B 組 22%（OR 3.2；95% CI 1.3 到 7.8；P = 0.01）
 6 個月 ORR：A 組 41%，B 組 68%
 反應速度：A 組中位首次反應時間 8.8 個月；B 組僅 3.0 個月（快了近三倍）
-兩組嚴重不良事件發生率相近
+兩組嚴重不良事件發生率相近。
 
-2026 年發表的 RACE 最終 2 年分析（AJH, 2026） 進一步顯示：2 年累積 CR 率：A 組 35.3%，B 組 62.4%（P < 0.001） - 2 年 disease-free survival：A 組 37%，B 組 56%（調整 HR 0.49；P < 0.001）。克隆演化風險：兩組相當，A 組 1 例，B 組 2 例出現核型異常分類為 MDS
+2026 年發表的 RACE 最終 2 年分析（AJH, 2026） 進一步顯示：2 年累積 CR 率：A 組 35.3%，B 組 62.4%（P < 0.001） - 2 年 disease-free survival：A 組 37%，B 組 56%（調整 HR 0.49；P < 0.001）。克隆演化風險：兩組相當，A 組 1 例，B 組 2 例出現核型異常分類為 MDS。
 
 以下圖示呈現了 RACE 試驗中兩組血液學反應的時序動態，清楚呈現加入 eltrombopag 的加速效果：
 
-![](/img/img/b36d0697-36e9-4ba1-994b-fde9940f2199.jpg)
+（此處原文有一張圖）
 Figure 1: Structure of Romiplostim and Eltrombopag and the Cellular Mechanisms of Action.
 
 必須誠實面對的隱憂：克隆演化（clonal evolution）。
@@ -199,35 +199,35 @@ Figure 1: Structure of Romiplostim and Eltrombopag and the Cellular Mechanisms o
 克隆演化是 SAA 的固有風險：即使僅接受傳統免疫抑制治療的患者，10 年累積 MDS AML 發生率也約達 11.6% ，遠早於 eltrombopag 的廣泛使用時代
 RACE 最終分析未見增加：B 組（含 eltrombopag）的克隆演化風險並未高於 A 組，2 年追蹤中兩組各只有 1 到 2 人出現核型異常
 Groarke 等人（Leukemia, 2022）分析 663 名接受免疫抑制治療的 SAA 患者，明確結論：Eltrombopag 並不增加高風險克隆演化的發生 ；年齡與治療反應不佳才是高風險演化的獨立預測因子
-克隆本身反映骨髓的遺傳脆弱性：骨髓衰竭環境中的 immune selection pressure 長期選汰帶有特定突變（DNMT3A、ASXL1、RUNX1）的克隆 ，這與是否使用 eltrombopag 無關
+克隆本身反映骨髓的遺傳脆弱性：骨髓衰竭環境中的 immune selection pressure 長期選汰帶有特定突變（DNMT3A、ASXL1、RUNX1）的克隆 ，這與是否使用 eltrombopag 無關。
 
 現行監測建議（依 FDA 標籤及臨床指引 ）：
 
 治療前取得基線骨髓活切與細胞遺傳學（包含 FISH 或核型分析）
 治療期間每 3 到 6 個月重複骨髓評估
-若出現新的核型異常（尤其是 −7、7q 缺失、複雜核型）或血球計數出現不解釋的惡化，應立即重新評估並考慮停藥
+若出現新的核型異常（尤其是 −7、7q 缺失、複雜核型）或血球計數出現不解釋的惡化，應立即重新評估並考慮停藥。
 
 主軸七：逐項評析本題（114 年血液專科考題）。
 
 本題問「關於 eltrombopag 在 SAA，何者敘述正確」，四個選項評析如下：
 
-選項 (1)：錯誤
+選項 (1)：錯誤。
 
 「Eltrombopag 是 thrombopoietin receptor 與 stem cell factor receptor 的促效劑」——c-KIT（stem cell factor receptor）根本不在 eltrombopag 的作用版圖內。Eltrombopag 是純粹的 TPO-R 促效劑，透過結合跨膜區 His499 激活下游 JAK STAT 與 MAPK 訊號，對 c-KIT 無任何促效活性 。
 
-選項 (2)：正確
+選項 (2)：正確。
 
 「它透過直接刺激造血幹細胞發揮作用」——正確。c-MPL 表現於 HSC 表面，eltrombopag 可直接作用於 HSC 層次；此外，其鐵螯合介導的 TPO-R 非依賴性機轉更進一步在幹細胞層次產生代謝重編程效果 。
 
-選項 (3)：錯誤
+選項 (3)：錯誤。
 
 「標準劑量為 50 mg daily」——這是 ITP 的劑量，放在 SAA 語境下完全錯誤。SAA 的標準劑量為 150 mg/day（東亞裔起始 75 mg/day），是 ITP 劑量的三倍，差異有明確的 c-MPL 受體佔據率與藥理邏輯基礎 。
 
-選項 (4)：正確
+選項 (4)：正確。
 
 「它能改善 trilineage hematopoiesis」——正確。Desmond 等人（Blood, 2014）的 40% 整體反應中，大部分包含雙系或三系改善；Townsley 等人（NEJM, 2017）最優 cohort 達 94% ORR，骨髓 CD34⁺ 細胞數同步恢復，均支持三系造血的改善。CAMT 的自然史更從基礎機轉層次提供了 c-MPL 訊號對全系造血的必要性佐證 。
 
-官方答案 (A) = 2, 4：正確
+官方答案 (A) = 2, 4：正確。
 
 值得指出的試卷瑕疵：本試題的選項設計中，(B) 與 (D) 的字面內容均為「2, 3, 4」，屬試卷編排的重複錯誤（duplicate distractor）。在四選項的單選試題中，兩個選項內容相同，邏輯上違反測驗設計原則；無論如何，由於 (3) 明確錯誤，含有 (3) 的任何答案選項均可排除，不影響正確答案的選擇，但這個編輯缺失值得在試題品質審查層面加以記錄。
 

@@ -8,16 +8,16 @@
 
 命題甲（預後差）與命題乙（對移植無反應）是兩個獨立的命題，前者成立不代表後者成立。
 
-主軸一：邏輯陷阱——化療的失敗不等於免疫殺傷的失敗
+主軸一：邏輯陷阱——化療的失敗不等於免疫殺傷的失敗。
 
 ETP-ALL誘導後CR率較低、MRD陽性比例較高、誘導失敗率也較高，這些都反映其對細胞毒性化療的相對抗性。但這只回答了「化療夠不夠」，沒有回答「移植有沒有用」。一項比較ETP-ALL LBL與非ETP T-ALL接受allo-HSCT結果的研究顯示，兩組的5年整體存活率（54.74% vs. 64.20%，p=0.786）、無復發存活率、復發累積發生率、非復發死亡率均無統計學差異。另一項成人ETP-ALL的細胞遺傳學與分子特徵研究也證實，CR1接受allo-HSCT的患者中，ETP-ALL與非ETP-ALL在復發率、非復發死亡率、無病存活與整體存活上均無顯著差異，兩組的5年整體存活率都超過50%，遠優於全體世代約30%的存活率。兒童ETP-ALL的現代治療經驗也呈現同樣的軌跡：早期報告的預後懸殊，在當代方案（強調誘導失敗與MRD偵測、以及CR1移植角色）下已大幅縮小。
 
 以下圖表呈現ETP-ALL與非ETP-ALL接受CR1 allo-HSCT後的存活曲線比較。
 
-![](/img/img/348eff6c-3582-4b5e-8b17-d3bc58c4ab06.jpg)
-Figure 3: Survival outcomes for patients receiving allogeneic HCT in CR1 categorized as ETP‐ALL versus non‐ETP‐ALL. (A) Cumulative incidence of relapse. (B) Cumulative incidence of non‐relapse mortality. (C) Disease‐free survival. (D) Overall survival
+（此處原文有一張圖）
+Figure 3: Survival outcomes for patients receiving allogeneic HCT in CR1 categorized as ETP‐ALL versus non‐ETP‐ALL. (A) Cumulative incidence of relapse. (B) Cumulative incidence of non‐relapse mortality. (C) Disease‐free survival. (D) Overall survival。
 
-主軸二：兩條互不依賴的殺傷路徑
+主軸二：兩條互不依賴的殺傷路徑。
 
 ETP-ALL的化療抗性有其生物學基礎——幹細胞樣與髓系樣的基因表現特徵，伴隨BCL-2高表現等抗凋亡機制，這也是venetoclax在ETP-ALL中展現活性的理論依據。但graft-versus-leukemia（GVL）效應完全不依賴腫瘤細胞對化療藥物的敏感性——供者T細胞與NK細胞辨識並清除白血病細胞，走的是免疫辨識與細胞毒殺路徑，與烷化劑、抗代謝物、拓樸異構酶抑制劑的作用機制截然不同。
 
@@ -29,7 +29,7 @@ ETP-ALL的化療抗性有其生物學基礎——幹細胞樣與髓系樣的基�
 
 這個發現改變了臨床決策的重心：MRD陰性的病人，即使診斷時屬於高風險基因型（如不良分子風險或Ph-like ALL），移植相對於化療的邊際效益顯著縮小；MRD陽性的病人，無論診斷時風險分層如何，都是移植效益最大化的族群。MRD偵測方法與敏感度門檻直接影響「MRD陰性」這句話的意義——多參數流式細胞術的敏感度約10⁻⁴，而RT-PCR與next-generation sequencing可達10⁻⁵至10⁻⁶。以較不敏感的方法測得的「陰性」，可能仍隱藏著以更敏感方法才能偵測到的殘留疾病，這也是為何E1910試驗中仍有相當比例流式細胞術MRD陰性的病人最終復發的部分原因。
 
-主軸四：免疫治療如何再一次改寫這個算式
+主軸四：免疫治療如何再一次改寫這個算式。
 
 Blinatumomab的介入正在把「MRD陽性=必須移植」與「MRD陰性=安全」這兩個假設同時鬆動。
 
@@ -39,53 +39,53 @@ Blinatumomab的介入正在把「MRD陽性=必須移植」與「MRD陰性=安全
 
 以下森林圖顯示E1910試驗中不同臨床與分子亞群（包括不良風險組）的整體存活獲益一致性。
 
-![](/img/img/3ab52af2-2246-4ece-b9df-058808d434e2.jpg)
-Figure 3: Survival outcomes for patients receiving allogeneic HCT in CR1 categorized as ETP‐ALL versus non‐ETP‐ALL. (A) Cumulative incidence of relapse. (B) Cumulative incidence of non‐relapse mortality. (C) Disease‐free survival. (D) Overall survival
+（此處原文有一張圖）
+Figure 3: Survival outcomes for patients receiving allogeneic HCT in CR1 categorized as ETP‐ALL versus non‐ETP‐ALL. (A) Cumulative incidence of relapse. (B) Cumulative incidence of non‐relapse mortality. (C) Disease‐free survival. (D) Overall survival。
 
 這一連串證據把臨床問題從「誰該移植」，逐步轉變為「誰可以因為免疫治療的介入而免於移植」。目前證據支持在特定情境（如MRD持續陽性但欲爭取深度緩解、或鞏固期加入blinatumomab以提升MRD陰性病人的存活）中使用blinatumomab；但尚無足夠的頭對頭證據支持以blinatumomab全面取代CR1 allo-HSCT——現行實務仍是將blinatumomab整合進治療流程中（作為誘導後鞏固或MRD轉陰工具），而移植決策仍需結合MRD深度、亞型與患者整體狀況個別化評估。
 
-主軸五：兩個需誠實標註的細節
+主軸五：兩個需誠實標註的細節。
 
 Ph-like ALL的比例因族群而異。原始描述性研究顯示其盛行率隨年齡先升後降：兒童標準風險10%、兒童高風險13%、青少年（16 到 20歲）21%、年輕成人（21 到 39歲）27%，且此後隨年齡增長而下降。因此「25 到 30%」這個數字較貼近AYA（青少年與年輕成人）族群的數據，而非全體成人的平均值（後者通常引用約20%左右）。整體而言，若將此敘述理解為AYA族群的比例，屬合理範圍；若未加註族群限定而泛指「成人ALL」，則有過度推廣之虞。
 
 年齡切點的鬆動。年齡作為不良預後因子的部分意義，其實來自「年長病人被給予強度較弱的化療方案」以及「共病負擔與治療耐受性較差」，而非年齡本身直接的白血病生物學效應。Pediatric-inspired regimen在AYA族群中顯著改善存活的觀察，某種程度上支持了這個推論——當年輕成人接受與兒童相近強度的方案時，其結果明顯優於接受傳統成人方案者，顯示部分「年齡不良預後」實為「方案選擇」的代理變項，而非不可逆的生物學宿命。
 
-主軸六：逐項評析本題
+主軸六：逐項評析本題。
 
-選項
+選項。
 
-內容
+內容。
 
-評析
+評析。
 
 (A)
 
-高齡與高WBC為不良預後因子
+高齡與高WBC為不良預後因子。
 
-正確。兩者均為成人ALL傳統風險分層的核心變項
+正確。兩者均為成人ALL傳統風險分層的核心變項。
 
 (B)
 
-B-ALL不良WBC切點為30或50×10⁹/L
+B-ALL不良WBC切點為30或50×10⁹/L。
 
-正確；補充：T-ALL對應的WBC切點通常為100×10⁹/L，較B-ALL寬鬆
+正確；補充：T-ALL對應的WBC切點通常為100×10⁹/L，較B-ALL寬鬆。
 
 (C)
 
-ETP-ALL預後不良，且移植通常無法改善預後
+ETP-ALL預後不良，且移植通常無法改善預後。
 
-錯誤（本題答案）。前半句正確，但後半句與證據相悖——ETP-ALL一旦達緩解並接受allo-HSCT，長期存活與非ETP T-ALL相當
+錯誤（本題答案）。前半句正確，但後半句與證據相悖——ETP-ALL一旦達緩解並接受allo-HSCT，長期存活與非ETP T-ALL相當。
 
 (D)
 
-Ph-like ALL占成人25 到 30%，預後較差
+Ph-like ALL占成人25 到 30%，預後較差。
 
-可接受但需標註族群：此比例較貼近AYA族群數據；預後較差的敘述正確
+可接受但需標註族群：此比例較貼近AYA族群數據；預後較差的敘述正確。
 
 (E)
 
-鞏固後MRD陰性可高度預測持續CR
+鞏固後MRD陰性可高度預測持續CR。
 
-正確，且獲E1910、BLAST等試驗與統合分析支持
+正確，且獲E1910、BLAST等試驗與統合分析支持。
 
 本題錯誤選項(C)的關鍵，在於把「化療反應差」直接等同於「移植也救不了」——這正是本文主軸一所指出的邏輯陷阱。ETP-ALL的正確理解應是：誘導化療對其效果有限，但這恰恰是需要及早銜接allo-HSCT或免疫治療的理由，而非放棄移植的理由。

@@ -70,33 +70,33 @@ Danicopan（Voydeya，2024 年核准） 是口服 Factor D 抑制劑，核准的
 
 四、感染風險的「形狀」隨攔截點改變。
 
-攔截位置
+攔截位置。
 
-喪失的免疫功能
+喪失的免疫功能。
 
-主要感染風險
+主要感染風險。
 
-必要的預防措施
+必要的預防措施。
 
-參考
+參考。
 
 C5（下游）
 
-失去 MAC
+失去 MAC。
 
 奈瑟菌（Neisseria）感染風險增加約 1,000 到 2,000 倍；尤其腦膜炎雙球菌（N. meningitidis）
 
-用藥前大於等於 2 週接種 meningococcal ACWY + MenB 兩種疫苗；美國有 REMS 管制；部分中心給予預防性抗生素
+用藥前大於等於 2 週接種 meningococcal ACWY + MenB 兩種疫苗；美國有 REMS 管制；部分中心給予預防性抗生素。
 
 C3 / Factor B / Factor D（上游）
 
-失去 MAC + C3b opsonization
+失去 MAC + C3b opsonization。
 
 除腦膜炎雙球菌外，對「所有莢膜細菌」防禦均下降，包含肺炎鏈球菌（S. pneumoniae）與 b 型嗜血桿菌（Hib）
 
-除腦膜炎雙球菌疫苗外，還須接種肺炎鏈球菌疫苗（PCV20 PPSV23）與 Hib 疫苗
+除腦膜炎雙球菌疫苗外，還須接種肺炎鏈球菌疫苗（PCV20 PPSV23）與 Hib 疫苗。
 
-⚠️ 近端抑制劑獨有的嚴重風險：災難性突破性溶血
+⚠️ 近端抑制劑獨有的嚴重風險：災難性突破性溶血。
 
 在近端抑制下，PNH 紅血球不再被補體破壞，PNH clone 的紅血球大量累積於循環中。一旦漏藥、停藥或藥效不足，這一大群完全無防護的紅血球會「同時」暴露於補體活化——可能引發大規模、快速的溶血危機 。這與 C5 抑制劑下的 breakthrough hemolysis 在量級上截然不同。這正是為什麼近端抑制劑「不可自行停藥」，且在藥物轉換時需安排重疊給藥期（overlapping period）。Notaro 與 Luzzatto 在 NEJM 的討論文章中已清楚指出，proximal 與 terminal 抑制下的 breakthrough hemolysis 風險在機轉與嚴重程度上均有根本差異 。
 
@@ -117,76 +117,76 @@ PNH 治療的歷史是一段「攔截點不斷上移」的故事：
 
 六、逐項評析：四種已核准藥物。
 
-藥物
+藥物。
 
-核准年份
+核准年份。
 
-靶點
+靶點。
 
-給藥方式
+給藥方式。
 
-解決的溶血類型
+解決的溶血類型。
 
-關鍵試驗
+關鍵試驗。
 
-臨床備注
+臨床備注。
 
-參考
+參考。
 
 Eculizumab（Soliris）
 
-2007
+2007。
 
-C5
+C5。
 
-靜脈注射，每 2 週
+靜脈注射，每 2 週。
 
-IVH
+IVH。
 
-TRIUMPH、SHEPHERD
+TRIUMPH、SHEPHERD。
 
-奠基藥物；p.Arg885His 族群完全無效；Neisseria 感染風險極高
+奠基藥物；p.Arg885His 族群完全無效；Neisseria 感染風險極高。
 
 Ravulizumab（Ultomiris）
 
-2018
+2018。
 
-C5
+C5。
 
-靜脈注射，每 8 週
+靜脈注射，每 8 週。
 
-IVH
+IVH。
 
-ALXN1210-301/302
+ALXN1210-301/302。
 
-FcRn recycling 機轉延長半衰期；與 eculizumab 同樣對 R885H 無效
+FcRn recycling 機轉延長半衰期；與 eculizumab 同樣對 R885H 無效。
 
 Pegcetacoplan（Empaveli）
 
-2021
+2021。
 
-C3
+C3。
 
-皮下輸注，每週 2 次
+皮下輸注，每週 2 次。
 
-IVH + EVH
+IVH + EVH。
 
-PEGASUS、PRINCE
+PEGASUS、PRINCE。
 
-需輸注裝置；停藥風險高；需接種肺炎鏈球菌 + Hib 疫苗
+需輸注裝置；停藥風險高；需接種肺炎鏈球菌 + Hib 疫苗。
 
 Iptacopan（Fabhalta）
 
-2023
+2023。
 
-Factor B
+Factor B。
 
-口服，每日 2 次
+口服，每日 2 次。
 
 IVH + EVH（替代途徑）
 
-APPLY-PNH、APPOINT-PNH
+APPLY-PNH、APPOINT-PNH。
 
-唯一口服單藥；只阻斷替代途徑；停藥風險高
+唯一口服單藥；只阻斷替代途徑；停藥風險高。
 
 臨床 Take-Home：選擇補體抑制劑，本質上是在選擇「你願意讓病人失去哪一段免疫防禦」——攔截點越高，溶血控制越全面，但感染風險的形狀也越寬廣，而停藥的代價也越沉重。

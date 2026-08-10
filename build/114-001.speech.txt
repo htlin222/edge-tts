@@ -22,7 +22,7 @@ Day 28 到 35（end of induction, EOI），接著形態學 CR 與 EOI MRD：現�
 
 這整條時間軸正被 MRD 逐步取代，因為 MRD 的解析度比形態學高出 3 到 4 個數量級（multiparameter flow cytometry 敏感度約 10⁻⁴；NGS-based clonoSEQ 可達 10⁻⁶，但需診斷時檢體建立 clone），遠優於形態學的 5% 閾值。日本前瞻性研究即證實，postinduction MRD 陰性者三年 DFS 約 73%，MRD 陽性者僅約 41%，凸顯 MRD 早於形態學就能區分預後。
 
-![](/img/img/5a0cb21d-5e7a-4be0-a1c1-451b51094b13.jpg)
+（此處原文有一張圖）
 Figure 2: Impact of postinduction minimal residual disease (MRD) status on overall survival (OS) and disease‐free survival (DFS). Three‐year DFS was 73% (95%CI 44‐89) in MRD‐negative patients after induction chemotherapy A (n = 15) and 41% (95%CI 26‐60) in MRD‐positive patients (n = 30) ( P = 0.018)
 
 Ph+ ALL 則有其獨特工具——RQ-PCR for BCR ABL1，這也是 (D) 特別強調此方法的原因，將於下段展開。
@@ -37,7 +37,7 @@ BCR ABL1 是腫瘤專一的分子標記，RQ-PCR 可達極高敏感度，且不�
 
 當代趨勢進一步走向 chemo-free 方案（ponatinib + blinatumomab，如 MDACC 及 GIMEMA D-ALBA 方案），使部分病人可避免傳統化療甚至移植。PhALLCON 試驗（ponatinib vs imatinib 併低強度化療）證實：EOI 的 MRD 陰性 CR 率 ponatinib 組 34.4% vs imatinib 組 16.7%（相對風險 2.06，P=.002），深度分子反應（MR4.5）亦顯著較高。
 
-![](/img/img/06aefd10-dee3-4827-87ca-bda9c862e00b.jpg)
+（此處原文有一張圖）
 Figure 2: Impact of postinduction minimal residual disease (MRD) status on overall survival (OS) and disease‐free survival (DFS). Three‐year DFS was 73% (95%CI 44‐89) in MRD‐negative patients after induction chemotherapy A (n = 15) and 41% (95%CI 26‐60) in MRD‐positive patients (n = 30) ( P = 0.018)
 
 四、(E) 簡短處理，並收束成當代原則。

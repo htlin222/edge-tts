@@ -29,20 +29,20 @@ Ibrutinib 是一個已知會造成出血的 BTK 抑制劑；rilzabrutinib 是另
 
 BTK 在三種細胞裡的角色。
 
-（一）在巨噬細胞
+（一）在巨噬細胞。
 
 當被 IgG 包覆的血小板與巨噬細胞表面的 Fcgamma R 結合後，胞內訊號沿著 SYK，接著 BTK，接著 PLCgamma 2 軸傳遞，驅動吞噬。抑制 BTK，就是在「吞噬訊號鏈」的中段踩煞車，使巨噬細胞對抗體包覆血小板的清除效率下降，血小板數目因而上升。
 
-（二）在 B 細胞
+（二）在 B 細胞。
 
 BTK 位於 B 細胞受體（BCR）的下游訊號軸。BTK 抑制劑藉由減少 B 細胞的活化，理論上可降低自體抗體的生成，從「上游」切斷病生理。這個效果在 rilzabrutinib 的 LUNA2 試驗中有間接的臨床佐證。
 
-（三）在血小板自己身上——這才是出血的根源
+（三）在血小板自己身上——這才是出血的根源。
 
 血小板本身也表達 BTK。BTK 是膠原蛋白受體 GPVI 與 von Willebrand factor 受體 GPIb-IX-V 下游的重要訊號分子。
 
 血小板黏附於血管損傷處的膠原蛋白時，GPVI 活化，接著 BTK，接著 PLCgamma 2，接著鈣離子釋放，接著血小板活化與聚集
-GPIb-IX-V 在動脈剪切力下感應 vWF，接著 BTK 參與後續訊號放大
+GPIb-IX-V 在動脈剪切力下感應 vWF，接著 BTK 參與後續訊號放大。
 
 BTK 被抑制時，血小板無法對膠原蛋白與 vWF 正常反應，初期止血功能受損，出血風險上升。
 
@@ -54,14 +54,14 @@ Ibrutinib 是不可逆的共價抑制劑（irreversible covalent inhibitor），
 
 一旦血小板內的 BTK 被共價修飾，便永久失活
 血小板無法合成新的 BTK 蛋白（因為沒有細胞核）
-血小板的 GPVI 和 GPIb 訊號，直到這顆血小板凋亡、由新生血小板取代，才能恢復
+血小板的 GPVI 和 GPIb 訊號，直到這顆血小板凋亡、由新生血小板取代，才能恢復。
 
 這解釋了為什麼 ibrutinib 相關出血在治療初期最明顯（血小板周轉期約 7 到 10 天），且新舊血小板比例逐漸更替後才有所緩解。
 
 Rilzabrutinib 則採用了完全不同的設計：它是可逆共價（reversible covalent）抑制劑。它確實也與 BTK 的 C481 形成共價鍵，但這個鍵在熱力學上可以解離，藥物可以脫離目標蛋白。這個設計上的巧妙在於：
 
 對於有核細胞（如 B 細胞、巨噬細胞），BTK 被持續高度占用，因為細胞可以透過新的 BTK 蛋白合成，但只要藥物濃度維持，就能持續抑制——但巨噬細胞吞噬受到阻斷，血小板得到保護
-對於無核的血小板，即使 BTK 一時被占用，藥物解離後，血小板的 GPVI GPIb 訊號功能可在數小時內部分恢復，不造成持續性的功能缺損
+對於無核的血小板，即使 BTK 一時被占用，藥物解離後，血小板的 GPVI GPIb 訊號功能可在數小時內部分恢復，不造成持續性的功能缺損。
 
 此外，rilzabrutinib 的選擇性顯著優於 ibrutinib，不脫靶抑制 ITK 或 EGFR，因此也避免了與 ibrutinib 相關的心房顫動（與 TEC 激酶脫靶有關）等問題。
 
@@ -77,13 +77,13 @@ LUNA3 試驗（NCT04562766）是一項隨機、雙盲、安慰劑對照的第三
 前 12 週至少達到一次 platelet response（大於等於 50×10⁹/L 或 30 到 50 且翻倍）：rilzabrutinib 64% vs placebo 32%
 中位至首次血小板反應時間：15 天（反應迅速）
 出血評分、疲倦改善：均顯著優於安慰劑（p<0.05）
-不良反應：以 grade 1 到 2 為主，無顯著出血事件增加，與先前研究一致
+不良反應：以 grade 1 到 2 為主，無顯著出血事件增加，與先前研究一致。
 
 基於 LUNA3 的結果，rilzabrutinib（商品名 Wayrilz）已於 2025 年取得 FDA 核准，適應症為「既往治療反應不足的 persistent 或 chronic ITP 成人患者」。
 
 以下呈現 rilzabrutinib Phase 1/2 LUNA2 試驗中血小板計數隨時間的變化趨勢，可見反應的快速性與持續性：
 
-![](/img/img/08ff5aef-fbf0-4001-92a5-516cd2118d1c.jpg)
+（此處原文有一張圖）
 Figure 1: Platelet Counts over Time in All Patients and in Patients with a Starting Rilzabrutinib Dose of 400 mg Twice Daily and a Swimmer’s Plot for All Patients.
 
 選項 (B) 的敘述——「ibrutinib 不能治療 ITP 但 rilzabrutinib 可以」——是正確的，且理由確實在於兩者在巨噬細胞 Fcgamma R 訊號與血小板功能上不同的作用模式。
@@ -97,12 +97,12 @@ Figure 1: Platelet Counts over Time in All Patients and in Patients with a Start
 IgG 的 Fc 區與 C1q 結合，接著 C1 複合體活化
 C1s（C1 複合體的絲氨酸蛋白酶亞單元）裂解 C4 與 C2，接著 C4b2a（C3 convertase）
 C3b 大量沉積於血小板表面，接著加速巨噬細胞（透過 CR1 CR3）對血小板的辨識與清除
-在部分患者，甚至可能形成 membrane attack complex（MAC），直接造成血小板裂解
+在部分患者，甚至可能形成 membrane attack complex（MAC），直接造成血小板裂解。
 
 支持這個機轉的臨床證據：
 
 Nakata 等人（2026）在 40 位 ITP 患者中發現，血小板表面可偵測到 C1q、C3d 和 C4d 的沉積，且顯著高於健康對照；C3d/C4d 高的患者（cluster 3）對一線治療的反應率較差，提示補體活化程度與疾病嚴重度相關
-部分患者血清補體濃度下降，與血小板消耗增加一致
+部分患者血清補體濃度下降，與血小板消耗增加一致。
 
 Sutimlimab 的早期臨床資料與誠實的現況評估。
 
@@ -113,7 +113,7 @@ Sutimlimab 是一個人源化 anti-C1s IgG4 單株抗體，它抑制的是 C1 �
 12 位慢性/難治性 ITP 患者（血小板小於等於 30×10⁹/L，曾接受大於等於 2 線治療）
 給藥後 24 小時內，平均血小板從 25×10⁹/L 上升至 54×10⁹/L（反應速度之快，提示補體清除機轉在部分患者佔主導地位）
 42%（5/12）達到持久性血小板反應（大於等於 50×10⁹/L 在大於等於 50% 隨訪中）；4 位達到完全反應（大於等於 100×10⁹/L）
-停藥後，血小板回歸基線；再治療後再次上升，提示效果是可逆的且仰賴持續治療
+停藥後，血小板回歸基線；再治療後再次上升，提示效果是可逆的且仰賴持續治療。
 
 然而必須誠實說明：sutimlimab 目前在 ITP 的資料仍屬 Phase 1 階段，且後續的 Phase 2a 試驗（BIVV020，結構相似的 anti-C1s 抗體）在 12 位 ITP 患者中僅 1 位達到持久反應，結果大體上是陰性的。sutimlimab 目前唯一的 FDA 核准適應症是 cold agglutinin disease（CAD）——同一條古典補體途徑的阻斷，在 CAD 中療效確立，在 ITP 中則僅有初步訊號，且需進一步研究（關於 sutimlimab 在 CAD 中的核准基礎，已在 CAD 筆記中詳述，此處不重複）。
 
@@ -148,13 +148,13 @@ TPO-RA 刺激巨核細胞增生與血小板生成，過度活化的巨核細胞�
 骨髓 reticulin 增加通常為 grade 1 到 2，多為無症狀、偶然發現
 超過 10 年的追蹤資料顯示，不到 10% 的患者出現中重度 reticulin 纖維化，且大多數在停藥後可逆
 進展為有臨床意義的膠原纖維化（collagen fibrosis）極為罕見
-若出現無法解釋的血球異常（如 leukoerythroblastic picture、淚滴狀紅血球、有核紅血球、嗜中性球核左移），應進行骨髓檢查以排除顯著纖維化
+若出現無法解釋的血球異常（如 leukoerythroblastic picture、淚滴狀紅血球、有核紅血球、嗜中性球核左移），應進行骨髓檢查以排除顯著纖維化。
 
 Eltrombopag 的其他重要毒性。
 
 肝毒性：丙胺酸轉胺酶（ALT）升高，可逆，建議定期監測肝功能
 白內障：動物試驗（幼年大鼠超高劑量）有訊號，但人類長期追蹤研究中發生率未超出正常年齡預期背景值
-血栓栓塞：eltrombopag 與 romiplostim 在延伸研究中，血栓事件發生率約 6%（中位追蹤 2 年），高於預期背景值，建議在有血栓危險因子的患者中謹慎使用
+血栓栓塞：eltrombopag 與 romiplostim 在延伸研究中，血栓事件發生率約 6%（中位追蹤 2 年），高於預期背景值，建議在有血栓危險因子的患者中謹慎使用。
 
 六、(E) 的確認。
 
@@ -162,51 +162,51 @@ Romiplostim 與 eltrombopag 的療效相當——多個隨機試驗的 meta-anal
 
 七、逐項評析與臨床 Take-home。
 
-選項
+選項。
 
-核心概念
+核心概念。
 
-正確或錯誤
+正確或錯誤。
 
-關鍵細節
+關鍵細節。
 
 (A)
 
-補體古典途徑參與 ITP；sutimlimab 改善血小板
+補體古典途徑參與 ITP；sutimlimab 改善血小板。
 
 正確（概念上）
 
-Phase 1 資料顯示 42% 達持久反應，24h 內快速升板；但 sutimlimab 抑制 C1s，非 C1q；未核准用於 ITP
+Phase 1 資料顯示 42% 達持久反應，24h 內快速升板；但 sutimlimab 抑制 C1s，非 C1q；未核准用於 ITP。
 
 (B)
 
-BTK 抑制劑 rilzabrutinib 治 ITP；ibrutinib 反而出血
+BTK 抑制劑 rilzabrutinib 治 ITP；ibrutinib 反而出血。
 
-正確
+正確。
 
-差異在於可逆 vs 不可逆、選擇性高 vs 低；rilzabrutinib 已獲 FDA 核准（2025）；LUNA3 durable response 23% vs 0%
+差異在於可逆 vs 不可逆、選擇性高 vs 低；rilzabrutinib 已獲 FDA 核准（2025）；LUNA3 durable response 23% vs 0%。
 
 (C)
 
-Eltrombopag 長期使用增加骨髓 reticulin
+Eltrombopag 長期使用增加骨髓 reticulin。
 
-正確
+正確。
 
-Grade 1 到 2 為主，通常可逆；collagen fibrosis 罕見；另需注意肝毒性、血栓風險
+Grade 1 到 2 為主，通常可逆；collagen fibrosis 罕見；另需注意肝毒性、血栓風險。
 
 (D)
 
-RAISE 試驗：89% vs 16%
+RAISE 試驗：89% vs 16%。
 
 ❌ 錯誤（本題答案）
 
-RAISE 正確數字：79% vs 28%（OR 8.2）；「16%」來自 TRA100773B 安慰劑組，對應治療組為 59%
+RAISE 正確數字：79% vs 28%（OR 8.2）；「16%」來自 TRA100773B 安慰劑組，對應治療組為 59%。
 
 (E)
 
-Romiplostim 與 eltrombopag 效果相當、需持續使用
+Romiplostim 與 eltrombopag 效果相當、需持續使用。
 
-大致正確，但過於絕對
+大致正確，但過於絕對。
 
 10 到 30% 患者可停藥後維持 treatment-free remission，非「必須永久使用」
 

@@ -4,77 +4,77 @@
 
 一個幾乎人人都會被治好的疾病：S1826 與 Hodgkin lymphoma 治療演進的真正戰場。
 
-一、Hodgkin lymphoma 的特殊性：療效的邊際改善空間已經很小
+一、Hodgkin lymphoma 的特殊性：療效的邊際改善空間已經很小。
 
 Classic Hodgkin lymphoma（cHL）是最早被化療治癒的實體惡性腫瘤之一。即使是晚期（stage III–IV）疾病，現代方案的長期存活率仍相當高，且發病高峰落在 20 到 30 歲的年輕族群——這意味著一名病人被治癒之後，往往還要再活 40 到 60 年。在這樣的疾病裡，療效已經被壓縮到很難再有大幅邊際改善，真正決定一個新方案是否值得取代舊方案的，往往不是「能不能治好」，而是「治好之後要付多少代價」——次發性癌症、不孕、心血管疾病、肺纖維化、甲狀腺功能低下等晚期毒性（late toxicity）。
 
 回顧治療演進，幾乎可以看成一條「每一代都在丟掉一個毒性」的線：MOPP（1960 年代）帶來治癒率的突破，但代價是不孕與 alkylator/procarbazine 相關的次發性白血病；ABVD 丟掉了 alkylator 與 procarbazine，生育力與白血病風險大幅改善，但留下 bleomycin 的肺毒性與 doxorubicin 的心毒性；escalated BEACOPP 療效更佳，但不孕與次發性 MDS AML 的風險（10 年累積發生率達 8.8%）讓它在許多地區未能成為標準方案；BV-AVD（ECHELON-1）以 brentuximab vedotin 取代 bleomycin，換來肺毒性的下降，卻引入了周邊神經病變與較高的嗜中性球低下；而N-AVD（S1826）則以 nivolumab 取代 brentuximab，在療效更好的同時毒性也更低。這正是本題的核心。
 
-二、S1826 試驗：設計與結果
+二、S1826 試驗：設計與結果。
 
 S1826 是一項第三期、多中心、開放標籤試驗，納入年齡大於等於 12 歲、新診斷 stage III 或 IV 的 classic Hodgkin lymphoma病人，隨機分派接受 N-AVD 或 BV-AVD，各 6 個週期。值得特別強調的是，這是美國 Intergroup 第一個同時納入兒童與成人的 HL 第三期試驗，打破了兒童腫瘤與成人腫瘤試驗長期分流的傳統——由於 cHL 的發病高峰橫跨兒童晚期與年輕成人（AYA），過去的分流試驗設計使這個族群長期缺乏高品質證據；S1826 中約四分之一的病人為 18 歲以下，代表了試驗設計上的重要里程碑。
 
 關鍵結果：中位追蹤 2.1 年時，2 年 PFS：N-AVD 92% vs BV-AVD 83%（HR 0.45，95% CI 0.30 到 0.65）；2 年事件無存活（EFS）：90% vs 81%。而2 年 OS 兩組相近，JAMA 綜述引用的 3 年數據為 98% vs 97%（HR 0.48，95% CI 0.20 到 1.15，未達統計顯著），NEJM 原始論文的 Kaplan-Meier 曲線同樣顯示兩組 OS 曲線幾乎重疊、差異未達顯著。
 
-![](/img/img/c3231ea0-eed6-4bcb-b578-778ea61c464c.jpg)
+（此處原文有一張圖）
 Figure 2: Progression-free Survival and Overall Survival (Modified Intention-to-Treat Population).
 
 OS 無顯著差異但試驗仍被視為成功，原因在於：HL 的 salvage 治療非常有效，PFS 的差異不易轉譯為 OS 差異；且在整體存活率已高達 97 到 98% 的族群中，要偵測出 OS 的統計差異需要極長追蹤與極大樣本數。這正是 (C) 選項——「兩組 2 年 OS 相近」——為正確敘述的原因；部分坊間詳解主張「OS 資料不成熟」而將 (C) 標為錯誤答案，並不準確：S1826 確實已報告 2 年（及後續 3 年）OS，兩組數值接近且無統計顯著差異，這是試驗本身呈現的結果，而非因追蹤不足而「無法評估」。
 
-三、(B) 為什麼錯：兩組的毒性剖面方向相反
+三、(B) 為什麼錯：兩組的毒性剖面方向相反。
 
 NEJM 原文明確指出：「brentuximab vedotin was associated with more treatment discontinuation」。也就是說，治療中斷較多的是 BV-AVD，而不是 N-AVD——(B) 選項把方向講反了，這正是本題答案所在。
 
-項目
+項目。
 
-BV-AVD
+BV-AVD。
 
-N-AVD
+N-AVD。
 
-參考
+參考。
 
-周邊感覺神經病變
+周邊感覺神經病變。
 
-顯著較多，成人族群中 grade 大於等於 2 更常見；MMAE 承載體所致，部分長期不可逆
+顯著較多，成人族群中 grade 大於等於 2 更常見；MMAE 承載體所致，部分長期不可逆。
 
-較少
+較少。
 
-嗜中性球低下／發熱性嗜中性球低下
+嗜中性球低下／發熱性嗜中性球低下。
 
-較高，需常規 G-CSF 一級預防
+較高，需常規 G-CSF 一級預防。
 
-較低，G-CSF 使用率明顯較低
+較低，G-CSF 使用率明顯較低。
 
-免疫相關不良事件
+免疫相關不良事件。
 
-不適用
+不適用。
 
-甲狀腺功能異常（多為低下）、肝炎（ALT 上升）、皮疹、肺炎，多數低度可控
+甲狀腺功能異常（多為低下）、肝炎（ALT 上升）、皮疹、肺炎，多數低度可控。
 
-治療中斷
+治療中斷。
 
-較高
+較高。
 
-較低
+較低。
 
 在年長病人（大於等於 60 歲）的次族群分析中，N-AVD 的優勢更為明顯：2 年 PFS 89% vs 64%（HR 0.24），2 年 OS 96% vs 85%（HR 0.16）；BV-AVD 組的非復發死亡率達 16%（N-AVD 為 6%），55% 病人中斷 BV（N-AVD 僅 14% 中斷 nivolumab）。這是因為 BV 的神經毒性與骨髓抑制在年長族群中更難承受，恰好呼應選項 (E)（BV-AVD 組 G-CSF 使用較高）為正確敘述。
 
-四、(D)：省下放療，換回的是病人 50 歲以後的健康
+四、(D)：省下放療，換回的是病人 50 歲以後的健康。
 
 S1826 全試驗中僅 7 名病人接受放射治療，青少年族群中僅 3 名（N-AVD 1 名、BV-AVD 2 名）——放療使用率降到接近可忽略的程度，NEJM 稱之為「較同期方案戲劇性地減少了青少年族群的放療使用」。
 
 這一點的臨床份量在於縱膈腔放療的長期代價：女性若在青春期接受縱膈腔放療，終身乳癌風險可達 29%（40 Gy、25 歲前接受照射的族群），其量級已接近 BRCA 突變帶原者，需自放療後 8 到 10 年（英國建議）或 10 年／40 歲（美國建議）起開始加做乳房 MRI／乳房攝影篩檢。心血管疾病方面，冠狀動脈疾病、瓣膜病變、限制型心包膜疾病的風險增加 3 到 5 倍，且與 anthracycline 有加成效應而非單純相加。此外還有甲狀腺功能低下與甲狀腺癌、與 bleomycin 有加成作用的肺纖維化，以及次發性肺癌、食道癌等實體腫瘤風險，且這些風險在放療後 15 到 20 年仍持續上升、無明顯平原（plateau）。
 
-![](/img/img/4a3c1aa6-f732-4c15-b53c-b02e9e040683.jpg)
+（此處原文有一張圖）
 Figure 1: Approximate Cumulative Risk of Recurrent Hodgkin's Lymphoma, Second Malignant Conditions, and Cardiovascular Events among Patients Receiving Both Radiotherapy and Chemotherapy for Early-Stage Hodgkin's Lymphoma.
 
 對一名 15 歲的病人而言，「省下一次放療」換回的正是他 50 歲以後的心臟與乳房健康。PET-adapted 策略（以 interim PET 決定是否升階治療或加放療，如 RATHL 研究中 PET2 陰性者可省略 bleomycin）延續的正是同一邏輯：用影像反應取代「一律照射」，把放療留給真正需要的少數病人。
 
-五、尚未回答的問題
+五、尚未回答的問題。
 
 S1826 的追蹤時間仍相對短（中位 2.1 年），checkpoint inhibitor 的長期毒性（尤其內分泌與自體免疫疾病）需要更久觀察才能充分評估。更重要的是，N-AVD 之後若復發，後線治療的選擇尚不明朗：nivolumab 與 brentuximab 原本都是復發／難治性 HL 的重要 salvage 武器，將 nivolumab 前移至一線意味著提前用掉一張後線的關鍵牌；對曾接受 checkpoint inhibitor 治療者，後續若需異體移植，GVHD 風險是否增加也是已知疑慮。此外，成本與給付的現實同樣影響此方案能否普及。
 
-六、選項逐一評析
+六、選項逐一評析。
 
 (A) 正確：N-AVD 之 PFS 優於 BV-AVD（HR 0.45 到 0.48）。
 (B) 錯誤（本題答案）：治療中斷較多的是 BV-AVD，而非 N-AVD。

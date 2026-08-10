@@ -117,10 +117,29 @@ def apply_lexicon(text: str, rules: list[dict], show_diff: bool = False) -> tupl
     return text, log
 
 
+# 段落結尾算「已經有停頓」的標點
+ENDS_WITH_PUNCT = re.compile(r"[。！？：；，、.!?:;,)）」』】\]]$")
+
+
 def collapse(text: str) -> str:
-    """收斂空行，讓「段落」這個概念在 synth.py 那邊是可靠的切分依據。"""
-    paras = [p.strip() for p in re.split(r"\n\s*\n", text)]
-    return "\n\n".join(p for p in paras if p)
+    """收斂空行並確保每段以標點結尾。
+
+    補句號不只是為了停頓好聽，是為了避開 edge-tts 的一個具體故障：
+    **純英文段落後面直接換行接中文段落，會讓它完全不吐音訊**（NoAudioReceived），
+    而且重試幾次都一樣。114-060 的「Clinical Take-Home」接中文就是這樣整集報銷的。
+    實測：
+        "Clinical Take-Home\\n\\n在懷孕…"   → NoAudioReceived
+        "Clinical Take-Home。在懷孕…"       → 正常
+    """
+    out = []
+    for para in re.split(r"\n\s*\n", text):
+        para = para.strip()
+        if not para:
+            continue
+        if not ENDS_WITH_PUNCT.search(para):
+            para += "。"
+        out.append(para)
+    return "\n\n".join(out)
 
 
 def normalize_one(path: Path, rules: list[dict], show_diff: bool = False) -> dict:

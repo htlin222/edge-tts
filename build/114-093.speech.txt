@@ -2,12 +2,12 @@
 
 冰敷是為了關掉血流，解藥卻要靠血流送達。
 
-![](/img/img/a6cf8625-29a0-47d2-9f1e-b66511435e4e.jpg)
+（此處原文有一張圖）
 Figure 1: Algorithm on the management of antineoplastic extravasation of vesicant or irritant with vesicant properties in adults.
 
 化療藥物血管外滲的處置，最違反直覺的地方在於：冰敷的作用是關掉血流，但真正能逆轉組織壞死的解藥，卻必須靠血流才能送達受傷的組織。這個矛盾貫穿整個處置的時間軸，也是本篇要拆解的核心邏輯。
 
-第 0 分鐘：真正決定預後的，是解藥還沒登場之前的那幾分鐘
+第 0 分鐘：真正決定預後的，是解藥還沒登場之前的那幾分鐘。
 
 一旦懷疑外滲(輸液處無回血、局部腫脹疼痛、皮膚變化),第一件事是立即停止輸注，但保留原針頭——因為要經由原本的導管回抽殘餘藥液(通常可抽出 3 到 5 mL),把還留在組織間隙裡的藥物盡量移除。
 
@@ -17,7 +17,7 @@ Figure 1: Algorithm on the management of antineoplastic extravasation of vesican
 
 這四個動作——停輸不拔針、不沖洗、標記邊界、抬高患肢——沒有一項需要任何藥物，但它們對最終是否演變成全層皮膚壞死、是否需要外科清創的影響，往往超過任何解藥的貢獻。
 
-第 15 分鐘：決定要「圈住」還是「沖散」——這是機轉的直接推論
+第 15 分鐘：決定要「圈住」還是「沖散」——這是機轉的直接推論。
 
 一旦完成初步處置，下一步是選擇冷敷或溫敷，而這個選擇不是靠背誦藥物清單，而是直接從藥物的細胞毒性機轉推導出來。
 
@@ -29,7 +29,7 @@ Figure 1: Algorithm on the management of antineoplastic extravasation of vesican
 
 一句話收斂這個機轉：藥物會不會「接力傳遞」，決定了該圈住它，還是該沖散它。
 
-第 6 小時:dexrazoxane 的時窗——此時必須把冰敷拿掉
+第 6 小時:dexrazoxane 的時窗——此時必須把冰敷拿掉。
 
 Anthracycline 外滲目前唯一經 FDA 核准的解藥是 dexrazoxane(美國商品名 Totect,歐盟為 Savene),核准適應症明確限定於 anthracycline 外滲的治療。其保護機轉雖未完全闡明，推測與抑制 topoisomerase II、螯合游離鐵有關。
 
@@ -48,45 +48,45 @@ Irritant:僅造成暫時性局部發炎、疼痛與靜脈炎，通常會自行�
 
 一句話定調：兩者的差別不在當下痛不痛，而在「後來需不需要叫整形外科」。
 
-逐項評析 114 年血液專科考題
+逐項評析 114 年血液專科考題。
 
 本題問「化學藥物 extravasation 的處理，下列敘述何者錯誤」，官方答案為 (E)。逐項檢視如下:
 
-選項
+選項。
 
-內容
+內容。
 
-評析
+評析。
 
 (A)
 
-先確定外滲藥物是否為 vesicant
+先確定外滲藥物是否為 vesicant。
 
-正確，分類決定後續冷敷/溫敷與解藥選擇的方向
+正確，分類決定後續冷敷/溫敷與解藥選擇的方向。
 
 (B)
 
-Anthracycline 外滲可用 dexrazoxane local injection,FDA 有此適應症
+Anthracycline 外滲可用 dexrazoxane local injection,FDA 有此適應症。
 
-FDA 核准的事實正確，但「local injection」的給藥途徑描述錯誤——仿單明訂為對側肢體大靜脈的全身性靜脈輸注，從未核准局部注射
+FDA 核准的事實正確，但「local injection」的給藥途徑描述錯誤——仿單明訂為對側肢體大靜脈的全身性靜脈輸注，從未核准局部注射。
 
 (C)
 
-Hyaluronidase 也常用於其他化療藥物外滲的局部注射
+Hyaluronidase 也常用於其他化療藥物外滲的局部注射。
 
-正確，如 vinca alkaloid、etoposide、taxane 外滲
+正確，如 vinca alkaloid、etoposide、taxane 外滲。
 
 (D)
 
-Vinca alkaloid 外滲用熱敷,taxane 外滲用冷敷
+Vinca alkaloid 外滲用熱敷,taxane 外滲用冷敷。
 
 Vinca alkaloid 熱敷正確;taxane 部分與 ONS ASCO 指引(溫敷+hyaluronidase)方向相反，但此爭議在文獻上本身即不一致(見下)
 
 (E)
 
-起泡性藥物尚包括 dactinomycin、epipodophyllotoxin、bleomycin、methotrexate
+起泡性藥物尚包括 dactinomycin、epipodophyllotoxin、bleomycin、methotrexate。
 
-錯誤——把分類層級混淆:dactinomycin 確為 vesicant;但 epipodophyllotoxin(etoposide)是 irritant,bleomycin 與 methotrexate 在主流分類中都不屬於 vesicant
+錯誤——把分類層級混淆:dactinomycin 確為 vesicant;但 epipodophyllotoxin(etoposide)是 irritant,bleomycin 與 methotrexate 在主流分類中都不屬於 vesicant。
 
 (E) 是官方答案，其錯誤成立，而且是分類層級的錯誤，不是單純記錯藥名——它把一個 irritant(etoposide/epipodophyllotoxin)與兩個非起泡性藥物(bleomycin、methotrexate)一併歸入 vesicant 名單中，混淆了三個本應分開的類別。
 
@@ -94,6 +94,6 @@ Vinca alkaloid 熱敷正確;taxane 部分與 ONS ASCO 指引(溫敷+hyaluronidas
 
 (D) 則是本題最大的心理陷阱。許多考生(以及部分中文詳解)會反射性地認為「冷熱敷選項一定是寫反的」而選 (D),但題幹所寫的方向——vinca 熱敷、taxane 冷敷——其實未必與現行指引相悖，反而凸顯了 taxane 外滲處置上真實存在的文獻分歧:ONS ASCO 2025 年指引將 paclitaxel、docetaxel 與 vinca alkaloid、etoposide 一同歸類為溫敷併用 hyaluronidase,近期個案報告也支持以溫敷加 hyaluronidase 成功處理大量 paclitaxel 外滲；但確實也有部分來源建議 taxane 外滲採冷敷。這種「預期反轉」的直覺——看到冷熱敷選項就假設寫反了，反而造成誤答。臨床上遇到此類分歧時，應以現行、方法學較嚴謹的指引(如 ONS ASCO)為準，而非套用單一記憶口訣。
 
-一個時間軸之外的弔詭：更安全的路徑，換來了更晚的發現
+一個時間軸之外的弔詭：更安全的路徑，換來了更晚的發現。
 
 為降低外滲發生率,vesicant 應盡量經中央靜脈導管給予。然而，中央導管一旦發生外滲，臨床表現反而更隱匿——沒有周邊靜脈外滲時明顯的局部疼痛、紅腫，藥物可能直接滲入縱膈腔或胸壁深層組織，常要等到影像檢查(如 CT)才被發現。換言之:「更安全的路徑」把「發生率」換成了「發現的延遲」——這也是為何 ONS ASCO 指引特別針對中央導管外滲，建議更積極地轉介外科或專科評估。

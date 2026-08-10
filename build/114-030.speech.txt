@@ -4,7 +4,7 @@
 
 Reed-Sternberg cell的生物學有兩個違反常識的地方，而理解這兩點，才能真正明白為什麼BTK抑制劑在HL中沒有位置——這正是這題唯一「最不正確」的選項(D)的根本所在。
 
-一、HL最反常的生物學：一個放棄了自己身分的腫瘤細胞
+一、HL最反常的生物學：一個放棄了自己身分的腫瘤細胞。
 
 第一個反常之處：在classical HL的病理切片中，真正的惡性細胞——Hodgkin and Reed-Sternberg (HRS) cells——通常僅佔腫瘤組織不到1 到 10%，其餘絕大多數是被HRS細胞主動招募而來的T細胞、嗜酸性球、巨噬細胞與纖維母細胞所構成的發炎性微環境。HRS細胞不是「被動地」躲在這群細胞當中，而是主動分泌細胞激素/趨化因子，重塑並馴化這個微環境，使其轉而支持自己的存活、增殖，並形成免疫抑制的屏障。
 
@@ -14,7 +14,7 @@ Reed-Sternberg cell的生物學有兩個違反常識的地方，而理解這兩�
 
 由此可以建立本篇的核心邏輯：既然HRS細胞的存活「不依賴BCR」，那麼阻斷BCR下游的BTK，就沒有標靶可打；反之，既然它依賴微環境與免疫逃脫機制存活，攻擊微環境（免疫檢查點阻斷）或直接標靶HRS細胞表面抗原（CD30，即brentuximab vedotin的標靶）才會特別有效。
 
-二、為什麼(D)是錯的：BTK抑制劑在HL沒有生物學基礎
+二、為什麼(D)是錯的：BTK抑制劑在HL沒有生物學基礎。
 
 BTK抑制劑（ibrutinib、acalabrutinib、zanubrutinib）的作用前提，是腫瘤細胞仍依賴功能性BCR訊號傳遞——即BCR，接著 LYN SYK，接著 BTK，接著 PLCgamma 2，接著 NF-kappa B這條軸線持續驅動細胞存活與增殖。這正是它們在CLL、mantle cell lymphoma、Waldenström巨球蛋白血症等「BCR依賴型」B細胞腫瘤中有效的原因。
 
@@ -22,13 +22,13 @@ BTK抑制劑（ibrutinib、acalabrutinib、zanubrutinib）的作用前提，是�
 
 這也是一個很好的對照教訓：「同樣來自B細胞」不代表「同樣的藥會有效」。細胞的起源（cell of origin）與細胞現在賴以存活的訊號路徑（oncogenic dependency）是兩件完全不同的事，臨床決策應該根據後者，而非前者。
 
-三、(B)為何正確：PD-1抑制劑在HL好用到不像話
+三、(B)為何正確：PD-1抑制劑在HL好用到不像話。
 
 Classical HL幾乎是PD-1阻斷療法的原型適應症，其分子基礎是染色體9p24.1這個區段的擴增（amplification），在classical HL中發生率極高（一系列研究中約97%的病例出現PD-L1 PD-L2位點的相關拷貝數變異）。這個區段上恰好座落著CD274(PD-L1)、PDCD1LG2(PD-L2)以及JAK2三個基因，其拷貝數增加同時造成PD-L1 PD-L2蛋白直接過度表現，並經由JAK2劑量增加進一步經JAK-STAT訊號上調PD-L1的表現。這是一種「寫死在基因層次」的免疫逃脫機制。此外，EBV陽性的HL病例也可經由LMP1蛋白平行上調PD-L1，構成另一條免疫逃脫路徑。
 
 以下圖顯示在R R HL病人中，9p24.1位點的FISH分析與PD-L1 PD-L2免疫組織化學染色的對應關係，證實所有評估病例均存在PD-1配體表現增加的遺傳學基礎。
 
-![](/img/img/cd051d69-50e2-4b24-a99a-b04712ddebc0.jpg)
+（此處原文有一張圖）
 Figure 2: Genetic and Immunohistochemical Analyses of PDL1 and PDL2 Loci, PD-L1 and PD-L2 Protein Expression, and Epstein–Barr Virus Status in Patients with Hodgkin's Lymphoma.
 
 臨床數據也充分驗證了這個機轉：CheckMate 205（nivolumab）與KEYNOTE-087（pembrolizumab）在auto-HCT後復發或高度預治療族群中，客觀反應率（ORR）分別可達約70%左右（KEYNOTE-087五年追蹤ORR為71.4%）；而在頭對頭的KEYNOTE-204試驗中，pembrolizumab相較於brentuximab vedotin，中位PFS達13.2個月 vs 8.3個月（HR 0.65，95% CI 0.48 到 0.88，p=0.0027），確立了pembrolizumab在此族群的治療地位。值得注意的是，PD-1抑制劑在HL中的療效並不依賴HRS細胞本身表現MHC class I分子——部分作用機轉是透過MHC class II，以及腫瘤微環境中PD-L1陽性巨噬細胞（TAM）與CD4+ T細胞之間的交互作用，這與PD-1阻斷在其他實體癌中主要依賴CD8+ T細胞辨識MHC class I抗原呈現的模式不同。
@@ -40,27 +40,27 @@ BV鞏固：AETHERA試驗顯示，高風險病人於auto-HCT後接受BV維持治�
 
 在HL這種高治癒率疾病中，「有PFS改善卻無OS差異」的現象特別常見，原因在於後線救援手段本身已相當有效——PD-1抑制劑、二次移植、allo-HCT都能把安慰劑組復發後的病人重新救回來，稀釋（洗掉）了兩組間的OS差異。這提示：在高治癒率疾病中，PFS改善不代表治療無價值，但也要求誠實看待鞏固治療所附帶的毒性代價（如周邊神經病變）。
 
-五、(E)的確認：allo-HCT與PD-1抑制劑之間一個重要的交互作用
+五、(E)的確認：allo-HCT與PD-1抑制劑之間一個重要的交互作用。
 
 Allo-HCT在R R HL中的治療基礎是graft-versus-Hodgkin效應，雖然真實存在，但強度不如在白血病中明顯。RIC（減低強度前處置）的引入降低了非復發死亡率，haploidentical供者搭配post-transplant cyclophosphamide (PTCy)則大幅擴展了可用供者來源。
 
 一個極重要的臨床交互作用是：曾在allo-HCT前使用過PD-1抑制劑的病人，移植後發生早發且嚴重急性GVHD的風險增加，包括猛爆性、涉及肝與肺的非典型表現。機轉推測與殘留於血漿中的PD-1抗體持續阻斷供者T細胞的PD-1煞車有關，導致移植後T細胞活化增強。一項統合分析顯示，先前接受checkpoint inhibitor的病人，其grade 3-4急性GVHD發生率（約28%）顯著高於未曾接受者（約8%）。
 
-![](/img/img/a0177577-b3f5-4719-9525-27d07961576e.jpg)
+（此處原文有一張圖）
 Figure 2: Genetic and Immunohistochemical Analyses of PDL1 and PDL2 Loci, PD-L1 and PD-L2 Protein Expression, and Epstein–Barr Virus Status in Patients with Hodgkin's Lymphoma.
 
 實務上，較長的PD-1抑制劑至allo-HCT間隔與較嚴重急性GVHD發生率較低相關，而PTCy-based GVHD預防策略被認為可能是此族群較適合的移植策略，能顯著改善PFS與GVHD/relapse-free survival。但也需誠實說明：部分研究顯示這類病人的PFS反而較佳，是一個療效與毒性並存的交互作用。
 
-六、R R HL治療序列地圖
+六、R R HL治療序列地圖。
 
 第一次復發：salvage化療（含BV±PD-1抑制劑的新式組合），接著追求PET陰性，接著 auto-HCT，接著高風險者接受BV或PD-1抑制劑鞏固。auto-HCT後復發：PD-1抑制劑（若未曾使用）、BV、化療，接著適合者評估allo-HCT，並注意PD-1暴露後移植的GVHD風險與間隔安排。多線失敗：轉入臨床試驗，包括CD30 CAR-T與雙特異性抗體等新興策略。當PD-1抑制劑已逐漸被移到第一線治療（如S1826）之後，復發時「還剩下什麼牌」是尚未完全解決的臨床難題，值得日後另篇探討。
 
-七、逐項評析
+七、逐項評析。
 
 正確：BNLI與GHSG隨機試驗證實auto-HCT改善EFS FFTF
 正確：9p24.1擴增使PD-1抑制劑在HL有極高ORR
 正確：AETHERA證實PFS獲益，OS無顯著差異
 錯誤：HRS細胞不依賴BCR BTK訊號存活，BTK抑制劑在HL缺乏生物學基礎與臨床證據，絕非首選
-正確：allo-HCT具治癒潛力，RIC與PTCy改善結果
+正確：allo-HCT具治癒潛力，RIC與PTCy改善結果。
 
 臨床take-home：要打一個腫瘤，先問它靠什麼活著——而不是問它從哪裡來。

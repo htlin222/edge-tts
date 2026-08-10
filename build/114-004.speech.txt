@@ -24,7 +24,7 @@ DAT 陰性代表紅血球表面沒有 IgG，沒有 C3d——沒有任何自體�
 
 骨質疏鬆與骨壞死（股骨頭壞死在年輕男性尤其嚴重）
 類固醇性糖尿病
-感染風險上升——而這群病人在開始補體抑制劑後，本身就已經是腦膜炎雙球菌感染的極高危族群
+感染風險上升——而這群病人在開始補體抑制劑後，本身就已經是腦膜炎雙球菌感染的極高危族群。
 
 唯一一個類固醇可能出現在 PNH 病人處方上的合理情境，是「PNH 合併 aplastic anemia，使用類固醇作為 immunosuppressive therapy（IST）的一部分（通常與 anti-thymocyte globulin 合用）」——但那是在治療骨髓衰竭，不是在治療溶血。這一點必須清楚區分。
 
@@ -39,7 +39,7 @@ DAT 陰性代表紅血球表面沒有 IgG，沒有 C3d——沒有任何自體�
 NO 消耗，接著血管收縮 + 血小板活化：血管內溶血釋放大量游離血紅素，游離血紅素清除 NO（NO + Hb，接著 nitrate），導致血管張力失調與血小板高度活化
 補體直接刺激血小板：PNH 血小板同樣缺乏 CD55 CD59，補體攻擊後血小板活化、釋放帶有促凝磷脂的 microvesicle，直接啟動凝血瀑布
 內皮細胞活化：補體（MAC）攻擊內皮細胞，接著內皮細胞表現 P-selectin、TF（tissue factor），接著凝血與白血球黏附增加
-纖維蛋白溶解受抑制：GPI-anchored 的 urokinase receptor（uPAR）在 PNH 細胞上缺失，接著纖維蛋白溶解效率下降，接著血栓更難自行清除
+纖維蛋白溶解受抑制：GPI-anchored 的 urokinase receptor（uPAR）在 PNH 細胞上缺失，接著纖維蛋白溶解效率下降，接著血栓更難自行清除。
 
 「抗凝」（LMWH DOAC/warfarin）切入的是「凝血瀑布的下游」，處理的是已形成的血栓與預防進一步的血栓繁殖；「補體抑制劑」切入的是「血栓形成的上游驅動力」，從根本減少血小板活化、內皮活化與纖維蛋白溶解抑制。補體抑制劑不能取代對「已發生的 DVT」的抗凝治療，就如同它不能溶解已形成的血栓一樣。
 
@@ -47,7 +47,7 @@ NO 消耗，接著血管收縮 + 血小板活化：血管內溶血釋放大量�
 
 急性期：LMWH（依體重給藥）或 UFH（若需密切調整）；若血小板在正常範圍（本例 219,000）且無其他禁忌，LMWH 是較方便的選擇
 穩定後過渡：可轉換為 DOAC（apixaban、rivaroxaban）或 warfarin。PNH 合併 DVT 使用 DOAC 的證據目前以觀察性研究為主，缺乏大型隨機試驗——Brodsky（2021）的 How I Treat 中提及 DOAC 在 PNH 血栓病人中的使用具有可行性，但若合併嚴重血小板低下或抗磷脂抗體，warfarin 可能更安全
-療程長度：PNH 本身是一個持續存在的血栓危險因子，因此通常建議「長期甚至無限期的抗凝治療」。唯一可能重新評估的情境，是補體抑制劑使疾病獲得良好且持久的控制（LDH 正常化、clone size 穩定）後，由有經驗的血液科醫師進行個別化評估
+療程長度：PNH 本身是一個持續存在的血栓危險因子，因此通常建議「長期甚至無限期的抗凝治療」。唯一可能重新評估的情境，是補體抑制劑使疾病獲得良好且持久的控制（LDH 正常化、clone size 穩定）後，由有經驗的血液科醫師進行個別化評估。
 
 關於 primary thrombosis prophylaxis 的歷史爭議：
 
@@ -57,30 +57,30 @@ NO 消耗，接著血管收縮 + 血小板活化：血管內溶血釋放大量�
 
 這個領域在過去五年已經從「單一藥物」演化成一個多層次的治療地圖，依補體級聯上的作用位點分為終端抑制與近端抑制兩大類。
 
-終端抑制（anti-C5）：阻擋 MAC 的形成
+終端抑制（anti-C5）：阻擋 MAC 的形成。
 
 Eculizumab（Soliris）：每 2 週靜脈注射，奠基性藥物。大型臨床試驗（TRIUMPH、SHEPHERD）確立了它在 PNH 中的 LDH 正常化、輸血獨立、血栓預防的效果。目前仍是全球許多地區的一線標準
 Ravulizumab（Ultomiris）：透過 Fc 受體工程（YTE 突變延長 FcRn 結合、靶向 C5 的位點工程）將半衰期從 11 天延長至 49 天，注射頻率從每 2 週降為每 8 週（或每週皮下注射）。ALXN1210 301/302 兩項 phase 3 試驗對所有主要終點均達到非劣效，並在全球多數市場已成為主流選擇
-Crovalimab（Piasky）：利用 Sequential Monoclonal Antibody Recycling Technology（SMART-Ig）——抗體在酸性的溶酶體環境中解離 C5、被 FcRn 回收再利用，因此只需極低的維持劑量，可做成每 4 週一次的低容量皮下注射，病人可在家自行或由照顧者協助給藥。COMMODORE 1（有 eculizumab 治療史）與 COMMODORE 2（初治）兩項 phase 3 試驗均確立非劣效
+Crovalimab（Piasky）：利用 Sequential Monoclonal Antibody Recycling Technology（SMART-Ig）——抗體在酸性的溶酶體環境中解離 C5、被 FcRn 回收再利用，因此只需極低的維持劑量，可做成每 4 週一次的低容量皮下注射，病人可在家自行或由照顧者協助給藥。COMMODORE 1（有 eculizumab 治療史）與 COMMODORE 2（初治）兩項 phase 3 試驗均確立非劣效。
 
-對東亞病人特別重要的一點：C5 基因的 p.Arg885His（R885H）多型性在日本族群約 3.5%（東亞族群總體約 2 到 4%），此變異使 eculizumab 和 ravulizumab 無法與 C5 有效結合，導致治療失敗。Crovalimab 因為結合 C5 的表位（epitope）不同，對 R885H 多型性仍然有效——在東亞病人中選藥前評估此多型性，或直接選用 crovalimab，具有重要臨床意義
+對東亞病人特別重要的一點：C5 基因的 p.Arg885His（R885H）多型性在日本族群約 3.5%（東亞族群總體約 2 到 4%），此變異使 eculizumab 和 ravulizumab 無法與 C5 有效結合，導致治療失敗。Crovalimab 因為結合 C5 的表位（epitope）不同，對 R885H 多型性仍然有效——在東亞病人中選藥前評估此多型性，或直接選用 crovalimab，具有重要臨床意義。
 
 近端抑制（proximal complement inhibitors）：為什麼需要它們？
 
 C5 抑制阻擋了 MAC 的形成，控制了血管內溶血（IVH）。但在 C5 抑制之後，補體替代路徑仍持續啟動、C3 convertase 仍在運作——C3b 持續沉積在 PNH 紅血球表面（因為 CD55 缺失，C3 convertase 無法被抑制）。這些表面被 C3b opsonized 的紅血球，雖然因為 C5 被抑制而不會形成 MAC，但會被肝脾巨噬細胞透過 CR1 CR3 受體辨識並吞噬——這是 C5 抑制劑時代特有的「complement-mediated extravascular hemolysis（EVH）」。約 20 到 30% 的病人在 eculizumab 治療下，LDH 正常化但 Hgb 仍偏低、持續需要輸血，這正是近端抑制劑的誕生背景：
 
-Pegcetacoplan（Empaveli）：anti-C3，皮下輸注（每週 2 次）。PEGASUS trial 對比 eculizumab，pegcetacoplan 在提升 Hgb 上達到顯著優效
+Pegcetacoplan（Empaveli）：anti-C3，皮下輸注（每週 2 次）。PEGASUS trial 對比 eculizumab，pegcetacoplan 在提升 Hgb 上達到顯著優效。
 
-![](/img/img/98a7de76-6008-47a9-9cdb-6111bca5551b.jpg)
+（此處原文有一張圖）
 Figure 3: Changes in Primary and Key Secondary Efficacy End Points from Baseline to Week 16.
 
 Iptacopan（Fabhalta）：Factor B 抑制劑，口服（每日 2 次），直接在替代路徑的 C3 convertase 組裝步驟上游阻斷，防止 C3b 的放大沉積
-Danicopan（Voydeya）：Factor D 抑制劑，作為 C5 抑制劑的 add-on 療法（而非替換），針對仍有 EVH 的病人加強近端阻斷
+Danicopan（Voydeya）：Factor D 抑制劑，作為 C5 抑制劑的 add-on 療法（而非替換），針對仍有 EVH 的病人加強近端阻斷。
 
 臨床選擇邏輯：
 
 初始治療：C5 抑制劑（eculizumab、ravulizumab 或 crovalimab）是標準起點——控制 IVH、幾乎消除血栓風險
-若仍有顯著 EVH 的線索（LDH 已正常但 Hgb 仍低、reticulocyte 計數偏高、流式細胞術顯示 C3 沉積陽性），接著換用近端抑制劑（pegcetacoplan 或 iptacopan），或在 C5 抑制劑基礎上加上 danicopan
+若仍有顯著 EVH 的線索（LDH 已正常但 Hgb 仍低、reticulocyte 計數偏高、流式細胞術顯示 C3 沉積陽性），接著換用近端抑制劑（pegcetacoplan 或 iptacopan），或在 C5 抑制劑基礎上加上 danicopan。
 
 四、(E) 的核心：疫苗與預防性抗生素是不可協商的安全基礎。
 
@@ -96,7 +96,7 @@ MenACWY + MenB 兩種疫苗都必須接種（題目特別標明「A 與 B」正�
 時機：必須在開始補體抑制劑「至少 2 週前」完成，讓免疫反應有時間產生抗體。Canadian PNH Network 的共識建議：若臨床情況緊急無法等待 2 週（如本例有急性 DVT，血栓風險極高），應立即開始抗生素預防性投予，並同步接種疫苗
 抗生素預防：Penicillin VK 500 mg bid（青黴素過敏者可用 azithromycin 或 ciprofloxacin）。在許多治療中心，這是終生持續的處方
 疫苗不能完全預防的殘餘風險：這是一個反直覺但極重要的事實——補體介導的溶菌作用，是疫苗接種後抗體發揮殺菌效果的「執行工具」。當 C5 被抑制，疫苗誘發的抗體存在，但沒有補體幫它殺菌，bactericidal 效果大幅減弱。McNamara 等人（2017）記錄的 16 例 eculizumab 相關腦膜炎雙球菌病例中，14 例有接種疫苗紀錄仍然感染；且其中 11 例是 non-groupable 的腦膜炎雙球菌（現有疫苗無法覆蓋）。即便完整接種後，ravulizumab 與 eculizumab 的累積真實世界腦膜炎感染率分別為約 0.10 與 0.25/100 patient-years
-因此病人衛教必須包含：任何發燒、頸項僵硬、皮疹（瘀點/瘀斑），接著視為醫療緊急事件立即就醫；隨身攜帶醫療警示卡，說明自己正在使用補體抑制劑
+因此病人衛教必須包含：任何發燒、頸項僵硬、皮疹（瘀點/瘀斑），接著視為醫療緊急事件立即就醫；隨身攜帶醫療警示卡，說明自己正在使用補體抑制劑。
 
 近端抑制劑的額外疫苗需求：
 
@@ -124,7 +124,7 @@ Cerebral venous sinus（腦靜脈竇血栓，可表現為頭痛、視乳頭水�
 (B) 補體抑制劑（eculizumab / ravulizumab / crovalimab）：強烈建議。C5 抑制劑是大 clone PNH 合併溶血與血栓的標準治療；crovalimab 對東亞族群的 C5 R885H 多型性特別重要；若 C5 抑制後仍有 EVH，進一步考慮近端抑制劑
 (C) 抗凝血劑（LMWH 或 apixaban）：必要且緊急。共筆詳解將此選項標為「不必要」是錯誤的。急性雙側 unprovoked DVT 是抗凝的明確適應症；補體抑制劑作用在血栓形成的上游驅動力，不能取代對已發生血栓的下游抗凝治療；PNH 是持續存在的危險因子，長期抗凝通常是必要的
 (D) 胸部 / 腹部 CT：必要。PNH 好發非典型部位血栓；腹腔血栓（Budd-Chiari、腸繫膜）早期症狀隱匿，一旦進展死亡率高，應主動排除
-(E) MenACWY + MenB 疫苗 + Penicillin VK：必要且不可協商。C5 抑制劑帶來約 1,000 到 2,000 倍的腦膜炎雙球菌感染風險；疫苗必須至少在治療前 2 週接種；緊急情況下可同步開始抗生素預防；即使完整接種，仍需衛教病人發燒即刻就醫
+(E) MenACWY + MenB 疫苗 + Penicillin VK：必要且不可協商。C5 抑制劑帶來約 1,000 到 2,000 倍的腦膜炎雙球菌感染風險；疫苗必須至少在治療前 2 週接種；緊急情況下可同步開始抗生素預防；即使完整接種，仍需衛教病人發燒即刻就醫。
 
 臨床 Take-Home：在 PNH，抗凝與補體抑制是兩件都要做的事，針對的是血栓形成的不同層次；而類固醇是那個「看起來該做、其實完全不該做」的事——它在 AIHA 有效，在 PNH 是錯誤的類比。
 

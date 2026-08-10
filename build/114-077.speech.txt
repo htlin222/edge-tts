@@ -6,7 +6,7 @@
 
 CD10 的意義是「站別」，不是「良惡」。 正常 B 細胞在骨髓內依序經過 pro-B（B-I：CD19+、CD34+、TdT+，CD10 尚未表現或極弱）、common-B（B-II：CD10 強陽性，CD10 即 CALLA）、pre-B（B-III：出現 cytoplasmic μ chain）、到 mature-B（B-IV：surface immunoglobulin 陽性，CD34 TdT 消失）。由此可推出一個常被誤解的關鍵事實：KMT2A（MLL）-rearranged ALL 之所以 CD10 陰性，並非因為它「特別惡性」，而是因為它凍結在 pro-B（B-I）這一站——那一站的正常細胞本來就還沒開始表現 CD10。NCCN 兒童 ALL 指引明確指出，CD10 dim/negative 與 KMT2A、ZNF384、MEF2D 重排相關，而流式細胞術預測模型也證實 t(11q23)/KMT2A 組別呈現「NG2 中等表現、CD10 明顯偏低」的特徵性圖譜。KMT2A-r ALL 的典型表型是 CD19+、CD34+、CD10−、CD24−，並常表現 NG2（CSPG4，7.1 抗原），同時 CD15、CD65 等髓系相關標記共表現的比例偏高。以下這張跨亞型盒鬚圖清楚呈現了 t(11q23) 組別在 CD10 明顯偏低、NG2 相對突出的分布型態：
 
-![](/img/img/252342c2-312a-46ff-a5d9-4066dc7dbd16.jpg)
+（此處原文有一張圖）
 Figure 1: Comparative boxplots of the five groups of patients [t 12 21 易位; t 9 22 易位; t(11q23); t 1 19 易位; and “negative for 1‐4” or “negative for these four major cytogenetic groups”], regarding the antigen expression (%) of selected B‐ALL–related markers: Each antigen expression value is derived from a particular patient with B‐acute lymphoblastic leukemia (n = 377) [Colour figure can be viewed at wileyonlinelibrary.com ]
 
 為什麼會同時穿兩套制服——lineage plasticity 與 CAR-T 時代的新問題。 KMT2A 融合蛋白（如 KMT2A AFF1 AF4、KMT2A MLLT3 AF9）作用在一個尚保有髓系與淋巴系雙向分化潛能的極早期前驅細胞上，這正是此亞型天生帶有髓系標記、且常同時失去 TdT 表現的原因。這種「雙向潛能」在免疫治療時代衍生出臨床上最棘手的問題：lineage switch（系列轉換）。KMT2A-r B-ALL 在接受 CD19 導向治療（blinatumomab、CD19 CAR-T）後，可能整個轉換為 AML 表型而逃脫治療，這與單純的抗原流失（antigen loss，即腫瘤仍是 B 系但失去 CD19）是不同的機轉——lineage switch 是細胞重新編程改走髓系路線，而非僅丟失單一表面抗原。文獻回顧顯示，接受 blinatumomab 後發生的 lineage switch 有高達 64.3% 發生在治療後一個月內，21.4% 在一至三個月，14.3% 在三至六個月；CD19 CAR-T 後的轉換時間點則相對分散，約三分之一發生在三個月以後。發生 lineage switch 後緩解率低、死亡率高，一年存活僅約 13%。臨床實務意涵非常明確：KMT2A-r ALL 患者在 CD19 導向治療後復發時，絕不能假設復發的是同一種病，必須重新完整送檢形態學與免疫表型（包括 MPO、單核球標記），以免誤用原本針對 B-ALL 的策略。
@@ -18,41 +18,41 @@ Note that in ALL, myeloid-associated antigens such as CD13 and CD33 may be expre
 
 一個被時代推翻的預後因子。 在 1980 到 1990 年代的早期研究中，myeloid antigen（CD13 CD33）陽性曾被視為明確的不良預後因子。1991 年 NEJM 一項多變量分析即報告，髓系抗原表現是兒童 ALL 復發最強的預測因子，並與高白血球數共同構成最有力的預後模型，B 系 ALL 中髓系抗原陽性者 40 個月無事件存活僅約 43%，陰性者則達 80%。然而，在現代強效多藥誘導方案與 MRD 導向風險分層之下，這個結論已被大幅修正。近年大型成人世代研究（1005 例）雖仍將 CD13 CD33 表現納入預後模型，但已需結合治療方式（如是否使用 TKI）與白血球數等變項綜合判讀，而非單獨作為不良指標；當代 NCCN 指引更直接指出，髓系標記表現「並不伴隨不良預後」。本題最有力的反證就藏在題目自己給的選項裡：ETV6 RUNX1（TEL-AML1）是預後最好的 B-ALL 亞型之一（St. Jude Total XV XVI 研究中 5 年無事件存活率高達 97.7%），而它恰恰經常表現髓系標記 CD13。ETV6 RUNX1+ ALL 的典型表型是 CD19+、CD10+、CD34+，常伴 CD13 和/或 CD33 的異常表現，CD20 較弱，CD9 常陰性，且 CD27 表現與較高強度的 CD10 是其特徵性組合。如果髓系標記真的「一定」意味著不良預後，預後最好的亞型為何反而經常帶著它？現代的結論是：決定預後的是分子亞型與治療反應（MRD），而不是一兩個表面標記的有無。
 
-亞型
+亞型。
 
-CD10
+CD10。
 
-CD34
+CD34。
 
-特徵性髓系標記
+特徵性髓系標記。
 
-分化站台意涵
+分化站台意涵。
 
-預後意涵
+預後意涵。
 
-KMT2A-rearranged ALL
+KMT2A-rearranged ALL。
 
-陰性/極弱
+陰性/極弱。
 
-陽性
+陽性。
 
-NG2、CD15、CD65
+NG2、CD15、CD65。
 
-凍結於 pro-B（B-I），CD10 本來就還沒開始表現
+凍結於 pro-B（B-I），CD10 本來就還沒開始表現。
 
-需警惕 CD19 導向治療後 lineage switch
+需警惕 CD19 導向治療後 lineage switch。
 
-ETV6 RUNX1+ ALL
+ETV6 RUNX1+ ALL。
 
 陽性（常較強）
 
-陽性
+陽性。
 
 CD13 和/或 CD33（異常表現）
 
-已進入 common-B（B-II）階段
+已進入 common-B（B-II）階段。
 
-預後最好的亞型之一，5年EFS約97.7%
+預後最好的亞型之一，5年EFS約97.7%。
 
 免疫表型的另外兩個現代用途，不只是分類。 診斷時捕捉到的異常標記組合（leukemia-associated immunophenotype, LAIP）正是流式細胞術追蹤 MRD 的基礎；此時「異常表現」的髓系標記反而是有用的指紋，因為它讓白血病細胞更容易與正常再生的 hematogones（正常 B 前驅細胞）區分開來。另一方面，CD19、CD22、CD20 的表現強度與分布直接決定 blinatumomab、inotuzumab、CD19 CD22 CAR-T 是否可用；由於治療本身可能誘發抗原流失或 lineage switch，治療前後重新評估這些標的抗原是必要的常規動作，而非一次性檢驗即可終身適用。
 

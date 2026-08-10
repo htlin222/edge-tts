@@ -6,144 +6,144 @@
 
 本篇以「強烈相關（strongly associated）不等於專一（specific）」為主軸，處理罕見骨髓性腫瘤最常見的考試陷阱與臨床誤區。
 
-一、方法論：home disease 與 diaspora
+一、方法論：home disease 與 diaspora。
 
 罕見骨髓性腫瘤（CNL、aCML、SM、MDS MPN-RS-T）的形態學與血球數表現高度重疊，診斷高度依賴「基因—表型配對」。但幾乎沒有一個驅動突變是疾病專一的——每個基因都有一個「home disease」，即其盛行率最高、且被寫入 WHO ICC 診斷標準的疾病；同時也有一群「diaspora」，即同一突變出現在其他疾病中，臨床意義完全不同。考選擇題只需記住 home，但要避免被陷阱題誤導，就必須知道 diaspora。
 
-二、(E) 的核心：SETBP1 歸位於 aCML，MDS MPN-RS-T 的真正驅動是 SF3B1 ＋ JAK2
+二、(E) 的核心：SETBP1 歸位於 aCML，MDS MPN-RS-T 的真正驅動是 SF3B1 ＋ JAK2。
 
 SETBP1 的 home 是 atypical CML (aCML, BCR ABL1-negative)，盛行率約 24.3%（95% CI 16 到 35%），突變熱點集中在 codon 858 到 871（SKI homologous region）。機轉為 SETBP1 突變（如 G870S）破壞泛素化位點，使 SETBP1 與 SET 蛋白堆積，抑制腫瘤抑制性磷酸酶 PP2A，促進增生；帶突變者白血球數更高、預後更差 。Diaspora 包括 CNL、JMML、secondary AML、CMML，以及 MDS MPN-RS-T（約 10%）。特別值得注意：同一熱點的胚系突變導致 Schinzel-Giedion syndrome（嚴重先天畸形症候群），SETBP1 同時作為 HCF1 KMT2A PHF8 表觀遺傳複合體的招募者，調控神經發育基因——同一位點，體細胞突變致癌、胚系突變致畸 。
 
 反觀 MDS MPN-RS-T 的真正分子基礎是 SF3B1 突變（約 80 到 90%）＋ JAK2 V617F（約 50%，少數為 CALR MPL） 的共存 。SF3B1 負責 ring sideroblast 與貧血這個「MDS 的一半」，JAK2 V617F 負責血小板增多這個「MPN 的一半」——這是 MDS MPN overlap 分類有明確分子基礎、而非含糊分類的教科書範例。臨床上這類疾病預後優於一般 MDS-RS，但劣於 ET；ASXL1 SETBP1 共突變與不良預後相關 。此圖清楚呈現由 clonal hematopoiesis，接著 SF3B1 突變建立初始 clone，接著獲得 JAK2 等訊號突變後轉為 MDS MPN-RS-T 的多步驟演化過程：
 
-![](/img/img/c3fba6ab-f7ab-46af-bc5f-aa4d7483a664.jpg)
-Figure 7: Mechanisms of clonal progression in patients with MDS MPN‐RST
+（此處原文有一張圖）
+Figure 7: Mechanisms of clonal progression in patients with MDS MPN‐RST。
 
 因 SF3B1 陽性，此族群也是 luspatercept 治療反應較佳的亞群 。
 
-三、(A) 的核心：CSF3R 與 CNL——兩種突變型、兩種標靶藥
+三、(A) 的核心：CSF3R 與 CNL——兩種突變型、兩種標靶藥。
 
 CNL 診斷標準已納入 CSF3R 突變，約 80 到 90% 的 WHO 定義 CNL 帶有 CSF3R 突變，其中 T618I 最常見 。兩種型別對應不同下游訊號與藥物敏感性：
 
-CSF3R 突變型別
+CSF3R 突變型別。
 
-代表突變
+代表突變。
 
-下游訊號
+下游訊號。
 
-敏感藥物
+敏感藥物。
 
-參考
+參考。
 
 膜近端（membrane-proximal）
 
-T618I
+T618I。
 
-配體非依賴性二聚化，接著 JAK-STAT 活化
+配體非依賴性二聚化，接著 JAK-STAT 活化。
 
-Ruxolitinib
+Ruxolitinib。
 
 截斷型（truncation/frameshift）
 
-S783fs 等
+S783fs 等。
 
-SRC family kinase／TNK2 訊號
+SRC family kinase／TNK2 訊號。
 
-Dasatinib
+Dasatinib。
 
 此小鼠模型與人體臨床數據清楚呈現此二分法的治療意涵：
 
-![](/img/img/5e3fe906-7f7c-4f0e-a31d-8596d7fb1d63.jpg)
+（此處原文有一張圖）
 Figure 2: Use of Tyrosine Kinase Inhibitors to Treat Dysregulated Signaling Induced by CSF3R Mutations.
 
 Diaspora：約 10% 的 aCML 也帶有 CSF3R 突變，故 CSF3R 陽性不能單獨排除 aCML 。另一經典情境是先天性重度嗜中性球缺乏症病人長期使用 G-CSF 後，若出現 CSF3R 截斷型突變，是白血病轉化前兆，需定期監測。診斷 CNL 前必須先排除反應性嗜中性球增多與 CML，CSF3R 突變的核心價值在於證明其為 clonal 疾病。
 
-四、(C) 的核心：KIT D816V 與 imatinib——恰與 PDGFRA 相反的藥物反應
+四、(C) 的核心：KIT D816V 與 imatinib——恰與 PDGFRA 相反的藥物反應。
 
 超過 90% 的 systemic mastocytosis 帶有 KIT D816V。D816V 位於 activation loop，使受體構型鎖定於活化態，而 imatinib 需結合非活化構型，故對 imatinib 完全無效；僅罕見的 KIT 非 D816V 突變（如 exon 11）或 FIP1L1 PDGFRA 陽性者才對 imatinib 有效——這正是肥大細胞增多合併嗜酸性球增多時務必檢驗 FIP1L1 PDGFRA 的理由。有效藥物為多激酶抑制劑 midostaurin 與專一設計的 D816V 抑制劑 avapritinib，EXPLORER 第一期試驗中整體反應率達 75%，完全緩解率 36%；進展期可考慮 cladribine 或移植。Diaspora：core-binding factor AML（t 8 21 易位、inv(16)）中約 20 到 30% 帶有 KIT 突變，此情境代表預後較差，意義與 SM 完全不同。診斷輔助上，血清 tryptase 持續 > 20 ng/mL 為 minor criterion，但須注意 hereditary alpha-tryptasemia（TPSAB1 複製數增加）亦可造成 tryptase 升高而非腫瘤性疾病。
 
-五、(D) 的核心：JAK2 V617F 其實是專一性最差的那一個
+五、(D) 的核心：JAK2 V617F 其實是專一性最差的那一個。
 
 JAK2 V617F 見於 PV 約 95%、ET 約 50 到 60%、PMF 約 50 到 60%，並非 PV 專一。題目所述「與 PV 高度相關」在此語境下正確，因 PV 盛行率最高且此突變為 PV 診斷 major criterion。真正對 PV 較專一的是 JAK2 exon 12 突變（僅見於約 2 到 5% 的 JAK2 V617F 陰性 PV），表型偏向單純紅血球增多而白血球、血小板不顯著升高，動物模型亦證實此表型差異：
 
-![](/img/img/da29d332-8ccc-4fa2-a0d2-fcfcf1e943c1.jpg)
+（此處原文有一張圖）
 Figure 4: A Myeloproliferative Phenotype, Resulting from Retroviral Expression of K539L Jak2, in a Murine Model of Bone Marrow Transplantation.
 
-六、Home vs Diaspora 總表
+六、Home vs Diaspora 總表。
 
-基因/突變
+基因/突變。
 
-Home disease
+Home disease。
 
-主要 Diaspora
+主要 Diaspora。
 
-參考
+參考。
 
 CSF3R (T618I)
 
-CNL
+CNL。
 
-aCML（約 10%）、SCN 白血病轉化
+aCML（約 10%）、SCN 白血病轉化。
 
-SETBP1
+SETBP1。
 
 aCML（約 24%）
 
-CNL、JMML、CMML、secondary AML、MDS MPN-RS-T；胚系，接著 Schinzel-Giedion
+CNL、JMML、CMML、secondary AML、MDS MPN-RS-T；胚系，接著 Schinzel-Giedion。
 
-SF3B1
+SF3B1。
 
-MDS-RS / MDS MPN-RS-T
+MDS-RS / MDS MPN-RS-T。
 
-其他 MDS 亞型
+其他 MDS 亞型。
 
-JAK2 V617F
+JAK2 V617F。
 
 PV（約 95%）
 
-ET、PMF、MDS MPN-RS-T
+ET、PMF、MDS MPN-RS-T。
 
-JAK2 exon 12
+JAK2 exon 12。
 
 PV（V617F 陰性亞群）
 
-罕見於 PMF
+罕見於 PMF。
 
-KIT D816V
+KIT D816V。
 
 Systemic mastocytosis（>90%）
 
 Core-binding factor AML（不良預後）
 
-PDGFRA PDGFRB FGFR1 PCM1 JAK2
+PDGFRA PDGFRB FGFR1 PCM1 JAK2。
 
-Myeloid/lymphoid neoplasms with eosinophilia
+Myeloid/lymphoid neoplasms with eosinophilia。
 
 （已於他篇詳述，此處從略）
 
-—
+—。
 
-CALR
+CALR。
 
-ET / PMF
+ET / PMF。
 
-罕見於其他 MPN
+罕見於其他 MPN。
 
-—
+—。
 
-MPL
+MPL。
 
-ET / PMF
+ET / PMF。
 
-罕見於 MDS MPN-RS-T
+罕見於 MDS MPN-RS-T。
 
-ASXL1
+ASXL1。
 
-多種骨髓腫瘤的預後修飾基因，非疾病專一
+多種骨髓腫瘤的預後修飾基因，非疾病專一。
 
-CMML、MDS、MPN 進展期
+CMML、MDS、MPN 進展期。
 
-七、逐項評析
+七、逐項評析。
 
 正確：CSF3R 與 CNL 高度相關，且已納入診斷標準。
 正確：PDGFRA PDGFRB FGFR1 PCM1-JAK2 與 imatinib 反應之詳細討論已於他篇完整說明，此處僅點出其為 myeloid/lymphoid neoplasms with eosinophilia 的定義性基因重排。

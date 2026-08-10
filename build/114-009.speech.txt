@@ -19,7 +19,7 @@ Although bone scintigraphy has emerged as a cornerstone of ATTR-CM diagnosis, sc
 
 因此本篇的核心命題是：骨骼掃描不是用來「確認 ATTR」的工具，而是「在已排除單株蛋白之後，確認 ATTR」的工具——那個前置條件才是整個流程的靈魂。 誤把 AL 當成 ATTR，等於讓一位需要「緊急」漿細胞導向化療的病人，改服對其疾病完全無效的 TTR 穩定劑（如 tafamidis），坐視病情惡化；未經治療的 AL 心臟類澱粉，中位存活可能僅數個月。
 
-二、(A) 的核心：類澱粉的共通結構與致病機轉
+二、(A) 的核心：類澱粉的共通結構與致病機轉。
 
 類澱粉的定義是「結構」而非「成分」：任何可溶性前驅蛋白，只要錯誤摺疊聚集成具 cross-beta -sheet 結構的纖維，並沉積於細胞外，就是類澱粉——目前已知超過 40 種前驅蛋白可造成此病理過程。共通的組織學染色是 Congo red 在偏光顯微鏡下呈現 apple-green birefringence。
 
@@ -34,18 +34,18 @@ Immunofixation electrophoresis should be performed on serum and urine specimens 
 
 2026 年一篇系統性回顧與統合分析量化了正確篩檢組合的價值：血清 IFE 敏感度 0.68、尿液 IFE 0.77、兩者合併 0.89、血清游離輕鏈（FLC）比值 0.82；三者（serum IFE + urine IFE + serum FLC ratio）合併使用，敏感度可達 0.99。單靠 SPEP 說「沒有 M protein」是危險的漏診陷阱。另需留意，腎功能不全會使 kappa 、lambda 均上升並改變比值判讀範圍，須採用 renal reference range 校正。
 
-四、(D) 的核心：確認有類澱粉只完成一半——分型才決定治療
+四、(D) 的核心：確認有類澱粉只完成一半——分型才決定治療。
 
 Congo red 陽性只回答「是不是類澱粉」，「是哪一種」才決定治療方向。傳統免疫組織化學（IHC）分型受限於抗體對錯誤摺疊蛋白辨識力有限、血清蛋白滲入造成背景污染，偽陽性、偽陰性比例可觀，甚至有報告顯示 6 到 80% 的個案無法明確分型。
 
 雷射顯微切割（LMD）結合液相層析串聯質譜（LC-MS MS）目前被公認為分型金標準：直接鑑定沉積物中的胺基酸序列，具有極高敏感度與特異度，可在同一次分析中鑑別所有已知類澱粉類型，並偵測 amyloid P component 等訊號蛋白作為「確實為類澱粉」的內部佐證。下圖即為一例：免疫螢光原先誤判為 AL，質譜卻明確鑑定出 ATTR V122I variant，避免了不必要的化療誤用。
 
-![](/img/img/33845d71-0b5e-49a6-97b0-5e505f8bcb48.jpg)
-Figure 7: Mass Spectrometry in an Endomyocardial Biopsy Incorrectly Diagnosed as Light Chain Amyloidosis by Immunofluorescence
+（此處原文有一張圖）
+Figure 7: Mass Spectrometry in an Endomyocardial Biopsy Incorrectly Diagnosed as Light Chain Amyloidosis by Immunofluorescence。
 
 分型錯誤代價巨大：把 ATTR 誤判為 AL，病人承受不必要的化療毒性；把 AL 誤判為 ATTR，則錯失唯一能挽救器官功能的治療窗口。此外，遺傳性 ATTR 仍需 germline 基因定序確認 variant，質譜無法完全取代此步驟。
 
-五、臨床整合：何時該想到 AL，想到之後怎麼走
+五、臨床整合：何時該想到 AL，想到之後怎麼走。
 
 警訊徵候包括：不明原因的 nephrotic-range proteinuria（以白蛋白為主）、HFpEF 合併心電圖低電壓卻左心室肥厚的矛盾、周邊神經病變合併姿勢性低血壓等自律神經失調、macroglossia（特異但敏感度僅約 10 到 20%）、periorbital purpura（「浣熊眼」）、不明原因肝腫大合併 ALP 上升，以及 factor X 缺乏造成的出血。MGUS 或 smoldering myeloma 病人若出現上述任一器官症狀，必須主動篩檢 AL。
 
@@ -53,7 +53,7 @@ Figure 7: Mass Spectrometry in an Endomyocardial Biopsy Incorrectly Diagnosed as
 
 治療上，Mayo staging 以 NT-proBNP、troponin、dFLC 分期，現行一線標準為 daratumumab + CyBorD（bortezomib/cyclophosphamide/dexamethasone）。ANDROMEDA 試驗最終存活分析顯示，D-VCd 相較 VCd 顯著提升血液學完全緩解率（59.5% vs 19.2%）、改善 major organ deterioration-progression-free survival（HR 0.44）與整體存活（HR 0.62）。時間就是器官——AL 心臟侵犯屬內科急症等級疾病。
 
-六、逐項評析
+六、逐項評析。
 
 正確：折疊異常，接著 oligomer，接著 pleated beta -sheet fibril，接著細胞外沉積，是所有類澱粉的共通機轉。
 正確：AL 與 ATTRwt 均屬後天性，是最常見兩型。

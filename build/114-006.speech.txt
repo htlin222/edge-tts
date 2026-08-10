@@ -17,13 +17,13 @@ Bilirubin 2.4 變為 3.5 mg/dL：這是整組數字裡最關鍵的矛盾。LDH �
 要理解這個矛盾，必須先把兩種溶血的生化指紋分開：
 
 IVH：紅血球在血管腔內被 MAC（C5b-9）直接打爆，接著細胞內容物直接釋入血漿，接著 LDH 大幅上升（LDH 來自紅血球細胞質）、游離血紅素上升、haptoglobin 被消耗殆盡
-EVH：紅血球「整顆被吞掉」——被肝脾的巨噬細胞通過 complement receptor（CR1、CR3）辨識 C3b/iC3b 並吞噬，接著血紅素在巨噬細胞內被降解為 bilirubin，接著 LDH 不太上升（細胞破壞在細胞外），但 bilirubin 顯著上升
+EVH：紅血球「整顆被吞掉」——被肝脾的巨噬細胞通過 complement receptor（CR1、CR3）辨識 C3b/iC3b 並吞噬，接著血紅素在巨噬細胞內被降解為 bilirubin，接著 LDH 不太上升（細胞破壞在細胞外），但 bilirubin 顯著上升。
 
 「LDH 反映的是在血管裡爆掉的紅血球；bilirubin 反映的是被吃掉的紅血球。」 這是本章最重要的一句話，也是讀懂整組矛盾數字的核心鑰匙。
 
 以下是補體級聯與兩種溶血機轉的示意圖，清楚呈現 C5 抑制如何在阻止 IVH 的同時，讓 C3 介導的 EVH 浮現：
 
-![](/img/img/c0326b3c-1ee8-4508-8380-2c57b1f08f90.jpg)
+（此處原文有一張圖）
 Figure 1: Role of the Complement Alternative Pathway in Paroxysmal Nocturnal Hemoglobinuria (PNH) and Different Mechanisms of Hemolysis.
 
 二、(B) 的核心：C5 抑制劑如何「製造」了 EVH——一個醫源性的機轉轉換。
@@ -71,7 +71,7 @@ Peffault de Latour 等人（2015）的研究系統性地測量了 22 名 PNH 病
 
 以下圖表來自 COMMODORE 1 試驗，清楚顯示在有效的 C5 抑制下（crovalimab vs eculizumab），CH50 被持續壓制在定量下限以下的監測軌跡：
 
-![](/img/img/4166df57-df23-4764-878f-95168a863499.jpg)
+（此處原文有一張圖）
 Figure 1: Role of the Complement Alternative Pathway in Paroxysmal Nocturnal Hemoglobinuria (PNH) and Different Mechanisms of Hemolysis.
 
 四、(D)(E) 的共同錯誤：「唯一的原因」這四個字。
@@ -84,7 +84,7 @@ Reticulocyte 低確實提示骨髓對溶血的代償不足，骨髓本身可能�
 
 重度缺鐵（本病例最重要的一點！）：本病例 ferritin 5 ng/mL——骨髓沒有足夠的鐵來合成血紅素，縱使感受到溶血的壓力，也無法製造足夠的紅血球。補鐵之後 reticulocyte 可能大幅回升，那時才能看出骨髓的「真實」代償能力
 其他抑制骨髓的因素：B12/葉酸缺乏（已排除）、parvovirus B19 感染（特別感染 BFU-E CFU-E 祖細胞）、腎性貧血（EPO 不足）、慢性發炎
-即使是骨髓衰竭，「唯一處置是 allo-HSCT」也是錯的——PNH 合併 aplastic anemia 可先嘗試 immunosuppressive therapy（IST），移植是在 IST 失敗或有合適捐者的特定情境下才優先考慮的選項
+即使是骨髓衰竭，「唯一處置是 allo-HSCT」也是錯的——PNH 合併 aplastic anemia 可先嘗試 immunosuppressive therapy（IST），移植是在 IST 失敗或有合適捐者的特定情境下才優先考慮的選項。
 
 (E) 的問題——reticulocyte 高 ≠ 唯一原因是 EVH：
 
@@ -96,51 +96,51 @@ Reticulocyte 高確實支持溶血持續，也支持 EVH 的可能；但「唯�
 
 這是本章最有直接臨床使用價值的整理。這些原因可以，而且常常同時並存——本病例就是 EVH 與重度缺鐵的典型合併案例。
 
-原因
+原因。
 
-關鍵鑑別線索
+關鍵鑑別線索。
 
-首選處置方向
+首選處置方向。
 
-References
+References。
 
 C3 介導的 EVH（本例）
 
-DAT C3d+、IgG−；bilirubin 高；reticulocyte 高；LDH 正常或略高；脾腫大
+DAT C3d+、IgG−；bilirubin 高；reticulocyte 高；LDH 正常或略高；脾腫大。
 
-換用或加上近端補體抑制劑
+換用或加上近端補體抑制劑。
 
 Breakthrough hemolysis（PK 型）
 
-LDH 再升有時間規律（靠近給藥前）；CH50 可偵測；free drug 濃度低
+LDH 再升有時間規律（靠近給藥前）；CH50 可偵測；free drug 濃度低。
 
-縮短給藥間隔或加量
+縮短給藥間隔或加量。
 
 Breakthrough hemolysis（PD 型）
 
-有感染/手術/懷孕等誘因；LDH 急性上升；通常自限
+有感染/手術/懷孕等誘因；LDH 急性上升；通常自限。
 
-治療誘因；必要時補給一劑
+治療誘因；必要時補給一劑。
 
 合併骨髓衰竭（AA MDS）
 
-Reticulocyte 低；其他血球線也低；骨髓顯示低細胞或 dysplasia
+Reticulocyte 低；其他血球線也低；骨髓顯示低細胞或 dysplasia。
 
-IST 或（選擇性）allo-HSCT
+IST 或（選擇性）allo-HSCT。
 
 缺鐵（本病例同時存在！）
 
-Ferritin 低；補鐵後 Hgb 上升；MCV 可能下降；RDW 高
+Ferritin 低；補鐵後 Hgb 上升；MCV 可能下降；RDW 高。
 
 補鐵（靜脈優於口服，因 hemoglobinuria 持續造成失鐵）
 
 其他（腎性貧血、出血、藥物、B12/葉酸）
 
-依病史與基礎數值判斷
+依病史與基礎數值判斷。
 
-針對病因治療
+針對病因治療。
 
-—
+—。
 
 六、逐項評析與臨床 Take-Home。
 

@@ -28,5 +28,5 @@ CAR-T流程本身亦有額外貢獻：淋巴球清除化療（lymphodepletion）
 
 臨床要點：新療法的風險最容易被歸咎於它自己，但病人身上的傷痕，往往是前面十年留下的。
 
-![](/img/img/3677c2d0-905a-4f32-9327-3c799c63206b.jpg)
+（此處原文有一張圖）
 Figure: Cumulative Incidence and Prediction Models for Post–Chimeric Antigen Receptor T-Cell Therapy (CART) Myeloid Neoplasm (MN)

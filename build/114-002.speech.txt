@@ -25,7 +25,7 @@ D-dimer 顯著升高（繼發性纖溶）
 
 這正是 ISTH overt DIC scoring system 的基礎。根據 ISTH 評分系統，DIC 的診斷需要四項參數的綜合評估：血小板計數、PT 延長秒數、fibrinogen 濃度、以及 fibrin 相關標誌物（D-dimer）。大於等於 5 分方可診斷 overt DIC；< 5 分則屬 non-overt 或不符合。
 
-回頭看本病例：Platelet 219,000/μL，接著完全正常，接著 ISTH 得 0 分。Fibrinogen 240 mg/dL，接著完全正常，接著 ISTH 得 0 分。PT、aPTT、D-dimer 未提供，但前兩項已正常
+回頭看本病例：Platelet 219,000/μL，接著完全正常，接著 ISTH 得 0 分。Fibrinogen 240 mg/dL，接著完全正常，接著 ISTH 得 0 分。PT、aPTT、D-dimer 未提供，但前兩項已正常。
 
 即使 D-dimer 輕度升高（例如因血栓本身），此病人的 ISTH 分數最多勉強達到 2 分，遠遠不夠診斷 overt DIC。「消耗」從未發生的病人，不可能有 DIC——這是機轉邏輯，而非統計學推論。
 
@@ -39,13 +39,13 @@ Bilirubin 1.4 mg/dL（輕度升高）
 
 紅血球破壞，接著血紅素釋放，接著 heme 開環，接著 biliverdin，接著 unconjugated bilirubin。溶血所產生的 bilirubin 以非結合型（indirect）為主，因為它來自血管內的紅血球破壞，而非肝細胞損傷所致的膽汁淤積。輕度升高雖不特異，但在這個臨床脈絡下已是重要提示。
 
-AST 86 U L 而 ALT 42 U L（AST > ALT）——這是本報告中最常被低估的線索
+AST 86 U L 而 ALT 42 U L（AST > ALT）——這是本報告中最常被低估的線索。
 
 臨床教科書慣性地將 AST ALT 比值用於鑑別肝臟疾病（例如酒精性肝炎的 AST:ALT > 2:1）。但有一個更根本的生化事實常被略過：AST 大量存在於紅血球細胞內，而 ALT 幾乎不存在於紅血球中。 因此，血管內溶血發生時，大量 AST 從破裂的紅血球釋入血流，而 ALT 卻不受影響——這直接造成「AST 不成比例升高、ALT 正常或僅輕微升高」的型態。
 
 當一份報告呈現 AST 升高、ALT 輕升、且無肝病高風險背景時，應該在「肝損傷」之前先想到「溶血」（以及「肌肉損傷」）。 本例 AST 86（約 2.1 倍 ULN）、ALT 42（約 1 倍 ULN），AST ALT ≈ 2，符合這個型態。
 
-這份報告「缺了什麼」——溶血 workup 的骨幹
+這份報告「缺了什麼」——溶血 workup 的骨幹。
 
 目前的數值只是間接提示，要確認溶血需要以下五項：LDH（尤其 LDH-1 LDH-2 同工酶）：紅血球破壞釋放大量 LDH，是敏感但非特異的溶血標誌。Haptoglobin：與游離血紅素結合後被肝臟清除，溶血時下降或測不到。Reticulocyte count：骨髓對溶血的代償反應，溶血性貧血時應升高。Direct antiglobulin test（DAT / Coombs test）：鑑別 immune-mediated 與 non-immune 溶血。Peripheral blood smear：形態學直接觀察（schistocyte、spherocyte、echinocyte 等）
 
@@ -58,7 +58,7 @@ RDW 19.9% 是這份報告中最被低估的數字。 RDW 反映紅血球體積�
 在一個「MCV 正常（90.5 fL）但 RDW 極高（19.9%）」的病人身上，最應該想到的是 dimorphic red cell population（兩種尺寸的紅血球並存）：
 
 一群大細胞：溶血後骨髓代償，大量釋出 reticulocyte（體積大）
-一群小細胞：缺鐵性貧血所產生的小型低色素紅血球
+一群小細胞：缺鐵性貧血所產生的小型低色素紅血球。
 
 這兩群紅血球在計算 MCV 時「互相抵消」，平均值落在正常範圍，但 RDW 因兩極分化而大幅升高。 這是「MCV 正常但兩種病並存」的經典教科書陷阱，也是 RDW 真正的臨床價值所在——它揭示了 MCV 這個「均值」所掩蓋的異質性。
 
@@ -72,35 +72,35 @@ MDS 的典型表現包括：正球性或大球性貧血（MCV 正常至升高）
 
 更重要的是一個「骨髓衰竭疾病譜」的概念：Aplastic anemia（AA）、PNH、MDS 三者在病理生理上是相鄰的，共享「T 細胞介導的骨髓損傷」這個上游機制。 研究顯示，約 15 到 20% 的 AA 病人會在 10 年內進展為繼發性 MDS AML；PNH 病人的 10 年 MDS AML 累積發生率也有約 2 到 6%。反過來，AA 與 MDS 病人身上常可偵測到 PNH clone，這不是巧合，而是共同病理生理機制的體現。
 
-要排除 MDS，必須進行骨髓評估：骨髓抽吸與切片：形態學 dysplasia（三系或單系）、blast 比例、鐵染色尋找 ring sideroblast。細胞遺傳學（cytogenetics / FISH）：5q 缺失、-7/7q 缺失、+8 等。Next-generation sequencing（NGS）panel：SF3B1、TET2、ASXL1、DNMT3A 等驅動突變
+要排除 MDS，必須進行骨髓評估：骨髓抽吸與切片：形態學 dysplasia（三系或單系）、blast 比例、鐵染色尋找 ring sideroblast。細胞遺傳學（cytogenetics / FISH）：5q 缺失、-7/7q 缺失、+8 等。Next-generation sequencing（NGS）panel：SF3B1、TET2、ASXL1、DNMT3A 等驅動突變。
 
 六、把四個選項串起來：PNH 作為統一診斷。
 
 臨床推理的最高標準，是用一個診斷解釋所有異常（Occam's razor）。本病例的統一診斷，是 Paroxysmal Nocturnal Hemoglobinuria（PNH）：
 
-臨床發現
+臨床發現。
 
-PNH 的解釋機轉
+PNH 的解釋機轉。
 
-Unprovoked、雙側、年輕男性的靜脈血栓
+Unprovoked、雙側、年輕男性的靜脈血栓。
 
 PNH 的招牌表現；約 21 到 39% 的 PNH 病人發生靜脈血栓，且好發於非典型部位（Budd-Chiari、門靜脈、腦靜脈竇）
 
-Bilirubin 升高、AST > ALT
+Bilirubin 升高、AST > ALT。
 
-補體介導的血管內溶血，接著 heme 代謝產物，接著 unconjugated bilirubin；溶血釋放 AST
+補體介導的血管內溶血，接著 heme 代謝產物，接著 unconjugated bilirubin；溶血釋放 AST。
 
 RDW 19.9%（高度不均一）
 
-Hemoglobinuria / hemosiderinuria，接著慢性失鐵，接著缺鐵性小細胞 + reticulocyte 大細胞並存，接著 dimorphic population
+Hemoglobinuria / hemosiderinuria，接著慢性失鐵，接著缺鐵性小細胞 + reticulocyte 大細胞並存，接著 dimorphic population。
 
 Platelet 219,000 及 Fibrinogen 240（正常）
 
-不是消耗性凝血病；PNH 的血栓機轉不依賴 DIC
+不是消耗性凝血病；PNH 的血栓機轉不依賴 DIC。
 
 可能合併骨髓衰竭（MDS 未排除）
 
-PNH 與 AA MDS 的骨髓衰竭疾病譜重疊
+PNH 與 AA MDS 的骨髓衰竭疾病譜重疊。
 
 確診工具：Flow cytometry，偵測 GPI-anchored protein（CD55、CD59）的缺失。目前最敏感的方法是 FLAER（fluorescent aerolysin）法，可精確定量 granulocyte 與 monocyte 上的 GPI-deficient clone 大小，是診斷 PNH 的金標準。
 
@@ -111,7 +111,7 @@ PNH 與 AA MDS 的骨髓衰竭疾病譜重疊
 (A) Hemolytic anemia：可能，且有正向證據支持（bilirubin、AST > ALT），但 workup 尚不完整
 (B) Iron deficiency anemia：可能，且機轉上被預期（dimorphic population + RDW 高 + hemosiderinuria）
 (C) DIC：最不可能——「消耗性凝血病」的兩個核心標誌（血小板下降、fibrinogen 下降）均不存在，ISTH 分數幾乎為 0
-(D) MDS：不能排除，需骨髓檢查確認；且與 PNH 存在疾病譜重疊
+(D) MDS：不能排除，需骨髓檢查確認；且與 PNH 存在疾病譜重疊。
 
 臨床 Take-Home： 當一份報告裡有兩個以上系統的異常時，先問「有沒有一個診斷能同時解釋它們」——但在那之前，先用「該有卻沒有的東西」，把核心機轉不符的選項安全地刪掉。
 

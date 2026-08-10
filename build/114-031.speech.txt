@@ -4,19 +4,19 @@
 
 不去搶 ATP 的位子——一個替激酶「裝回煞車」的藥。
 
-一、ABL1 的自我抑制機制：這是整個藥物設計的起點
+一、ABL1 的自我抑制機制：這是整個藥物設計的起點。
 
 正常的 ABL1 有一套精巧的「自鎖」設計。其 N 端第一個 glycine 帶有肉豆蔻醯基（myristoyl group）的轉譯後修飾，這條脂肪酸鏈會折回來，插進激酶區 C-lobe 上的一個疏水口袋（myristoyl pocket），同時促使 SH2、SH3 調節domain 對接到激酶domain背側，形成緊密的「組裝態（assembled state）」。這就像一把鑰匙插回自己的鎖孔，把激酶固定在非活化構型；分子動力學研究進一步顯示，肉豆蔻醯基同時具備「定位（膜錨定）」與「調節（allosteric 抑制）」雙重角色。
 
 BCR ABL1 為何會失控，有其明確的結構學原因。在 t 9 22 易位中，BCR 取代了 ABL1 的第一個外顯子，那個帶有肉豆蔻醯化位點的 N 端被切掉了。結果是 myristoyl pocket 空了出來，沒有東西插進去，自我抑制解除，激酶持續活化。BCR ABL1 的本質，不只是「多了一個致癌融合」，更是「少了一個煞車」——這是理解 asciminib 整個設計邏輯的關鍵前提。
 
-二、Asciminib 的設計邏輯
+二、Asciminib 的設計邏輯。
 
 Asciminib 是 STAMP 抑制劑（Specifically Targeting the ABL Myristoyl Pocket）。它不結合 ATP 口袋，而是直接佔據那個空出來的 myristoyl pocket，binding 後促使 C 端 alpha -I′ helix 結構重組，進而讓 SH3–SH2 domain 重新對接到激酶domain上，等於用一個小分子替代那條被切掉的肉豆蔻醯基，把 BCR ABL1 重新扳回自我抑制的構型。
 
 一句話概括：其他 TKI 是「塞住引擎的進油口」，asciminib 是「把原廠的煞車裝回去」。傳統 TKI 依構型分為 type I（結合活化型）與 type II（結合 DFG-out 非活化型），但兩者都競爭 ATP 口袋；asciminib 則屬於完全獨立的第三類——allosteric（異位）抑制劑。
 
-三、這個設計帶來的三個直接後果
+三、這個設計帶來的三個直接後果。
 
 與 ATP 位點突變無交叉抗藥性：ATP 口袋的突變（如 gatekeeper 突變 T315I）不影響 asciminib 的結合，因此對 T315I 病人仍然有效，但須使用較高劑量（200 mg 每日兩次，而非一般的 80 mg 每日一次）。長期隨訪顯示，T315I 病人以 asciminib 200 mg BID 治療，MMR 率達 53.3%，且首次 MMR 維持 2.8 年的比例約 86%。
 抗藥性地景完全不同：對 asciminib 的抗藥突變出現在 myristoyl pocket 本身（如 A337V T、I502L）或激酶-SH2 界面（F359C I V）、N-lobe（M244V）等；最新的功能基因體學研究更揭示 asciminib 抗藥突變可分布於 SH3、SH2 及激酶domain共 279 種，與 imatinib 抗藥突變幾乎侷限於激酶domain的清單完全不重疊。ASC4FIRST 中新發突變也證實此現象：asciminib 組突變多位於 myristoyl pocket 附近，而 IS-TKI 組多位於 P-loop。
@@ -24,27 +24,27 @@ Asciminib 是 STAMP 抑制劑（Specifically Targeting the ABL Myristoyl Pocket�
 
 以下示意圖說明 asciminib 如何佔據 BCR ABL1 空出的 myristoyl pocket，恢復自我抑制構型：
 
-![](/img/img/bbd1ecdf-33b7-4b1b-95a9-0ebba9bc40a7.jpg)
+（此處原文有一張圖）
 Figure 1: Binding of the Myristoyl Site of the BCR-ABL1 Protein by Asciminib.
 
-四、ASC4FIRST 結果：精確呈現
+四、ASC4FIRST 結果：精確呈現。
 
 試驗設計為新診斷的慢性期 Ph+ CML，隨機分派 asciminib 80 mg QD vs 研究者事先選定的 TKI，並依研究者事先選擇 imatinib 或第二代 TKI 進行分層。本題的關鍵在於兩個主要終點與一個次要比較的區別：
 
 主要終點一（達成）：asciminib vs 全部 IS-TKI 的第 48 週 MMR，67.7% vs 49.0%，差距 18.9 個百分點，adjusted 兩側 P<0.001
 主要終點二（達成）：asciminib vs imatinib 分層，69.3% vs 40.2%，差距 29.6 個百分點，兩側 P<0.001
-對第二代 TKI 分層的比較（未達統計顯著）：66.0% vs 57.8%，差距 8.2 個百分點（95% CI, −5.1 至 21.5），此比較並非試驗預先設計要正式檢定的終點
+對第二代 TKI 分層的比較（未達統計顯著）：66.0% vs 57.8%，差距 8.2 個百分點（95% CI, −5.1 至 21.5），此比較並非試驗預先設計要正式檢定的終點。
 
 選項 (C) 的錯誤正在於此：把「數值上略高」誤讀成「統計上顯著較高」。原始 NEJM 論文明確聲明：直接比較 asciminib 與第二代 TKI 並非主要目的。以下曲線圖呈現三個分層下 MMR 的累積發生率，可清楚看到第二代 TKI 分層的曲線分離幅度明顯小於 imatinib 分層：
 
-![](/img/img/01a6d19c-8943-4577-aab3-7cec18a576af.jpg)
+（此處原文有一張圖）
 Figure 3: Cumulative Incidence of Major Molecular Response and BCR ABL1 Transcript Levels 小於等於 1% on the International Scale (IS).
 
 安全性方面，grade 大於等於 3 AE 發生率為 asciminib 38.0%、imatinib 44.4%、第二代 TKI 54.9%；因 AE 停藥率分別為 4.5%、11.1%、9.8%，asciminib 均低於兩個對照組。2.2 年追蹤的次要分析進一步顯示，第二代 TKI 分層的差異略微擴大（72.0% vs 56.9%，差距 15.1 個百分點，1-sided P<.05），但研究仍聲明此終點並非為正式統計確認而設計，僅提示可能的臨床獲益。
 
 核准狀態方面，asciminib 於 2021 年先以 ASCEMBL 試驗（對比 bosutinib，用於已接受大於等於 2 種 TKI 者）取得加速核准，2022 年基於 96 週 MMR 資料轉為正式核准；2024 年則依 ASC4FIRST 取得新診斷慢性期 CML 的正式適應症。
 
-五、誠實的但書
+五、誠實的但書。
 
 第 48 週的 MMR 是替代終點；CML 真正在意的是長期無事件存活與無治療緩解（treatment-free remission, TFR）的機會，這些都還需要更長的追蹤才能確立asciminib 在此方面的地位。
 
@@ -52,12 +52,12 @@ Asciminib 並非零心血管風險——仍有動脈阻塞事件（arterial occl
 
 臨床定位的誠實結論：對本來就打算用 imatinib 的病人，asciminib 的優勢明確且達統計顯著；對本來就打算用第二代 TKI 的病人，asciminib 的優勢主要在耐受性而非統計上顯著的療效差異——這是一個「同樣有效但更好過」的價值主張，而非「療效碾壓」的主張。
 
-六、逐項評析
+六、逐項評析。
 
 正確：asciminib vs 全部 IS-TKI 的第 48 週 MMR，67.7% vs 49.0%，P<0.001
 正確：asciminib vs imatinib 分層，69.3% vs 40.2%，P<0.001
 (C) 錯誤：asciminib vs 第二代 TKI 分層，66.0% vs 57.8%，95% CI 跨越 0（−5.1 至 21.5），未達統計顯著，且此比較本非正式主要終點
 正確：grade 大於等於 3 AE（38.0% vs 44.4%）及因 AE 停藥（4.5% vs 11.1%）均低於 imatinib
-正確：grade 大於等於 3 AE（38.0% vs 54.9%）及因 AE 停藥（4.5% vs 9.8%）均低於第二代 TKI
+正確：grade 大於等於 3 AE（38.0% vs 54.9%）及因 AE 停藥（4.5% vs 9.8%）均低於第二代 TKI。
 
 臨床要點：當一個致癌激酶是因為失去煞車而失控時，最優雅的解法不是把引擎堵死，而是把煞車還給它。

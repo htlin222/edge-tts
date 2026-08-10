@@ -27,7 +27,7 @@ FVIII 是凝血因子中一個出了名難以表現的蛋白。即便肝細胞�
 
 FVIII 結構中多個 copper-binding domain 的折疊對氧化還原環境極為敏感
 FVIII 依賴特定的分子伴護系統（LMAN1-MCFD2 complex）才能有效離開 ER 進入高爾基氏體
-BDD-FVIII 雖然去除了 B 域，仍保留了導致折疊困難的 heavy chain/light chain 結構
+BDD-FVIII 雖然去除了 B 域，仍保留了導致折疊困難的 heavy chain/light chain 結構。
 
 大量折疊不良的 FVIII 在 ER 滯積，觸發 unfolded protein response（UPR）。持續的 UPR 對肝細胞產生毒性，啟動 IRE1alpha /ATF6 PERK 等路徑，若無法解決，最終導致 ER stress-induced apoptosis 。這等於說：FVIII 的高表現本身就對產生它的細胞帶來傷害，而 FIX 是肝細胞本來就擅長分泌的維生素 K 依賴型蛋白，折疊路徑遠較流暢。
 
@@ -48,7 +48,7 @@ Valoctocogene roxaparvovec（Roctavian, AAV5-BDD-FVIII-SQ）的臨床表現最�
 
 第一年末 FVIII 中位活性達治療巔峰，出血率大幅下降
 第 1 至第 2 年，FVIII 活性即出現顯著衰減，此後繼續下滑
-多年追蹤後，相當比例的患者 FVIII 活性降回重度血友病（<1%）或接近重度水準，需要重啟預防性因子補充治療
+多年追蹤後，相當比例的患者 FVIII 活性降回重度血友病（<1%）或接近重度水準，需要重啟預防性因子補充治療。
 
 相比之下，etranacogene dezaparvovec 的 phase 2b 五年追蹤顯示平均 FIX 活性從第一年的 40.8 IU/dL 到第五年維持於 45.7 IU/dL，五年間幾乎無顯著衰減 ；fidanacogene elaparvovec 三至六年追蹤同樣顯示 FIX 活性持續穩定 。這種 A 型衰減、B 型穩定的不對稱，直接呼應了上述 ER stress 與 Padua variant 帶來的生物學差距。
 
@@ -58,7 +58,7 @@ Valoctocogene roxaparvovec（Roctavian, AAV5-BDD-FVIII-SQ）的臨床表現最�
 
 AAV 載體進入肝細胞後，其 capsid 蛋白片段被呈現於 MHC class I 分子，引發針對已轉導肝細胞的 CD8⁺ cytotoxic T lymphocyte（CTL）反應。這個免疫攻擊是一個「本來就應該發生」的生理性免疫監視機制——問題在於，被攻擊的正是攜帶轉基因的細胞，因此 ALT AST 上升與轉基因表現量下降常常同步發生，臨床上可以將 ALT 趨勢作為細胞毒性 T 細胞攻擊強度的間接指標 。
 
-在 GENEr8-1 試驗中 ：79.1% 的受試者（106/134 人）依照方案接受了 corticosteroid 治療。ALT 升高首次出現的中位時間：輸注後 8.0 週。Corticosteroid 中位治療持續時間：230 天（範圍：22 到 551 天）——超過 7 個月的平均類固醇暴露 - 71.8% 接受類固醇的患者出現類固醇相關副作用，最常見者為 acne、insomnia、Cushing's syndrome、體重增加 - 3 名患者（2.7%）因類固醇出現嚴重不良事件
+在 GENEr8-1 試驗中 ：79.1% 的受試者（106/134 人）依照方案接受了 corticosteroid 治療。ALT 升高首次出現的中位時間：輸注後 8.0 週。Corticosteroid 中位治療持續時間：230 天（範圍：22 到 551 天）——超過 7 個月的平均類固醇暴露 - 71.8% 接受類固醇的患者出現類固醇相關副作用，最常見者為 acne、insomnia、Cushing's syndrome、體重增加 - 3 名患者（2.7%）因類固醇出現嚴重不良事件。
 
 此外，肝臟切片（transjugular biopsy）的病理研究進一步確認，ALT 升高的組織學基礎是急性免疫性肝炎，並伴隨肝細胞平滑 ER 的形態異常——同時呈現免疫攻擊（高 cytotoxic T 細胞活性）與 ER stress（形態異常）的雙重病理 。ALT 監測是接受 AAV 基因治療後追蹤的核心工具，各指引建議在輸注後數週至數月密集監測，一旦 ALT>1.5 倍基線值即考慮啟動 corticosteroid。
 
@@ -70,7 +70,7 @@ ATLAS 系列試驗（ATLAS-A B 與 ATLAS-INH）均一致觀察到肝酵素升高
 
 ATLAS-A B（無 inhibitors 的 A B 型）：fitusiran 組中 15/79 人（19%） ALT 或 AST 超過正常上限 3 倍；均為非嚴重事件，但導致 5 名患者中斷或退出 fitusiran；事件解除中位時間 57 到 106 天
 ATLAS-INH（有 inhibitors）：最常見的 adverse event 即為 ALT 升高，13/41 人（32%） 出現，對照的 bypassing agent 組則為 0
-所有試驗中均未觀察到符合 Hy's Law 標準的事件（ALT AST >3 倍 ULN 合併 bilirubin >2 倍 ULN），提示肝損傷程度以輕中度為主
+所有試驗中均未觀察到符合 Hy's Law 標準的事件（ALT AST >3 倍 ULN 合併 bilirubin >2 倍 ULN），提示肝損傷程度以輕中度為主。
 
 因此，「基因治療與 antithrombin siRNA 都會造成一定程度的肝功能上升」這個敘述是成立的——前者的機轉是 capsid 誘發的 CTL 肝炎，後者的機轉尚未完全釐清（可能與 siRNA 分子本身的肝毒性、脫靶效應或局部 AT 抑制的肝組織影響有關），兩者雖機轉不同，但臨床表現上均需監測肝酵素。
 
@@ -78,7 +78,7 @@ ATLAS-INH（有 inhibitors）：最常見的 adverse event 即為 ALT 升高，1
 
 4-1. 中和抗體排除可觀比例的患者。
 
-Pre-existing anti-AAV neutralizing antibodies（NAbs）是 AAV 基因治療的主要資格門檻。一項大規模多中心橫斷面研究顯示，血友病患者中：AAV2 NAbs 陽性率：53.1%。AAV5 NAbs 陽性率：53.4%。AAV8 NAbs 陽性率：46.9%。至少兩種血清型同時陽性者約 40%，三種全陽性者 38.2%
+Pre-existing anti-AAV neutralizing antibodies（NAbs）是 AAV 基因治療的主要資格門檻。一項大規模多中心橫斷面研究顯示，血友病患者中：AAV2 NAbs 陽性率：53.1%。AAV5 NAbs 陽性率：53.4%。AAV8 NAbs 陽性率：46.9%。至少兩種血清型同時陽性者約 40%，三種全陽性者 38.2%。
 
 世界血友病聯盟（WFH）2025 年基因治療指引明確指出：血友病 A 患者只要 AAV5 NAbs 檢測陽性，目前即不具 valoctocogene roxaparvovec 治療資格 。BENEGENE-2 試驗篩選期間，316 名受試者中有 188 人（59.5%）因 anti-AAV NAbs 陽性而被排除 。這個「抗體關卡」在真實世界中排除了相當大比例的潛在受益族群。
 
@@ -92,7 +92,7 @@ AAV 輸注後，患者會產生效價極高的中和抗體反應。由於目前�
 
 Valoctocogene roxaparvovec（Roctavian）2022 年在歐盟、2023 年在美國核准上市，但商業表現嚴重低於預期。BioMarin 在 2023 到 2024 年間大幅縮減 Roctavian 的商業佈局，包括裁減銷售團隊、退出部分市場，並對 Roctavian 的長期前景作出保守預測。核心原因包括：FVIII 活性衰減的長期數據降低了醫師信心、高昂定價（約 290 萬美元）難以取得保險核准、以及 emicizumab 皮下注射預防性治療的強大競爭 。
 
-相對地，B 型血友病的兩個基因治療產品均已成功上市：Hemgenix（etranacogene dezaparvovec）：2022 年 11 月由 FDA 核准。Beqvez（fidanacogene elaparvovec）：2024 年 3 月由 FDA 核准
+相對地，B 型血友病的兩個基因治療產品均已成功上市：Hemgenix（etranacogene dezaparvovec）：2022 年 11 月由 FDA 核准。Beqvez（fidanacogene elaparvovec）：2024 年 3 月由 FDA 核准。
 
 兩者均有相對穩定的長期追蹤數據支撐，也未出現 Roctavian 式的商業崩解。這個商業敘事，本身就是科學敘事的延伸：B 型的生物學優勢轉化為了臨床優勢，再轉化為市場優勢。
 

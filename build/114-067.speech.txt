@@ -28,35 +28,35 @@ FNHTR 的第一代解釋模型，是免疫學直覺的自然延伸：受血者�
 
 這些 cytokines 溶解在血漿中，隨輸血一起進入受血者體內，無需受血者體內有任何抗體，即可直接作用於下視丘，誘發發燒反應。受血者是被動接受一包「已提前完成發炎反應」的液體。
 
-台灣一項重要的臨床研究（Chang et al., Oncotarget 2018）直接測量了 pre-storage leukocyte-reduced（pre-LR）與 post-storage leukocyte-reduced（post-LR）血品中的 cytokine 濃度，發現：Post-LR 的紅血球中，IL-1beta 、IL-8、RANTES 在儲存期間顯著升高。Post-LR 的血小板（apheresis platelets）中，IL-1beta 、IL-6、IL-8 在儲存期間顯著升高。Pre-LR 血品的 cytokine 累積程度則明顯較低，且對應的 FNHTR 發生率也確實降低
+台灣一項重要的臨床研究（Chang et al., Oncotarget 2018）直接測量了 pre-storage leukocyte-reduced（pre-LR）與 post-storage leukocyte-reduced（post-LR）血品中的 cytokine 濃度，發現：Post-LR 的紅血球中，IL-1beta 、IL-8、RANTES 在儲存期間顯著升高。Post-LR 的血小板（apheresis platelets）中，IL-1beta 、IL-6、IL-8 在儲存期間顯著升高。Pre-LR 血品的 cytokine 累積程度則明顯較低，且對應的 FNHTR 發生率也確實降低。
 
 紅血球 vs. 血小板：一個關鍵的儲存溫度差異。
 
 這兩條機轉的相對重要性，在不同血品間有所不同，核心差異在於儲存溫度：
 
-血品
+血品。
 
-儲存溫度
+儲存溫度。
 
-Cytokine 累積速率
+Cytokine 累積速率。
 
-主導機轉
+主導機轉。
 
 Red blood cells（RBCs）
 
 1 到 6°C（冷藏）
 
-相對較慢
+相對較慢。
 
-兩條機轉並存；抗體機轉較重要
+兩條機轉並存；抗體機轉較重要。
 
-Apheresis platelets
+Apheresis platelets。
 
 20 到 24°C（室溫，需搖晃）
 
-顯著較快
+顯著較快。
 
-Cytokine 機轉更主導
+Cytokine 機轉更主導。
 
 血小板在室溫儲存，白血球代謝活性高，cytokine 釋放速率遠高於冷藏的紅血球。這也解釋了為何血小板輸注的 FNHTR 發生率，在未行 pre-storage leukoreduction 的時代顯著高於紅血球輸注。同時，這也為 FNHTR 的預防策略，提供了最關鍵的機轉邏輯。
 
@@ -78,7 +78,7 @@ Chang et al.（2018）的臨床數據直接驗證了這個邏輯：pre-LR 血品
 
 標準與政策。
 
-Pre-storage leukoreduction 的白血球殘留標準，各地略有差異：美國（AABB 標準）：每單位殘留白血球 < 5 × 10⁶。歐洲標準（更嚴格）：每單位殘留白血球 < 1 × 10⁶
+Pre-storage leukoreduction 的白血球殘留標準，各地略有差異：美國（AABB 標準）：每單位殘留白血球 < 5 × 10⁶。歐洲標準（更嚴格）：每單位殘留白血球 < 1 × 10⁶。
 
 實施 universal leukoreduction 政策（全面性對所有血品進行 pre-storage leukoreduction）的國家和地區，已記錄到 FNHTR 發生率的顯著下降。在血小板輸注方面，加上 platelet additive solution（PAS）的使用，可進一步將反應率從約 0.5% 降至 0.17%（Lancet 2016，grade 1B）。
 
@@ -100,7 +100,7 @@ Leukoreduction「做不到」的事。
 「輸血前先給 acetaminophen（退燒止痛）和 diphenhydramine（抗組織胺）」，在許多醫院是根深蒂固的常規，尤其針對有輸血反應史或高風險患者。這個做法直覺上無比合理：
 
 Acetaminophen，接著阻斷 prostaglandin 合成，接著預防發燒
-Diphenhydramine，接著阻斷 H₁ receptor，接著預防過敏/蕁麻疹
+Diphenhydramine，接著阻斷 H₁ receptor，接著預防過敏/蕁麻疹。
 
 然而，直覺合理的東西，在隨機對照試驗（randomized controlled trial, RCT）面前，往往需要重新接受審視。
 
@@ -108,7 +108,7 @@ Diphenhydramine，接著阻斷 H₁ receptor，接著預防過敏/蕁麻疹
 
 Kennedy et al.（Transfusion, 2008）是目前最常引用的 RCT 之一。這項前瞻性、隨機、雙盲、安慰劑對照試驗，納入 315 名血液腫瘤科（leukemia、BMT）患者，所有血品均使用白血球過濾器（bedside leukofilter）。結果顯示：acetaminophen + diphenhydramine 預投藥組與安慰劑組相比，整體輸血反應發生率無顯著差異。
 
-Ning et al.（Transfusion, 2019）進行的系統性回顧與 meta-analysis，彙整了三項符合納入標準的 RCT（共 517 名患者、4444 次輸血），結果如下：整體非溶血性輸血反應：RR 0.92（95% CI 0.63 到 1.35），接著無統計顯著性。FNHTR 特異性：RR 0.54（95% CI 0.26 到 1.1），接著趨勢有限，信賴區間跨越 1。輕微過敏反應：RR 1.37（95% CI 0.81 到 2.31），接著無效益，甚至有微升趨勢
+Ning et al.（Transfusion, 2019）進行的系統性回顧與 meta-analysis，彙整了三項符合納入標準的 RCT（共 517 名患者、4444 次輸血），結果如下：整體非溶血性輸血反應：RR 0.92（95% CI 0.63 到 1.35），接著無統計顯著性。FNHTR 特異性：RR 0.54（95% CI 0.26 到 1.1），接著趨勢有限，信賴區間跨越 1。輕微過敏反應：RR 1.37（95% CI 0.81 到 2.31），接著無效益，甚至有微升趨勢。
 
 結論一致且明確：routine premedication 對預防非溶血性輸血反應無效。
 
@@ -127,7 +127,7 @@ Acute hemolytic transfusion reaction（急性溶血性輸血反應, AHTR）：�
 
 Diphenhydramine 的鎮靜作用，可能遮蔽早期預警徵象。
 
-Diphenhydramine 具有明顯的中樞神經鎮靜效果，可能：掩蓋患者對呼吸困難、胸悶（TRALI 或嚴重過敏反應的早期症狀）的主觀察覺與表達。影響患者意識狀態的評估，使輸血護理人員難以判斷意識改變是藥物效果還是病情惡化
+Diphenhydramine 具有明顯的中樞神經鎮靜效果，可能：掩蓋患者對呼吸困難、胸悶（TRALI 或嚴重過敏反應的早期症狀）的主觀察覺與表達。影響患者意識狀態的評估，使輸血護理人員難以判斷意識改變是藥物效果還是病情惡化。
 
 一項來自 Vanderbilt 大學的回顧性研究（Christensen et al., Transfusion, 2019）分析了 948 名急性骨髓性白血病（AML）患者於 9 年間的 19,820 次輸血，發現：30% 的輸血前投予了口服 diphenhydramine，39% 投予了口服 acetaminophen，而且隨時間呈上升趨勢——即便在 RCT 已反覆顯示無效的情況下，premedication 的使用率不降反升。
 
@@ -150,7 +150,7 @@ FNHTR 是一個排除性診斷（diagnosis of exclusion）。這四個字的臨�
 回報血庫，並保留血袋與輸血管路
 評估生命徵象：血壓、呼吸、心跳、SpO₂
 抽血進行基本實驗室評估：direct antiglobulin test（DAT）、plasma hemoglobin（檢視有無溶血）、blood culture（受血者與血袋殘液）
-排除：急性溶血反應、敗血性輸血反應、TRALI、嚴重過敏反應
+排除：急性溶血反應、敗血性輸血反應、TRALI、嚴重過敏反應。
 
 只有在上述評估均為陰性、且無其他原因可解釋發燒的情況下，才能回溯性地診斷 FNHTR。
 
@@ -196,7 +196,7 @@ FNHTR 是一個排除性診斷（diagnosis of exclusion）。這四個字的臨�
 
 Kennedy et al.（2008）：315 名血液腫瘤患者，雙盲 RCT，整體反應率無顯著差異
 Ning et al.（2019）：meta-analysis，RR 0.92（95% CI 0.63 到 1.35），無統計顯著性
-Cochrane review（Martí-Carvajal et al., 2010）：結論一致支持無效
+Cochrane review（Martí-Carvajal et al., 2010）：結論一致支持無效。
 
 AABB 與 Lancet（2016）明確建議：不應對一般患者常規使用 premedication（grade 1A）。
 
@@ -229,4 +229,4 @@ FNHTR 在輸血反應的嚴重性排行中，確實不是最頂端的那個。�
 
 Premedication 部分：Kennedy et al.（Transfusion, 2008）的雙盲 RCT 是最常引用的核心試驗 ；Ning et al.（Transfusion, 2019）的 meta-analysis 是目前最全面的 pooled estimate，RR 0.92，CI 跨越 1，結論明確無效 ；Cochrane review（Martí-Carvajal et al., 2010）同樣支持此結論 ；Christensen et al.（Transfusion, 2019）則從衛生經濟學與知識-行為落差的角度，揭示了無效 premedication 仍被廣泛使用的現況 。
 
-重要臨床注意點：Premedication 的問題不僅是「無效」，而是 acetaminophen 遮蔽發燒訊號，可能延誤辨識 septic transfusion reaction（血小板污染率最高）與 acute hemolytic transfusion reaction 的時機。Leukoreduction 不能取代輻射照射預防 TA-GVHD，兩者機轉完全不同。Universal leukoreduction 的附加效益（CMV-safe、降低 HLA alloimmunization）對長期輸血依賴的血液腫瘤患者，具有重要的長遠臨床意義
+重要臨床注意點：Premedication 的問題不僅是「無效」，而是 acetaminophen 遮蔽發燒訊號，可能延誤辨識 septic transfusion reaction（血小板污染率最高）與 acute hemolytic transfusion reaction 的時機。Leukoreduction 不能取代輻射照射預防 TA-GVHD，兩者機轉完全不同。Universal leukoreduction 的附加效益（CMV-safe、降低 HLA alloimmunization）對長期輸血依賴的血液腫瘤患者，具有重要的長遠臨床意義。

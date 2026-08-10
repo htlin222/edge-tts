@@ -6,9 +6,9 @@ ELN 2022 的修訂史：把「量不準」的變數請出風險分層表。
 
 ELN 2017 到 2022 的改動，表面上看是幾個基因規則的增刪，但背後其實是同一件事：風險分層表要能被全世界不同實驗室、不同治療年代一致地重複使用，就必須把「測不準」與「治療背景已改變意義」的變數請出去。以下依修訂史的邏輯逐一展開。
 
-主軸一：三次刪除，一個共同理由
+主軸一：三次刪除，一個共同理由。
 
-第1點，FLT3-ITD allelic ratio 的整個廢除
+第1點，FLT3-ITD allelic ratio 的整個廢除。
 
 ELN 2017 曾以 allelic ratio 0.5 為界，把 FLT3-ITD 分成 low/high 兩組，並與 NPM1 狀態交叉組合成四格風險。ELN 2022 完全取消這個切點：只要偵測到 FLT3-ITD,無論比值高低、無論 NPM1 是否共病，若無 adverse 細胞遺傳學，一律歸為 intermediate。
 
@@ -20,13 +20,13 @@ ELN 2017 曾以 allelic ratio 0.5 為界，把 FLT3-ITD 分成 low/high 兩組�
 
 因此 ELN 2022 直接改以 bZIP in-frame 突變定義favorable CEBPA,單等位基因的 bZIP in-frame 突變同樣算 favorable,不再要求 biallelic。
 
-第3點，KIT 突變在 CBF-AML 中的降級註記被移除
+第3點，KIT 突變在 CBF-AML 中的降級註記被移除。
 
 ELN 2017 曾註記 KIT 突變可能使 core-binding factor AML(t 8 21 易位/RUNX1 RUNX1T1 與 inv(16)/t 16 16 易位/CBFB MYH11)的預後變差。ELN 2022 移除此註記，理由是證據不足，且在現代治療(尤其加入 gemtuzumab ozogamicin 後)其預後意義並不明確。因此 t 8 21 易位合併 KIT 突變仍屬 favorable。
 
 共同邏輯：這三條被刪掉的但書，共同特徵是「在不同實驗室、不同治療背景下無法穩定重現」。分層表要能被全世界一致使用，就必須先把量不準的變數請出去。
 
-主軸二：唯一的新增，是一個數字而非一個基因——TP53 VAF 大於等於 10%
+主軸二：唯一的新增，是一個數字而非一個基因——TP53 VAF 大於等於 10%。
 
 ELN 2022 為 TP53 突變設下一道門檻:variant allele fraction 大於等於 10% 才計入 adverse risk。這個門檻的目的不是描述腫瘤生物學，而是把 clonal hematopoiesis 的雜訊擋在門外——低 VAF 的 TP53 突變可能只是來自非白血病的克隆造血細胞，而非白血病本身的驅動事件。這是整張分層表中唯一一條「為了排除非白血病細胞」而存在的規則。
 
@@ -38,75 +38,75 @@ NPM1 突變的 favorable 身分有兩個前提:(a) 沒有 FLT3-ITD、(b) 沒有 
 
 這條階層規則在 ELN 2017 與 2022 兩版中皆存在，從未改變——它不是新規則，而是分層表的底層邏輯。t 6 9 易位/DEK NUP214 從來不是 core-binding factor 易位:CBF 專指 t 8 21 易位/RUNX1 RUNX1T1 與 inv(16)/t 16 16 易位/CBFB MYH11。t 6 9 易位在兩版中都明列為 adverse。
 
-主軸四：對 2017 版使用者的完美陷阱
+主軸四：對 2017 版使用者的完美陷阱。
 
 ELN 2017:wild-type NPM1 + high allelic ratio FLT3-ITD = adverse。 ELN 2022:同一病人(若無 adverse 細胞遺傳學)= intermediate。
 
 方向完全反轉。若沿用 2017 版的記憶作答，會把這句「在 2022 版下正確」的敘述誤判為錯誤——這正是許多中文詳解在此題上出錯的根源。
 
-主軸五：風險分層是「治療特異」的，不是病人本質的
+主軸五：風險分層是「治療特異」的，不是病人本質的。
 
 ELN 2022 的分層是從接受高強度化療(intensive chemotherapy)族群推導出來的，指引本身及後續文獻均指出，其在接受 HMA + venetoclax 等非高強度治療病人中的預後表現有限。基於 VIALE-A 及其前身 phase Ib 試驗，已發展出針對非高強度治療族群的 4-gene 分類：無 TP53、FLT3-ITD、NRAS、KRAS 者屬 favorable;帶有 FLT3-ITD NRAS KRAS(但無 TP53)屬 intermediate;帶有 TP53 突變者屬最差預後組，三組中位存活分別為 26.5、12.1、5.5 個月。由此衍生出的 ELN2024 非高強度治療專屬分層，已在外部驗證世代中證實其分辨力優於既有的 Mayo 評分。
 
 這說明同一個病人在兩張表上會落在不同的格子裡——風險分層描述的不是「病人本質有多壞」，而是「這個治療對這個病人有多可能失敗」。
 
-主軸六:MRD 可以覆寫初始分層
+主軸六:MRD 可以覆寫初始分層。
 
 ELN 2022 明確指出，初始的基因體風險分層可被治療後的 MRD 狀態覆寫。基因是出廠設定,MRD 是實際路況——與其糾結一個測不準的 allelic ratio,不如看治療後實際的殘存疾病，這也正是官方廢除 allelic ratio 時援引的理由之一。
 
-主軸七：逐項評析與常見錯誤詳解糾正
+主軸七：逐項評析與常見錯誤詳解糾正。
 
-選項
+選項。
 
-敘述
+敘述。
 
-ELN 2022 下對錯
+ELN 2022 下對錯。
 
-理由
+理由。
 
-參考
+參考。
 
 (A)
 
-bZIP in-frame CEBPA，接著 favorable
+bZIP in-frame CEBPA，接著 favorable。
 
-正確
+正確。
 
-2022 版已改以 bZIP in-frame 定義，不再要求 biallelic
+2022 版已改以 bZIP in-frame 定義，不再要求 biallelic。
 
 (B)
 
-WT NPM1 + high AR FLT3-ITD(無 adverse 細胞遺傳學)，接著 intermediate
+WT NPM1 + high AR FLT3-ITD(無 adverse 細胞遺傳學)，接著 intermediate。
 
-正確
+正確。
 
-allelic ratio 已廢除，一律歸 intermediate,方向與 2017 版相反
+allelic ratio 已廢除，一律歸 intermediate,方向與 2017 版相反。
 
 (C)
 
-單等位基因 TP53、VAF 15%，接著 adverse
+單等位基因 TP53、VAF 15%，接著 adverse。
 
-正確
+正確。
 
-已跨過 VAF 大於等於 10% 門檻，不要求 multi-hit
+已跨過 VAF 大於等於 10% 門檻，不要求 multi-hit。
 
 (D)
 
-NPM1 突變 + t 6 9 易位/DEK NUP214，接著 intermediate
+NPM1 突變 + t 6 9 易位/DEK NUP214，接著 intermediate。
 
-錯誤
+錯誤。
 
-adverse 細胞遺傳學覆寫 NPM1 的 favorable 身分，應為 adverse;t 6 9 易位從未屬 CBF
+adverse 細胞遺傳學覆寫 NPM1 的 favorable 身分，應為 adverse;t 6 9 易位從未屬 CBF。
 
 (E)
 
-t 8 21 易位/RUNX1 RUNX1T1 + KIT 突變，接著 favorable
+t 8 21 易位/RUNX1 RUNX1T1 + KIT 突變，接著 favorable。
 
-正確
+正確。
 
-KIT 降級註記已於 2022 版移除
+KIT 降級註記已於 2022 版移除。
 
-—
+—。
 
 (D) 是唯一錯誤選項，官方答案亦為 (D)。
 

@@ -4,7 +4,7 @@
 
 CML 這個病名底下，其實藏著三層完全不同的臨床問題：診斷工具看到的世界不一樣、兒童病人不是縮小版的成人病人、而驅動基因也不是只有 BCR ABL1 一個。把這三條線分開理解，才能解釋為什麼同一個「CML」的病人之間，預後與處置可以差異巨大。
 
-主軸一:karyotype、FISH、RT-PCR——三個互補而非互相取代的視野
+主軸一:karyotype、FISH、RT-PCR——三個互補而非互相取代的視野。
 
 Conventional karyotype 是唯一能看見 additional chromosomal abnormalities（ACAs）的工具。臨床上最重要的是 major route ACAs——+8、額外的 Ph（double Ph）、i(17q)、+19,以及 3q26.2 重排與 -7。這些異常被視為疾病加速/進展的警示訊號，部分（如 i(17)(q10)、3q26.2 重排、-7/7q 缺失）已被歸類為高風險核型，在 ELN 建議中列為診斷時的「warning」訊號，需要密切追蹤。其中 3q26.2 重排（涉及 MECOM EVI1）尤其值得注意：研究顯示帶有此重排的病人對 TKI 反應差，幾乎沒有病人能達到長期穩定的細胞遺傳學或分子反應，整體存活也明顯較差，其預後意義甚至凌駕於是否合併其他染色體異常之上。在急變期的細胞遺傳學圖譜研究中，+8、額外 Ph、3q26.2 重排、-7 與 i(17q) 也被確認為 major-route 變化，且 3q26.2 重排的出現與 ABL1 突變（TKI 抗藥性）密切相關。
 
@@ -28,7 +28,7 @@ RT-PCR 則是唯一能確定 transcript type 的方法。臨床上最常見的�
 
 移植的角色在兒童與成人 CML 中也有差異：過去 allogeneic HSCT 是 2000 年前的標準治療，但隨 TKI 時代來臨，現行做法已將 HSCT 限縮為僅適用於呈現或進展為急變期的病人族群，慢性期病人以 TKI 單一治療為主流，這與成人的處置原則基本一致，但兒童因終身用藥的考量，對於何時應轉向移植的權衡會更謹慎。
 
-主軸三:BCR ABL1 不是故事的全部——共突變如何影響 TKI 反應
+主軸三:BCR ABL1 不是故事的全部——共突變如何影響 TKI 反應。
 
 CML 長期被視為單一驅動基因疾病的典範，但次世代定序（NGS）技術顯示，不少病人在診斷時就已合併其他基因突變(co-mutations)。其中 ASXL1 是 CML 中最常見的共突變，並與較差的 TKI 反應、較低的 MMR DMR 達成率，以及較高的疾病進展風險相關——這與選項 (3) 所述「ASXL1 突變與良好的 TKI 反應相關」方向完全相反。其他與不良預後相關的共突變包括 RUNX1、IKZF1、TP53、KMT2A 部分串聯重複（PTD）等，這些突變在急變期病人中顯著富集，反映其在疾病進展與克隆演化中的角色。
 
@@ -41,5 +41,5 @@ CML 長期被視為單一驅動基因疾病的典範，但次世代定序（NGS�
 (3) 錯在方向完全相反——ASXL1 突變與不良的 TKI 治療反應、較低的分子反應深度及較高的疾病進展風險相關，而非「良好」反應。
 (4) 正確——兒童 CML 接受一線 imatinib 治療，分子反應（MMR、MR4、MR4.5 等)明顯較成人慢，但長期（10 年)無病存活與整體存活與成人相當。
 
-![](/img/img/24a9c66a-c8b5-4ab3-8421-57cec3f75b47.jpg)
+（此處原文有一張圖）
 Figure 2: A, Treatments and outcomes of 24 patients with ACAs. B, Treatments and outcomes of 13 patients with KD mutations. The horizontal line indicates the treatment time. The left and right vertical lines represent the case number and outcome, respectively. The black and blue inverted triangles indicate the time when ACAs and KD mutations emerge, respectively. Hu+IFN denotes hydroxyurea and interferon alpha; IM, imatinib; D, dasatinib; N, nilotinib; TA, doxorubicin and cytarabine; CPT+E, hydroxycamptothecin and etoposide; NR, not remission; CP, chronic phase; AP, accelerated phase; BP, blast phase; CMR, complete molecular response; MMR, main molecular response; PCyR, partial cytogenetic remission; CCyR, complete cytogenetic remission; ALL, acute lymphocytic leukaemia; AML‐M2, acute myelogenous leukaemia with maturation; AML‐M4, acute myelomonocytic leukaemia; AML‐M5, acute monocytic leukaemia; AML‐M6, erythroleukaemia; MAL, mixed lineage acute leukaemia; and CNSL, central nervous system leukaemia (using GraphPad Prism 5 graphics program)

@@ -2,7 +2,7 @@
 
 一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMC…。
 
-有脈絡的綜論：一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMCD-NOS
+有脈絡的綜論：一個縮寫裡藏著兩個幾乎相反的疾病:iMCD-TAFRO 與 iMCD-NOS。
 
 一個縮寫裡藏著兩個幾乎相反的疾病：iMCD-TAFRO 與 iMCD-NOS。
 
@@ -10,7 +10,7 @@
 
 所有混淆幾乎都源於分類層次沒釐清。第一層依侵犯範圍分為unicentric Castleman disease (UCD)（單一淋巴結區域腫大）與multicentric Castleman disease (MCD)（多處淋巴結區域腫大）。
 
-第二層，MCD 依病因分三類：HHV-8-associated MCD：常見於 HIV 感染或其他免疫低下族群，由 uncontrolled HHV-8 感染驅動，約占 MCD 的一半。POEMS-associated MCD：由 plasma cell neoplasm 過度分泌細胞激素所驅動。idiopathic MCD (iMCD)：HHV-8 陰性，且排除其他可解釋病因後的診斷
+第二層，MCD 依病因分三類：HHV-8-associated MCD：常見於 HIV 感染或其他免疫低下族群，由 uncontrolled HHV-8 感染驅動，約占 MCD 的一半。POEMS-associated MCD：由 plasma cell neoplasm 過度分泌細胞激素所驅動。idiopathic MCD (iMCD)：HHV-8 陰性，且排除其他可解釋病因後的診斷。
 
 第三層，iMCD 再依臨床表現分為兩至三個亞型：iMCD-TAFRO、iMCD-idiopathic plasmacytic lymphadenopathy (IPL)，以及不符合前兩者標準的iMCD-NOS (not otherwise specified)。組織病理上則有三種型態：hyaline vascular（HV，多見於 UCD）、plasmacytic（PC）、mixed。
 
@@ -22,43 +22,43 @@ iMCD-TAFRO 的縮寫代表：T = Thrombocytopenia（血小板「低下」）。A
 
 iMCD-NOS（及重疊的 IPL）則相反：血小板增多（thrombocytosis）、顯著的多株性高丙種球蛋白血症、明顯淋巴結腫大、病程相對慢性/惰性，較符合典型「IL-6 驅動」表現。
 
-特徵
+特徵。
 
-iMCD-TAFRO
+iMCD-TAFRO。
 
-iMCD-NOS
+iMCD-NOS。
 
-血小板
+血小板。
 
 低下（thrombocytopenia）
 
 增多（thrombocytosis）
 
-免疫球蛋白
+免疫球蛋白。
 
-正常或偏低
+正常或偏低。
 
-顯著高丙種球蛋白血症
+顯著高丙種球蛋白血症。
 
-淋巴結腫大
+淋巴結腫大。
 
-常不明顯，易漏診
+常不明顯，易漏診。
 
-明顯
+明顯。
 
-病程
+病程。
 
-猛爆性、常需 ICU
+猛爆性、常需 ICU。
 
-相對緩和
+相對緩和。
 
-對抗 IL-6 治療反應
+對抗 IL-6 治療反應。
 
-較差，常需高劑量類固醇 ± cyclosporine/sirolimus
+較差，常需高劑量類固醇 ± cyclosporine/sirolimus。
 
-較好
+較好。
 
-參考文獻
+參考文獻。
 
 兩個亞型在「血小板」與「免疫球蛋白」這兩項上剛好呈相反方向——這正是選項 (D) 把 thrombocytosis 誤植到 TAFRO 的核心錯誤所在。
 
@@ -74,7 +74,7 @@ iMCD-NOS
 
 CDCN 2017 國際共識診斷準則要求：兩項 major criteria（①特徵性淋巴結組織病理；②至少兩處淋巴結腫大），加上 11 項 minor criteria 中至少 2 項（其中至少 1 項須為實驗室異常），並排除可能造成類似表現的感染性、惡性、自體免疫疾病。Minor criteria 涵蓋 CRP ESR 升高、貧血、血小板低下或增多、低白蛋白血症、腎功能異常或蛋白尿、多株性高丙種球蛋白血症、體質性症狀、肝脾腫大、積液/水腫、cherry hemangiomatosis 或紫色丘疹、lymphocytic interstitial pneumonitis。
 
-必須排除的疾病包括：感染：HHV-8、HIV、EBV、結核。自體免疫：SLE、rheumatoid arthritis、adult-onset Still disease、IgG4-related disease。惡性：lymphoma（尤其 Hodgkin lymphoma 與 angioimmunoblastic T-cell lymphoma）、POEMS syndrome、multiple myeloma、濾泡樹突細胞肉瘤
+必須排除的疾病包括：感染：HHV-8、HIV、EBV、結核。自體免疫：SLE、rheumatoid arthritis、adult-onset Still disease、IgG4-related disease。惡性：lymphoma（尤其 Hodgkin lymphoma 與 angioimmunoblastic T-cell lymphoma）、POEMS syndrome、multiple myeloma、濾泡樹突細胞肉瘤。
 
 實務關鍵：「Castleman-like」的淋巴結組織學變化可出現在上述任一疾病中，因此病理報告寫出 Castleman disease 不等於診斷成立，必須結合臨床表現、實驗室數值與完整排除流程。
 

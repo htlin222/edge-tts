@@ -19,7 +19,7 @@ Reticulocyte 6.2%，看起來似乎升高了。然而百分比會受到分母（
 代償不足的原因，這個病例提供了兩個高度可信的解釋：
 
 ① 重度缺鐵（ferritin 5 ng/mL）：骨髓缺乏製造紅血球的原料，即使想大量代償也力有未逮
-② 可能合併骨髓衰竭（bone marrow failure）：PNH 常與 aplastic anemia 或 MDS 重疊；骨髓造血的儲備能力本身就不足
+② 可能合併骨髓衰竭（bone marrow failure）：PNH 常與 aplastic anemia 或 MDS 重疊；骨髓造血的儲備能力本身就不足。
 
 這正是選項 (A) Bone marrow biopsy 在診斷上不可跳過的理由。
 
@@ -34,7 +34,7 @@ PNH：「細胞失去盾牌」（cell-intrinsic defect）
 PNH 的根源是後天的體細胞 PIGA 突變，發生在 X 染色體上，起源於單一造血幹細胞（HSC）。PIGA 編碼 GPI anchor 合成的關鍵酵素；一旦失能，所有靠 GPI 錨定在細胞膜上的蛋白質全部消失。其中對溶血最關鍵的兩個，恰好都是補體調節蛋白：
 
 CD55（decay-accelerating factor, DAF）：抑制 C3 convertase（C3bBb）的組裝與活性
-CD59（membrane inhibitor of reactive lysis, MIRL）：阻止 membrane attack complex（MAC，C5b-9）插入細胞膜
+CD59（membrane inhibitor of reactive lysis, MIRL）：阻止 membrane attack complex（MAC，C5b-9）插入細胞膜。
 
 最關鍵的概念是：PNH 病人的補體系統本身完全正常。 補體替代路徑正常啟動、正常放大、正常產生 MAC——問題出在 PNH 紅血球的細胞表面少了這兩把「防護傘」，導致正常補體的攻擊無法被阻擋。
 
@@ -46,8 +46,8 @@ aHUS 的臨床三聯徵是：MAHA（schistocyte 陽性）＋ 血小板低下 ＋
 
 以下這張圖清楚展示了 TTP、典型 HUS 與 aHUS 三者共同的最終通路，但各自的上游機轉完全不同：
 
-![](/img/img/146b394a-8bca-4625-a894-9d29ffac1af4.jpg)
-Figure 1: Illustration of the pathogenesis of TTP, typical HUS and atypical HUS
+（此處原文有一張圖）
+Figure 1: Illustration of the pathogenesis of TTP, typical HUS and atypical HUS。
 
 一個有助於記憶的對比句：「PNH 是士兵沒穿盔甲，aHUS 是火砲沒有安全鎖」——盔甲是細胞自備的，安全鎖是武器本身的零件。因此，去驗補體基因（CFH CFI），是在檢查「武器有沒有安全鎖」——對一個「武器本身正常但士兵沒穿盔甲」的疾病，這個檢查南轅北轍。
 
@@ -58,7 +58,7 @@ Figure 1: Illustration of the pathogenesis of TTP, typical HUS and atypical HUS
 因此，CFH 基因檢測的定位應清楚區分：
 
 診斷用途：無助於確診 PNH，不應列入初步 workup
-研究 / 治療反應預測用途：在治療效果不佳（transfusion-dependent despite eculizumab）的情況下，可考慮作為輔助評估工具
+研究 / 治療反應預測用途：在治療效果不佳（transfusion-dependent despite eculizumab）的情況下，可考慮作為輔助評估工具。
 
 在本病例此刻的臨床脈絡下，CFH CFI 的 NGS 是「不必要」的，因為它既非診斷 PNH 所需，也非立即改變臨床決策所需。選項 (D) 是正確答案。
 
@@ -66,7 +66,7 @@ Figure 1: Illustration of the pathogenesis of TTP, typical HUS and atypical HUS
 
 FLAER 是什麼？
 
-FLAER（fluorescent aerolysin）利用細菌毒素 aerolysin 的無毒變體，其特性是直接、高親和力地結合 GPI anchor 本身，而非偵測任何一個特定的 GPI-anchored protein。因此：FLAER 陰性 = 細胞表面沒有 GPI anchor，這比偵測個別蛋白（如 CD55、CD59）更直接、更不受抗原表現量變異的干擾。特別重要的是：FLAER 可同時偵測「完全缺失」與「部分缺失」的 GPI-deficient 細胞
+FLAER（fluorescent aerolysin）利用細菌毒素 aerolysin 的無毒變體，其特性是直接、高親和力地結合 GPI anchor 本身，而非偵測任何一個特定的 GPI-anchored protein。因此：FLAER 陰性 = 細胞表面沒有 GPI anchor，這比偵測個別蛋白（如 CD55、CD59）更直接、更不受抗原表現量變異的干擾。特別重要的是：FLAER 可同時偵測「完全缺失」與「部分缺失」的 GPI-deficient 細胞。
 
 ICCS / ESCCA 2018 共識的核心要求：
 
@@ -78,12 +78,12 @@ RBC：CD59（FLAER 不適用於紅血球，因紅血球上 GPI-anchored protein 
 
 以下是 flow cytometry 在紅血球與白血球上偵測 PNH clone 的代表性圖像，可見 Type I（正常）、Type II（部分缺失）、Type III（完全缺失）三群的清楚分離：
 
-![](/img/img/df865f19-353b-4c6b-ae9b-88dcf0eea57d.jpg)
-Figure 2: Flow cytometric analysis of normal and PNH erythrocyte and leukocyte samples. A, Erythrocytes. Normal sample (top left), patient sample with very small PNH erythrocyte clones (top right), patient sample with large PNH erythrocyte clones (bottom left), and patient sample with large PNH erythrocyte clones after 1 y of treatment with eculizumab (bottom right), stained with CD235a‐FITC (glycophorin‐a) and CD59‐PE. Samples processed/acquired and analyzed as detailed in the references. B, Leukocytes. Normal sample (top row) stained with 5‐color leukocyte assay comprising FLAER, CD157‐PE, CD15PerCPCy5.5, CD64‐APC, and CD45 eFluor450. Normal CD15‐gated neutrophils (top left) stain with CD157 and FLAER. Normal CD64‐gated monocytes (top right) stain with CD157 and FLAER. PNH patient sample (bottom row) stained with same 5‐color reagent set. CD15‐gated neutrophils (bottom left) show almost 100% PNH neutrophils comprising both Type III and Type II phenotypes. CD64‐gated monocytes (bottom right) also show almost 100% PNH monocytes comprising both Type III and Type II phenotypes. NB: These figures are intended to illustrate the different presentations one may see; ordering physicians do not themselves have to analyze these plots, nor will they usually be included in a final report
+（此處原文有一張圖）
+Figure 2: Flow cytometric analysis of normal and PNH erythrocyte and leukocyte samples. A, Erythrocytes. Normal sample (top left), patient sample with very small PNH erythrocyte clones (top right), patient sample with large PNH erythrocyte clones (bottom left), and patient sample with large PNH erythrocyte clones after 1 y of treatment with eculizumab (bottom right), stained with CD235a‐FITC (glycophorin‐a) and CD59‐PE. Samples processed/acquired and analyzed as detailed in the references. B, Leukocytes. Normal sample (top row) stained with 5‐color leukocyte assay comprising FLAER, CD157‐PE, CD15PerCPCy5.5, CD64‐APC, and CD45 eFluor450. Normal CD15‐gated neutrophils (top left) stain with CD157 and FLAER. Normal CD64‐gated monocytes (top right) stain with CD157 and FLAER. PNH patient sample (bottom row) stained with same 5‐color reagent set. CD15‐gated neutrophils (bottom left) show almost 100% PNH neutrophils comprising both Type III and Type II phenotypes. CD64‐gated monocytes (bottom right) also show almost 100% PNH monocytes comprising both Type III and Type II phenotypes. NB: These figures are intended to illustrate the different presentations one may see; ordering physicians do not themselves have to analyze these plots, nor will they usually be included in a final report。
 
 為什麼白血球優於紅血球？（這是理解 (B)(C) 各有其角色的關鍵）
 
-PNH 紅血球的 clone size 容易被系統性低估，原因有二： 1. PNH 紅血球壽命縮短：它們本來就在被補體持續溶解，在循環中的比例因此偏低 2. 輸血稀釋：輸入的正常紅血球會稀釋 PNH 紅血球的比例
+PNH 紅血球的 clone size 容易被系統性低估，原因有二： 1. PNH 紅血球壽命縮短：它們本來就在被補體持續溶解，在循環中的比例因此偏低 2. 輸血稀釋：輸入的正常紅血球會稀釋 PNH 紅血球的比例。
 
 顆粒球（granulocyte）的 clone size 才真正反映造血幹細胞層面的 PNH clone 大小，因為顆粒球壽命短（數小時至數天）、周轉快，較能即時代表骨髓的 clone 狀況，不受輸血影響（輸的是紅血球，不是顆粒球）——這是治療決策（如是否啟動補體抑制劑）的關鍵依據。
 
@@ -101,7 +101,7 @@ Type III 的比例與溶血嚴重度高度相關，是評估疾病活躍程度�
 
 Classic PNH：溶血明顯、GPI-deficient PMN 通常 > 50%、骨髓形態呈現紅血球系增生（erythroid hyperplasia）、無其他骨髓疾病
 PNH in the setting of another bone marrow failure syndrome：合併 AA 或 MDS；溶血症狀相對不明顯；GPI-deficient PMN 通常 < 50%；骨髓呈現低細胞性或 dysplasia
-Subclinical PNH：有小的 clone（通常 < 1%）但無溶血的臨床或實驗室證據
+Subclinical PNH：有小的 clone（通常 < 1%）但無溶血的臨床或實驗室證據。
 
 這個分類，「無法只靠 flow cytometry 決定」——Classic 與 PNH in setting of BMF 的區分，依賴骨髓的細胞豐富程度（cellularity）與是否存在 dysplasia。本病例的 reticulocyte 代償不足，高度提示骨髓造血儲備異常，必須透過骨髓切片確認。
 
@@ -114,7 +114,7 @@ AA 與 PNH 在「骨髓衰竭疾病譜（bone marrow failure spectrum）」上�
 (A) Bone marrow biopsy：必要——確認 PNH 的 International 分類（classic vs. in setting of BMF），以及排除合併的 AA / MDS，不可省略
 (B) FLAER + CD59 on RBC：必要——偵測 Type I II III 紅血球分布，評估溶血嚴重度，亦為診斷 PNH 的一部分；但需承認 clone size 可能被低估
 (C) FLAER + CD14 CD24 on granulocyte & monocyte：必要且最核心——反映真實的幹細胞 clone 大小，是治療決策的基準；符合 ICCS ESCCA 2018 高敏感度診斷共識
-(D) NGS for CFH and CFI：不必要（此刻）——屬於 aHUS 的診斷路徑；作為 PNH 的確診工具既無機轉依據，亦非任何指引推薦；雖然罕見的 germline CFH 變異在 PNH 中可能影響 eculizumab 療效，但這屬於治療反應的研究工具，不是診斷所需
+(D) NGS for CFH and CFI：不必要（此刻）——屬於 aHUS 的診斷路徑；作為 PNH 的確診工具既無機轉依據，亦非任何指引推薦；雖然罕見的 germline CFH 變異在 PNH 中可能影響 eculizumab 療效，但這屬於治療反應的研究工具，不是診斷所需。
 
 臨床 Take-Home：當你要驗一個基因時，先問「它是這個疾病的原因，還是另一個疾病的原因」——PNH 的問題不在補體基因，而在細胞表面少了兩把傘（CD55 與 CD59）；補體調節基因的突變，解釋的是另一個疾病（aHUS）的失控。
 

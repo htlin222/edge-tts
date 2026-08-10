@@ -2,13 +2,13 @@
 
 當一個突變幾乎定義了整個疾病:BRAF V600E 如何把黑色素瘤…。
 
-有脈絡的綜論：當一個突變幾乎定義了整個疾病:BRAF V600E 如何把黑色素瘤的藥搬進血液科
+有脈絡的綜論：當一個突變幾乎定義了整個疾病:BRAF V600E 如何把黑色素瘤的藥搬進血液科。
 
 一個突變幾乎定義了整個疾病——BRAF V600E 如何把黑色素瘤的藥搬進血液科。
 
 2011 年，Tiacci 等人以全外顯子定序分析 classic hairy cell leukemia（HCL），發現幾乎所有病例都帶有 BRAF V600E 突變。在腫瘤學中，極少有一個單一點突變能夠「幾乎定義整個疾病實體」——多數惡性腫瘤是多基因、多路徑異質性的產物，但 HCL 是少數的例外：BRAF V600E 在整個病程與復發後仍持續存在，是一個單基因驅動（monogenic）的疾病。更戲劇性的是，BRAF V600E 原本是黑色素瘤的招牌突變，vemurafenib 也是為黑色素瘤而開發的標靶藥——HCL 因此直接繼承了一個現成的、已核准的藥物，成為「同一個突變跨越器官」最成功的案例之一。
 
-HCL 的診斷三件事
+HCL 的診斷三件事。
 
 第一，臨床三聯：脾腫大（常為巨脾）、全血球低下，以及單核球缺乏（monocytopenia）——這是極具特徵性卻常被忽略的發現。與大多數淋巴增生性疾病相反，淋巴結腫大並不明顯。
 
@@ -18,83 +18,83 @@ HCL 的診斷三件事
 
 關於 (C)，annexin A1 與 BRAF V600E 蛋白（VE1 clone）的確是骨髓切片免疫組織化學染色中最敏感且最特異的 HCL 標記，但有兩個重要但書須誠實補充：annexin A1 雖對 B 細胞腫瘤中的 HCL 高度特異，也會在髓系細胞與 T 細胞中表現，判讀時需確認訊號確實位於 B 細胞群（需搭配形態學或雙重染色）；而 BRAF V600E 的 IHC 特異性雖高，敏感度仍受組織處理影響，陰性結果仍應以分子檢測（如 allele-specific PCR 或深度定序）確認。
 
-那個「不是 HCL 的 HCL」——HCL variant
+那個「不是 HCL 的 HCL」——HCL variant。
 
 WHO 第 5 版已將 HCL variant 更名為 splenic B-cell lymphoma/leukemia with prominent nucleoli（SBLPN），強調這不是 HCL 的一個變異型，而是完全不同的疾病。兩者的對照如下：
 
-特徵
+特徵。
 
-Classic HCL
+Classic HCL。
 
-HCL-variant / SBLPN
+HCL-variant / SBLPN。
 
-BRAF V600E
+BRAF V600E。
 
 陽性（大於等於 95%）
 
-野生型
+野生型。
 
-CD25
+CD25。
 
-陽性
+陽性。
 
-陰性
+陰性。
 
-Annexin A1
+Annexin A1。
 
-陽性
+陽性。
 
-陰性
+陰性。
 
-CD123
+CD123。
 
-陽性
+陽性。
 
-陰性
+陰性。
 
-MAP2K1 突變
+MAP2K1 突變。
 
-罕見
+罕見。
 
 常見（約50%）
 
-白血球計數
+白血球計數。
 
-偏低
+偏低。
 
-常偏高
+常偏高。
 
-Purine analogue 單用反應
+Purine analogue 單用反應。
 
-佳
+佳。
 
-差
+差。
 
-預後
+預後。
 
-佳
+佳。
 
-較差
+較差。
 
-References
+References。
 
 此外還有另一個使用 IGHV4-34 的 HCL 族群，同樣為 BRAF 野生型、預後不良。臨床意涵：「毛狀細胞」這個形態學印象不足以下診斷，必須靠免疫表型（CD25、annexin A1、CD123）與 BRAF 狀態來分流，因為兩者治療策略完全不同。
 
-(D) 為什麼錯——HCL 的第一線治療
+(D) 為什麼錯——HCL 的第一線治療。
 
 與 purine analogue 併用的是 anti-CD20 的 rituximab，而非 anti-CD19 抗體。實際做法上，cladribine 或 pentostatin 單用即可達到約 80 到 90% 的完全緩解率，中位無復發存活可超過 10 年。但一項隨機第二期試驗顯示，cladribine 併用同步（concurrent）rituximab（CDAR）相較單用 cladribine，6 個月時 MRD 陰性完全緩解率為 97% 對 24%（P<0.0001），96 個月時仍維持 MRD 陰性者為 94% 對 12%。無症狀且無明顯血球低下或器官腫大症狀者（約 10 到 20%）不需立即治療，採 watch and wait；治療指徵包括顯著血球低下、有症狀的脾腫大、反覆感染或體質性症狀。
 
 另需澄清一個容易混淆的抗體：moxetumomab pasudotox 是 anti-CD22 免疫毒素（結合 Pseudomonas 外毒素），2018 年核准用於多線治療後的復發/難治 HCL，但已於後續因商業因素撤出市場。其特殊毒性為 capillary leak syndrome 與 hemolytic uremic syndrome（HUS）。支持性照護方面，purine analogue 造成長期 CD4+ T 細胞低下，需注意 PJP 與 HSV VZV 預防，並使用照射血品以防輸血相關 GVHD。
 
-(E) 的確認：BRAF 抑制劑作為救援治療
+(E) 的確認：BRAF 抑制劑作為救援治療。
 
 多項第二期試驗顯示，vemurafenib 或 dabrafenib 單用於難治/復發 HCL，短程（3 到 5 個月）治療即達 90% 以上的整體反應率，完全反應率約 30 到 35%，但這些完全反應者均仍為 MRD 陽性，中位反應持續時間約 1.5 年。vemurafenib 併用 rituximab 顯著提升療效：完全反應率提高至近 90%（相較單用歷史對照 35%），MRD 陰性比例達 60 到 65%，34 個月中位追蹤時無復發存活率達 85%（相較單用 vemurafenib 僅 9 個月中位無復發存活）。其他選項包括 dabrafenib 併用 trametinib（MEK 抑制劑）、ibrutinib（對 HCL 與 HCL-v 皆有活性），以及MEK 抑制劑用於 MAP2K1 突變的 HCL-variant。BRAF 抑制劑單用的機轉性限制在於 MAPK 路徑的回饋性再活化，這也是為何併用 MEK 抑制劑或 rituximab 能顯著提升效果。
 
-一個誠實且重要的對照：同一個突變，不是在每個器官都能用同一把鑰匙
+一個誠實且重要的對照：同一個突變，不是在每個器官都能用同一把鑰匙。
 
 以大腸直腸癌為對照，BRAF V600E 的大腸癌對 BRAF 抑制劑單用幾乎無效——這與 HCL 及黑色素瘤形成鮮明反差。機轉在於：大腸癌細胞經由 EGFR 的回饋活化（rapid pathway feedback reactivation）繞過 BRAF 阻斷，重新啟動 MAPK 路徑，因此必須併用 anti-EGFR 單株抗體（如 cetuximab、encorafenib+cetuximab±binimetinib 的 BEACON CRC 方案）才有臨床效益。核心洞見是：「有這個突變」不等於「這個藥會有效」——藥物反應取決於腫瘤細胞是否還有其他可繞道的備援訊號路徑。
 
-選項逐項評析
+選項逐項評析。
 
 正確：HCL 是罕見、惰性的成熟 B 細胞腫瘤，細胞表面具毛狀突起。
 正確：CD19、CD20、CD22、PAX5、CD79a 均為 HCL 表現的 B 細胞標記。

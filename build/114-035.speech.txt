@@ -17,7 +17,7 @@
 
 二、三種補體抑制劑在 CAD 的適用性。
 
-Sutimlimab（抗 C1s）——攔在最上游
+Sutimlimab（抗 C1s）——攔在最上游。
 
 Sutimlimab 是一個人源化 IgG4 單株抗體，直接抑制古典途徑的啟動蛋白 C1s。結果就是 C4b2a（古典途徑的 C3 convertase）根本無法形成、C3b 也就無法沉積——同時擋住了血管外與血管內兩種溶血。
 
@@ -25,7 +25,7 @@ CARDINAL 試驗（單臂、近期有輸血史的 CAD 患者）與 CADENZA 試驗
 
 以下圖示呈現了 sutimlimab 長期治療中，古典補體途徑活性、Hgb、bilirubin 與 FACIT-Fatigue 分數的同步改善軌跡：
 
-![](/img/img/8c1404d8-ae91-4866-8c17-182cc1286f36.jpg)
+（此處原文有一張圖）
 Figure 1: Effect of sutimlimab on hemoglobin, bilirubin, and FACIT‐Fatigue scores in relation to the CP activity in patients with CAD—Full Analysis Set. CAD, cold agglutinin disease; CP, classical complement pathway; FACIT‐Fatigue, Functional Assessment of Chronic Illness Therapy‐Fatigue; SE, standard error. Central laboratory normal ranges were site specific for hemoglobin and 5.1 到 20.5 μmol/L for bilirubin. FACIT‐Fatigue score ranges from 0 (worst fatigue) to 52 (no fatigue), and a change of 大於等於 5 points is considered a clinically important change in CAD. 21,26 Pharmacodynamic samples were performed at 3‐month intervals during the first year of treatment in Part B, and then at 6‐month intervals. [Color figure can be viewed at wileyonlinelibrary.com ]
 
 ⚠️ 但 sutimlimab 有兩個必須誠實說明的限制：
@@ -33,13 +33,13 @@ Figure 1: Effect of sutimlimab on hemoglobin, bilirubin, and FACIT‐Fatigue sco
 ① 肢端發紺與循環症狀「不改善」：sutimlimab 只阻止補體活化，但 IgM 在低溫下凝集紅血球的行為本身仍在進行——患者的手指仍會在寒冷時變紫。CADENZA 試驗也觀察到，acrocyanosis 與 Raynaud phenomenon 在 sutimlimab 組的發生率甚至因病人存活更久、暴露更多而與安慰劑組相仿或更高 。
 ② 停藥後溶血必然復發：sutimlimab 不改變 B 細胞克隆、不減少 IgM 的生成。大多數患者在停藥後 8 週內溶血重新出現，意味著需要無限期使用 。
 
-Pegcetacoplan（抗 C3）——攔在分水嶺上
+Pegcetacoplan（抗 C3）——攔在分水嶺上。
 
 Pegcetacoplan 是一個結合 C3 的 cyclic peptide，直接阻止 C3 被裂解，理論上同樣能同時阻斷血管外與血管內溶血——且因為它同時抑制古典途徑、替代途徑的 C3 放大迴路，覆蓋面比 sutimlimab 更廣。
 
 一項開放標籤 Phase 2 試驗（Roman 等人 2025）在 CAD 與 wAIHA 患者中測試 pegcetacoplan。CAD 組在第 48 週時，Hgb 從基線的中位值上升約 2.4 g/dL，溶血指標與 FACIT-Fatigue 分數均顯著改善，且耐受性良好，只有注射部位反應為與藥物相關的不良事件 。但這是 Phase 2 的探索性數據，樣本數小，Phase 3 試驗仍在進行中 ；目前 pegcetacoplan 在 CAD 的使用屬於合理但仍在發展中的選項，證據等級確實不如 sutimlimab 成熟。值得注意的是，pegcetacoplan 目前的 FDA 核准適應症為 PNH 與 C3 glomerulopathy/IC-MPGN，在 CAD 屬於 off-label 使用 。
 
-⚠️ Eculizumab（抗 C5）——攔在分水嶺下方，這是本題的核心
+⚠️ Eculizumab（抗 C5）——攔在分水嶺下方，這是本題的核心。
 
 Eculizumab 在補體級聯中攔截在 C5，其作用時，C3b 早已沉積在紅血球表面。它能阻止 C5b-9（MAC）的組裝，因此能控制血管內溶血（溶血釋出游離血紅素、LDH 急遽上升的那一類）。然而，CAD 的主要慢性溶血機制是 C3b/iC3b 介導的血管外溶血，由肝臟 Kupffer cells 的 CR1 CR3 辨識執行——這一段完全在 eculizumab 的攔截點上游，不受影響。
 
@@ -59,7 +59,7 @@ Rituximab 單用：反應率約 45 到 60%，但緩解持續時間中位數約 1
 Rituximab ＋ bendamustine（BR，4 cycle）：反應率約 70 到 80%，完全緩解率約 40%，中位緩解時間顯著較長（>66 個月），目前被視為首選的 B 細胞導向方案
 Rituximab ＋ fludarabine：有效但毒性（骨髓抑制、感染）較 BR 更高，現已較少使用
 R-CVP / R-CHOP：保留給合併有「需要治療的明顯淋巴瘤」（如 DLBCL 轉化）的情境
-Obinutuzumab 等其他 anti-CD20：個案報告顯示活性，尤其在 rituximab 難治的情境，但系統性證據尚少
+Obinutuzumab 等其他 anti-CD20：個案報告顯示活性，尤其在 rituximab 難治的情境，但系統性證據尚少。
 
 ⚠️ B 細胞導向 vs 補體導向的選擇邏輯，是本章最實用的臨床產出 ：
 
@@ -68,7 +68,7 @@ Obinutuzumab 等其他 anti-CD20：個案報告顯示活性，尤其在 rituxima
 主訴是「肢端發紺/循環症狀」，接著優先 B 細胞導向：只有減少 IgM 的產生，才能根本減少在低溫下的紅血球凝集——補體導向不能改善這一塊
 急性重症、需即刻控制溶血，接著補體導向（sutimlimab 為首選）
 合併明顯淋巴瘤，接著化學免疫治療（如 R-CHOP）
-成本與可近性：sutimlimab 費用極高（每年美金數十萬元），在資源有限的環境中，B 細胞導向往往是唯一可行的選項
+成本與可近性：sutimlimab 費用極高（每年美金數十萬元），在資源有限的環境中，B 細胞導向往往是唯一可行的選項。
 
 四、(B) 的誠實評析。
 

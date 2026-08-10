@@ -43,7 +43,7 @@ As a result, with C5 inhibition, if the inhibition is incomplete, only one MAC w
 
 這是酶促放大效應的直接後果：C3 convertase 是酵素，一分子可催化多次 C5 裂解；而 MAC 組裝本身是非酶促、一對一的過程。因此近端阻斷下的 breakthrough，其嚴重度可能遠超 C5 阻斷下的 breakthrough。真實世界的多中心資料也顯示，不同複合體抑制劑之間 breakthrough hemolysis 的發生率與嚴重度確有差異——下圖呈現各類補體抑制劑（eculizumab、ravulizumab/其他 C5 抑制劑、pegcetacoplan、alternative pathway 抑制劑）在治療期間累積 breakthrough hemolysis 事件發生率的 Kaplan-Meier 曲線：
 
-![](/img/img/9340138c-20ea-47ac-bad5-85681b93b3ec.jpg)
+（此處原文有一張圖）
 Figure 1: Incidence of breakthrough hemolysis (BTH) according to the complement inhibitor utilized, by Kaplan –Meier method. [Color figure can be viewed at wileyonlinelibrary.com ]
 
 正因如此，近端抑制劑的依從性要求比 C5 抑制劑更嚴格，且若需停藥（如轉換治療策略），通常建議有計畫地重疊 C5 抑制劑一段時間，避免大量無保護紅血球突然暴露於補體活化狀態。此外，即使在近端抑制下，感染等強烈補體活化事件仍可能誘發 breakthrough——監測與衛教同樣不可省略。
@@ -54,7 +54,7 @@ Figure 1: Incidence of breakthrough hemolysis (BTH) according to the complement 
 (B) Pegcetacoplan 皮下每週兩次併用 ravulizumab 靜脈每 8 週：給藥途徑描述本身正確，但pegcetacoplan 是「能單獨阻斷 IVH 與 EVH」的分子，設計上以單藥取代 C5 抑制劑為主要定位，而非常規與 C5 抑制劑併用（雖然歷史早期 PHAROAH 試驗曾作為 add-on 探索）；此組合非目前的標準用法
 (C) Iptacopan 單藥、皮下、每週一次：錯誤。Iptacopan 是口服小分子，每日兩次，給藥途徑與頻率皆錯
 (D) Iptacopan 口服每日兩次併用 ravulizumab 皮下每 8 週：錯誤。Iptacopan 途徑與頻率正確，但ravulizumab 沒有「每 8 週皮下」這個劑型（標準是靜脈每 8 週）；此外 iptacopan 本身可單藥，此處併用 C5 抑制劑並非必要組合
-(E) Danicopan 每日三次併用 ravulizumab 靜脈每 8 週：正確。Danicopan 口服每日三次的給藥頻率符合其短半衰期；作為 add-on 加在標準劑型的 ravulizumab（靜脈每 8 週）之上，完全符合 ALPHA 試驗的設計與 FDA 核准適應症
+(E) Danicopan 每日三次併用 ravulizumab 靜脈每 8 週：正確。Danicopan 口服每日三次的給藥頻率符合其短半衰期；作為 add-on 加在標準劑型的 ravulizumab（靜脈每 8 週）之上，完全符合 ALPHA 試驗的設計與 FDA 核准適應症。
 
 臨床 take-home：在補體抑制的世界裡，「打在哪一層」決定了療效的廣度，而「分子是什麼」決定了病人每天的生活形態。
 

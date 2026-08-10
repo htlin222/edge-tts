@@ -6,12 +6,12 @@ t-AML的兩張時間表：機轉的指紋。
 
 正確答案是(B)——這個選項把兩種機轉的潛伏期完全對調了。文獻一致顯示：alkylating agent型的潛伏期較長（約5 到 7年，部分報告至5 到 10年），常先經過MDS階段；topoisomerase II inhibitor型的潛伏期較短（約1 到 3年），不經過MDS、直接以overt AML表現。(B)敘述方向恰好相反，故為錯誤選項。
 
-一、兩條路徑的時間表對照
+一、兩條路徑的時間表對照。
 
 Alkylating agent型：潛伏期長（5 到 7年，文獻範圍可達5 到 10年）；常先出現MDS再轉為AML；細胞遺傳學為不平衡改變——5q 缺失/-5、7q 缺失/-7、複雜核型；常見TP53突變（約25%）。
 Topoisomerase II inhibitor型：潛伏期短（1 到 3年）；不經過MDS，直接以AML表現；細胞遺傳學為平衡易位——KMT2A(11q23)、RUNX1(21q22)，少數為PML RARA(t 15 17 易位)。
 
-二、為什麼時間表不同——機轉的根本差異
+二、為什麼時間表不同——機轉的根本差異。
 
 Topoisomerase II inhibitor：一次「創造性的意外」。Etoposide、doxorubicin、mitoxantrone等會凍結topoisomerase II與DNA形成的cleavage complex，造成DNA雙股斷裂，這些斷裂好發在特定脆弱區（如KMT2A的breakpoint cluster region）。細胞以non-homologous end joining（NHEJ）修復時發生錯接，一步形成融合基因；而這個融合基因本身就具有致白血病能力，不需要漫長的額外突變累積。它不是慢慢壞掉的，而是一次接錯線就成型了。
 
@@ -28,13 +28,13 @@ Antitubulins：taxane（paclitaxel、docetaxel）、vinca alkaloids——證據�
 
 風險最高的組合是「alkylator＋放射線」與「alkylator＋topoisomerase II inhibitor」，兩者具協同致白血病效應。
 
-四、當代觀念更新
+四、當代觀念更新。
 
 WHO第5版與ICC已將此類疾病改稱為「myeloid neoplasm post cytotoxic therapy（MN-pCT）」或「therapy-related myeloid neoplasm」，其分類架構將此列為優先於其他基因定義類別的診斷修飾語（qualifier），而非獨立實體，用意在於把「與治療的因果關係」從絕對變成相關性——因為現在已知clonal hematopoiesis才是真正的土壤。
 
 CHIP（clonal hematopoiesis of indeterminate potential）與t-MN的關係日益受重視：化療前若已存在DNA damage response相關的CHIP（尤其TP53、PPM1D、CHEK2），日後發生t-MN的風險顯著上升。PPM1D特別值得一提——它是TP53的負調控因子，其突變clone在化療壓力下（尤其alkylating agent）同樣被強力選擇擴張。這開啟了「治療前要不要先篩檢CHIP」的臨床問題，但目前尚無共識、也無實證支持常規篩檢，尤其治療與de novo CH的進展風險基因譜並不相同。這對可治癒性癌症的長期存活者（如年輕乳癌與生殖細胞瘤患者）選擇輔助治療時，t-MN風險應納入考量。
 
-五、(C)(D)(E)簡評與實務要點
+五、(C)(D)(E)簡評與實務要點。
 
 (C)(D)的細胞遺傳學特徵已如上述確認，符合alkylating agent型不平衡改變、topoisomerase II inhibitor型平衡易位的模式，詳細遺傳學圖譜見另篇。
 

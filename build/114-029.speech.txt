@@ -6,78 +6,78 @@
 
 在一份 NGS 報告上列出的十幾個突變中，只有極少數真正改變預後判讀——「有這個突變」與「這個突變會改變存活」是兩件不同的事。一個體細胞突變要晉升為正式的「預後因子」，必須通過三重檢驗：① 在該疾病族群中有足夠盛行率以供統計驗證；② 在校正年齡、血球數、核型等變項的多變量分析中仍獨立顯著；③ 能在獨立世代中被重複驗證。MIPSS70 系統中的 high molecular risk（HMR）名單，正是這套篩選流程下的產物——它不是「基因體學上重要的基因清單」，而是「通過了上述統計檢驗的清單」。關於 MPN 診斷準則、ET 與 prePMF 的形態學鑑別、以及 JAK2 CALR MPL 驅動突變的分子細節，已於其他筆記詳述，此處不再重複。
 
-HMR 的由來與正確名單
+HMR 的由來與正確名單。
 
 Vannucchi 等人於原發性骨髓纖維化（PMF）世代中系統性篩選候選基因，最終確立四個在多變量分析中獨立預測較差存活與白血病轉化的突變：ASXL1（盛行率最高，約 20 到 35%）、EZH2、SRSF2、IDH1 IDH2，合稱 high molecular risk（HMR）。需要特別澄清：EZH2 確實是最初定義的 HMR 四基因之一——任何主張「EZH2 未被列入」的說法都是錯誤的。
 
 MIPSS70+ version 2.0 另外納入U2AF1 的特定熱點突變 Q157（而非所有 U2AF1 突變）作為第五個 HMR 基因。值得一提的計分細節：HMR 的「數目」本身就是獨立的預後階梯——0 個 < 1 個 < 大於等於 2 個，帶有大於等於 2 個 HMR 者中位存活僅 2.6 年，明顯劣於 1 個（7.0 年）與 0 個（12.3 年），此效應在歐洲與 Mayo 兩個世代皆獨立於 IPSS DIPSS-plus 成立，因此 MIPSS70 對「大於等於 2 個 HMR」給予高於「1 個」的分數。
 
-(A) DNMT3A 為何不屬於 HMR——疾病專屬性的核心觀念
+(A) DNMT3A 為何不屬於 HMR——疾病專屬性的核心觀念。
 
 DNMT3A 是 clonal hematopoiesis 與 AML 中最常見的突變之一，在 AML（尤其 R882 熱點）具有明確預後意義；但在 PMF 中盛行率僅約 5 到 10%，且在多變量分析中未能通過「獨立顯著」這道檢驗，因此未被納入 HMR 名單。這正是本題最重要的觀念：一個突變的預後份量是疾病專屬的（disease-specific）——同一基因在不同疾病脈絡中，可以是關鍵驅動因子，也可以只是背景雜訊，此點在其他筆記已有討論，不再展開。同樣「常見但非 HMR」的例子還包括 TET2、CBL、KRAS NRAS、SF3B1；近期研究嘗試將 CBL、NRAS、KRAS、TP53 納入「HMR+」擴充版本，但驗證顯示 C-index 並無統計上顯著提升，其結果可見下圖。
 
-![](/img/img/eb2183c4-5e7c-4ed3-b549-f1957ed72ed0.jpg)
+（此處原文有一張圖）
 Figure 1: Overall survival (OS) by the original and “HMR+” MIPSS70 (A, B), MIPSS70 plus (C, D) and MIPSS70 plus v2.0 (E, F). Concordance (C) index was reported for each model and the results from the comparison of standard versus “HMR+” stratification were expressed by Z ‐score and p values at the right top part of B, D and F panels. [Color figure can be viewed at wileyonlinelibrary.com ]
 
-MIPSS70 與 MIPSS70+ v2.0 的差異
+MIPSS70 與 MIPSS70+ v2.0 的差異。
 
-項目
+項目。
 
 MIPSS70（2018）
 
 MIPSS70+ v2.0（MIPSS v2, 2018）
 
-設計對象
+設計對象。
 
-移植適齡（小於等於 70 歲）PMF 患者
+移植適齡（小於等於 70 歲）PMF 患者。
 
-全年齡 PMF 患者
+全年齡 PMF 患者。
 
-核型
+核型。
 
-不含
+不含。
 
 納入，分 favorable / unfavorable / very high risk (VHR)
 
-VHR 核型
+VHR 核型。
 
-—
+—。
 
--7、i(17q)、inv(3)/3q21、12p−/12p11.2、11q−/11q23、+21、除 +8/+9 以外之其他體染色體三倍體
+-7、i(17q)、inv(3)/3q21、12p−/12p11.2、11q−/11q23、+21、除 +8/+9 以外之其他體染色體三倍體。
 
-貧血變項
+貧血變項。
 
 Hb < 10 g/dL（單一切點）
 
 性別與嚴重度校正 Hb（女性 <8/8 到 9.9 g/dL，男性 <9/9 到 10.9 g/dL）
 
-WBC、platelet
+WBC、platelet。
 
 納入（>25×10⁹/L、<100×10⁹/L）
 
-移除
+移除。
 
-HMR 基因
+HMR 基因。
 
 ASXL1、EZH2、SRSF2、IDH1/2（4 個）
 
 上述 4 個 + U2AF1 Q157（5 個）
 
-風險組
+風險組。
 
 low / intermediate / high（3 組）
 
 very low / low / intermediate / high / very high（5 組）
 
-主要文獻
+主要文獻。
 
-Guglielmelli 等，J Clin Oncol 2018
+Guglielmelli 等，J Clin Oncol 2018。
 
-Tefferi 系列 2021、2023 更新
+Tefferi 系列 2021、2023 更新。
 
 每一次改版的動機一致：用更少、更本質的變項去解釋更多的存活差異——移除 WBC/platelet、改用性別校正 Hb、並把先前被證實獨立且可重複的核型資訊納入，正是這個持續優化過程的體現。
 
-臨床上真正的用途：決定移植時機
+臨床上真正的用途：決定移植時機。
 
 這些評分系統存在的唯一臨床理由是決定何時該將病人轉介異體造血幹細胞移植（allo-HCT）。MIPSS70+ v2.0 的 high 與 very high risk 應積極評估移植；very low / low 者移植風險大於獲益，宜以 JAK inhibitor 等症狀導向治療為主；intermediate 則需個別化判斷，10 年存活率估計介於上述兩端之間。
 
@@ -85,12 +85,12 @@ Tefferi 系列 2021、2023 更新
 
 一個重要的實務陷阱：MIPSS70 系列是在原發性骨髓纖維化世代中建立、驗證，不可直接套用於 post-PV MF 或 post-ET MF（次發性骨髓纖維化）；後者應改用專屬建立的 MYSEC-PM，儘管近期比較研究顯示 MIPSS70+ v2.0 在次發性 MF 族群中的區辨力（C-index）甚至優於 MYSEC-PM，此仍為新興、尚待更多驗證的觀察。
 
-![](/img/img/a35f927a-5809-40af-8079-7bb615736db5.jpg)
+（此處原文有一張圖）
 Figure 1: Overall survival (OS) by the original and “HMR+” MIPSS70 (A, B), MIPSS70 plus (C, D) and MIPSS70 plus v2.0 (E, F). Concordance (C) index was reported for each model and the results from the comparison of standard versus “HMR+” stratification were expressed by Z ‐score and p values at the right top part of B, D and F panels. [Color figure can be viewed at wileyonlinelibrary.com ]
 
 另需知悉 GIPSS（genetically inspired prognostic scoring system）：完全只用核型與突變（不含任何臨床變項），優點是客觀、不受治療介入干擾，可作為 MIPSS70+ v2.0 之外的補充工具。
 
-逐項評析
+逐項評析。
 
 (A) DNMT3A——正確答案：在 PMF 盛行率偏低且未通過獨立多變量驗證，非 HMR 成員。
 (B) ASXL1：原始四個 HMR 之一，盛行率最高。
