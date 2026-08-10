@@ -63,6 +63,7 @@ def main() -> None:
 
     args.dest.mkdir(parents=True, exist_ok=True)
     fresh = stale = new = 0
+    failed: list[str] = []
     for a in assets:
         local = args.dest / a["name"]
         if local.exists() and local.stat().st_size == a["size"]:
@@ -73,16 +74,20 @@ def main() -> None:
             stale += 1
         else:
             new += 1
-        print(f"  ↓ {a['name']}  ({why})")
+        print(f"  ↓ {a['name']}  ({why})", flush=True)
         if args.dry_run:
             continue
+        # gh release download 沒有 --clobber（那是 upload 才有的），
+        # 而且目標檔案已存在時它會直接失敗。所以要自己先移掉舊檔。
+        local.unlink(missing_ok=True)
         r = subprocess.run(
             ["gh", "release", "download", a["tag"], "-R", args.repo,
-             "-p", a["name"], "-D", str(args.dest), "--clobber"],
+             "-p", a["name"], "-D", str(args.dest)],
             capture_output=True, text=True,
         )
         if r.returncode != 0:
-            print(f"  ⚠️  {a['name']} 下載失敗: {r.stderr.strip()}", file=sys.stderr)
+            failed.append(a["name"])
+            print(f"  ⚠️  {a['name']} 下載失敗: {r.stderr.strip()}", file=sys.stderr, flush=True)
 
     total = len(list(args.dest.glob(f"*{args.ext}")))
     size_mb = sum(f.stat().st_size for f in args.dest.glob(f"*{args.ext}")) / 1e6
@@ -91,6 +96,12 @@ def main() -> None:
         f"　→ {args.dest} 共 {total} 檔 {size_mb:.0f} MB"
         + ("（dry-run）" if args.dry_run else "")
     )
+    # 下載失敗必須讓呼叫端知道。先前 gh 的錯誤被 tail 截掉沒被發現，
+    # 結果「看起來在下載」但本機其實一個檔案都沒多。
+    if failed:
+        print(f"❌ {len(failed)} 個下載失敗: {', '.join(failed[:8])}"
+              + ("…" if len(failed) > 8 else ""), file=sys.stderr)
+        sys.exit(1)
 
     if args.rsync and not args.dry_run:
         print(f"\n→ rsync 到 {args.rsync}")
